@@ -3,6 +3,6 @@
 
 ## [Publication](Publication.md)
 
-## [Project]
+## [Project](Project.md)
 
-## [Patent]
+## [Patent](Patent.md)
