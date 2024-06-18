@@ -1,8 +1,8 @@
 # Tae-Hyoung Choi
 ## Under Construction
 
-## [[Publication.md]]
+## [Publication](Publication.md)
 
-## [[Project]]
+## [Project]
 
-## [[Patent]]
+## [Patent]
