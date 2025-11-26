@@ -1,4 +1,4 @@
-[Home](index.md) | [Publication](Publication.md) | [Project](Project.md) | [Patent](Patent.md)
+[Home](../index.md) | [CS Home](index.md) | [Publication](Publication.md) | [Project](Project.md) | [Patent](Patent.md)
 
 ---
 
