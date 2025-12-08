@@ -1,10 +1,18 @@
-[Home](../index.md) | [CCM Home](index.md) | [Mass](Mass.md) | [Liturgical](Liturgical.md) | [Other Works](OtherWorks.md) | [Commentary](Commentary.md)
+[Home](../index.md) | [Catholic Music](index.md) | [Mass](Mass.md) | [Liturgical](Liturgical.md) | [Other Works](OtherWorks.md) | [Commentary](Commentary.md)
 
 ---
 
 # 평론 및 정보 (Commentary)
 
 가톨릭 전례 음악에 대한 평론, 분석, 역사적 정보를 담은 위키 스타일 페이지입니다.
+
+## 규정 및 지침 (Regulations & Guidelines)
+가톨릭 전례 음악의 기준이 되는 주요 문헌들입니다. [전체 목록 보기](regulations/index.md)
+
+- **[사목적 관심 (Tra le Sollecitudini, 1903)](regulations/TraLeSollecitudini.md)**: 성음악의 3대 원칙(거룩함, 예술성, 보편성) 정립.
+- **[거룩한 전례에 관한 헌장 (Sacrosanctum Concilium, 1963)](regulations/SacrosanctumConcilium.md)**: 제2차 바티칸 공의회의 전례 개혁과 성음악.
+- **[성음악 훈령 (Musicam Sacram, 1967)](regulations/MusicamSacram.md)**: 전례 헌장의 구체적 실행 지침.
+- **[한국 천주교 성음악 지침 (2018)](regulations/CBCK_Guidelines.md)**: 한국 교회의 성음악 규범.
 
 ## 전례 음악의 이해
 

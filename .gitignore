@@ -1,3 +1,6 @@
 # Obsidian
 .obsidian/
 cards/
+refs/
+.DS_Store
+GEMINI.md

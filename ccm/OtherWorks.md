@@ -1,10 +1,12 @@
-[Home](../index.md) | [CCM Home](index.md) | [Mass](Mass.md) | [Liturgical](Liturgical.md) | [Other Works](OtherWorks.md) | [Commentary](Commentary.md)
+[Home](../index.md) | [Catholic Music](index.md) | [Mass](Mass.md) | [Liturgical](Liturgical.md) | [Other Works](OtherWorks.md) | [Commentary](Commentary.md)
 
 ---
 
 # 그외 작품들 (Other Works)
 
 CCM, 찬양곡 및 기타 음악 작품들을 정리한 페이지입니다.
+
+**[곡 정보 및 해설 (Songs Details)](songs/index.md)**: 주요 번역/번안곡 및 작품에 대한 상세 해설.
 
 ## CCM (Contemporary Christian Music)
 

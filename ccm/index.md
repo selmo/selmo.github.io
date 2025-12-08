@@ -1,10 +1,10 @@
-[Home](../index.md) | [CCM Home](index.md) | [Mass](Mass.md) | [Liturgical](Liturgical.md) | [Other Works](OtherWorks.md) | [Commentary](Commentary.md)
+[Home](../index.md) | [Catholic Music](index.md) | [Mass](Mass.md) | [Liturgical](Liturgical.md) | [Other Works](OtherWorks.md) | [Commentary](Commentary.md)
 
 ---
 
-# Catholic Liturgical CCM
+# Catholic Music
 
-가톨릭 전례 CCM 작품과 관련 자료를 모아둔 공간입니다.
+가톨릭 전례 음악과 생활성가(CCM), 그리고 관련 교회 문헌과 정보를 다루는 공간입니다.
 
 ## 프로필
 
@@ -18,7 +18,6 @@
 - 2000년 제 2회 CPBC 창작성가제
 	- 참가팀: OnE Voice
 	- 참가곡: [주님을 찬미해](https://www.youtube.com/watch?v=PlxfEuyTP3M)
-- 2006년 제 6회 
 - 1999년부터 밴드 OnE으로 활동
 - 2002년~ 수원교구 청년전례연구팀 CAPI 
 - 2003년~ 수원교구 청년도보성지순례 스텝
@@ -26,7 +25,8 @@
 - 수원교구 찬양사도협의회
 
 **음악적 지향**
-- CCM 전례 음악
+- 가톨릭 전례 음악 (Liturgical Music)
+- 현대 교회 음악 (Contemporary Church Music)
 
 **관련 링크**
 - [가톨릭신문 인터뷰: "잘해야 합니다"](http://www.catholicnews.co.kr/news/articleView.html?idxno=32745)
@@ -35,24 +35,31 @@
 
 ## 주요 카테고리
 
-### [미사곡 (Mass)](Mass.md)
-미사 전례를 위한 음악 작품들
+### 1. [미사곡 (Mass)](Mass.md)
+미사 통상문(Kyrie, Gloria, Credo, Sanctus, Agnus Dei) 및 고유문 작품.
+- 전례적 기능에 충실한 미사곡
+- 청년 및 본당 성가대를 위한 작품
 
-### [전례곡 (Liturgical)](Liturgical.md)
-다양한 전례 시기와 용도를 위한 음악
+### 2. [그외 전례곡 (Liturgical Music)](Liturgical.md)
+전례 시기(대림, 성탄, 사순, 부활 등)와 예식(성체조배, 장례 등)을 위한 음악.
 
-### [그외 작품들 (Other Works)](OtherWorks.md)
-CCM, 찬양곡 및 기타 작품들
+### 3. [그외 곡들 (Other Works)](OtherWorks.md)
+생활성가(CCM), 찬양곡, 기도 음악 및 일반 작품.
 
-### [유튜브 영상](Youtube.md)
-음반, 연주, 커버 영상 모음
-
-### [평론 및 정보 (Commentary)](Commentary.md)
-가톨릭 전례 음악에 대한 평론, 분석, 역사적 정보
+### 4. [평론 및 정보 (Commentary & Info)](Commentary.md)
+가톨릭 전례 음악에 대한 평론, 역사, 그리고 교회 문헌과 지침.
+- **[규정 및 지침](regulations/index.md)**: 교회 문헌(전례헌장, 뮤지캄 사크람 등) 및 한국 천주교 지침
+- **[관련 단체 (Organizations)](organizations/index.md)**: 가톨릭찬양사도협회(CMAK) 등
+- **[아티스트 (Artists)](artists/index.md)**: 자크 베르티에, 젠 로쏘, 시드니 카터 등
 
 ---
 
 ## 작품 영상 및 리소스 (YouTube & Resources)
+
+### [리소스 자료실 (Resources)](Resources.md)
+악보 자료(PDF) 및 유용한 웹사이트 링크 모음입니다.
+
+### 가톨릭 성가 유튜브 채널
 
 ### 가톨릭 성가 유튜브 채널
 
