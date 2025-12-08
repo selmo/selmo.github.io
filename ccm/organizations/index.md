@@ -85,7 +85,7 @@
 
 현대적인 찬양과 문화 사역을 통해 가톨릭 교회의 새로운 부흥 모델을 제시하는 본당들입니다.
 
-### [Eglise Lyon Centre (리옹 센터 성당)](https://lyoncentre.fr/)
+### [Eglise Lyon Centre](https://www.egliselyoncentre.fr/)
 프랑스 리옹에 위치한 **성 블라시오(Saint-Blandine) 성당**을 중심으로 하는 선교 공동체입니다.
 *   **특징**: 전통적인 가톨릭 전례와 현대적인 CCM(Pop/Rock 스타일)을 성공적으로 접목하여, 세속화된 프랑스 사회에서 수많은 청년을 교회로 다시 불러모은 사례로 꼽힙니다.
 *   **Glorious (글로리어스)**: 이 본당에서 활동을 시작한 프랑스의 대표적인 가톨릭 팝 밴드입니다. 토마(Thomas)와 뱅자맹(Benjamin) 형제가 이끄는 이 팀은 'Lyon Centre' 프로젝트를 통해 본당 사목의 새로운 활력을 불어넣었습니다.
