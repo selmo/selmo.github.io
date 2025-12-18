@@ -177,5 +177,86 @@ E espero a ressurreição dos mortos e a vida do mundo que há-de vir. Amén.
 *   **신앙의 장엄함**: 르네상스나 바로크 시대의 미사곡에서 Credo는 극적이고 장엄하게 작곡되어 신앙의 신비를 음악적으로 표현했습니다. (예: 'Et incarnatus est' 부분에서의 템포 변화나 단조 사용 등)
 
 ---
+
+## 5. 현대음악 풍 Credo 작품들
+
+전통적인 클래식 미사곡뿐만 아니라, 현대 워십, 팝, 록, 포크 등 다양한 스타일로 작곡된 Credo 곡들이 있습니다.
+
+### 라틴 아메리카 스타일
+
+#### 🎵 **Misa Criolla - Credo** (1963-1964)
+- **작곡가**: Ariel Ramírez (아르헨티나)
+- **스타일**: Andean Folk / Criollo (안데스 민속음악)
+- **특징**:
+  - 아르헨티나 전통 춤 리듬 **Chacarera Trunca** 사용
+  - 안데스 악기 사용: 차랑고(charango), 케나(quena), 봄보(bombo)
+  - 라틴 아메리카 합창 음악의 걸작으로 평가
+  - 교황 바오로 6세의 인정을 받은 역사적 작품
+- **유명 녹음**: José Carreras (1988, 오페라틱), Mercedes Sosa (1999, 포크)
+- **참고**: [Misa Criolla 상세 페이지](../masses/latin-america/misa-criolla.md)
+
+#### 🎵 **Misa Panamericana - Credo** (1966)
+- **작곡가**: Juan Marco Leclerc (캐나다 신부)
+- **스타일**: Mariachi (마리아치)
+- **특징**:
+  - 멕시코 전통 마리아치 악기 편성: 기타, 비우엘라, 기타론, 트럼펫, 바이올린
+  - 2성부 및 3성부 편곡 제공
+  - 멕시코와 미국 남서부 마리아치 미사의 표준
+  - 제2차 바티칸 공의회 이후 멕시코 민속음악과 가톨릭 전례의 역사적 융합
+- **원본 녹음**: Mariachi Hnos. Macías (1968)
+- **참고**: [Misa Panamericana 상세 페이지](../masses/latin-america/misa-panamericana.md)
+
+#### 🎵 **Misa de la Alegría - Yo sí creo en ti** (현대)
+- **그룹**: Siempre Así (세비야, 스페인)
+- **스타일**: Flamenco Pop / Rumba
+- **특징**:
+  - 플라멩코 기타, 손뼉(palmas), 룸바 리듬
+  - 세비야 합창단 룸바와 쿠바, 중앙아메리카, 아프리카 요소 융합
+  - 다국적 녹음 (세비야, 마드리드, 다카르, 마나과)
+  - Credo를 "Yo sí creo en ti" (나는 당신을 믿습니다)로 표현
+- **참고**: [Misa de la Alegría 상세 페이지](../masses/latin-america/misa-de-la-alegria.md)
+
+#### 🎵 **Misa Santa Teresita - Profesión de Fe** (2017)
+- **작곡가**: Azeneth González
+- **출판**: OCP (Oregon Catholic Press)
+- **스타일**: Contemporary Pop-Rock / Ballad
+- **특징**:
+  - 청년을 위한 현대적 스페인어 미사곡
+  - 팝-록과 발라드 스타일 혼합
+  - 로마 미사경본 공식 번역 사용
+  - Spotify, Apple Music, Qobuz, Deezer에서 스트리밍 가능
+  - "오늘의 젊은이들에게 말하는 거룩한 음악"
+- **참고**: [Misa Santa Teresita 상세 페이지](../masses/latin-america/misa-santa-teresita.md)
+
+#### 🎵 **Misa Campesina Nicaragüense - Credo** (1975)
+- **작곡가**: Carlos Mejía Godoy
+- **스타일**: Protest Folk / Liberation Theology
+- **특징**:
+  - 해방신학 공동체에서 널리 불림
+  - 니카라과 농민의 언어와 리듬 사용
+  - 신학적 깊이를 흥겨운 리듬 속에 표현
+  - 사회정의 메시지가 강한 민중 음악
+- **참고**: [Misa Campesina Nicaragüense 상세 페이지](../masses/latin-america/misa-campesina-nicaraguense.md)
+
+### 북미 현대 워십 스타일
+
+현대 가톨릭 워십에서는 어쿠스틱 기타, 일렉 기타, 베이스, 드럼을 사용한 Credo 곡들이 증가하고 있습니다. OCP, GIA 등 주요 출판사에서 **500개 이상의 미사곡 설정**을 제공하며, 많은 곡들이 Credo를 포함합니다.
+
+#### 추천 현대 미사곡 (Credo 포함)
+- [Mass of Christ the Savior](../masses/north-america/mass-of-christ-the-savior.md) - Contemporary Folk
+- [Mass of Creation](../masses/north-america/mass-of-creation.md) - Contemporary Folk
+- [Mass of Renewal](../masses/north-america/mass-of-renewal.md) - Contemporary
+- [Mass of St. Ann](../masses/north-america/mass-of-st-ann.md) - Rock / Pop (Life Teen)
+
+더 많은 현대 미사곡은 [International Mass 페이지](../InternationalMass.md)에서 확인하실 수 있습니다.
+
+### 리소스
+- [OCP - Contemporary Christian Music Mass Setting](https://www.ocp.org/en-us/blog/entry/contemporary-christian-music-mass-setting)
+- [Catholic Music Journal - Mass Settings](https://www.catholicmusic.com/2022/08/mass-settings/)
+- [RC Liturgy and Service Music - Mass Settings](https://rc-music.org/mass-settings/)
+
+---
+
 **관련 문서**:
 *   [한국 천주교 성음악 지침](../regulations/CBCK_Guidelines.md#신앙-고백)
+*   [International Mass](../InternationalMass.md)
