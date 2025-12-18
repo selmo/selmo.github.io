@@ -71,6 +71,12 @@ Cordeiro de Deus, que tirais o pecado do mundo, dai-nos a paz.
 *   **반복 구조**: 세 번(또는 그 이상) 반복되는 단순한 구조로, 회중이 쉽게 따라 부를 수 있습니다.
 *   **평화의 대미**: 마지막 'dona nobis pacem' 부분은 음악적으로 해결(Resolution)과 안식을 주는 느낌으로 작곡되는 경우가 많습니다.
 
+## 4. 관련 작품 (Examples)
+
+*   (야훼이레) [최태형 안셀모](../songs/TaeHyoungChoi.md#미사곡-mass): No. 167 `하느님의 어린양 세상의 죄를`, No. 170 `하느님의 어린양`
+*   (야훼이레) [현정수 요한사도](../artists/HyunJeongSu.md): No. 169 하느님의 어린양
+*   (야훼이레) [김태진 베난시오](../artists/KimTaeJin.md): No. 171 하느님의 어린양
+
 ---
 **관련 문서**:
 *   [한국 천주교 성음악 지침](../regulations/CBCK_Guidelines.md#빵-나눔과-하느님의-어린양)

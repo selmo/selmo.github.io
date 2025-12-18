@@ -54,5 +54,11 @@
 *   **English**:
     Save us, Savior of the world, for by your Cross and Resurrection you have set us free.
 
+## 3. 관련 작품 (Examples)
+
+*   (야훼이레) [최태형 안셀모](../songs/TaeHyoungChoi.md#미사곡-mass): No. 105/107 `주님께서 오실 때까지`, No. 109 `십자가와 부활로`
+*   (야훼이레) [현정수 요한사도](../artists/HyunJeongSu.md): No. 106 신앙의 신비여
+*   (야훼이레) [김태진 베난시오](../artists/KimTaeJin.md): No. 108 신앙의 신비여
+
 ---
 **참고**: 한국 천주교회에서는 주로 전례 시기에 따라 양식을 선택하여 사용합니다. (예: 사순 시기에는 양식 3 등)

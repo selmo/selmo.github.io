@@ -43,5 +43,5 @@
 
 ## 3. 관련 작품
 
-### [최태형 안셀모](../songs/TaeHyoungChoi.md#시편-성가-및-일반-성가-psalms--hymns)
+### [최태형 안셀모](../songs/TaeHyoungChoi.md#일반-성가-및-기타-hymns--others)
 *   **No. 595: 성전 오른편에서**: 부활 시기 성수 예식 노래 (Vidi Aquam).

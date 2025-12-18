@@ -38,6 +38,12 @@ Alleluia, Alleluia.
 ### 영어 (English)
 Alleluia, Alleluia.
 
+## 5. 관련 작품 (Examples)
+
+*   (야훼이레) [최태형 안셀모](../songs/TaeHyoungChoi.md#미사곡-mass): No. 45 `알렐루야` (길이요 진리요 생명이신)
+*   (야훼이레) [현정수 요한사도](../artists/HyunJeongSu.md): No. 46 복음환호송
+*   (야훼이레) [김태진 베난시오](../artists/KimTaeJin.md): No. 48 복음환호송
+
 ---
 **관련 문서**:
 *   [한국 천주교 성음악 지침](../regulations/CBCK_Guidelines.md#복음-환호송)

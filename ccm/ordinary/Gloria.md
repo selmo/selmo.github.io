@@ -211,6 +211,12 @@ com o Espírito Santo, na glória de Deus Pai. Amén.
 *   **다양한 작곡**: 자비송과 마찬가지로 대영광송은 미사 통상문의 핵심 부분으로, 그레고리오 성가부터 르네상스 다성 음악, 바로크, 고전, 낭만 시대에 이르기까지 수많은 작곡가들에 의해 다양한 형식으로 작곡되었습니다. (예: 바흐의 나단조 미사, 모차르트, 베토벤의 미사곡 등)
 *   **한국 가톨릭**: [김정식 로제리오](../artists/KimJeongSik.md), [신상옥 안드레아](../artists/ShinSangOk.md), [최태형 안셀모](../songs/TaeHyoungChoi.md) 등 한국 작곡가들도 고유한 정서와 선율로 대영광송을 작곡했습니다.
 
+## 5. 관련 작품 (Examples)
+
+*   (야훼이레) [최태형 안셀모](../songs/TaeHyoungChoi.md#미사곡-mass): No. 28 `하늘 높은 데서는`, No. 31 `Gloria in excelsis Deo`
+*   (야훼이레) [현정수 요한사도](../artists/HyunJeongSu.md): No. 30 대영광송
+*   (야훼이레) [김태진 베난시오](../artists/KimTaeJin.md): No. 32 대영광송
+
 ---
 **관련 문서**:
 *   [한국 천주교 성음악 지침](../regulations/CBCK_Guidelines.md#대영광송)

@@ -98,6 +98,12 @@ Hosana nas alturas.
 *   **Hosanna의 반복**: Sanctus와 Benedictus 끝에 "Hosanna in excelsis"가 반복되는 구조를 가집니다.
 *   **Benedictus**: 전통적인 다성 미사곡에서는 Sanctus와 Benedictus를 나누어 작곡하기도 했습니다. (Benedictus는 축성 후 또는 성체거양 중에 부르기도 했음). 그러나 현대 전례에서는 이어서 부르는 것이 원칙입니다.
 
+## 4. 관련 작품 (Examples)
+
+*   (야훼이레) [최태형 안셀모](../songs/TaeHyoungChoi.md#미사곡-mass): No. 78 `거룩하시도다 온 누리의 주 하느님`, No. 81 `거룩하시도다`
+*   (야훼이레) [현정수 요한사도](../artists/HyunJeongSu.md): No. 80 거룩하시도다
+*   (야훼이레) [김태진 베난시오](../artists/KimTaeJin.md): No. 82 거룩하시도다
+
 ---
 **관련 문서**:
 *   [한국 천주교 성음악 지침](../regulations/CBCK_Guidelines.md#감사기도의-노래)

@@ -39,6 +39,9 @@
 미사 통상문(Kyrie, Gloria, Credo, Sanctus, Agnus Dei) 및 고유문 작품.
 - 전례적 기능에 충실한 미사곡
 - 청년 및 본당 성가대를 위한 작품
+- **[해외 현대 미사곡 (International Contemporary Mass)](InternationalMass.md)**: 해외 작곡가들의 현대 미사곡 소개
+  - 북미, 영국/아일랜드, 유럽, 라틴 아메리카, 아시아 지역별 미사곡
+  - **세계청년대회(WYD) 미사곡**: Missa Magis, Missa Orientalis, Missa de Angelis 등
 
 ### 2. [그외 전례곡 (Liturgical Music)](Liturgical.md)
 전례 시기(대림, 성탄, 사순, 부활 등)와 예식(성체조배, 장례 등)을 위한 음악.
@@ -58,8 +61,6 @@
 
 ### [리소스 자료실 (Resources)](Resources.md)
 악보 자료(PDF) 및 유용한 웹사이트 링크 모음입니다.
-
-### 가톨릭 성가 유튜브 채널
 
 ### 가톨릭 성가 유튜브 채널
 

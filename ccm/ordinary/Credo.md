@@ -45,7 +45,7 @@ Deum de Deo, lumen de lúmine, Deum verum de Deo vero,
 génitum, non factum, consubstantiálem Patri:
 (제니툼, 논 팍툼, 콘숩스탄치알렘 파트리)
 per quem ómnia facta sunt.
-(페르 퀘ም 옴니아 팍타 순트)
+(페르 퀨 옴니아 팍타 순트)
 Qui propter nos hómines et propter nostram salútem
 (퀴 프롭테르 노스 호미네스 엣 프롭테르 노스트람 살루템)
 descéndit de caelis.

@@ -103,5 +103,11 @@ in saécula.
 For the kingdom, the power and the glory are yours
 now and for ever.
 
+## 3. 관련 작품 (Examples)
+
+*   (야훼이레) [최태형 안셀모](../songs/TaeHyoungChoi.md#미사곡-mass): No. 127 `하늘에 계신 우리 아버지`, No. 131 `하늘에 계신 우리 아버지`
+*   (야훼이레) [현정수 요한사도](../artists/HyunJeongSu.md): No. 128 주님의 기도
+*   (야훼이레) [김태진 베난시오](../artists/KimTaeJin.md): No. 132 주님의 기도
+
 ---
 **음악적 특징**: 주님의 기도는 공동체 전체가 하나 되어 바치는 기도이므로, 사제와 회중이 함께 노래할 수 있는 단순하고 장엄한 선율이 권장됩니다.

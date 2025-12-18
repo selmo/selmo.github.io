@@ -16,88 +16,88 @@
 
 ## 전례 음악의 이해
 
-### [[전례음악의 역사]]
+### [전례음악의 역사](../전례음악의 역사.md)
 - 초대교회의 음악
 - 그레고리오 성가
 - 르네상스 다성음악
 - 현대 전례 음악
 
-### [[전례와 음악]]
+### 전례와 음악
 - 제2차 바티칸 공의회와 전례 개혁
 - 전례 음악의 역할과 의미
 - 능동적 참여의 중요성
 
 ## 음악 형식과 장르
 
-### [[미사 통상문]]
-- 키리에 (Kyrie)
-- 글로리아 (Gloria)
-- 크레도 (Credo)
-- 상투스 (Sanctus)
-- 아뉴스 데이 (Agnus Dei)
+### 미사 통상문
+- [자비송 (Kyrie)](ordinary/Kyrie.md)
+- [대영광송 (Gloria)](ordinary/Gloria.md)
+- [신경 (Credo)](ordinary/Credo.md)
+- [거룩하시도다 (Sanctus)](ordinary/Sanctus.md)
+- [하느님의 어린양 (Agnus Dei)](ordinary/AgnusDei.md)
 
-### [[미사 고유문]]
-- 입당송 (Introitus)
-- 승계송 (Graduale)
-- 알렐루야 (Alleluia)
-- 봉헌송 (Offertorium)
-- 영성체송 (Communio)
+### 미사 고유문
+- [입당송 (Introitus)](ordinary/Introitus.md)
+- [화답송 (Graduale / Responsorial Psalm)](ordinary/Graduale.md)
+- [복음 환호송 (Alleluia)](ordinary/Alleluia.md)
+- [봉헌송 (Offertorium)](ordinary/Offertorium.md)
+- [영성체송 (Communio)](ordinary/Communio.md)
 
-### [[성무일도]]
+### 성무일도
 - 아침기도 (Lauds)
 - 저녁기도 (Vespers)
 - 시편 노래
 
 ## 음악 이론
 
-### [[전례 음악 작곡법]]
+### 전례 음악 작곡법
 - 가사와 멜로디의 조화
 - 회중 참여를 위한 작곡 기법
 - 전례 시기별 음악적 특징
 
-### [[성가 편곡]]
+### 성가 편곡
 - 4성부 화성
 - 회중용 편곡
 - 성가대용 편곡
 
 ## 악기와 연주
 
-### [[전례 악기]]
+### 전례 악기
 - 오르간
 - 피아노
 - 기타와 현대 악기
 - 전례에 적합한 악기 선택
 
-### [[성가대]]
+### 성가대
 - 성가대의 역할
 - 성가대 편성
 - 리허설 방법
 
 ## 작곡가와 작품
 
-### [[한국 가톨릭 음악가]]
+### 한국 가톨릭 음악가
 - 주요 작곡가
 - 대표 작품
 - 음악 스타일
 
-### [[세계 가톨릭 음악가]]
+### 세계 가톨릭 음악가
 - 팔레스트리나 (Palestrina)
 - 모차르트 (Mozart)
 - 현대 작곡가들
 
 ## 자료실
 
-### [[악보 자료]]
+### 악보 자료
 - 무료 악보 자료
 - 저작권 정보
 
-### [[참고 문헌]]
+### 참고 문헌
 - 전례 음악 서적
 - 공의회 문헌
 - 음악 교육 자료
 
 ---
 
-**Note**: 이 페이지의 [[위키 링크]] 형식은 Obsidian에서 Graph View로 시각화할 수 있습니다.
+**Note**: 이 페이지는 일반 Markdown 링크로도 Obsidian Graph View에서 추적됩니다.
 
-**관련 페이지**: [[Mass|미사곡]] | [[Liturgical|전례곡]] | [[OtherWorks|그외 작품들]]
+**관련 페이지**: [미사곡](Mass.md) | [전례곡](Liturgical.md) | [그외 작품들](OtherWorks.md)

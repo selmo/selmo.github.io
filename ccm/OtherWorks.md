@@ -34,4 +34,4 @@ CCM, 찬양곡 및 기타 음악 작품들을 정리한 페이지입니다.
 
 ---
 
-**관련 페이지**: [[Mass|미사곡]] | [[Liturgical|전례곡]] | [[Commentary|평론 및 정보]]
+**관련 페이지**: [미사곡](Mass.md) | [전례곡](Liturgical.md) | [평론 및 정보](Commentary.md)
