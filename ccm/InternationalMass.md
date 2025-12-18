@@ -48,6 +48,8 @@
 **특징**: 제목처럼 경쾌하고 평화로운 분위기로, 일반 연중 시기(Ordinary Time)에 인기가 많습니다.
 
 #### 그 외 주요 미사곡
+- 📖 [Mass of Communion](masses/north-america/mass-of-communion.md) (Matt Maher) - Modern Worship / Indie Rock
+- 📖 [Mass of Restoration](masses/north-america/mass-of-restoration.md) (Josh Blakesley) - Acoustic
 - 📖 [Mass of Glory](masses/north-america/mass-of-glory.md) (Ken Canedo & Bob Hurd) - Gospel / Jazz / Blues
 - 📖 [Mass of Spirit and Grace](masses/north-america/mass-of-spirit-and-grace.md) (Ricky Manalo, CSP) - Contemporary
 - 📖 [Mass of a Joyful Heart](masses/north-america/mass-of-a-joyful-heart.md) (Steve Angrisano) - Contemporary
