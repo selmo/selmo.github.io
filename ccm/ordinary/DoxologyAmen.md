@@ -55,5 +55,66 @@
 *   (야훼이레) [김태진 베난시오](../artists/KimTaeJin.md): No. 147 주님께 나라와, No. 119 마침영광송 - 아멘
 
 ---
+
+## 5. 현대음악 풍 Great Amen 작품들
+
+전통적인 성가 외에도, 현대 워십, 팝, 록, 포크 등 다양한 스타일로 작곡된 Great Amen 곡들이 있습니다. 현대 미사곡에서 Great Amen은 감사 기도의 클라이맥스로 특별히 강조되는 경우가 많습니다.
+
+### 북미 스타일
+
+#### 🎵 **Mass of St. Ann - Great Amen** [🎧](https://www.youtube.com/watch?v=M3yW12cn8PM)
+- **작곡가**: Ed Bolduc
+- **스타일**: Rock / Pop
+- **특징**: Life Teen 공식 미사곡, 추천 트랙, 강렬한 클라이맥스
+- **참고**: [Mass of St. Ann 상세 페이지](../masses/north-america/mass-of-st-ann.md)
+
+#### 🎵 **Mass of Communion - Great Amen**
+- **작곡가**: Matt Maher, Ike Ndolo, Tam Le
+- **스타일**: Modern Worship / Indie Rock
+- **특징**: 라틴어 사용, "강렬하고 인상적"이라는 평가, 추천 트랙
+- **참고**: [Mass of Communion 상세 페이지](../masses/north-america/mass-of-communion.md)
+
+#### 🎵 **Mass of Creation - Great Amen**
+- **작곡가**: Marty Haugen
+- **스타일**: Contemporary Folk
+- **특징**: 1984년 이후 미국 본당의 표준, 장엄하고 경건한 분위기
+- **참고**: [Mass of Creation 상세 페이지](../masses/north-america/mass-of-creation.md)
+
+#### 🎵 **Mass of Christ the Savior - Great Amen**
+- **작곡가**: Dan Schutte
+- **스타일**: Contemporary Folk
+- **특징**: 가장 널리 사용되는 미사곡, 회중 참여 용이
+- **참고**: [Mass of Christ the Savior 상세 페이지](../masses/north-america/mass-of-christ-the-savior.md)
+
+#### 🎵 **Mass of Restoration - Great Amen**
+- **작곡가**: Josh Blakesley & Grae McCullough
+- **스타일**: Acoustic
+- **특징**: 어쿠스틱 기타 중심, 따뜻하고 묵상적인 분위기
+- **참고**: [Mass of Restoration 상세 페이지](../masses/north-america/mass-of-restoration.md)
+
+### 유럽 스타일
+
+#### 🎵 **Messe de la Grâce - Amen**
+- **밴드**: Glorious (프랑스)
+- **스타일**: Contemporary Worship / Pop-Rock
+- **특징**: 프랑스어, 800명 청년 합창단과 녹음
+- **참고**: [Messe de la Grâce 상세 페이지](../masses/europe/messe-de-la-grace.md)
+
+#### 🎵 **St. Anne's Mass - Great Amen**
+- **작곡가**: James MacMillan (스코틀랜드)
+- **스타일**: Contemporary Choral
+- **특징**: 1985년 원곡, 회중과 합창단이 함께 부르기 적합
+- **참고**: [St. Anne's Mass 상세 페이지](../masses/uk-ireland/st-annes-mass.md)
+
+#### 🎵 **Mass of St. Benedict - Great Amen**
+- **작곡가**: Margaret Rizza
+- **스타일**: Contemporary Choral
+- **특징**: 강한 선율적 내용, SATB 합창과 유연한 악기 파트
+- **참고**: [Mass of St. Benedict 상세 페이지](../masses/uk-ireland/mass-of-st-benedict.md)
+
+더 많은 현대 미사곡은 [International Mass 페이지](../InternationalMass.md)에서 확인하실 수 있습니다.
+
+---
 **관련 문서**:
 *   [한국 천주교 성음악 지침](../regulations/CBCK_Guidelines.md#감사기도의-노래)
+*   [International Mass](../InternationalMass.md)

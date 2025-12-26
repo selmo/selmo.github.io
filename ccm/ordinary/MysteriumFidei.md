@@ -61,4 +61,62 @@
 *   (야훼이레) [김태진 베난시오](../artists/KimTaeJin.md): No. 108 신앙의 신비여
 
 ---
+
+## 4. 현대음악 풍 신앙의 신비 작품들
+
+전통적인 성가 외에도, 현대 워십, 팝, 록, 포크 등 다양한 스타일로 작곡된 Memorial Acclamation 곡들이 있습니다.
+
+### 북미 스타일
+
+#### 🎵 **Mass of St. Ann - We Proclaim Your Death, O Lord** [🎧](https://www.youtube.com/watch?v=3f_cVIkh9H8)
+- **작곡가**: Ed Bolduc
+- **스타일**: Rock / Pop
+- **특징**: Life Teen 공식 미사곡, 단순한 패턴으로 회중이 쉽게 참여
+- **참고**: [Mass of St. Ann 상세 페이지](../masses/north-america/mass-of-st-ann.md)
+
+#### 🎵 **Mass of Communion - Mystery of Faith (When We Eat This Bread)**
+- **작곡가**: Matt Maher, Ike Ndolo, Tam Le
+- **스타일**: Modern Worship / Indie Rock
+- **특징**: 라틴어 사용, 인디 록 감성의 창의적인 편곡
+- **참고**: [Mass of Communion 상세 페이지](../masses/north-america/mass-of-communion.md)
+
+#### 🎵 **Mass of Creation - Memorial Acclamation**
+- **작곡가**: Marty Haugen
+- **스타일**: Contemporary Folk
+- **특징**: 1984년 이후 미국 본당의 표준, 3가지 양식 모두 제공
+- **참고**: [Mass of Creation 상세 페이지](../masses/north-america/mass-of-creation.md)
+
+#### 🎵 **Mass of Christ the Savior - Memorial Acclamation**
+- **작곡가**: Dan Schutte
+- **스타일**: Contemporary Folk
+- **특징**: 가장 널리 사용되는 미사곡, 쉽고 아름다운 선율
+- **참고**: [Mass of Christ the Savior 상세 페이지](../masses/north-america/mass-of-christ-the-savior.md)
+
+#### 🎵 **Mass of Restoration - Memorial Acclamation**
+- **작곡가**: Josh Blakesley & Grae McCullough
+- **스타일**: Acoustic
+- **특징**: 어쿠스틱 기타 중심, 묵상적 분위기
+- **참고**: [Mass of Restoration 상세 페이지](../masses/north-america/mass-of-restoration.md)
+
+### 유럽 스타일
+
+#### 🎵 **Messe de la Grâce - Anamnèse**
+- **밴드**: Glorious (프랑스)
+- **스타일**: Contemporary Worship / Pop-Rock
+- **특징**: 프랑스어, 현대적 워십 스타일
+- **참고**: [Messe de la Grâce 상세 페이지](../masses/europe/messe-de-la-grace.md)
+
+#### 🎵 **St. Anne's Mass - Memorial Acclamation**
+- **작곡가**: James MacMillan (스코틀랜드)
+- **스타일**: Contemporary Choral
+- **특징**: 회중과 합창단이 함께 부르기 적합
+- **참고**: [St. Anne's Mass 상세 페이지](../masses/uk-ireland/st-annes-mass.md)
+
+더 많은 현대 미사곡은 [International Mass 페이지](../InternationalMass.md)에서 확인하실 수 있습니다.
+
+---
 **참고**: 한국 천주교회에서는 주로 전례 시기에 따라 양식을 선택하여 사용합니다. (예: 사순 시기에는 양식 3 등)
+
+**관련 문서**:
+*   [한국 천주교 성음악 지침](../regulations/CBCK_Guidelines.md#감사기도의-노래)
+*   [International Mass](../InternationalMass.md)

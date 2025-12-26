@@ -45,5 +45,60 @@ Alleluia, Alleluia.
 *   (야훼이레) [김태진 베난시오](../artists/KimTaeJin.md): No. 48 복음환호송
 
 ---
+
+## 6. 현대음악 풍 Alleluia 작품들
+
+전통적인 그레고리오 성가 외에도, 현대 워십, 팝, 록, 포크 등 다양한 스타일로 작곡된 Alleluia 곡들이 있습니다.
+
+### 북미 스타일
+
+#### 🎵 **Mass of St. Ann - Gospel Acclamation** [🎧](https://www.youtube.com/watch?v=f0wRzSwQBgo)
+- **작곡가**: Ed Bolduc
+- **스타일**: Rock / Pop
+- **특징**: Life Teen 공식 미사곡, 활기찬 6/8박자, 추천 트랙
+- **참고**: [Mass of St. Ann 상세 페이지](../masses/north-america/mass-of-st-ann.md)
+
+#### 🎵 **Mass of Communion - Gospel Acclamation (Alleluia)**
+- **작곡가**: Matt Maher, Ike Ndolo, Tam Le
+- **스타일**: Modern Worship / Indie Rock
+- **특징**: 새로운 멜로디, 드라이빙 비트, "활기차고 훌륭하다"는 평가
+- **참고**: [Mass of Communion 상세 페이지](../masses/north-america/mass-of-communion.md)
+
+#### 🎵 **Mass of Restoration - Alleluia**
+- **작곡가**: Josh Blakesley & Grae McCullough
+- **스타일**: Acoustic
+- **특징**: 추천 트랙, 통기타 중심의 따뜻한 사운드
+- **참고**: [Mass of Restoration 상세 페이지](../masses/north-america/mass-of-restoration.md)
+
+#### 🎵 **Mass of Creation - Gospel Acclamation**
+- **작곡가**: Marty Haugen
+- **스타일**: Contemporary Folk
+- **특징**: 1984년 이후 미국 본당의 표준, 회중이 쉽게 따라 부름
+- **참고**: [Mass of Creation 상세 페이지](../masses/north-america/mass-of-creation.md)
+
+#### 🎵 **Mass of Christ the Savior - Gospel Acclamation**
+- **작곡가**: Dan Schutte
+- **스타일**: Contemporary Folk
+- **특징**: 가장 널리 사용되는 미사곡, 영어/스페인어 버전 제공
+- **참고**: [Mass of Christ the Savior 상세 페이지](../masses/north-america/mass-of-christ-the-savior.md)
+
+### 유럽 스타일
+
+#### 🎵 **Messe de la Grâce - Alleluia**
+- **밴드**: Glorious (프랑스)
+- **스타일**: Contemporary Worship / Pop-Rock
+- **특징**: 800명 청년 합창단과 녹음, 프랑스어
+- **참고**: [Messe de la Grâce 상세 페이지](../masses/europe/messe-de-la-grace.md)
+
+#### 🎵 **St. Anne's Mass - Gospel Acclamation**
+- **작곡가**: James MacMillan (스코틀랜드)
+- **스타일**: Contemporary Choral
+- **특징**: 회중 참여 용이, 현대적 합창 스타일
+- **참고**: [St. Anne's Mass 상세 페이지](../masses/uk-ireland/st-annes-mass.md)
+
+더 많은 현대 미사곡은 [International Mass 페이지](../InternationalMass.md)에서 확인하실 수 있습니다.
+
+---
 **관련 문서**:
 *   [한국 천주교 성음악 지침](../regulations/CBCK_Guidelines.md#복음-환호송)
+*   [International Mass](../InternationalMass.md)
