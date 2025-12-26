@@ -78,5 +78,75 @@ Cordeiro de Deus, que tirais o pecado do mundo, dai-nos a paz.
 *   (야훼이레) [김태진 베난시오](../artists/KimTaeJin.md): No. 171 하느님의 어린양
 
 ---
+
+## 5. 현대음악 풍 Agnus Dei 작품들
+
+전통적인 클래식 미사곡 외에도, 현대 워십, 팝, 록, 포크 등 다양한 스타일로 작곡된 Agnus Dei 곡들이 있습니다.
+
+### 북미 스타일
+
+#### 🎵 **Mass of St. Ann - Lamb of God** [🎧](https://www.youtube.com/watch?v=m548p38PY0c)
+- **작곡가**: Ed Bolduc
+- **스타일**: Rock / Pop
+- **특징**: Life Teen 공식 미사곡, 단순한 패턴으로 회중이 쉽게 노래 가능
+- **참고**: [Mass of St. Ann 상세 페이지](../masses/north-america/mass-of-st-ann.md)
+
+#### 🎵 **Mass of Creation - Lamb of God**
+- **작곡가**: Marty Haugen
+- **스타일**: Contemporary Folk
+- **특징**: 평화롭고 반복적인 설정, 빵 나눔 동안 여러 번 반복 가능
+- **참고**: [Mass of Creation 상세 페이지](../masses/north-america/mass-of-creation.md)
+
+#### 🎵 **Mass of Communion - Lamb of God (Agnus Dei)**
+- **작곡가**: Matt Maher, Ike Ndolo, Tam Le
+- **스타일**: Modern Worship / Indie Rock
+- **특징**: 라틴어 사용, 빠른 8분음표 패턴 (가사 맞추기 어려울 수 있음)
+- **참고**: [Mass of Communion 상세 페이지](../masses/north-america/mass-of-communion.md)
+
+#### 🎵 **Mass of Restoration - Lamb of God**
+- **작곡가**: Josh Blakesley & Grae McCullough
+- **스타일**: Acoustic
+- **특징**: 단순하고 아름다운 설정, 통기타 반주에 최적화
+- **참고**: [Mass of Restoration 상세 페이지](../masses/north-america/mass-of-restoration.md)
+
+#### 🎵 **Mass of a Joyful Heart - Lamb of God**
+- **작곡가**: Steve Angrisano, Tom Tomaszek
+- **스타일**: Contemporary
+- **특징**: NCYC 위촉작, 접근하기 쉬운 선율
+- **참고**: [Mass of a Joyful Heart 상세 페이지](../masses/north-america/mass-of-a-joyful-heart.md)
+
+### 유럽 스타일
+
+#### 🎵 **Messe de la Grâce - Agneau de Dieu**
+- **밴드**: Glorious (프랑스)
+- **스타일**: Contemporary Worship / Pop-Rock / Religious Gospel
+- **특징**: 프랑스어, 현대적 워십 스타일
+- **참고**: [Messe de la Grâce 상세 페이지](../masses/europe/messe-de-la-grace.md)
+
+#### 🎵 **St. Anne's Mass - Lamb of God (Agnus Dei)**
+- **작곡가**: James MacMillan (스코틀랜드)
+- **스타일**: Contemporary Choral
+- **특징**: 1985년 원곡, 회중 참여 용이
+- **참고**: [St. Anne's Mass 상세 페이지](../masses/uk-ireland/st-annes-mass.md)
+
+#### 🎵 **Mass of St. Benedict - Lamb of God (Agnus Dei)**
+- **작곡가**: Margaret Rizza
+- **스타일**: Contemporary Choral
+- **특징**: 두 가지 버전 제공, 강한 선율적 내용
+- **참고**: [Mass of St. Benedict 상세 페이지](../masses/uk-ireland/mass-of-st-benedict.md)
+
+### 라틴 아메리카 스타일
+
+#### 🎵 **Misa Juan Diego - Cordero de Dios**
+- **작곡가**: Rufino Zaragoza, OFM
+- **스타일**: Latin Flavored / Call-and-Response
+- **특징**: 활기찬 융합 스타일
+- **주의**: 이 설정에 포함된 Agnus Dei 트로프는 현행 전례에서 허용되지 않음
+- **참고**: [Misa Juan Diego 상세 페이지](../masses/latin-america/misa-juan-diego.md)
+
+더 많은 현대 미사곡은 [International Mass 페이지](../InternationalMass.md)에서 확인하실 수 있습니다.
+
+---
 **관련 문서**:
 *   [한국 천주교 성음악 지침](../regulations/CBCK_Guidelines.md#빵-나눔과-하느님의-어린양)
+*   [International Mass](../InternationalMass.md)

@@ -123,6 +123,69 @@ Senhor, tende piedade de nós.
 *   (야훼이레) [김태진 베난시오](../artists/KimTaeJin.md): No. 13 자비송
 
 ---
+
+## 7. 현대음악 풍 Kyrie 작품들
+
+전통적인 그레고리오 성가나 클래식 미사곡 외에도, 현대 워십, 팝, 록, 포크 등 다양한 스타일로 작곡된 Kyrie 곡들이 있습니다.
+
+### 북미 스타일
+
+#### 🎵 **Mass of St. Ann - Kyrie** [🎧](https://www.youtube.com/watch?v=vTeSYjUYeYs)
+- **작곡가**: Ed Bolduc
+- **스타일**: Rock / Pop
+- **특징**: Life Teen 공식 미사곡, 활기찬 6/8박자, 디즈니 뮤지컬 같은 에너지
+- **참고**: [Mass of St. Ann 상세 페이지](../masses/north-america/mass-of-st-ann.md)
+
+#### 🎵 **Mass of Communion - Kyrie**
+- **작곡가**: Matt Maher, Ike Ndolo, Tam Le
+- **스타일**: Modern Worship / Indie Rock
+- **특징**: 몽환적인 일렉기타 딜레이, 그리스어 사용
+- **참고**: [Mass of Communion 상세 페이지](../masses/north-america/mass-of-communion.md)
+
+#### 🎵 **Mass of Restoration - Kyrie**
+- **작곡가**: Josh Blakesley & Grae McCullough
+- **스타일**: Acoustic
+- **특징**: 통기타와 카혼 중심의 따뜻한 언플러그드 사운드, 피정/캠프용
+- **참고**: [Mass of Restoration 상세 페이지](../masses/north-america/mass-of-restoration.md)
+
+#### 🎵 **Mass of a Joyful Heart - Kyrie**
+- **작곡가**: Steve Angrisano, Tom Tomaszek
+- **스타일**: Contemporary
+- **특징**: NCYC(전미 가톨릭 청년 대회) 위촉작, 접근하기 쉬운 선율
+- **참고**: [Mass of a Joyful Heart 상세 페이지](../masses/north-america/mass-of-a-joyful-heart.md)
+
+### 유럽 스타일
+
+#### 🎵 **Messe de la Grâce - Je reviens vers toi (Kyrie)**
+- **밴드**: Glorious (프랑스)
+- **스타일**: Contemporary Worship / Pop-Rock
+- **특징**: 800명 청년과 함께 녹음, 프랑스어
+- **참고**: [Messe de la Grâce 상세 페이지](../masses/europe/messe-de-la-grace.md)
+
+#### 🎵 **Missa 4 You(th) - Kyrie**
+- **작곡가**: Tjark Baumann (독일)
+- **스타일**: NGL (Neues Geistliches Lied) / Sacropop
+- **특징**: 청년 접근성 높은 팝 스타일, 합창 요소
+- **참고**: [Missa 4 You(th) 상세 페이지](../masses/europe/missa-4-youth.md)
+
+#### 🎵 **St. Anne's Mass - Kyrie**
+- **작곡가**: James MacMillan (스코틀랜드)
+- **스타일**: Contemporary Choral
+- **특징**: 1985년 작곡, 회중이 쉽게 부를 수 있는 선율
+- **참고**: [St. Anne's Mass 상세 페이지](../masses/uk-ireland/st-annes-mass.md)
+
+### 라틴 아메리카 스타일
+
+#### 🎵 **Misa Campesina Nicaragüense - Kyrie**
+- **작곡가**: Carlos Mejía Godoy
+- **스타일**: Protest Folk / Liberation Theology
+- **특징**: 해방신학 맥락, 강렬한 사회적 메시지
+- **참고**: [Misa Campesina Nicaragüense 상세 페이지](../masses/latin-america/misa-campesina-nicaraguense.md)
+
+더 많은 현대 미사곡은 [International Mass 페이지](../InternationalMass.md)에서 확인하실 수 있습니다.
+
+---
 **관련 문서**:
 *   [한국 천주교 성음악 지침](../regulations/CBCK_Guidelines.md)
 *   [성음악 훈령](../regulations/MusicamSacram.md)
+*   [International Mass](../InternationalMass.md)

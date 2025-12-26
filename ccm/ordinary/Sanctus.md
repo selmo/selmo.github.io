@@ -105,5 +105,69 @@ Hosana nas alturas.
 *   (야훼이레) [김태진 베난시오](../artists/KimTaeJin.md): No. 82 거룩하시도다
 
 ---
+
+## 5. 현대음악 풍 Sanctus 작품들
+
+전통적인 클래식 미사곡 외에도, 현대 워십, 팝, 록, 포크 등 다양한 스타일로 작곡된 Sanctus 곡들이 있습니다.
+
+### 북미 스타일
+
+#### 🎵 **Mass of St. Ann - Holy, Holy, Holy**
+- **작곡가**: Ed Bolduc
+- **스타일**: Rock / Pop
+- **특징**: Life Teen 공식 미사곡, 6/8박자의 에너지 넘치는 선율
+- **참고**: [Mass of St. Ann 상세 페이지](../masses/north-america/mass-of-st-ann.md)
+
+#### 🎵 **Mass of Creation - Holy, Holy, Holy**
+- **작곡가**: Marty Haugen
+- **스타일**: Contemporary Folk
+- **특징**: 경건하고 장엄한 설정, 회중이 쉽게 참여 가능
+- **참고**: [Mass of Creation 상세 페이지](../masses/north-america/mass-of-creation.md)
+
+#### 🎵 **Mass of Communion - Holy Holy Holy**
+- **작곡가**: Matt Maher, Ike Ndolo, Tam Le
+- **스타일**: Modern Worship / Indie Rock
+- **특징**: 라틴어/영어 혼합, 전통 찬송가 시작 부분 인용, 창의적인 기타/드럼 사용
+- **참고**: [Mass of Communion 상세 페이지](../masses/north-america/mass-of-communion.md)
+
+#### 🎵 **Mass of Restoration - Holy, Holy, Holy**
+- **작곡가**: Josh Blakesley & Grae McCullough
+- **스타일**: Acoustic
+- **특징**: 단순하고 아름다운 설정, 피정/캠프용
+- **참고**: [Mass of Restoration 상세 페이지](../masses/north-america/mass-of-restoration.md)
+
+### 유럽 스타일
+
+#### 🎵 **Messe de la Grâce - Tu es saint**
+- **밴드**: Glorious (프랑스)
+- **스타일**: Contemporary Worship / Pop-Rock
+- **특징**: 800명 청년 합창단과 통합, 프랑스어
+- **참고**: [Messe de la Grâce 상세 페이지](../masses/europe/messe-de-la-grace.md)
+
+#### 🎵 **St. Anne's Mass - Holy Holy Holy (Sanctus and Benedictus)**
+- **작곡가**: James MacMillan (스코틀랜드)
+- **스타일**: Contemporary Choral
+- **특징**: Sanctus와 Benedictus를 함께 노래, 회중 참여 용이
+- **참고**: [St. Anne's Mass 상세 페이지](../masses/uk-ireland/st-annes-mass.md)
+
+#### 🎵 **The Latin Jazz Mass - Sanctus**
+- **작곡가**: Martin Völlinger (독일/스위스)
+- **스타일**: Latin Jazz
+- **특징**: 라틴 재즈 리듬과 전례의 융합
+- **참고**: [The Latin Jazz Mass 상세 페이지](../masses/europe/latin-jazz-mass.md)
+
+### 라틴 아메리카 스타일
+
+#### 🎵 **Misa de Juventud - Santo** [🎧](https://www.youtube.com/watch?v=mT_u_i9rIDA)
+- **작곡가**: Cesáreo Gabaráin 외
+- **스타일**: Folk / Pop
+- **특징**: 스페인어권 청년 미사에서 가장 많이 불리는 버전, 리듬감 있는 멜로디
+- **관련 그룹**: Brotes de Olivo (영향력 있는 가톨릭 포크/록 밴드)
+- **참고**: [Misa de Juventud 상세 페이지](../masses/latin-america/misa-de-juventud.md)
+
+더 많은 현대 미사곡은 [International Mass 페이지](../InternationalMass.md)에서 확인하실 수 있습니다.
+
+---
 **관련 문서**:
 *   [한국 천주교 성음악 지침](../regulations/CBCK_Guidelines.md#감사기도의-노래)
+*   [International Mass](../InternationalMass.md)

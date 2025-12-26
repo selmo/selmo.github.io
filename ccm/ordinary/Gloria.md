@@ -218,7 +218,74 @@ com o Espírito Santo, na glória de Deus Pai. Amén.
 *   (야훼이레) [김태진 베난시오](../artists/KimTaeJin.md): No. 32 대영광송
 
 ---
+
+## 6. 현대음악 풍 Gloria 작품들
+
+전통적인 클래식 미사곡 외에도, 현대 워십, 팝, 록, 포크 등 다양한 스타일로 작곡된 Gloria 곡들이 있습니다.
+
+### 북미 스타일
+
+#### 🎵 **Mass of St. Ann - Glory to God** [🎧](https://www.youtube.com/watch?v=J1qUgqYOe54)
+- **작곡가**: Ed Bolduc
+- **스타일**: Rock / Pop
+- **특징**: Life Teen 공식 미사곡, 활기찬 6/8박자, 기억하기 쉬운 후렴
+- **참고**: [Mass of St. Ann 상세 페이지](../masses/north-america/mass-of-st-ann.md)
+
+#### 🎵 **Mass of Creation - Glory to God**
+- **작곡가**: Marty Haugen
+- **스타일**: Contemporary Folk
+- **특징**: 1984년 이후 미국 가톨릭 본당의 표준, 밝고 축제적인 분위기
+- **참고**: [Mass of Creation 상세 페이지](../masses/north-america/mass-of-creation.md)
+
+#### 🎵 **Mass of Christ the Savior - Glory to God**
+- **작곡가**: Dan Schutte
+- **스타일**: Contemporary Folk
+- **특징**: 압도적 사용률 1위, 영어/스페인어/이중 언어 버전 제공
+- **참고**: [Mass of Christ the Savior 상세 페이지](../masses/north-america/mass-of-christ-the-savior.md)
+
+#### 🎵 **Mass of Communion - Gloria**
+- **작곡가**: Matt Maher, Ike Ndolo, Tam Le
+- **스타일**: Modern Worship / Indie Rock
+- **특징**: Through-composed 형식, 전통 찬송가 멜로디 레퍼런스
+- **참고**: [Mass of Communion 상세 페이지](../masses/north-america/mass-of-communion.md)
+
+#### 🎵 **Mass of the Compassionate Christ - Glory to God**
+- **작곡가**: Bob Hurd, Ken Canedo
+- **스타일**: Contemporary
+- **특징**: OCP 출판, 다양한 YouTube 데모 제공
+- **참고**: [Mass of the Compassionate Christ 상세 페이지](../masses/north-america/mass-of-the-compassionate-christ.md)
+
+### 유럽 스타일
+
+#### 🎵 **Messe de la Grâce - Gloire à Dieu**
+- **밴드**: Glorious (프랑스)
+- **스타일**: Contemporary Worship / Pop-Rock
+- **특징**: 800명 청년 합창단과 녹음, 현대적 편곡
+- **참고**: [Messe de la Grâce 상세 페이지](../masses/europe/messe-de-la-grace.md)
+
+#### 🎵 **Missa 4 You(th) - Gloria**
+- **작곡가**: Tjark Baumann (독일)
+- **스타일**: NGL (Neues Geistliches Lied) / Sacropop
+- **특징**: 팝 스타일 합창 편곡, 청년 친화적
+- **참고**: [Missa 4 You(th) 상세 페이지](../masses/europe/missa-4-youth.md)
+
+#### 🎵 **The Latin Jazz Mass - Gloria**
+- **작곡가**: Martin Völlinger (독일/스위스)
+- **스타일**: Latin Jazz
+- **특징**: 라틴 재즈와 전례의 실험적 융합, 추천 트랙
+- **참고**: [The Latin Jazz Mass 상세 페이지](../masses/europe/latin-jazz-mass.md)
+
+#### 🎵 **St. Anne's Mass - Gloria**
+- **작곡가**: James MacMillan (스코틀랜드)
+- **스타일**: Contemporary Choral
+- **특징**: 2011년 새로 작곡, 회중 참여 용이
+- **참고**: [St. Anne's Mass 상세 페이지](../masses/uk-ireland/st-annes-mass.md)
+
+더 많은 현대 미사곡은 [International Mass 페이지](../InternationalMass.md)에서 확인하실 수 있습니다.
+
+---
 **관련 문서**:
 *   [한국 천주교 성음악 지침](../regulations/CBCK_Guidelines.md#대영광송)
 *   [성음악 훈령](../regulations/MusicamSacram.md)
 *   [거룩한 전례에 관한 헌장](../regulations/SacrosanctumConcilium.md)
+*   [International Mass](../InternationalMass.md)
