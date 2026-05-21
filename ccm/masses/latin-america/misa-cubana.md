@@ -39,6 +39,10 @@
 
 ---
 
+## 🎧 듣기
+
+- [YouTube에서 검색](https://www.youtube.com/results?search_query=Misa+Cubana+Jose+Maria+Vitier+Virgen+de+la+Caridad)
+
 ## 참고 링크
 
 - [José María Vitier 공식 웹사이트](https://jmvitier.com/misa-cubana-a-la-virgen-de-la-caridad-del-cobre/)

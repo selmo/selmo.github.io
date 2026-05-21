@@ -55,6 +55,10 @@
 
 ---
 
+## 🎧 듣기
+
+- [YouTube에서 검색](https://www.youtube.com/results?search_query=Missa+de+Angelis+Credo+III+Gregorian+chant)
+
 ## 참고 링크
 
 - [ChoralWiki - Missa de Angelis](https://www.cpdl.org/wiki/index.php/Missa_de_Angelis_(Gregorian_chant))

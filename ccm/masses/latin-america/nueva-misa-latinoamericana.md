@@ -41,6 +41,10 @@ OCP 제품 페이지의 이중언어 미사곡 컬렉션에 수록:
 
 ---
 
+## 🎧 듣기
+
+- [YouTube에서 검색](https://www.youtube.com/results?search_query=Nueva+Misa+Latinoamericana+Huayno+Mauricio+Centeno)
+
 ## 참고 링크
 
 - [OCP - Nueva Misa Latinoamericana](https://www.ocp.org/en-us/collections/dg/50)

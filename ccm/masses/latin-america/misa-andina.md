@@ -37,6 +37,10 @@ OCP 제품 페이지의 온라인 전용 컬렉션에 수록:
 
 ---
 
+## 🎧 듣기
+
+- [YouTube에서 검색](https://www.youtube.com/results?search_query=Misa+Andina+Gloria+Javier+Leturia+Huayno)
+
 ## 참고 링크
 
 - [OCP - Misa Andina](https://www.ocp.org/en-us/collections/dg/74)

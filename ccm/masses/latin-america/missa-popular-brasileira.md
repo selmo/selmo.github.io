@@ -33,6 +33,10 @@
 
 ---
 
+## 🎧 듣기
+
+- [YouTube에서 검색](https://www.youtube.com/results?search_query=Missa+Popular+Brasileira+Samba+Baiao+CNBB)
+
 ## 참고 링크
 
 - [CNBB - Cantemos ao Senhor (공식 성가집)](https://www.cnbb.org.br/)

@@ -37,6 +37,10 @@
 
 ---
 
+## 🎧 듣기
+
+- [YouTube에서 검색](https://www.youtube.com/results?search_query=Ruah+Mass+of+the+Breath+of+God+Ian+Callanan)
+
 ## 참고 링크
 
 - [GIA - Ruah](https://giamusic.com/resource/ruah-print-g9822)

@@ -39,6 +39,10 @@
 
 ---
 
+## 🎧 듣기
+
+- [YouTube에서 검색](https://www.youtube.com/results?search_query=Missa+Magis+Christopher+Willcock+WYD+Sydney+2008)
+
 ## 참고 링크
 
 - [OCP - Missa Magis](https://www.ocp.org/en-us/collections/dg/42)

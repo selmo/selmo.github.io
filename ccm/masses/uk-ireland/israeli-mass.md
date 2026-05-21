@@ -44,6 +44,10 @@
 
 ---
 
+## 🎧 듣기
+
+- [YouTube에서 검색](https://www.youtube.com/results?search_query=Israeli+Mass+Catholic+folk+Mass+setting)
+
 ## 참고 링크
 
 - [Liturgy Office UK - Singing the Mass](https://www.liturgyoffice.org.uk/Missal/Music/Singing.pdf)

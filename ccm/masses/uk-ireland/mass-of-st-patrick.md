@@ -37,6 +37,10 @@
 
 ---
 
+## 🎧 듣기
+
+- [YouTube에서 검색](https://www.youtube.com/results?search_query=Mass+of+St+Patrick+Liam+Lawton+Ballintubber+Abbey)
+
 ## 참고 링크
 
 - [GIA - The Mass of St. Patrick](https://giamusic.com/resource/the-mass-of-st-patrick-choral-accompaniment-edition-print-g9251)

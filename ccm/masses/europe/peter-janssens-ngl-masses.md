@@ -52,6 +52,10 @@
 
 ---
 
+## 🎧 듣기
+
+- [YouTube에서 검색](https://www.youtube.com/results?search_query=Peter+Janssens+Neues+Geistliches+Lied+Sacropop)
+
 ## 참고 링크
 
 - [katholisch.de - Neues Geistliches Lied](https://katholisch.de/artikel/19080-neues-geistliches-lied-frueher-musik-des-aufbruchs-heute-oldies)

@@ -35,6 +35,10 @@ OCP 제품 페이지 참조. 수록 성가집 및 미사 경본은 OCP 카탈로
 
 ---
 
+## 🎧 듣기
+
+- [YouTube에서 검색](https://www.youtube.com/results?search_query=New+Celtic+Liturgy+Christopher+Walker+Mass)
+
 ## 참고 링크
 
 - [OCP - Celtic Mass](https://www.ocp.org/en-us/collections/dg/10)

@@ -36,6 +36,10 @@ OCP 제품 페이지 참조. 수록 성가집 및 미사 경본은 OCP 카탈로
 
 ---
 
+## 🎧 듣기
+
+- [YouTube에서 검색](https://www.youtube.com/results?search_query=Mass+of+St+John+Bobby+Fisher+OCP)
+
 ## 참고 링크
 
 - [OCP - Mass of St. John](https://www.ocp.org/en-us/collections/dg/31)
