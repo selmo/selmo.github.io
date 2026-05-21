@@ -23,7 +23,7 @@
 
 ## 3. 가사 (Lyrics & Translations)
 
-세계 청년대회(WYD) 공식 언어를 포함한 주요 언어별 번역입니다.
+[세계청년대회(WYD)](../organizations/WorldYouthDay.md) 공식 언어를 포함한 주요 언어별 번역입니다.
 
 ### 라틴어 (Latin)
 Glória in excélsis Deo
@@ -228,19 +228,19 @@ com o Espírito Santo, na glória de Deus Pai. Amén.
 #### 🎵 **Mass of St. Ann - Glory to God** [🎧](https://www.youtube.com/watch?v=J1qUgqYOe54)
 - **작곡가**: Ed Bolduc
 - **스타일**: Rock / Pop
-- **특징**: Life Teen 공식 미사곡, 활기찬 6/8박자, 기억하기 쉬운 후렴
+- **특징**: [Life Teen](../organizations/LifeTeen.md) 계열 청소년 미사에서 자주 언급되는 곡으로, 활기찬 6/8박자와 기억하기 쉬운 후렴이 특징
 - **참고**: [Mass of St. Ann 상세 페이지](../masses/north-america/mass-of-st-ann.md)
 
 #### 🎵 **Mass of Creation - Glory to God**
 - **작곡가**: Marty Haugen
 - **스타일**: Contemporary Folk
-- **특징**: 1984년 이후 미국 가톨릭 본당의 표준, 밝고 축제적인 분위기
+- **특징**: 1984년 이후 북미 본당 자료에서 자주 확인되며, 밝고 축제적인 분위기가 특징입니다.
 - **참고**: [Mass of Creation 상세 페이지](../masses/north-america/mass-of-creation.md)
 
 #### 🎵 **Mass of Christ the Savior - Glory to God**
 - **작곡가**: Dan Schutte
 - **스타일**: Contemporary Folk
-- **특징**: 압도적 사용률 1위, 영어/스페인어/이중 언어 버전 제공
+- **특징**: OCP 자료에서 반복적으로 확인되는 미사곡이며, 영어/스페인어/이중 언어 버전을 제공합니다.
 - **참고**: [Mass of Christ the Savior 상세 페이지](../masses/north-america/mass-of-christ-the-savior.md)
 
 #### 🎵 **Mass of Communion - Gloria**

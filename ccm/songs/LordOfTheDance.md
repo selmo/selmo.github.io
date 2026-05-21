@@ -15,5 +15,6 @@
 (저작권 문제로 가사 전문은 수록하지 않습니다. 관련 링크를 참조하세요.)
 
 ## 참고 자료
-*   [나무위키: Lord of the Dance](https://namu.wiki/w/Lord%20of%20the%20Dance)
+*   [Stainer & Bell - Lord of the Dance](https://stainer.co.uk/lord-of-the-dance/)
+*   [Hymnary - Lord of the Dance](https://hymnary.org/text/i_danced_in_the_morning_when_the)
 *   [YouTube 영상](https://www.youtube.com/watch?v=OjPGSFDy8wo)

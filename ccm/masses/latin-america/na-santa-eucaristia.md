@@ -95,6 +95,10 @@
 
 ---
 
+## 사용 근거 (Evidence)
+
+공동체 공식 자료 및 음반에서 확인 가능.
+
 ## 검색 키워드
 
 `Canção Nova Na Santa Eucaristia`, `Coral Canção Nova`, `Canção Nova liturgia`
@@ -104,7 +108,8 @@
 ## 참고 링크
 
 - [Canção Nova Official](https://comunidadecancaonova.com/en/)
-- [Wikipedia - Canção Nova](https://en.wikipedia.org/wiki/Can%C3%A7%C3%A3o_Nova)
+- [Canção Nova Música - cifras e partituras do CD Na Santa Eucaristia](https://musica.cancaonova.com/liturgia/baixe-as-cifras-e-as-partituras-do-cd-na-santa-eucaristia/)
+- [Apple Music - Na Santa Eucaristia](https://music.apple.com/us/album/na-santa-eucaristia/1767069369)
 
 ---
 

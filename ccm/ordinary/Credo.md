@@ -201,7 +201,7 @@ E espero a ressurreição dos mortos e a vida do mundo que há-de vir. Amén.
 - **특징**:
   - 멕시코 전통 마리아치 악기 편성: 기타, 비우엘라, 기타론, 트럼펫, 바이올린
   - 2성부 및 3성부 편곡 제공
-  - 멕시코와 미국 남서부 마리아치 미사의 표준
+  - 멕시코와 미국 남서부 마리아치 미사 자료에서 자주 언급되는 레퍼토리
   - 제2차 바티칸 공의회 이후 멕시코 민속음악과 가톨릭 전례의 역사적 융합
 - **원본 녹음**: Mariachi Hnos. Macías (1968)
 - **참고**: [Misa Panamericana 상세 페이지](../masses/latin-america/misa-panamericana.md)
@@ -246,7 +246,7 @@ E espero a ressurreição dos mortos e a vida do mundo que há-de vir. Amén.
 - [Mass of Christ the Savior](../masses/north-america/mass-of-christ-the-savior.md) - Contemporary Folk
 - [Mass of Creation](../masses/north-america/mass-of-creation.md) - Contemporary Folk
 - [Mass of Renewal](../masses/north-america/mass-of-renewal.md) - Contemporary
-- [Mass of St. Ann](../masses/north-america/mass-of-st-ann.md) - Rock / Pop (Life Teen)
+- [Mass of St. Ann](../masses/north-america/mass-of-st-ann.md) - Rock / Pop ([Life Teen](../organizations/LifeTeen.md))
 
 더 많은 현대 미사곡은 [International Mass 페이지](../InternationalMass.md)에서 확인하실 수 있습니다.
 

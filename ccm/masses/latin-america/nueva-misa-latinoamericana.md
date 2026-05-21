@@ -6,8 +6,8 @@
 
 ![Region](https://img.shields.io/badge/Region-Latin_America_(Multicultural)-blue)
 ![Style](https://img.shields.io/badge/Style-Huayno-green)
-![Difficulty](https://img.shields.io/badge/Difficulty-TBD-lightgrey)
-![Year](https://img.shields.io/badge/Year-TBD-lightgrey)
+![Difficulty](https://img.shields.io/badge/Difficulty-중-orange)
+![Year](https://img.shields.io/badge/Year-Unknown-lightgrey)
 
 ## 개요
 
@@ -28,6 +28,12 @@
 - **Gospel Acclamations**: metered/chanted verse 옵션을 포함하도록 개정되었고, 장례/혼인 전례용 verse 옵션이 추가되었다고 안내됨
 
 ---
+
+## 사용 근거 (Evidence)
+
+OCP 제품 페이지의 이중언어 미사곡 컬렉션에 수록:
+- 다문화 공동체용 이중언어(영어/스페인어) 미사곡으로 OCP에서 소개
+- Gloria through-composed와 후렴형 옵션을 모두 제공하는 유연한 편성
 
 ## 검색 키워드
 

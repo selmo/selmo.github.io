@@ -82,7 +82,8 @@
 
 ### [영성체송 (Communio)](ordinary/Communio.md) (고유문)
 영성체 동안 부르는 노래.
-- (작품 목록 추가 예정)
+- 전통 고유문 또는 성체성사의 신비와 그날의 전례문에 맞는 성체 성가를 선택
+- (야훼이레) 최태형 안셀모: No. 756 `주님께서 얼마나 좋은 분인지`, No. 658 `예수 그리스도는`
 
 ## 마침 예식 (Concluding Rites)
 
@@ -92,4 +93,10 @@
 
 ---
 
-**관련 페이지**: [평론 및 정보](Commentary.md)에서 미사곡의 전례적 의미를 확인하세요.
+**관련 페이지**
+*   [평론 및 정보](Commentary.md): 미사곡의 전례적 의미
+*   [해외 현대 미사곡](InternationalMass.md): 지역별 현대 미사곡 개관
+*   [청소년·대학생·국제행사 가이드](organizations/YouthAndYoungAdultGuide.md): 청소년·청년 사목 맥락에서 보는 음악
+*   [한국청년대회 (Korea Youth Day, KYD)](organizations/KoreaYouthDay.md)
+*   [청소년 주일](organizations/KoreanYouthSunday.md)
+*   [젊은이 성령축제 HYD](organizations/HolyspiritYouthDay.md)

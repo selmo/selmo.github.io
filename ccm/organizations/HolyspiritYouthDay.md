@@ -1,0 +1,42 @@
+[Home](../../index.md) | [Catholic Music](../index.md) | [Organizations](index.md) | **Holyspirit Youth Day**
+
+---
+
+# 젊은이 성령축제 HYD (Holyspirit Youth Day)
+
+**HYD(Holyspirit Youth Day)**는 한국가톨릭젊은이성령쇄신연합이 여는 청년 성령축제입니다. 공개 자료상 현재는 독립 고정 홈페이지보다 기사와 교구 공지를 통해 내용이 확인되는 경우가 많으며, 한국 가톨릭 청년 성령쇄신 흐름을 한 번에 볼 수 있는 대표 행사 가운데 하나로 읽을 수 있습니다.
+
+## 공개 자료 기준 핵심 구조
+
+*   가톨릭타임스 2025년 보도에 따르면, `2025 젊은이 성령축제 HYD`는 한국가톨릭젊은이성령쇄신연합이 인천교구청 보니파시오 대강당과 야외 성모당 일원에서 개최했습니다.
+*   같은 보도는 HYD가 청소년과 청년, 어린 자녀를 둔 청장년층까지 참여 가능한 행사이며, 찬양기도회, 강의, 체험 부스, 기도 부스를 포함한다고 설명합니다.
+*   수원교구 젊은이 기도모임 공지를 함께 보면, HYD는 각 교구의 정기 `열린 찬양 미사`, `열린 찬양 기도회`, `성령 안의 새 생활 피정`과 연결되는 연합 행사로 이해하는 편이 자연스럽습니다.
+
+## 전례 음악과의 관련성
+
+*   HYD는 본당 주일 미사보다 `찬양기도회`, `열린 찬양 미사`, `성령 피정`, `연합 찬미팀` 문화와 더 직접적으로 연결됩니다.
+*   따라서 미사 통상문 자체보다 워십형 찬양, 응답형 후렴, 집회 인도, 치유와 위로를 강조하는 기도 음악 문법을 읽는 데 유용합니다.
+*   한국 청년 성령쇄신 안에서 생활성가와 찬양미사가 어떻게 결합되는지 보고 싶을 때 좋은 사례입니다.
+
+## 비교해서 볼 포인트
+
+*   [한국 가톨릭 젊은이 성령쇄신](KoreanYoungCharismaticRenewal.md): HYD를 낳는 지속적 교구 기도모임 구조
+*   [Youth 2000](Youth2000.md): 국제 피정형 청년 행사
+*   [Damascus](Damascus.md): worship ministry와 집회형 찬양이 강한 북미 사례
+
+## 공식/참고 링크
+
+*   [가톨릭타임스 - 2025 젊은이 성령축제 HYD](https://www.catholictimes.org/article/20250502500172)
+*   [수원교구 - 2026년 젊은이 기도모임 열린찬양미사 및 기도회](https://www.casuwon.or.kr/info/event/108188)
+*   [수원교구 - 2025년 젊은이 기도모임 열린 찬양 미사·기도회](https://www.casuwon.or.kr/info/event/102636)
+
+## 함께 보기
+
+*   [한국 가톨릭 젊은이 성령쇄신](KoreanYoungCharismaticRenewal.md)
+*   [청소년·대학생·국제행사 가이드](YouthAndYoungAdultGuide.md)
+*   [청소년·청년 운동 비교표](YouthMovementsComparison.md)
+*   [청소년·청년 운동과 레퍼토리 대응표](YouthRepertoireMap.md)
+
+---
+
+[⬅️ Back to Organizations](index.md)

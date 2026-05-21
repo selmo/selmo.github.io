@@ -6,7 +6,7 @@
 
 ![Region](https://img.shields.io/badge/Region-Latin_America_(El_Salvador)-blue)
 ![Style](https://img.shields.io/badge/Style-Folk_|_Acoustic-green)
-![Difficulty](https://img.shields.io/badge/Difficulty-하-brightgreen)
+![Difficulty](https://img.shields.io/badge/Difficulty-쉬움-brightgreen)
 ![Year](https://img.shields.io/badge/Year-1980s-lightgrey)
 
 ## 개요
@@ -27,6 +27,10 @@
 - 로메로 주교 기념 미사
 
 ---
+
+## 사용 근거 (Evidence)
+
+출판사 및 공동체 자료에서 확인 가능.
 
 ## 검색 키워드
 

@@ -6,7 +6,7 @@
 
 ![Region](https://img.shields.io/badge/Region-UK_&_Ireland-blue)
 ![Style](https://img.shields.io/badge/Style-Contemporary_Choral_|_Congregational-green)
-![Difficulty](https://img.shields.io/badge/Difficulty-중상-orange)
+![Difficulty](https://img.shields.io/badge/Difficulty-상-red)
 ![Year](https://img.shields.io/badge/Year-1985,_1996,_2011-lightgrey)
 
 ## 개요
@@ -76,6 +76,10 @@
 🎧 **Gloria (2011)**, **Sanctus and Benedictus**
 
 ---
+
+## 사용 근거 (Evidence)
+
+출판사 및 공동체 자료에서 확인 가능.
 
 ## 검색 키워드
 

@@ -6,7 +6,7 @@
 
 ![Region](https://img.shields.io/badge/Region-UK_&_Ireland_(Ireland)-blue)
 ![Style](https://img.shields.io/badge/Style-Celtic-green)
-![Difficulty](https://img.shields.io/badge/Difficulty-E--M-lightgrey)
+![Difficulty](https://img.shields.io/badge/Difficulty-쉬움-brightgreen)
 ![Year](https://img.shields.io/badge/Year-2021-lightgrey)
 
 ## 개요
@@ -23,9 +23,13 @@
 - “Ruah(성령)”을 주제로, 호흡/성령 이미지와 함께 공동체가 노래하도록 초대하는 미사곡으로 소개됨
 - 켈틱 themes/motifs를 중심으로 구성되며, 주님의 기도(Our Father)를 제외하고는 전체가 D 조성으로 쓰였다고 안내됨
 - 풀 켈틱 편성의 레코딩 사운드를 모델로 하지만, 단순한 반주에서도 충분히 효과적이라고 소개됨
-- “Eucharistic Prayer for Children”을 사용한다고 언급됨(용도/전례 적용은 공동체 상황에 맞게 확인 필요)
+- GIA 소개에서 “Eucharistic Prayer for Children” 사용을 언급하므로, 실제 전례 적용은 공동체 상황과 전례 지침에 맞추어 판단해야 함
 
 ---
+
+## 사용 근거 (Evidence)
+
+출판사 및 공동체 자료에서 확인 가능.
 
 ## 검색 키워드
 
@@ -41,4 +45,3 @@
 ---
 
 [⬅️ Back to International Mass Index](../../InternationalMass.md)
-

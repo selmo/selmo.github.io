@@ -9,7 +9,7 @@
 ## 활동 및 특징
 *   **사제 작곡가**: 사목 현장에서의 경험을 바탕으로 신자들의 신앙 성숙을 돕는 곡들을 씁니다.
 *   **청소년/청년 지향**: 청소년과 청년들이 전례에 기쁘게 참여할 수 있도록 밝고 힘찬 리듬의 곡들이 많습니다.
-*   **미사곡**: '베난시오 미사곡'은 한국 가톨릭 청년 미사에서 가장 널리 불리는 미사곡 중 하나입니다.
+*   **미사곡**: '베난시오 미사곡'은 한국 가톨릭 청년 미사에서 자주 불리는 미사곡 가운데 하나로 거론됩니다.
 
 ## 야훼이레 수록곡
 
@@ -37,3 +37,11 @@
 *   **782. 주님 제 입술을 열어주소서**: "주님 제 입술을 열어주소서 제 입이 당신 찬미 전하리다"
 *   **856. 축제**: "우리들의 힘이신 하느님께 노래를 불러드려라"
 *   **919. 하늘의 태양은 못 되더라도**: "어둔 거리 비추는 작은 등불처럼"
+
+## 함께 보기
+*   [한국 가톨릭 대학생 연합](../organizations/KoreaCatholicUniversityStudents.md)
+*   [한국청년대회 (Korea Youth Day, KYD)](../organizations/KoreaYouthDay.md)
+*   [청소년 주일](../organizations/KoreanYouthSunday.md)
+*   [한국 가톨릭 젊은이 성령쇄신](../organizations/KoreanYoungCharismaticRenewal.md)
+*   [젊은이 성령축제 HYD](../organizations/HolyspiritYouthDay.md)
+*   [청소년·청년 운동과 레퍼토리 대응표](../organizations/YouthRepertoireMap.md)

@@ -6,8 +6,8 @@
 
 ![Region](https://img.shields.io/badge/Region-North_America_(USA)-blue)
 ![Style](https://img.shields.io/badge/Style-Bilingual-green)
-![Difficulty](https://img.shields.io/badge/Difficulty-TBD-lightgrey)
-![Year](https://img.shields.io/badge/Year-TBD-lightgrey)
+![Difficulty](https://img.shields.io/badge/Difficulty-중-orange)
+![Year](https://img.shields.io/badge/Year-Unknown-lightgrey)
 
 ## 개요
 

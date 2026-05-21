@@ -55,7 +55,7 @@ Alleluia, Alleluia.
 #### 🎵 **Mass of St. Ann - Gospel Acclamation** [🎧](https://www.youtube.com/watch?v=f0wRzSwQBgo)
 - **작곡가**: Ed Bolduc
 - **스타일**: Rock / Pop
-- **특징**: Life Teen 공식 미사곡, 활기찬 6/8박자, 추천 트랙
+- **특징**: [Life Teen](../organizations/LifeTeen.md) 계열 청소년 미사에서 자주 언급되는 곡으로, 활기찬 6/8박자와 추천 트랙으로 자주 거론됨
 - **참고**: [Mass of St. Ann 상세 페이지](../masses/north-america/mass-of-st-ann.md)
 
 #### 🎵 **Mass of Communion - Gospel Acclamation (Alleluia)**
@@ -73,13 +73,13 @@ Alleluia, Alleluia.
 #### 🎵 **Mass of Creation - Gospel Acclamation**
 - **작곡가**: Marty Haugen
 - **스타일**: Contemporary Folk
-- **특징**: 1984년 이후 미국 본당의 표준, 회중이 쉽게 따라 부름
+- **특징**: 1984년 이후 북미 본당 자료에서 자주 확인되며, 회중이 쉽게 따라 부를 수 있는 선율입니다.
 - **참고**: [Mass of Creation 상세 페이지](../masses/north-america/mass-of-creation.md)
 
 #### 🎵 **Mass of Christ the Savior - Gospel Acclamation**
 - **작곡가**: Dan Schutte
 - **스타일**: Contemporary Folk
-- **특징**: 가장 널리 사용되는 미사곡, 영어/스페인어 버전 제공
+- **특징**: OCP 자료에서 반복적으로 확인되는 미사곡이며, 영어/스페인어 버전을 제공합니다.
 - **참고**: [Mass of Christ the Savior 상세 페이지](../masses/north-america/mass-of-christ-the-savior.md)
 
 ### 유럽 스타일

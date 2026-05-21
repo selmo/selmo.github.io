@@ -93,6 +93,10 @@
 
 ---
 
+## 사용 근거 (Evidence)
+
+출판사 및 공동체 자료에서 확인 가능.
+
 ## 검색 키워드
 
 `Misa Criolla Ariel Ramirez`, `Misa Criolla José Carreras`, `Misa Criolla Mercedes Sosa`
@@ -102,7 +106,6 @@
 ## 참고 링크
 
 - [LA Phil - Misa Criolla](https://www.laphil.com/musicdb/pieces/2346/misa-criolla)
-- [Wikipedia - Ariel Ramírez](https://en.wikipedia.org/wiki/Ariel_Ram%C3%ADrez)
 
 ---
 

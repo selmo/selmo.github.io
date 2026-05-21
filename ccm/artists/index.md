@@ -9,7 +9,7 @@
 ## 한국 가톨릭 작곡가 (Korean Catholic Composers)
 
 *   **[김정식 로제리오 (Kim Jeong-sik)](KimJeongSik.md)**
-    *   한국 생활성가의 개척자. 대표곡: '자비송', '평화의 노래'
+    *   한국 생활성가 초기 흐름을 보여 주는 작곡가. 대표곡: '자비송', '평화의 노래'
 *   **[신상옥 안드레아 (Shin Sang-ok)](ShinSangOk.md)**
     *   대표곡: '내 발을 씻기신 예수', '주님의 기도', '너는 내 것이라'
 *   **[이형진 가브리엘 (Lee Hyung-jin)](LeeHyungJin.md)**
@@ -22,15 +22,35 @@
     *   대표곡: '현정수 미사곡', '아버지 뜻대로', '주님을 향하여'
 
 ## 해외 가톨릭 아티스트 (Global Catholic Artists)
+### 미사곡 작곡가 (Mass Setting Composers)
+
+*   **[댄 슈테 (Dan Schutte)](DanSchutte.md)**
+    *   [St. Louis Jesuits](StLouisJesuits.md) 멤버. [Mass of Christ the Savior](../masses/north-america/mass-of-christ-the-savior.md), Here I Am, Lord
+*   **[마티 호건 (Marty Haugen)](MartyHaugen.md)**
+    *   [Mass of Creation](../masses/north-america/mass-of-creation.md). GIA 대표 작곡가
+*   **[밥 허드 (Bob Hurd)](BobHurd.md)**
+    *   [Misa del Pueblo Inmigrante](../masses/north-america/misa-del-pueblo-inmigrante.md), [Mass of the Compassionate Christ](../masses/north-america/mass-of-the-compassionate-christ.md). 이중언어 전례 음악 선구자
+*   **[켄 카네도 (Ken Canedo)](KenCanedo.md)**
+    *   [Mass of Glory](../masses/north-america/mass-of-glory.md). 복음·재즈·블루스 스타일
+*   **[커티스 스테판 (Curtis Stephan)](CurtisStephan.md)**
+    *   [Mass of Renewal](../masses/north-america/mass-of-renewal.md), [Mass of St. Kilian](../masses/north-america/mass-of-st-kilian.md)
+*   **[에드 볼덕 (Ed Bolduc)](EdBolduc.md)**
+    *   [Mass of St. Ann](../masses/north-america/mass-of-st-ann.md). [Life Teen](../organizations/LifeTeen.md) 네트워크
+*   **[토니 알론소 (Tony Alonso)](TonyAlonso.md)**
+    *   [Mass of Joy and Peace](../masses/north-america/mass-of-joy-and-peace.md). GIA/OCP
+*   **[리키 마날로 (Ricky Manalo, CSP)](RickyManalo.md)**
+    *   [Mass of Spirit and Grace](../masses/north-america/mass-of-spirit-and-grace.md). 다문화 전례 음악
+
+### 대표곡 중심 아티스트
 
 *   **[세인트 루이스 예수회 (St. Louis Jesuits)](StLouisJesuits.md)**
-    *   미국 가톨릭 성가의 르네상스를 이끈 그룹. 대표곡: 'Here I am, Lord', 'Be Not Afraid'
+    *   미국 가톨릭 성가 갱신 흐름에서 중요한 그룹. 대표곡: 'Here I am, Lord', 'Be Not Afraid'
 *   **[마르코 프리시나 (Marco Frisina)](MarcoFrisina.md)**
-    *   이탈리아의 전례 및 영화 음악 거장. 대표곡: 'Jesus Christ You Are My Life'
+    *   이탈리아의 전례 및 영화 음악 작곡가. [세계청년대회(WYD)](../organizations/WorldYouthDay.md) 주제가 작곡으로도 잘 알려져 있습니다.
 *   **[맷 마허 (Matt Maher)](MattMaher.md)**
-    *   현대 CCM 씬의 대표적 가톨릭 아티스트. 대표곡: 'Lord, I Need You'
+    *   현대 CCM 씬에서 활동하는 가톨릭 아티스트. 대표곡: 'Lord, I Need You'
 *   **[존 마이클 탈봇 (John Michael Talbot)](JohnMichaelTalbot.md)**
-    *   묵상 음악의 대가. 대표곡: 'Holy Is His Name'
+    *   묵상 음악으로 잘 알려진 아티스트. 대표곡: 'Holy Is His Name'
 *   **[세바스티안 템플 (Sebastian Temple)](SebastianTemple.md)**
     *   대표곡: '평화의 기도 (Prayer of St. Francis)'
 *   **[체사레오 가바라인 (Cesáreo Gabaráin)](CesareoGabarain.md)**
@@ -43,13 +63,13 @@
 ## 떼제 & 포콜라레 (Taizé & Focolare)
 
 *   **[자크 베르티에 & 떼제 (Jacques Berthier & Taizé)](JacquesBerthier.md)**
-    *   프랑스 떼제 공동체의 묵상 노래. '거룩 거룩', '두려워 말라'
+    *   프랑스 [떼제 공동체](../organizations/TaizeCommunity.md)의 묵상 노래. '거룩 거룩', '두려워 말라'
 *   **[젠 로쏘 & 젠 베르데 (Gen Rosso & Gen Verde)](GenRossoVerde.md)**
-    *   포콜라레 운동의 국제 공연 단체. '예수님의 우리의 미사', '하느님은 사랑이니'
+    *   [포콜라레 운동](../organizations/FocolareMovement.md)의 국제 공연 단체. '예수님의 우리의 미사', '하느님은 사랑이니'
 
 ## 에큐메니칼 & 현대 워십 (Ecumenical & Modern Worship)
 
-야훼이레 성가집에 수록된, 가톨릭 전례에서도 널리 사랑받는 개신교 및 에큐메니칼 아티스트들입니다.
+야훼이레 성가집에 수록된, 가톨릭 전례에서도 자주 불리는 개신교 및 에큐메니칼 아티스트들입니다.
 
 *   **[크리스 보워터 (Chris Bowater)](ChrisBowater.md)** ('거룩하신 성령이여')
 *   **[데이비드 펠링햄 (David Fellingham)](DavidFellingham.md)** ('기뻐하며 승리의 노래')
@@ -74,3 +94,9 @@
 **관련 페이지**:
 *   [최태형 안셀모 작품 목록](../songs/TaeHyoungChoi.md)
 *   [곡 정보 및 해설 (Songs)](../songs/index.md)
+*   [한국청년대회 (Korea Youth Day, KYD)](../organizations/KoreaYouthDay.md)
+*   [청소년 주일](../organizations/KoreanYouthSunday.md)
+*   [젊은이 성령축제 HYD](../organizations/HolyspiritYouthDay.md)
+*   [청소년·대학생·국제행사 가이드](../organizations/YouthAndYoungAdultGuide.md)
+*   [청소년·청년 운동 비교표](../organizations/YouthMovementsComparison.md)
+*   [청소년·청년 운동과 레퍼토리 대응표](../organizations/YouthRepertoireMap.md)

@@ -6,8 +6,8 @@
 
 ![Region](https://img.shields.io/badge/Region-Latin_America_(Dominican_Republic)-blue)
 ![Style](https://img.shields.io/badge/Style-Caribbean-green)
-![Difficulty](https://img.shields.io/badge/Difficulty-TBD-lightgrey)
-![Year](https://img.shields.io/badge/Year-TBD-lightgrey)
+![Difficulty](https://img.shields.io/badge/Difficulty-중-orange)
+![Year](https://img.shields.io/badge/Year-Unknown-lightgrey)
 
 ## 개요
 
@@ -24,6 +24,12 @@
 - Apolinar Bueno, Julio A. Hernández, Carlos Manuel Santana Reyes, Alfred A. Morales, Bernardo Almonte, Alejandro R. Delgado가 쓴 미사 파트로 구성된 “diverse setting”이라고 소개됨
 
 ---
+
+## 사용 근거 (Evidence)
+
+OCP 제품 페이지의 온라인 전용 컬렉션에 수록:
+- OCP 온라인 전용(Exclusively Online) 미사곡으로 분류
+- 카리브 지역 다작곡가 협업(Criolla, Merengue lento) 설정
 
 ## 검색 키워드
 

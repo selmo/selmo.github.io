@@ -6,7 +6,7 @@
 
 ![Region](https://img.shields.io/badge/Region-Asia_(Philippines)-blue)
 ![Style](https://img.shields.io/badge/Style-Pop_Ballad-green)
-![Difficulty](https://img.shields.io/badge/Difficulty-TBD-lightgrey)
+![Difficulty](https://img.shields.io/badge/Difficulty-중-orange)
 ![Year](https://img.shields.io/badge/Year-2002-lightgrey)
 
 ## 개요
@@ -35,6 +35,10 @@
 🎧 **Panginoon Maawa Ka**, **Glory to God**, **Santo**
 
 ---
+
+## 사용 근거 (Evidence)
+
+공동체 공식 자료 및 음반에서 확인 가능.
 
 ## 검색 키워드
 

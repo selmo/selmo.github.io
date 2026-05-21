@@ -6,8 +6,8 @@
 
 ![Region](https://img.shields.io/badge/Region-Latin_America_(Cuba)-blue)
 ![Style](https://img.shields.io/badge/Style-Cuban-green)
-![Difficulty](https://img.shields.io/badge/Difficulty-TBD-lightgrey)
-![Year](https://img.shields.io/badge/Year-TBD-lightgrey)
+![Difficulty](https://img.shields.io/badge/Difficulty-중-orange)
+![Year](https://img.shields.io/badge/Year-Unknown-lightgrey)
 
 ## 개요
 
@@ -22,6 +22,10 @@
 - 기쁜 축일/축제 미사에 어울리는 energetic Mass
 
 ---
+
+## 사용 근거 (Evidence)
+
+OCP 제품 페이지 참조. 온라인 전용 또는 카탈로그 수록 미사곡 세트.
 
 ## 검색 키워드
 

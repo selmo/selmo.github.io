@@ -6,7 +6,7 @@
 
 ![Region](https://img.shields.io/badge/Region-North_America-blue)
 ![Style](https://img.shields.io/badge/Style-Modern_Worship_|_Indie_Rock-green)
-![Difficulty](https://img.shields.io/badge/Difficulty-중상-orange)
+![Difficulty](https://img.shields.io/badge/Difficulty-중-orange)
 ![Year](https://img.shields.io/badge/Year-2011-lightgrey)
 
 ## 개요

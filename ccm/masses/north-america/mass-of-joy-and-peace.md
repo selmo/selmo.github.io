@@ -6,7 +6,7 @@
 
 ![Region](https://img.shields.io/badge/Region-North_America-blue)
 ![Style](https://img.shields.io/badge/Style-Contemporary-green)
-![Difficulty](https://img.shields.io/badge/Difficulty-하~중-yellow)
+![Difficulty](https://img.shields.io/badge/Difficulty-쉬움-brightgreen)
 ![Year](https://img.shields.io/badge/Year-2010-lightgrey)
 
 ## 개요
@@ -16,7 +16,7 @@
 **스타일**: Contemporary
 
 ### 특징
-[보편적 인기] 2010년 이후 가장 널리 불리는 성체 미사곡 중 하나로 자주 언급됩니다.
+[현대 북미 본당 레퍼토리] 2010년 이후 GIA contemporary mass setting 맥락에서 자주 언급되는 작품입니다.
 - Gentle, melodic motifs와 jubilant, lilting rhythmic patterns
 - 조용한 기쁨과 평화로운 행복감
 - 기타 에디션 포함
@@ -33,10 +33,16 @@
 
 ## 평가 (Notes)
 
-- “2010년 소개 후 가장 널리 불리는 성체 미사곡 중 하나”
+- “2010년 이후 자주 언급되는 contemporary mass setting”
 - “부드러운 멜로디 모티프와 즐거운 리듬 패턴”
 
 ---
+
+## 사용 근거 (Evidence)
+
+OCP 제품 페이지 참조. 수록 성가집 및 미사 경본은 OCP 카탈로그에서 확인 가능:
+- OCP Mass Settings 카탈로그에 등록된 미사곡 세트
+- OCP 제품 페이지에서 수록 정보 확인 가능
 
 ## 검색 키워드
 
@@ -51,4 +57,3 @@
 ---
 
 [⬅️ Back to International Mass Index](../../InternationalMass.md)
-

@@ -6,7 +6,7 @@
 
 ![Region](https://img.shields.io/badge/Region-WYD_(Sydney_2008)-blue)
 ![Style](https://img.shields.io/badge/Style-Contemporary_|_Liturgical-green)
-![Difficulty](https://img.shields.io/badge/Difficulty-TBD-lightgrey)
+![Difficulty](https://img.shields.io/badge/Difficulty-중-orange)
 ![Year](https://img.shields.io/badge/Year-2008-lightgrey)
 
 ## 개요
@@ -15,6 +15,7 @@
 **출판**: OCP
 **작곡 연도**: 2008 (WYD Sydney 위촉)
 **스타일**: Contemporary / Liturgical
+**관련 행사**: [세계청년대회 (WYD)](../../organizations/WorldYouthDay.md)
 
 ### 특징
 [마기스] OCP 제품 페이지에서 WYD Sydney 2008 위촉(commissioned) 맥락을 안내하는 미사곡.
@@ -37,5 +38,11 @@
 `Missa Magis Christopher Willcock`, `WYD Sydney 2008 Mass`
 
 ---
+
+## 참고 링크
+
+- [OCP - Missa Magis](https://www.ocp.org/en-us/collections/dg/42)
+- [OCP - Christopher Willcock, SJ](https://www.ocp.org/en-us/artists/549/christopher-willcock-sj)
+- [Australian Music Centre - Christopher Willcock](https://www.australianmusiccentre.com.au/artist/willcock-christopher)
 
 [⬅️ Back to International Mass Index](../../InternationalMass.md)

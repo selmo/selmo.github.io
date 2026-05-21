@@ -6,7 +6,7 @@
 
 ![Region](https://img.shields.io/badge/Region-Europe_(Germany)-blue)
 ![Style](https://img.shields.io/badge/Style-NGL_|_Contemporary_|_Folk_|_Beat-green)
-![Difficulty](https://img.shields.io/badge/Difficulty-TBD-lightgrey)
+![Difficulty](https://img.shields.io/badge/Difficulty-중-orange)
 ![Year](https://img.shields.io/badge/Year-1962_1998-lightgrey)
 
 ## 개요
@@ -54,8 +54,11 @@
 
 ## 참고 링크
 
-- [Wikipedia - Peter Janssens](https://en.wikipedia.org/wiki/Peter_Janssens)
+- [katholisch.de - Neues Geistliches Lied](https://katholisch.de/artikel/19080-neues-geistliches-lied-frueher-musik-des-aufbruchs-heute-oldies)
 
 ---
+
+*   [Deutsche Bischofskonferenz - Kirchenmusik](https://www.dbk.de/themen/glaube-und-kirche/kirchenmusik/)
+*   [Peter Janssens Archiv (gen-verlag)](https://www.gen-verlag.de/komponisten/peter-janssens/)
 
 [⬅️ Back to International Mass Index](../../InternationalMass.md)

@@ -6,8 +6,8 @@
 
 ![Region](https://img.shields.io/badge/Region-Latin_America_(Mexico)-blue)
 ![Style](https://img.shields.io/badge/Style-Mariachi-green)
-![Difficulty](https://img.shields.io/badge/Difficulty-TBD-lightgrey)
-![Year](https://img.shields.io/badge/Year-TBD-lightgrey)
+![Difficulty](https://img.shields.io/badge/Difficulty-상-red)
+![Year](https://img.shields.io/badge/Year-Unknown-lightgrey)
 
 ## 개요
 
@@ -25,6 +25,10 @@
 - full score(전체 악보) 및 필요한 파트별 다운로드 제공이 언급됨
 
 ---
+
+## 사용 근거 (Evidence)
+
+OCP 제품 페이지 참조. 온라인 전용 또는 카탈로그 수록 미사곡 세트.
 
 ## 검색 키워드
 

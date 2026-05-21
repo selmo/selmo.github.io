@@ -6,7 +6,7 @@
 
 ![Region](https://img.shields.io/badge/Region-North_America-blue)
 ![Style](https://img.shields.io/badge/Style-Contemporary_Folk_|_Accessible-green)
-![Difficulty](https://img.shields.io/badge/Difficulty-하~중-yellow)
+![Difficulty](https://img.shields.io/badge/Difficulty-중-orange)
 ![Year](https://img.shields.io/badge/Year-1984,_2010-lightgrey)
 
 ## 개요
@@ -17,7 +17,7 @@
 **스타일**: Contemporary Folk / Accessible
 
 ### 특징
-[대표 레퍼토리] GIA Publications 자료에서 대표적인 현대 미사곡 설정으로 소개되는 작품.
+[GIA contemporary mass setting 자료] GIA Publications 자료에서 반복적으로 소개되는 현대 미사곡 설정입니다.
 - 1984년 초판, 2010년 개정판(새 미사경본 텍스트 대응)
 - 오르간/피아노/밴드 등 다양한 편성으로 사용 가능하도록 출판
 - 회중이 비교적 쉽게 따라 부를 수 있는 선율을 목표로 한 컨템포러리 포크 스타일
@@ -46,7 +46,7 @@
 
 ## 긍정 평가
 
-- ✅ "가톨릭 신자들 사이에서 널리 알려지고 사랑받음"
+- ✅ GIA 자료와 기사에서 장기간 유통된 대표 설정으로 확인 가능
 - ✅ "회중이 매우 쉽게 배우고 부를 수 있음"
 - ✅ "오르간, 피아노, 기타 등 다양한 악기 편성 가능"
 - ✅ "모든 연령층에게 접근 가능"
@@ -71,7 +71,7 @@
 
 ## 역사적 의미
 
-- 영어권 현대 미사곡 레퍼토리에서 자주 언급되는 설정
+- 영어권 현대 미사곡 레퍼토리에서 반복적으로 언급되는 설정
 - 2010 개정판을 통해 새 미사경본 텍스트에 대응
 
 ---

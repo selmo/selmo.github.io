@@ -6,7 +6,7 @@
 
 ![Region](https://img.shields.io/badge/Region-North_America-blue)
 ![Style](https://img.shields.io/badge/Style-Contemporary-green)
-![Difficulty](https://img.shields.io/badge/Difficulty-하~중-yellow)
+![Difficulty](https://img.shields.io/badge/Difficulty-쉬움-brightgreen)
 ![Year](https://img.shields.io/badge/Year-2018,_2019-lightgrey)
 
 ## 개요
@@ -37,6 +37,10 @@
 - “기억하기 쉬운 보컬 멜로디와 반주”
 
 ---
+
+## 사용 근거 (Evidence)
+
+OCP 제품 페이지 참조. 수록 성가집 및 미사 경본은 OCP 카탈로그에서 확인 가능.
 
 ## 검색 키워드
 

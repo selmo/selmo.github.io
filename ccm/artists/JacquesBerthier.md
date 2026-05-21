@@ -4,7 +4,7 @@
 
 # 자크 베르티에 (Jacques Berthier) & 떼제 (Taizé)
 
-**자크 베르티에** (1923–1994)는 프랑스의 작곡가이자 오르가니스트로, **떼제 공동체(Taizé Community)**의 독특한 기도 음악을 확립하는 데 결정적인 역할을 했습니다.
+**자크 베르티에** (1923–1994)는 프랑스의 작곡가이자 오르가니스트로, **[떼제 공동체](../organizations/TaizeCommunity.md) (Taizé Community)**의 독특한 기도 음악을 확립하는 데 결정적인 역할을 했습니다.
 
 ## 떼제 음악의 특징
 떼제 음악은 전 세계에서 모인 젊은이들이 함께 기도할 수 있도록 고안되었습니다.
@@ -33,4 +33,6 @@
 *   **221. 주를 찬미하나이다 (Confitemini Domino)**
 
 ## 관련 링크
+*   [떼제 공동체 소개](../organizations/TaizeCommunity.md)
+*   [Taizé Mass Settings](../masses/europe/taize-mass-settings-jacques-berthier.md)
 *   [Taizé Community 공식 웹사이트](https://www.taize.fr/ko)

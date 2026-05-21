@@ -6,7 +6,7 @@
 
 ![Region](https://img.shields.io/badge/Region-Europe_(France)-blue)
 ![Style](https://img.shields.io/badge/Style-Contemporary_Worship_|_Pop_Rock-green)
-![Difficulty](https://img.shields.io/badge/Difficulty-TBD-lightgrey)
+![Difficulty](https://img.shields.io/badge/Difficulty-중-orange)
 ![Year](https://img.shields.io/badge/Year-2017-lightgrey)
 
 ## 개요
@@ -47,6 +47,10 @@
 🎧 **Kyrie**, **Gloria**, **Sanctus**
 
 ---
+
+## 사용 근거 (Evidence)
+
+출판사 및 공동체 자료에서 확인 가능.
 
 ## 검색 키워드
 

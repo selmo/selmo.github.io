@@ -76,6 +76,10 @@
 
 ---
 
+## 사용 근거 (Evidence)
+
+OCP 제품 페이지 참조. 수록 성가집 및 미사 경본은 OCP 카탈로그에서 확인 가능.
+
 ## 검색 키워드
 
 `Mass of Hope Bernadette Farrell OCP`, `Bernadette Farrell Sanctus`

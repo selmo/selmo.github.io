@@ -6,8 +6,8 @@
 
 ![Region](https://img.shields.io/badge/Region-Latin_America_(Peru)-blue)
 ![Style](https://img.shields.io/badge/Style-Huayno-green)
-![Difficulty](https://img.shields.io/badge/Difficulty-TBD-lightgrey)
-![Year](https://img.shields.io/badge/Year-TBD-lightgrey)
+![Difficulty](https://img.shields.io/badge/Difficulty-중-orange)
+![Year](https://img.shields.io/badge/Year-Unknown-lightgrey)
 
 ## 개요
 
@@ -24,6 +24,12 @@
 - 여러 음악 전통을 합성(synthesis)한 기쁜(joyous) 설정으로 안내됨
 
 ---
+
+## 사용 근거 (Evidence)
+
+OCP 제품 페이지의 온라인 전용 컬렉션에 수록:
+- OCP 온라인 전용(Exclusively Online) 미사곡으로 분류
+- Gloria 단일 설정으로 페루 huayno 전통을 전례에 적용
 
 ## 검색 키워드
 

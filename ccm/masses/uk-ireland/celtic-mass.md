@@ -6,7 +6,7 @@
 
 ![Region](https://img.shields.io/badge/Region-UK_&_Ireland-blue)
 ![Style](https://img.shields.io/badge/Style-Traditional-green)
-![Difficulty](https://img.shields.io/badge/Difficulty-TBD-lightgrey)
+![Difficulty](https://img.shields.io/badge/Difficulty-중-orange)
 ![Year](https://img.shields.io/badge/Year-Revised_2011-lightgrey)
 
 ## 개요
@@ -17,13 +17,17 @@
 **OCP 분류**: Traditional
 
 ### 특징
-[유럽/아일랜드 인기 1위] "New Celtic Liturgy"로도 알려져 있으며, 아일랜드와 영국 등 켈틱 문화권에서 매우 인기 있는 곡입니다.
+[영국·아일랜드권 켈틱 레퍼토리] "New Celtic Liturgy"로도 알려져 있으며, 아일랜드와 영국 등 켈틱 문화권 자료에서 자주 보이는 곡입니다.
 - 서정적이고 아름다운 선율
 - 소규모 본당부터 대성당까지 적용 가능한 설정
 - 수십 년 동안 사랑받아 온 익숙한 톤을 바탕으로, 경쾌한 멜로디/후렴을 강조
 - 반주 옵션이 매우 다양(키보드 풀 보이싱/멜로디-only, 기타+descant, C/B♭ 솔로 악기 파트 등)
 
 ---
+
+## 사용 근거 (Evidence)
+
+OCP 제품 페이지 참조. 수록 성가집 및 미사 경본은 OCP 카탈로그에서 확인 가능.
 
 ## 검색 키워드
 
@@ -39,4 +43,3 @@
 ---
 
 [⬅️ Back to International Mass Index](../../InternationalMass.md)
-

@@ -21,4 +21,3 @@
 
 ## 참고 자료 (References)
 *   [Lenny LeBlanc 공식 웹사이트](https://lennyleblanc.com/)
-*   [Wikipedia: Lenny LeBlanc](https://en.wikipedia.org/wiki/Lenny_LeBlanc)

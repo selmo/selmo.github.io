@@ -88,4 +88,9 @@ _(농업/농촌 생활 주제의 전례곡)_
 
 ---
 
+## 참고 링크
+
+- [CNBB - Cantemos ao Senhor](https://www.cnbb.org.br/)
+- [Comunidade Canção Nova (공동체 공식)](https://www.cancaonova.com/)
+
 [⬅️ Back to International Mass Index](../../InternationalMass.md)

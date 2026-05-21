@@ -6,7 +6,7 @@
 
 ![Region](https://img.shields.io/badge/Region-UK_&_Ireland-blue)
 ![Style](https://img.shields.io/badge/Style-Contemporary-green)
-![Difficulty](https://img.shields.io/badge/Difficulty-중상-orange)
+![Difficulty](https://img.shields.io/badge/Difficulty-중-orange)
 ![Year](https://img.shields.io/badge/Year-2011-lightgrey)
 
 ## 개요
@@ -18,8 +18,8 @@
 **배경**: Clifton Cathedral (Bristol) 오르간 연주자 출신 (1981-1986)
 
 ### 특징
-[영국 대표작] Paul Inwood의 다수 미사곡 중 가장 유명.
-- 영국에서 널리 사용되는 설정
+[영국 본당 자료에서 자주 보이는 설정] Paul Inwood의 다수 미사곡 가운데 비교적 자주 언급되는 작품입니다.
+- 영국 본당과 성가집 자료에서 반복적으로 확인되는 설정
 - 개정판 발행 (새 로마 미사경본 번역 대응)
 - 회중, 사제, 합창단, 키보드, 기타를 위한 편곡
 - Celebration Hymnal for Everyone, Laudate 성가집에 수록
@@ -49,9 +49,9 @@
 
 ## 긍정 평가
 
-- ✅ 영국 주요 성가집(Celebration Hymnal, Laudate)에 수록된 대표 미사곡
+- ✅ 영국 주요 성가집(Celebration Hymnal, Laudate)에 수록된 설정
 - ✅ 유연한 편성 (회중만 / 회중+합창단 / 악기 추가 가능)
-- ✅ Paul Inwood의 다수 미사곡 중 가장 널리 알려진 작품
+- ✅ Paul Inwood의 미사곡들 가운데 비교적 자주 언급되는 작품
 - ✅ UK Liturgy Office에서 추천하는 설정
 - ✅ 무료 PDF로 접근 가능
 
@@ -86,6 +86,10 @@
 🎧 **Sanctus**, **Eucharistic Acclamations**
 
 ---
+
+## 사용 근거 (Evidence)
+
+출판사 및 공동체 자료에서 확인 가능.
 
 ## 검색 키워드
 

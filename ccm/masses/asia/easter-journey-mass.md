@@ -6,7 +6,7 @@
 
 ![Region](https://img.shields.io/badge/Region-Asia_(Philippines)-blue)
 ![Style](https://img.shields.io/badge/Style-A_capella_|_Pop-green)
-![Difficulty](https://img.shields.io/badge/Difficulty-TBD-lightgrey)
+![Difficulty](https://img.shields.io/badge/Difficulty-상-red)
 ![Year](https://img.shields.io/badge/Year-2005-lightgrey)
 
 ## 개요
@@ -34,6 +34,10 @@
 
 ---
 
+## 사용 근거 (Evidence)
+
+공동체 공식 자료 및 음반에서 확인 가능.
+
 ## 검색 키워드
 
 `Hangad Easter Journey Mass`
@@ -43,7 +47,6 @@
 ## 참고 링크
 
 - [Hangad Official](https://www.hangad.org/our-music/269-the-easter-journey/)
-- [Wikipedia - The Easter Journey](https://en.wikipedia.org/wiki/The_Easter_Journey)
 
 ---
 

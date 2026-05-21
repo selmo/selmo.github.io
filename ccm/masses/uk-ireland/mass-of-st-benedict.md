@@ -80,6 +80,10 @@
 
 ---
 
+## 사용 근거 (Evidence)
+
+출판사 및 공동체 자료에서 확인 가능.
+
 ## 검색 키워드
 
 `Mass of St Benedict Margaret Rizza`, `Margaret Rizza RSCM`

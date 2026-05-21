@@ -6,8 +6,8 @@
 
 ![Region](https://img.shields.io/badge/Region-Latin_America_(Dominican_Republic)-blue)
 ![Style](https://img.shields.io/badge/Style-Sarambo-green)
-![Difficulty](https://img.shields.io/badge/Difficulty-TBD-lightgrey)
-![Year](https://img.shields.io/badge/Year-TBD-lightgrey)
+![Difficulty](https://img.shields.io/badge/Difficulty-중-orange)
+![Year](https://img.shields.io/badge/Year-Unknown-lightgrey)
 
 ## 개요
 
@@ -23,6 +23,10 @@
 - 스페인+아프리카 영향이 섞인 “Sarambo” 스타일을 통해 회중의 기쁨의 참여를 이끌도록 설계됨
 
 ---
+
+## 사용 근거 (Evidence)
+
+OCP 제품 페이지 참조. 온라인 전용 또는 카탈로그 수록 미사곡 세트.
 
 ## 검색 키워드
 

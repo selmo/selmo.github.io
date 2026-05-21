@@ -6,8 +6,8 @@
 
 ![Region](https://img.shields.io/badge/Region-Europe_(Germany_Switzerland)-blue)
 ![Style](https://img.shields.io/badge/Style-Latin_Jazz-green)
-![Difficulty](https://img.shields.io/badge/Difficulty-TBD-lightgrey)
-![Year](https://img.shields.io/badge/Year-TBD-lightgrey)
+![Difficulty](https://img.shields.io/badge/Difficulty-상-red)
+![Year](https://img.shields.io/badge/Year-Unknown-lightgrey)
 
 ## 개요
 
@@ -39,5 +39,10 @@
 `Latin Jazz Mass Martin Völlinger`
 
 ---
+
+## 참고 링크
+
+- [Deutsche Bischofskonferenz - Kirchenmusik](https://www.dbk.de/themen/glaube-und-kirche/kirchenmusik/)
+- [Kirchentag (독일 교회음악 페스티벌)](https://www.kirchentag.de/)
 
 [⬅️ Back to International Mass Index](../../InternationalMass.md)

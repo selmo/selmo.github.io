@@ -6,8 +6,8 @@
 
 ![Region](https://img.shields.io/badge/Region-Europe_(Germany)-blue)
 ![Style](https://img.shields.io/badge/Style-NGL_|_Pop_|_Choral-green)
-![Difficulty](https://img.shields.io/badge/Difficulty-TBD-lightgrey)
-![Year](https://img.shields.io/badge/Year-TBD-lightgrey)
+![Difficulty](https://img.shields.io/badge/Difficulty-쉬움-brightgreen)
+![Year](https://img.shields.io/badge/Year-Unknown-lightgrey)
 
 ## 개요
 
@@ -40,5 +40,9 @@
 
 ---
 
-[⬅️ Back to International Mass Index](../../InternationalMass.md)
+## 참고 링크
 
+- [katholisch.de - Neues Geistliches Lied](https://katholisch.de/artikel/19080-neues-geistliches-lied-frueher-musik-des-aufbruchs-heute-oldies)
+- [Deutsche Bischofskonferenz - Jugendseelsorge](https://www.dbk.de/themen/jugend/)
+
+[⬅️ Back to International Mass Index](../../InternationalMass.md)

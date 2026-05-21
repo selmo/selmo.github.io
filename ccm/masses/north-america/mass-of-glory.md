@@ -6,7 +6,7 @@
 
 ![Region](https://img.shields.io/badge/Region-North_America-blue)
 ![Style](https://img.shields.io/badge/Style-Gospel_|_Jazz_|_Blues-green)
-![Difficulty](https://img.shields.io/badge/Difficulty-중상-orange)
+![Difficulty](https://img.shields.io/badge/Difficulty-상-red)
 ![Year](https://img.shields.io/badge/Year-2010,_2013-lightgrey)
 
 ## 개요

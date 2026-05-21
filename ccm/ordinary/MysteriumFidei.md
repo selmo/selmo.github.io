@@ -71,7 +71,7 @@
 #### 🎵 **Mass of St. Ann - We Proclaim Your Death, O Lord** [🎧](https://www.youtube.com/watch?v=3f_cVIkh9H8)
 - **작곡가**: Ed Bolduc
 - **스타일**: Rock / Pop
-- **특징**: Life Teen 공식 미사곡, 단순한 패턴으로 회중이 쉽게 참여
+- **특징**: [Life Teen](../organizations/LifeTeen.md) 계열 청소년 미사에서 자주 언급되는 곡으로, 단순한 패턴 덕분에 회중이 쉽게 참여
 - **참고**: [Mass of St. Ann 상세 페이지](../masses/north-america/mass-of-st-ann.md)
 
 #### 🎵 **Mass of Communion - Mystery of Faith (When We Eat This Bread)**
@@ -83,13 +83,13 @@
 #### 🎵 **Mass of Creation - Memorial Acclamation**
 - **작곡가**: Marty Haugen
 - **스타일**: Contemporary Folk
-- **특징**: 1984년 이후 미국 본당의 표준, 3가지 양식 모두 제공
+- **특징**: 1984년 이후 북미 본당 자료에서 자주 확인되며, 3가지 양식을 모두 제공합니다.
 - **참고**: [Mass of Creation 상세 페이지](../masses/north-america/mass-of-creation.md)
 
 #### 🎵 **Mass of Christ the Savior - Memorial Acclamation**
 - **작곡가**: Dan Schutte
 - **스타일**: Contemporary Folk
-- **특징**: 가장 널리 사용되는 미사곡, 쉽고 아름다운 선율
+- **특징**: OCP 자료에서 반복적으로 확인되는 미사곡이며, 쉽고 서정적인 선율이 특징입니다.
 - **참고**: [Mass of Christ the Savior 상세 페이지](../masses/north-america/mass-of-christ-the-savior.md)
 
 #### 🎵 **Mass of Restoration - Memorial Acclamation**

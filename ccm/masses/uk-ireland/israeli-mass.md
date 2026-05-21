@@ -6,7 +6,7 @@
 
 ![Region](https://img.shields.io/badge/Region-Europe_(UK/Ireland)-blue)
 ![Style](https://img.shields.io/badge/Style-Folk_|_Traditional-green)
-![Difficulty](https://img.shields.io/badge/Difficulty-하-brightgreen)
+![Difficulty](https://img.shields.io/badge/Difficulty-쉬움-brightgreen)
 ![Year](https://img.shields.io/badge/Year-Traditional-lightgrey)
 
 ## 개요
@@ -43,5 +43,10 @@
 `Israeli Mass Catholic`, `Israeli Folk Mass`
 
 ---
+
+## 참고 링크
+
+- [Liturgy Office UK - Singing the Mass](https://www.liturgyoffice.org.uk/Missal/Music/Singing.pdf)
+- [SSG (Society of St Gregory)](https://www.ssg.org.uk/)
 
 [⬅️ Back to International Mass Index](../../InternationalMass.md)

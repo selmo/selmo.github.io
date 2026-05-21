@@ -6,7 +6,7 @@
 
 ![Region](https://img.shields.io/badge/Region-North_America_(USA)-blue)
 ![Style](https://img.shields.io/badge/Style-New_Mexico_Folk-green)
-![Difficulty](https://img.shields.io/badge/Difficulty-TBD-lightgrey)
+![Difficulty](https://img.shields.io/badge/Difficulty-중-orange)
 ![Year](https://img.shields.io/badge/Year-2010-lightgrey)
 
 ## 개요

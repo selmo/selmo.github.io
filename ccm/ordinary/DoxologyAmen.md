@@ -65,7 +65,7 @@
 #### 🎵 **Mass of St. Ann - Great Amen** [🎧](https://www.youtube.com/watch?v=M3yW12cn8PM)
 - **작곡가**: Ed Bolduc
 - **스타일**: Rock / Pop
-- **특징**: Life Teen 공식 미사곡, 추천 트랙, 강렬한 클라이맥스
+- **특징**: [Life Teen](../organizations/LifeTeen.md) 계열 청소년 미사에서 자주 언급되는 곡으로, 추천 트랙이며 강렬한 클라이맥스가 특징
 - **참고**: [Mass of St. Ann 상세 페이지](../masses/north-america/mass-of-st-ann.md)
 
 #### 🎵 **Mass of Communion - Great Amen**
@@ -77,13 +77,13 @@
 #### 🎵 **Mass of Creation - Great Amen**
 - **작곡가**: Marty Haugen
 - **스타일**: Contemporary Folk
-- **특징**: 1984년 이후 미국 본당의 표준, 장엄하고 경건한 분위기
+- **특징**: 1984년 이후 북미 본당 자료에서 자주 확인되며, 장엄하고 경건한 분위기가 특징입니다.
 - **참고**: [Mass of Creation 상세 페이지](../masses/north-america/mass-of-creation.md)
 
 #### 🎵 **Mass of Christ the Savior - Great Amen**
 - **작곡가**: Dan Schutte
 - **스타일**: Contemporary Folk
-- **특징**: 가장 널리 사용되는 미사곡, 회중 참여 용이
+- **특징**: OCP 자료에서 반복적으로 확인되는 미사곡이며, 회중 참여가 비교적 쉽습니다.
 - **참고**: [Mass of Christ the Savior 상세 페이지](../masses/north-america/mass-of-christ-the-savior.md)
 
 #### 🎵 **Mass of Restoration - Great Amen**

@@ -6,8 +6,8 @@
 
 ![Region](https://img.shields.io/badge/Region-Latin_America_(Mexico)-blue)
 ![Style](https://img.shields.io/badge/Style-Latin_Flavored-green)
-![Difficulty](https://img.shields.io/badge/Difficulty-TBD-lightgrey)
-![Year](https://img.shields.io/badge/Year-TBD-lightgrey)
+![Difficulty](https://img.shields.io/badge/Difficulty-쉬움-brightgreen)
+![Year](https://img.shields.io/badge/Year-Unknown-lightgrey)
 
 ## 개요
 
@@ -34,6 +34,10 @@ OCP의 안내에 따르면, 다음 전례 적합성 이슈가 있습니다.
 실제 전례 사용 전, 현행 전례문/독서와의 정합성을 반드시 확인하세요.
 
 ---
+
+## 사용 근거 (Evidence)
+
+OCP 제품 페이지 참조. 온라인 전용 또는 카탈로그 수록 미사곡 세트.
 
 ## 검색 키워드
 

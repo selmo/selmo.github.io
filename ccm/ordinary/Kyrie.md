@@ -83,7 +83,7 @@ Senhor, tende piedade de nós.
 *   **그레고리오 성가**: 멜리스마(Melisma, 한 음절에 여러 음을 붙임)가 풍부하게 사용된 아름다운 곡들이 많습니다. (예: Missa VIII 'De Angelis')
 *   **다성 음악 (Polyphony)**: 팔레스트리나 등의 르네상스 작곡가들은 Kyrie의 반복 구조를 활용하여 정교한 모방 대위법을 구사했습니다.
 *   **현대 성가**:
-    *   **떼제(Taizé)**: 짧은 구절을 반복하며 묵상하는 형식의 곡들이 유명합니다. (예: [자크 베르티에](../artists/JacquesBerthier.md)의 Kyrie 1, 10 등)
+    *   **[떼제(Taizé)](../organizations/TaizeCommunity.md)**: 짧은 구절을 반복하며 묵상하는 형식의 곡들이 유명합니다. (예: [자크 베르티에](../artists/JacquesBerthier.md)의 Kyrie 1, 10 등)
     *   **한국 가톨릭**: [김정식](../artists/KimJeongSik.md), [현정수](../artists/HyunJeongSu.md) 신부 등의 자비송은 회중이 쉽게 따라 부를 수 있는 한국적 정서를 담고 있습니다.
 
 ---
@@ -133,7 +133,7 @@ Senhor, tende piedade de nós.
 #### 🎵 **Mass of St. Ann - Kyrie** [🎧](https://www.youtube.com/watch?v=vTeSYjUYeYs)
 - **작곡가**: Ed Bolduc
 - **스타일**: Rock / Pop
-- **특징**: Life Teen 공식 미사곡, 활기찬 6/8박자, 디즈니 뮤지컬 같은 에너지
+- **특징**: [Life Teen](../organizations/LifeTeen.md) 계열 청소년 미사에서 자주 언급되는 곡으로, 활기찬 6/8박자와 강한 에너지가 특징
 - **참고**: [Mass of St. Ann 상세 페이지](../masses/north-america/mass-of-st-ann.md)
 
 #### 🎵 **Mass of Communion - Kyrie**

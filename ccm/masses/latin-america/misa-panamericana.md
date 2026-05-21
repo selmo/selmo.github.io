@@ -6,7 +6,7 @@
 
 ![Region](https://img.shields.io/badge/Region-Latin_America_(Mexico)-blue)
 ![Style](https://img.shields.io/badge/Style-Mariachi-green)
-![Difficulty](https://img.shields.io/badge/Difficulty-중상-orange)
+![Difficulty](https://img.shields.io/badge/Difficulty-중-orange)
 ![Year](https://img.shields.io/badge/Year-1966-lightgrey)
 
 ## 개요
@@ -20,13 +20,13 @@
 **스타일**: Mariachi
 
 ### 특징
-[마리아치 미사의 표준] 제2차 바티칸 공의회 이후 멕시코 민속 음악을 전례에 도입한 획기적 작품.
+[초기 마리아치 미사 레퍼토리] 제2차 바티칸 공의회 이후 멕시코 민속 음악을 전례에 도입한 초기 작품 중 하나로 자주 언급됩니다.
 - 1960년대 마리아치 음악과 가톨릭 미사의 최초 융합
 - 바티칸 공의회의 "지역 민중의 천재성" 활용 권장에 따라 탄생
 - 멕시코에서 즉각적인 센세이션, Cuernavaca 대성당으로 이동
 - 1970년대 중반 대중화되어 현재까지 사용
 - 멕시코와 미국 남서부 멕시코계 공동체의 전통 전례 음악
-- 마리아치들의 교회 표준 레퍼토리
+- 마리아치 미사 전통을 설명할 때 빠지지 않는 레퍼토리
 
 ---
 
@@ -53,17 +53,17 @@
 - 멕시코 전역 본당
 - 미국 남서부 멕시코계 미국인 공동체
 - Cuernavaca 대성당 (원래 위촉처)
-- 마리아치 미사 (Misa Mariachi) 전통
+- 마리아치 미사 (Misa Mariachi) 전통 자료와 해설
 
 ---
 
 ## 긍정 평가
 
 - ✅ "멕시코 문화와 가톨릭 전례의 완벽한 조화"
-- ✅ "마리아치 미사의 전통 표준" - 50년 이상 사용
+- ✅ "마리아치 미사 전통의 초기 사례로 자주 언급됨"
 - ✅ 멕시코에서 즉각적인 인기와 대규모 군중 동원
 - ✅ "우리의 영혼 음악은 마리아치 음악" (휴스턴 멕시코계 공동체)
-- ✅ 1970년대 이후 마리아치들의 교회 표준 레퍼토리
+- ✅ 1970년대 이후 마리아치 미사 전통을 설명할 때 반복 인용되는 작품
 
 ---
 
@@ -88,6 +88,10 @@
 🎧 **Gloria a Nuestro Dios**, **Santo**, **Aleluya**
 
 ---
+
+## 사용 근거 (Evidence)
+
+OCP 제품 페이지 참조. 온라인 전용 또는 카탈로그 수록 미사곡 세트.
 
 ## 검색 키워드
 

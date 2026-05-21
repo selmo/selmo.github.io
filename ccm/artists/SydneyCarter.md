@@ -25,4 +25,6 @@
 ## 음악적 특징
 시드니 카터의 작품은 포크 음악의 형식을 빌려 깊은 신앙적, 사회적 메시지를 전달합니다. 헌신적인 평화주의자로서의 면모가 그의 음악과 삶에 잘 드러나 있습니다.
 
-[위키백과(영문) 더 보기](https://en.wikipedia.org/wiki/Sydney_Carter)
+## 참고 자료
+*   [Stainer & Bell - Sydney Carter](https://stainer.co.uk/composer/sydney-carter/)
+*   [Stainer & Bell - Lord of the Dance](https://stainer.co.uk/lord-of-the-dance/)

@@ -6,7 +6,7 @@
 
 ![Region](https://img.shields.io/badge/Region-North_America-blue)
 ![Style](https://img.shields.io/badge/Style-Contemporary-green)
-![Difficulty](https://img.shields.io/badge/Difficulty-하~중-yellow)
+![Difficulty](https://img.shields.io/badge/Difficulty-중-orange)
 ![Year](https://img.shields.io/badge/Year-2007,_2009-lightgrey)
 
 ## 개요

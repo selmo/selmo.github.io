@@ -88,7 +88,7 @@ Cordeiro de Deus, que tirais o pecado do mundo, dai-nos a paz.
 #### 🎵 **Mass of St. Ann - Lamb of God** [🎧](https://www.youtube.com/watch?v=m548p38PY0c)
 - **작곡가**: Ed Bolduc
 - **스타일**: Rock / Pop
-- **특징**: Life Teen 공식 미사곡, 단순한 패턴으로 회중이 쉽게 노래 가능
+- **특징**: [Life Teen](../organizations/LifeTeen.md) 계열 청소년 미사에서 자주 언급되는 곡으로, 단순한 패턴 덕분에 회중이 쉽게 노래 가능
 - **참고**: [Mass of St. Ann 상세 페이지](../masses/north-america/mass-of-st-ann.md)
 
 #### 🎵 **Mass of Creation - Lamb of God**

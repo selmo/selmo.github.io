@@ -26,3 +26,9 @@
 ### 생활성가
 *   **371. 그 분께로 한 걸음씩**: "우리 모두 어깨에 손을 얹고 그분께로 한 걸음씩" (공동체의 화합을 노래하는 곡)
 *   **693. 우리가 함께**: "한때 우리 힘들고도 어렵기도 했기에 슬픈 눈물로 실의에 빠져"
+
+## 함께 보기
+*   [한국 가톨릭 대학생 연합](../organizations/KoreaCatholicUniversityStudents.md)
+*   [한국 가톨릭 젊은이 성령쇄신](../organizations/KoreanYoungCharismaticRenewal.md)
+*   [젊은이 성령축제 HYD](../organizations/HolyspiritYouthDay.md)
+*   [청소년·청년 운동과 레퍼토리 대응표](../organizations/YouthRepertoireMap.md)

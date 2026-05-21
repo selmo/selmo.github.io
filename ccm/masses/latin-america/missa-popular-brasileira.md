@@ -15,7 +15,7 @@
 **스타일**: Samba / Baião / Folk
 **특징**: [브라질 민중 미사] 특정 작곡가의 단일 세트보다는 브라질 고유 리듬을 차용한 다양한 생활성가풍 미사곡들의 통칭.
 
-- **CNBB (브라질 주교회의)**: 인준한 성가집 *Cantemos ao Senhor*에 수록된 곡들이 표준으로 사용됨.
+- **CNBB (브라질 주교회의)**: 인준한 성가집 *Cantemos ao Senhor*에 수록된 곡들이 브라질 본당 전례 자료의 중요한 기준점으로 자주 언급됩니다.
 - **바상(Baião)**, **삼바(Samba)** 등 브라질 리듬 사용.
 
 ---
@@ -32,5 +32,10 @@
 `Missa Popular Brasileira`, `CNBB Cantos Liturgicos`
 
 ---
+
+## 참고 링크
+
+- [CNBB - Cantemos ao Senhor (공식 성가집)](https://www.cnbb.org.br/)
+- [CNBB - Liturgia e Canto](https://www.cnbb.org.br/estudos-e-noticias/liturgia/)
 
 [⬅️ Back to International Mass Index](../../InternationalMass.md)

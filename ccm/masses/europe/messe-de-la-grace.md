@@ -12,7 +12,7 @@
 ## 개요
 
 **작곡가**: Glorious
-**밴드**: 프랑스 가톨릭 록/워십 밴드 (2000년 World Youth Day 이후 결성)
+**밴드**: 프랑스 가톨릭 록/워십 밴드 (2000년 [World Youth Day](../../organizations/WorldYouthDay.md) 이후 결성)
 **연주**: Glorious, Hopen, Lyon Centre - Sainte-Blandine 본당 800명의 청년들
 **앨범**: Messe de la Grâce (2015, Lyon Centre 교회 첫 앨범, ABT PROD)
 **출판**: Glorious.fr (CD, MP3, PDF 악보 제공)
@@ -82,6 +82,10 @@
 🎧 **Je reviens vers toi (Kyrie)**, **Gloire à Dieu (Gloria)**, **Louez-le (파견)**
 
 ---
+
+## 사용 근거 (Evidence)
+
+출판사 및 공동체 자료에서 확인 가능.
 
 ## 검색 키워드
 

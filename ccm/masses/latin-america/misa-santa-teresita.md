@@ -84,6 +84,10 @@
 
 ---
 
+## 사용 근거 (Evidence)
+
+OCP 제품 페이지 참조. 온라인 전용 또는 카탈로그 수록 미사곡 세트.
+
 ## 검색 키워드
 
 `Misa Santa Teresita Azeneth Gonzalez`, `OCP Spanish Mass`, `Azeneth Gonzalez OCP`

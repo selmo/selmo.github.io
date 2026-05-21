@@ -6,7 +6,7 @@
 
 ![Region](https://img.shields.io/badge/Region-UK_&_Ireland_(Ireland)-blue)
 ![Style](https://img.shields.io/badge/Style-Celtic-green)
-![Difficulty](https://img.shields.io/badge/Difficulty-E-lightgrey)
+![Difficulty](https://img.shields.io/badge/Difficulty-쉬움-brightgreen)
 ![Year](https://img.shields.io/badge/Year-2017-lightgrey)
 
 ## 개요
@@ -26,6 +26,10 @@
 - 주로 D major로 구성되어, 아일랜드 전통 악기(튜닝)에도 접근성을 높였다고 안내됨
 
 ---
+
+## 사용 근거 (Evidence)
+
+출판사 및 공동체 자료에서 확인 가능.
 
 ## 검색 키워드
 

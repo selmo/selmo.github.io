@@ -6,7 +6,7 @@
 
 ![Region](https://img.shields.io/badge/Region-Europe_(Spain)-blue)
 ![Style](https://img.shields.io/badge/Style-Flamenco_Pop_|_Rumba_|_World_Music-green)
-![Difficulty](https://img.shields.io/badge/Difficulty-중상-orange)
+![Difficulty](https://img.shields.io/badge/Difficulty-중-orange)
 ![Year](https://img.shields.io/badge/Year-N/A-lightgrey)
 
 ## 개요
@@ -87,5 +87,10 @@
 `Misa de la Alegria Siempre Asi`, `Siempre Asi Sevilla`
 
 ---
+
+## 참고 링크
+
+- [Siempre Asi - 공식 웹사이트](https://www.siempreasi.com/)
+- [Siempre Asi - 공식 웹사이트](https://www.siempreasi.com/)
 
 [⬅️ Back to International Mass Index](../../InternationalMass.md)

@@ -6,7 +6,7 @@
 
 ![Region](https://img.shields.io/badge/Region-Latin_America_(Brazil)-blue)
 ![Style](https://img.shields.io/badge/Style-Pop_|_Rock_|_Charismatic_Worship-green)
-![Difficulty](https://img.shields.io/badge/Difficulty-중상-orange)
+![Difficulty](https://img.shields.io/badge/Difficulty-중-orange)
 ![Year](https://img.shields.io/badge/Year-2008-lightgrey)
 
 ## 개요
@@ -20,7 +20,7 @@
 ### 특징
 [브라질 떼창] 수만 명이 뛰며 부르는 락 페스티벌 스타일의 미사곡.
 - 성체 성사를 위해 특별히 작곡된 전례 음악
-- 브라질 카리스마 쇄신 운동의 대표 미사곡
+- 브라질 카리스마 쇄신 운동 맥락에서 자주 언급되는 미사곡
 - 열정적이고 에너지 넘치는 록 스타일
 - 미사의 신비에 몰입하도록 돕는 곡들
 
@@ -54,7 +54,7 @@ _(그 외 6곡 포함, 총 17곡)_
 ## 긍정 평가
 
 - ✅ "성체 성사를 위해 특별히 작곡되어 미사의 신비에 몰입하도록 돕는다"
-- ✅ 브라질 카리스마 쇄신 운동의 대표적 전례 음악
+- ✅ 브라질 카리스마 쇄신 운동 전례 음악 사례로 자주 언급됨
 - ✅ 청년들이 열광적으로 참여하는 에너지 넘치는 스타일
 - ✅ Spotify, Apple Music, Deezer 등에서 널리 스트리밍되며 접근성 우수
 - ✅ 대규모 집회와 페스티벌에서 수만 명이 함께 부를 수 있는 힘
@@ -81,6 +81,10 @@ _(그 외 6곡 포함, 총 17곡)_
 🎧 **Ressuscitou (타이틀곡)**, **Kyrie Eleison**, **Glória a Deus nas Alturas**
 
 ---
+
+## 사용 근거 (Evidence)
+
+공동체 공식 자료 및 음반에서 확인 가능.
 
 ## 검색 키워드
 

@@ -115,7 +115,7 @@ Hosana nas alturas.
 #### 🎵 **Mass of St. Ann - Holy, Holy, Holy**
 - **작곡가**: Ed Bolduc
 - **스타일**: Rock / Pop
-- **특징**: Life Teen 공식 미사곡, 6/8박자의 에너지 넘치는 선율
+- **특징**: [Life Teen](../organizations/LifeTeen.md) 계열 청소년 미사에서 자주 언급되는 곡으로, 6/8박자의 에너지 넘치는 선율이 특징
 - **참고**: [Mass of St. Ann 상세 페이지](../masses/north-america/mass-of-st-ann.md)
 
 #### 🎵 **Mass of Creation - Holy, Holy, Holy**
@@ -161,7 +161,7 @@ Hosana nas alturas.
 #### 🎵 **Misa de Juventud - Santo** [🎧](https://www.youtube.com/watch?v=mT_u_i9rIDA)
 - **작곡가**: Cesáreo Gabaráin 외
 - **스타일**: Folk / Pop
-- **특징**: 스페인어권 청년 미사에서 가장 많이 불리는 버전, 리듬감 있는 멜로디
+- **특징**: 스페인어권 청년 미사 자료에서 자주 확인되는 레퍼토리로, 리듬감 있는 멜로디가 특징입니다.
 - **관련 그룹**: Brotes de Olivo (영향력 있는 가톨릭 포크/록 밴드)
 - **참고**: [Misa de Juventud 상세 페이지](../masses/latin-america/misa-de-juventud.md)
 
