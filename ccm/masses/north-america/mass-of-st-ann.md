@@ -11,7 +11,7 @@
 
 ## 개요
 
-**작곡가**: Ed Bolduc (St. Ann's parish, Marietta, Georgia 음악 디렉터)
+**작곡가**: [Ed Bolduc](../../artists/EdBolduc.md) (St. Ann's parish, Marietta, Georgia 음악 디렉터)
 **출판**: World Library Publications (2011) / OCP Recordings (2013)
 **스타일**: Rock / Pop
 **관련 운동**: [Life Teen](../../organizations/LifeTeen.md)

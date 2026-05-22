@@ -11,7 +11,7 @@
 
 ## 개요
 
-**작곡가**: Curtis Stephan  
+**작곡가**: [Curtis Stephan](../../artists/CurtisStephan.md)  
 **출판**: OCP  
 **언어**: English  
 **OCP 분류**: Contemporary

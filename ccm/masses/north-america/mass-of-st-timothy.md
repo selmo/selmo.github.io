@@ -11,7 +11,7 @@
 
 ## 개요
 
-**작곡가**: Tom Booth, Matt Maher, Timothy E. Smith
+**작곡가**: Tom Booth, [Matt Maher](../../artists/MattMaher.md), Timothy E. Smith
 **출판**: OCP
 **스타일**: Contemporary
 

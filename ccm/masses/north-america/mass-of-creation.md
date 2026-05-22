@@ -11,7 +11,7 @@
 
 ## 개요
 
-**작곡가**: Marty Haugen
+**작곡가**: [Marty Haugen](../../artists/MartyHaugen.md)
 **출판**: GIA Publications (1984 초판, 2010 개정판)
 **앨범**: Mass of Creation (CD, 악보집, 다양한 편곡본)
 **스타일**: Contemporary Folk / Accessible

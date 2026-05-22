@@ -11,7 +11,7 @@
 
 ## 개요
 
-**작곡가**: Tony Alonso, SJ
+**작곡가**: [Tony Alonso](../../artists/TonyAlonso.md), SJ
 **출판**: GIA Publications (2010)
 **스타일**: Contemporary
 

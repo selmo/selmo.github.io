@@ -18,5 +18,10 @@
 ## 이야기 (Story Behind the Song)
 > "1984년 시애틀의 교사였던 저는 여름 방학 동안 CFNI에 가기로 결심했습니다. (...) 19일째 금식하던 날, 피아노 앞에 앉아 코드를 치고 있었는데 보면대에 놓인 성경이 눈에 들어왔습니다. 시편 42편이 펼쳐져 있었죠. (...) 구절을 읽고 그 메시지를 노래하기 시작했습니다. (...) 이 곡은 원래 주님과 저만의 시간을 위한 것이었지만, 친구 Dave Butterbaugh에게 들려주었고 그가 학교 학생들에게 소개하면서 널리 알려지게 되었습니다." - Martin Nystrom
 
+## 이 사이트에서 연결되는 항목
+
+- [Martin Nystrom](../artists/MartinNystrom.md) — 작곡가
+- [그외 작품들](../OtherWorks.md) — 묵상·기도 CCM
+
 ## 참고 자료
 *   [Story Behind the Song: 'As the Deer'](https://www.staugustine.com/story/lifestyle/faith/2016/01/07/story-behind-song-deer/16321507007/)

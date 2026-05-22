@@ -10,6 +10,10 @@
 ## 개요
 원곡인 'The Last Farewell'은 이별의 아픔을 노래한 팝송이지만, 윤복희 님이 '우리는 하나'라는 제목으로 번안하여 부른 버전은 종교적, 공동체적 화합을 노래하는 가사로 널리 사랑받고 있습니다. 가톨릭 성가책에도 수록되어 많이 불리는 곡입니다.
 
+## 이 사이트에서 연결되는 항목
+
+- [그외 작품들](../OtherWorks.md) — 번안 CCM/생활성가
+
 ## 참고 자료
 *   **원곡**: Roger Whittaker - [YouTube](https://www.youtube.com/watch?v=sGWs1HK8iDU)
 *   **연주**: Chet Atkins - [YouTube](https://www.youtube.com/watch?v=3dbgDblBw_E)

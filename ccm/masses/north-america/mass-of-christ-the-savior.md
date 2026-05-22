@@ -11,7 +11,7 @@
 
 ## 개요
 
-**작곡가**: Dan Schutte (St. Louis Jesuits)
+**작곡가**: [Dan Schutte](../../artists/DanSchutte.md) (St. Louis Jesuits)
 **출판**: OCP (2012)
 **언어**: 영어 / 스페인어(“Misa Cristo Salvador”) / 이중언어 버전
 **스타일**: Contemporary Folk

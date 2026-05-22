@@ -12,6 +12,7 @@
 ## 개요
 
 **공동체**: [Emmanuel Community (엠마누엘 공동체)](../../organizations/EmmanuelCommunity.md)
+**관련**: [해외 현대 미사곡 - 유럽](../../InternationalMass.md#europe), [Emmanuel Community](../../organizations/EmmanuelCommunity.md)
 **특징**: [프랑스 우아함] 4성부 합창과 오케스트라, 밴드가 결합된 웅장하고 기품 있는 사운드.
 
 - 찬양, 흠숭, 미사를 강조하는 영성

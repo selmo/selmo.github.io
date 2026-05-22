@@ -11,7 +11,7 @@
 
 ## 개요
 
-**작곡가**: Ken Canedo & Bob Hurd
+**작곡가**: [Ken Canedo](../../artists/KenCanedo.md) & [Bob Hurd](../../artists/BobHurd.md)
 **출판**: OCP (2010 초판, 2013 개정판 - 새 미사경본 번역 대응)
 **앨범**: Mass of Glory (CD 및 악보집)
 **스타일**: Gospel / Jazz / Blues

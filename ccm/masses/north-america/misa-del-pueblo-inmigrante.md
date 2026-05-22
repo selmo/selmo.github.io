@@ -11,7 +11,7 @@
 
 ## 개요
 
-**작곡가**: Bob Hurd  
+**작곡가**: [Bob Hurd](../../artists/BobHurd.md)  
 **출판**: OCP  
 **언어**: English / Spanish / Bilingual  
 **OCP 분류**: Traditional  

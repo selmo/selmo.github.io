@@ -11,7 +11,7 @@
 
 ## 개요
 
-**작곡가**: Ricky Manalo, CSP
+**작곡가**: [Ricky Manalo](../../artists/RickyManalo.md), CSP
 **출판**: OCP (2007, 2009)
 **스타일**: Contemporary
 

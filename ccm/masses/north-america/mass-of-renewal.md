@@ -11,7 +11,7 @@
 
 ## 개요
 
-**작곡가**: Curtis Stephan
+**작곡가**: [Curtis Stephan](../../artists/CurtisStephan.md)
 **출판**: OCP (2010)
 **언어**: 이중언어 (OCP 표기: Bilingual (Eng/Vie))
 **OCP 분류**: Contemporary Crossover
