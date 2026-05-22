@@ -33,7 +33,3 @@
 *   [청소년·청년 운동 비교표](YouthMovementsComparison.md)
 *   [한국청년대회 (Korea Youth Day, KYD)](KoreaYouthDay.md)
 *   [FOCUS](FOCUS.md)
-
----
-
-[⬅️ Back to Organizations](index.md)

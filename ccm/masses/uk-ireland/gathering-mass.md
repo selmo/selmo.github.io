@@ -96,7 +96,3 @@
 ## 참고 링크
 
 - [UK Liturgy Office - Mass Settings](https://www.liturgyoffice.org.uk/Missal/Music/Statement.shtml)
-
----
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

@@ -8,7 +8,6 @@
 
 ---
 
-<a id="north-america"></a>
 ## 🇺🇸 북미 (USA & Canada) — 후보 {#north-america}
 
 - 📖 [Mass of Restoration](masses/north-america/mass-of-restoration.md)
@@ -22,7 +21,6 @@
 
 ---
 
-<a id="uk-ireland"></a>
 ## 🇬🇧🇮🇪 UK & Ireland — 후보 {#uk-ireland}
 
 - 📖 [The Glendalough Mass](masses/uk-ireland/glendalough-mass.md)
@@ -35,50 +33,41 @@
 
 ---
 
-<a id="latin-america"></a>
 ## 🇧🇷🇦🇷🇲🇽🇪🇸 남미 & 스페인 — 후보 {#latin-america}
 
-<a id="브라질-brazil"></a>
 ### 🇧🇷 브라질 (Brazil)
 
 - 📖 [Ressuscitou](masses/latin-america/ressuscitou.md)
 - 📖 [Missa Sertaneja I](masses/latin-america/missa-sertaneja-i.md)
 - 📖 [Canção Nova - Na Santa Eucaristia](masses/latin-america/na-santa-eucaristia.md)
 
-<a id="아르헨티나-argentina"></a>
 ### 🇦🇷 아르헨티나 (Argentina)
 
 *(Main list 참조)*
 
-<a id="페루-peru"></a>
 ### 🇵🇪 페루 (Peru)
 
 - 📖 [Misa Andina (Gloria)](masses/latin-america/misa-andina.md)
 
-<a id="멕시코-mexico"></a>
 ### 🇲🇽 멕시코 (Mexico)
 
 - 📖 [Misa Panamericana](masses/latin-america/misa-panamericana.md)
 - 📖 [Misa del Sagrado Corazón](masses/latin-america/misa-del-sagrado-corazon.md)
 - 📖 [Misa Juan Diego](masses/latin-america/misa-juan-diego.md)
 
-<a id="다문화-multicultural"></a>
 ### 🌎 다문화 (Multicultural Hispanic Liturgy)
 
 - 📖 [Nueva Misa Latinoamericana](masses/latin-america/nueva-misa-latinoamericana.md)
 
-<a id="쿠바-cuba"></a>
 ### 🇨🇺 쿠바 (Cuba)
 
 - 📖 [Misa de la Aurora](masses/latin-america/misa-de-la-aurora.md)
 
-<a id="도미니카공화국-dominican-republic"></a>
 ### 🇩🇴 도미니카 공화국 (Dominican Republic)
 
 - 📖 [Misa a Nuestra Señora de la Altagracia](masses/latin-america/misa-a-nuestra-senora-de-la-altagracia.md)
 - 📖 [Misa Dominicana](masses/latin-america/misa-dominicana.md)
 
-<a id="스페인-spain"></a>
 ### 🇪🇸 스페인 (Spain)
 
 - 📖 [Misa de la Alegría](masses/latin-america/misa-de-la-alegria.md)
@@ -86,7 +75,6 @@
 
 ---
 
-<a id="europe"></a>
 ## 🇪🇺 유럽 대륙 — 후보 {#europe}
 
 - 📖 [Messe de la Grâce](masses/europe/messe-de-la-grace.md)
@@ -97,7 +85,6 @@
 
 ---
 
-<a id="asia"></a>
 ## 🇵🇭 아시아 — 후보 {#asia}
 
 - 📖 [Tinapay ng Buhay](masses/asia/tinapay-ng-buhay.md)

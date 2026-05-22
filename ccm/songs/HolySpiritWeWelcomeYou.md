@@ -23,7 +23,3 @@ Chris Bowater의 대표적인 성령 찬양으로, 야훼이레에 번역 수록
 
 - [Chris Bowater 아티스트 페이지](../artists/ChrisBowater.md)
 - [작곡가·수록곡 크로스 레퍼런스](../CrossReference.md)
-
----
-
-[⬅️ Back to Songs](index.md)

@@ -40,7 +40,3 @@
 ## 참고 자료
 
 - [SongSelect: Martin Nystrom](https://us.songselect.com/authors/detail/263)
-
----
-
-[⬅️ Back to Artists](index.md)

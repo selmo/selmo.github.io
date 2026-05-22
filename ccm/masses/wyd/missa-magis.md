@@ -44,5 +44,3 @@
 - [OCP - Missa Magis](https://www.ocp.org/en-us/collections/dg/42)
 - [OCP - Christopher Willcock, SJ](https://www.ocp.org/en-us/artists/549/christopher-willcock-sj)
 - [Australian Music Centre - Christopher Willcock](https://www.australianmusiccentre.com.au/artist/willcock-christopher)
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

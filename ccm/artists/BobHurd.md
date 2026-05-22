@@ -47,7 +47,3 @@
 ## 참고 자료
 
 - [OCP - Bob Hurd](https://www.ocp.org/en-us/artists/3168/bob-hurd)
-
----
-
-[⬅️ Back to Artists](index.md)

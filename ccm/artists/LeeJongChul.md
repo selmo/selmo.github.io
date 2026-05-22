@@ -35,7 +35,3 @@
 - [작곡가·수록곡 크로스 레퍼런스](../CrossReference.md)
 - [하늘바다 수록곡 목록](../../resources/하늘바다.md)
 - [어린이·청소년·청년 성가집 비교](../Songbooks.md)
-
----
-
-[⬅️ Back to Artists](index.md)

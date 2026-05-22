@@ -99,7 +99,3 @@
 - [Review - Worship Music Ministry](https://www.worshipmusicministry.com/review-matt-mahers-mass-of-communion/)
 - [MusicaSacra Forum Discussion](https://forum.musicasacra.com/forum/discussion/5985/matt-mahers-mass-of-communion/p1)
 - [Matt Maher 상세정보](../../artists/MattMaher.md)
-
----
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

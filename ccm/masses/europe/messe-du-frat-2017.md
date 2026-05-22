@@ -57,7 +57,3 @@
 ## 참고 링크
 
 - [Glorious - Messe du Frat 2017](https://www.glorious.fr/boutique/13-messe-du-frat-2017.html)
-
----
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

@@ -162,7 +162,3 @@
 - [세계청년대회 (WYD)](organizations/WorldYouthDay.md) — WYD 공식 송북
 - **[Journeysongs 상세 분석](Journeysongs.md)** — OCP 종합 성가집 목록과 한국 사용 매핑
 - [리소스 모음](Resources.md)
-
----
-
-[⬅️ Back to Catholic Music](index.md)

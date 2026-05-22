@@ -59,5 +59,3 @@
 
 - [ChoralWiki - Missa de Angelis](https://www.cpdl.org/wiki/index.php/Missa_de_Angelis_(Gregorian_chant))
 - [Gregorianum.org - Missa VIII](https://en.gregorianum.org/wiki/Missa_VIII_(Missa_de_Angelis))
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

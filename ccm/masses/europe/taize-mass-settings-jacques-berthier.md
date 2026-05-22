@@ -53,7 +53,3 @@
 - [자크 베르티에](../../artists/JacquesBerthier.md)
 - [떼제 공동체 정리](../../organizations/TaizeCommunity.md)
 - [Taizé Community 공식 웹사이트](https://www.taize.fr/ko)
-
----
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

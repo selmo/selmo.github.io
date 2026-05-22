@@ -40,7 +40,3 @@
 - [청소년·대학생·국제행사 가이드](YouthAndYoungAdultGuide.md)
 - [청소년·청년 운동 비교표](YouthMovementsComparison.md)
 - [Youth 2000](Youth2000.md)
-
----
-
-[⬅️ Back to Organizations](index.md)

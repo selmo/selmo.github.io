@@ -85,7 +85,3 @@ OCP 제품 페이지 참조. 수록 성가집 및 미사 경본은 OCP 카탈로
 ## 참고 링크
 
 - [Decani Music](https://www.decanimusic.co.uk/)
-
----
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

@@ -41,8 +41,3 @@ OCP 제품 페이지의 온라인 전용 컬렉션에 수록:
 
 - [OCP - Misa Dominicana](https://www.ocp.org/en-us/collections/dg/81)
 - [OCP - Mass Settings (Index)](https://www.ocp.org/en-us/mass-settings)
-
----
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)
-

@@ -52,8 +52,3 @@ OCP 제품 페이지 참조. 수록 성가집 및 미사 경본은 OCP 카탈로
 
 - [OCP - Mass of St. Mary Magdalene](https://www.ocp.org/en-us/collections/dg/650)
 - [Sarah Hart at OCP](https://www.ocp.org/en-us/artists/3453/sarah-hart)
-
----
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)
-

@@ -45,15 +45,17 @@
 
 ## 빠른 검색 — 작곡가 → 곡
 
+> "수록곡" 열은 이 사이트에 **개별 페이지가 있는 곡**입니다. `(야훼이레 +N곡)` 표기는 야훼이레에 추가 수록되어 있으나 별도 페이지가 없는 곡 수입니다. 전체 카탈로그는 [작곡가·수록곡·성가집 크로스 레퍼런스](../CrossReference.md)를 참조하세요.
+
 | 작곡가 | 수록곡 (한국어 제목) | 곡 페이지 |
 |:---|:---|:---:|
 | Bob Fitts | 사랑하는 나의 아버지, 들으라 이스라엘 | [BlessedBeTheLord](BlessedBeTheLord.md) · [OneGod](OneGod.md) |
-| Brent Chambers | 나 기뻐하리 | [→](IWillRejoice.md) |
+| Brent Chambers | 나 기뻐하리 (야훼이레 +2곡) | [→](IWillRejoice.md) |
 | Cesáreo Gabaráin | 주여 당신은 | [→](PescadorDeHombres.md) |
-| Chris Bowater | 거룩하신 성령이여 (외 6곡) | [→](HolySpiritWeWelcomeYou.md) |
+| Chris Bowater | 거룩하신 성령이여 (야훼이레 +6곡) | [→](HolySpiritWeWelcomeYou.md) |
 | Dan Schutte | 주님 제가 여기 있나이다 | [→](HereIAmLord.md) |
 | Darlene Zschech | 내 구주 예수님 | [→](MyJesusMySaviour.md) |
-| David Fellingham | 기뻐하며 왕께 노래 부르리 | [→](ShoutForJoy.md) |
+| David Fellingham | 기뻐하며 왕께 노래 부르리 (야훼이레 +2곡) | [→](ShoutForJoy.md) |
 | David Ruis | 경배하리, 주의 자비 | [YoureWorthy](YoureWorthy.md) · [MercyIsFalling](MercyIsFalling.md) |
 | Don Moen | 주님 내 길을, 나의 모습 나의 소유 | [GodWillMakeAWay](GodWillMakeAWay.md) · [IOfferMyLife](IOfferMyLife.md) |
 | Eddie Espinosa | 사랑합니다 | [→](LordILoveYou.md) |
@@ -73,7 +75,3 @@
 - [아티스트 목록](../artists/index.md) — 작곡가 프로필
 - [어린이·청소년·청년 성가집 비교](../Songbooks.md)
 - [외국 원곡 매핑](../CrossReference.md#외국-원곡--한국어-번역-매핑)
-
----
-
-[⬅️ Back to Catholic Music](../index.md)

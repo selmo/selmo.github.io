@@ -21,7 +21,3 @@
 ## 공식 링크
 
 *   [Emmanuel Community Official](https://emmanuel.info/en/)
-
----
-
-[⬅️ Back to Organizations](index.md)

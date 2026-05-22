@@ -106,7 +106,3 @@
 - [Canção Nova Official](https://comunidadecancaonova.com/en/)
 - [Canção Nova Música - cifras e partituras do CD Na Santa Eucaristia](https://musica.cancaonova.com/liturgia/baixe-as-cifras-e-as-partituras-do-cd-na-santa-eucaristia/)
 - [Apple Music - Na Santa Eucaristia](https://music.apple.com/us/album/na-santa-eucaristia/1767069369)
-
----
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

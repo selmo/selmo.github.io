@@ -40,5 +40,3 @@
 
 - [Deutsche Bischofskonferenz - Kirchenmusik](https://www.dbk.de/themen/glaube-und-kirche/kirchenmusik/)
 - [Kirchentag (독일 교회음악 페스티벌)](https://www.kirchentag.de/)
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

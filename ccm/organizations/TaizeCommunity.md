@@ -32,7 +32,3 @@
 
 - [Taizé Official](https://www.taize.fr/en/)
 - [떼제 한국어 페이지](https://www.taize.fr/ko)
-
----
-
-[⬅️ Back to Organizations](index.md)

@@ -36,7 +36,3 @@
 *   [젊은이 성령축제 HYD](HolyspiritYouthDay.md)
 *   [Damascus](Damascus.md)
 *   [Youth 2000](Youth2000.md)
-
----
-
-[⬅️ Back to Organizations](index.md)

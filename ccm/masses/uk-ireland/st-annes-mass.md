@@ -86,7 +86,3 @@
 ## 참고 링크
 
 - [UK Liturgy Office](https://www.liturgyoffice.org.uk/)
-
----
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

@@ -23,7 +23,3 @@
 
 - [David Fellingham 아티스트 페이지](../artists/DavidFellingham.md)
 - [작곡가·수록곡 크로스 레퍼런스](../CrossReference.md)
-
----
-
-[⬅️ Back to Songs](index.md)

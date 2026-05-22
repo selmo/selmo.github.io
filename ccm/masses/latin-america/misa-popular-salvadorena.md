@@ -41,7 +41,3 @@
 ## 참고 링크
 
 - [Bandcamp - Misa Popular Salvadoreña](https://guillermocuellar.bandcamp.com/album/misa-popular-salvadore-a-2)
-
----
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

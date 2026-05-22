@@ -43,7 +43,3 @@
 ## 참고 링크
 
 - [YouTube - SANTO | MISA DE JUVENTUD](https://www.youtube.com/watch?v=mT_u_i9rIDA)
-
----
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

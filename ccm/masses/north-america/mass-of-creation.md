@@ -88,7 +88,3 @@
 
 - [GIA Publications - Mass of Creation](https://giamusic.com/resource/mass-of-creation-cd-recording-g7694cd)
 - [Mass of Creation at 25 (PDF)](https://s3.amazonaws.com/cdn.giamusic.com/pdf/MoC_article2.pdf)
-
----
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

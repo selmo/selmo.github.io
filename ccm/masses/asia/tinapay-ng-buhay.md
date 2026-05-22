@@ -46,7 +46,3 @@
 
 - [Tinapay ng Buhay | Bukas Palad Online](https://bukaspalad.com/songs/tinapay_ng_buhay)
 - [Spotify Album](https://open.spotify.com/album/0NsKf1JDkXGOgG6M1I6oTy)
-
----
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

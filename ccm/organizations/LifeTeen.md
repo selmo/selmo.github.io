@@ -46,7 +46,3 @@
 - [Damascus](Damascus.md)
 - [Steubenville Conferences](SteubenvilleConferences.md)
 - [FOCUS](FOCUS.md)
-
----
-
-[⬅️ Back to Organizations](index.md)

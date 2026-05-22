@@ -90,7 +90,3 @@
 
 - [RSCM Shop - Mass of St Benedict](https://www.rscmshop.com/books/C0864/)
 - [Margaret Rizza - Convivium Records](https://conviviumrecords.co.uk/composer-profile/margaret-rizza/)
-
----
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

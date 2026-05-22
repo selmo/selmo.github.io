@@ -87,7 +87,3 @@
 
 - [CJM Music - Mass of St Bernadette](https://www.cjmmusic.com/resources-ideas/mass-of-st-bernadette/)
 - [CJM Music Official](https://www.cjmmusic.com/)
-
----
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

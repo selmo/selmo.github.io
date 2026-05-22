@@ -38,7 +38,3 @@
 ## 참고 자료
 
 - [OCP - Ricky Manalo, CSP](https://www.ocp.org/en-us/artists/353/ricky-manalo-csp)
-
----
-
-[⬅️ Back to Artists](index.md)

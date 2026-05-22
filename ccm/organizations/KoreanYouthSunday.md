@@ -31,7 +31,3 @@
 *   [청소년·대학생·국제행사 가이드](YouthAndYoungAdultGuide.md)
 *   [청소년·청년 운동과 레퍼토리 대응표](YouthRepertoireMap.md)
 *   [미사곡 (Mass)](../Mass.md)
-
----
-
-[⬅️ Back to Organizations](index.md)

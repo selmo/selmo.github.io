@@ -42,7 +42,3 @@
 ## 참고 링크
 
 - [José María Vitier 공식 웹사이트](https://jmvitier.com/misa-cubana-a-la-virgen-de-la-caridad-del-cobre/)
-
----
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

@@ -30,7 +30,3 @@
 
 - [작곡가·수록곡 크로스 레퍼런스](../CrossReference.md)
 - [야훼이레 수록곡 — 최태형 안셀모](../songs/TaeHyoungChoi.md)
-
----
-
-[⬅️ Back to Artists](index.md)

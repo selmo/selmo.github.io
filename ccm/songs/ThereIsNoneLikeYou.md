@@ -23,7 +23,3 @@
 
 - [Lenny LeBlanc 아티스트 페이지](../artists/LennyLeBlanc.md)
 - [전례곡 — 장례·위령](../Liturgical.md#장례위령-funeral--memorial)
-
----
-
-[⬅️ Back to Songs](index.md)

@@ -103,7 +103,3 @@ OCP 제품 페이지의 “appears in / can also be found in” 표기(수록 �
 
 - [OCP - Mass of Glory](https://www.ocp.org/en-us/collections/dg/9)
 - [Catholic Online - Mass of Glory Revision](https://www.catholic.org/prwire/headline.php?ID=9167)
-
----
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

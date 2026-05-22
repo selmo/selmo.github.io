@@ -60,5 +60,3 @@
 
 *   [Deutsche Bischofskonferenz - Kirchenmusik](https://www.dbk.de/themen/glaube-und-kirche/kirchenmusik/)
 *   [Peter Janssens Archiv (gen-verlag)](https://www.gen-verlag.de/komponisten/peter-janssens/)
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

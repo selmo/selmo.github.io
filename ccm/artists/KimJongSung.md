@@ -54,7 +54,3 @@
 - [어린이·청소년·청년 성가집 비교](../Songbooks.md)
 - [하늘바다 수록곡 목록](../../resources/하늘바다.md)
 - [야훼이레 수록곡 — 최태형 안셀모](../songs/TaeHyoungChoi.md)
-
----
-
-[⬅️ Back to Artists](index.md)

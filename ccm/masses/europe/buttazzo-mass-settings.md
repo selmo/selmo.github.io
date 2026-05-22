@@ -42,5 +42,3 @@
 
 - [Francesco Buttazzo - 공식 사이트](https://www.francescobuttazzo.it/)
 - [CEI (이탈리아 주교회의) 전례 음악 자료](https://www.musicasacra.it/)
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

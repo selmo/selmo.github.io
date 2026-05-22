@@ -43,7 +43,3 @@
 ## 참고 링크
 
 - [Hangad Official](https://www.hangad.org/our-music/269-the-easter-journey/)
-
----
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

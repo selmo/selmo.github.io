@@ -32,7 +32,3 @@
 *   [청소년·대학생·국제행사 가이드](YouthAndYoungAdultGuide.md)
 *   [청소년·청년 운동 비교표](YouthMovementsComparison.md)
 *   [청소년·청년 운동과 레퍼토리 대응표](YouthRepertoireMap.md)
-
----
-
-[⬅️ Back to Organizations](index.md)

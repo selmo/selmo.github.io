@@ -86,7 +86,3 @@
 ## 참고 링크
 
 - [GIA Publications - Catholic Irish Classics](https://giamusic.com/resource/catholic-irish-classics-album-x91500)
-
----
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

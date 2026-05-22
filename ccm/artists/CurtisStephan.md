@@ -46,7 +46,3 @@
 ## 참고 자료
 
 - [OCP - Curtis Stephan](https://www.ocp.org/en-us/artists/344/curtis-stephan)
-
----
-
-[⬅️ Back to Artists](index.md)

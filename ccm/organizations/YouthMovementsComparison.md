@@ -50,7 +50,3 @@
 *   `한국 전국/연합 행사형`: [한국청년대회](KoreaYouthDay.md), [젊은이 성령축제 HYD](HolyspiritYouthDay.md)
 
 이 차이를 먼저 잡아 두면, 어떤 흐름이 `미사곡 자체`에 영향을 주는지, 어떤 흐름이 `집회 찬양과 청년 문화`에 더 큰 영향을 주는지 구분하기 쉬워집니다.
-
----
-
-[⬅️ Back to Organizations](index.md)

@@ -45,7 +45,3 @@
 ## 참고 자료
 
 - [Geoff Bullock 공식 웹사이트](https://www.geoffbullock.com/)
-
----
-
-[⬅️ Back to Artists](index.md)

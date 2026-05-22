@@ -56,7 +56,3 @@
 *   `한국 찬양미사·기도회`를 보고 싶으면: [한국 가톨릭 젊은이 성령쇄신](KoreanYoungCharismaticRenewal.md) -> [이용현 알베르토](../artists/LeeYongHyun.md)
 *   `한국 전국 청년 행사`를 보고 싶으면: [한국청년대회](KoreaYouthDay.md) -> [김태진 베난시오](../artists/KimTaeJin.md)
 *   `한국 청소년 공식 전례 주일`을 보고 싶으면: [청소년 주일](KoreanYouthSunday.md) -> [미사곡 (Mass)](../Mass.md)
-
----
-
-[⬅️ Back to Organizations](index.md)

@@ -54,7 +54,3 @@
 - [리소스 모음](Resources.md) — 악보 자료 및 유용한 웹사이트
 - [해외 현대 미사곡](InternationalMass.md) — 미사곡 세트별 듣기 링크
 - [가톨릭 음악 프로젝트 소개](index.md) — 작품 영상 및 리소스
-
----
-
-[⬅️ Back to Catholic Music](index.md)

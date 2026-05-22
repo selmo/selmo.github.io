@@ -29,7 +29,3 @@
 ## 이 사이트에서 연결되는 항목
 
 - [작곡가·수록곡 크로스 레퍼런스](../CrossReference.md)
-
----
-
-[⬅️ Back to Artists](index.md)

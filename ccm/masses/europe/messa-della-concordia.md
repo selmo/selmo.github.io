@@ -40,7 +40,3 @@
 - [포콜라레 운동](../../organizations/FocolareMovement.md)
 - [Gen Rosso 공식 웹사이트](https://www.genrosso.com/)
 - [Gen Verde 공식 웹사이트](https://www.genverde.it/)
-
----
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

@@ -129,7 +129,3 @@ Journeysongs는 OCP의 대표 성가집으로, 여기에 수록된 많은 현대
 
 - [OCP - Journeysongs](https://www.ocp.org/en-us/collections/dg/230/journeysongs)
 - [OCP Mass Settings Catalog](https://www.ocp.org/en-us/mass-settings)
-
----
-
-[⬅️ Back to Songbooks](Songbooks.md)

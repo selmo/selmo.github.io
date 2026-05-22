@@ -37,5 +37,3 @@
 
 - [CNBB - Cantemos ao Senhor (공식 성가집)](https://www.cnbb.org.br/)
 - [CNBB - Liturgia e Canto](https://www.cnbb.org.br/estudos-e-noticias/liturgia/)
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

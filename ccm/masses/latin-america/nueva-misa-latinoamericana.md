@@ -45,8 +45,3 @@ OCP 제품 페이지의 이중언어 미사곡 컬렉션에 수록:
 
 - [OCP - Nueva Misa Latinoamericana](https://www.ocp.org/en-us/collections/dg/50)
 - [OCP - Mass Settings (Index)](https://www.ocp.org/en-us/mass-settings)
-
----
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)
-

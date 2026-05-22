@@ -45,7 +45,3 @@
 
 - [GIA - Tony Alonso](https://giamusic.com/resource/tony-alonso)
 - [OCP - Tony Alonso](https://www.ocp.org/en-us/artists/350/tony-alonso)
-
----
-
-[⬅️ Back to Artists](index.md)

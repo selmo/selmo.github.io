@@ -91,7 +91,3 @@ _(그 외 6곡 포함, 총 17곡)_
 ## 참고 링크
 
 - [Deezer - Ressuscitou Album](https://www.deezer.com/us/album/506965851)
-
----
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

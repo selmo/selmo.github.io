@@ -40,8 +40,3 @@ OCP 제품 페이지 참조. 수록 성가집 및 미사 경본은 OCP 카탈로
 
 - [OCP - Mass of Freedom](https://www.ocp.org/en-us/collections/dg/49)
 - [OCP - Mass Settings (Index)](https://www.ocp.org/en-us/mass-settings)
-
----
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)
-

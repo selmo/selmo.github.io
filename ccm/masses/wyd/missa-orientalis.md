@@ -52,5 +52,3 @@
 
 - [Chant Cafe - WYD Krakow polyphony](https://www.chantcafe.com/2016/08/polyphony-and-chant-and-latin-at-mass-at-wyd/)
 - [SoundCloud - Missa Orientalis recordings](https://soundcloud.com/gouzentastic/missa-orientalis-kyrie-jacek-sykulski)
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

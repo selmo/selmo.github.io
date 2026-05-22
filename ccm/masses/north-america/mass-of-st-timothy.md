@@ -51,8 +51,3 @@ OCP 제품 페이지 참조. 수록 성가집 및 미사 경본은 OCP 카탈로
 ## 참고 링크
 
 - [OCP - Mass of St. Timothy](https://www.ocp.org/en-us/collections/dg/91)
-
----
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)
-

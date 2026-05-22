@@ -40,5 +40,3 @@
 
 - [katholisch.de - Neues Geistliches Lied](https://katholisch.de/artikel/19080-neues-geistliches-lied-frueher-musik-des-aufbruchs-heute-oldies)
 - [Deutsche Bischofskonferenz - Jugendseelsorge](https://www.dbk.de/themen/jugend/)
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

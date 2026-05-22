@@ -41,7 +41,3 @@
 
 - [GIA - Ruah](https://giamusic.com/resource/ruah-print-g9822)
 - [GIA - Mass Settings (Index)](https://giamusic.com/mass-settings)
-
----
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

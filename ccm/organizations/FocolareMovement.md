@@ -30,7 +30,3 @@
 ## 공식 링크
 
 - [Focolare Official](https://www.focolare.org/en/)
-
----
-
-[⬅️ Back to Organizations](index.md)

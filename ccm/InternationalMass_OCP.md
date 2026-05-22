@@ -60,8 +60,3 @@ OCP 공식 목록( `Mass Settings` )을 표로 정리한 페이지입니다. Int
 | [Santa Clara Mass](https://www.ocp.org/en-us/collections/dg/48) | Bob Hurd | Crossover | English |
 | [Stanley Rother Mass/Misa Stanley Rother](https://www.ocp.org/en-us/collections/dg/720) | Robert Noble | Traditional, Crossover | Bilingual (Eng/Span) |
 | [Wondrous Love Mass](https://www.ocp.org/en-us/collections/dg/66) | Kevin Keil, Paul Hillebrand | Lenten/Traditional | English |
-
----
-
-[⬅️ Back to International Mass Index](InternationalMass.md)
-

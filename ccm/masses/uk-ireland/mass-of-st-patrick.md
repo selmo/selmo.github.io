@@ -41,8 +41,3 @@
 
 - [GIA - The Mass of St. Patrick](https://giamusic.com/resource/the-mass-of-st-patrick-choral-accompaniment-edition-print-g9251)
 - [GIA - Mass Settings (Index)](https://giamusic.com/mass-settings)
-
----
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)
-

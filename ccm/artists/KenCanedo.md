@@ -44,7 +44,3 @@
 ## 참고 자료
 
 - [OCP - Ken Canedo](https://www.ocp.org/en-us/artists/3169/ken-canedo)
-
----
-
-[⬅️ Back to Artists](index.md)

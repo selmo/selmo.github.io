@@ -269,7 +269,3 @@
 - [아티스트 목록](artists/index.md)
 - [Journeysongs ↔ 한국 성가집 매핑](Journeysongs.md)
 - [리소스 모음](Resources.md)
-
----
-
-[⬅️ Back to Catholic Music](index.md)

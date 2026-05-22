@@ -43,7 +43,3 @@
 ## 참고 링크
 
 - [The Revolution of the Vernacular: Misa Campesina](https://pilgrimakimbo.com/2022/08/02/the-revolution-of-the-vernacular-when-the-catholic-mass-became-an-instrument-of-liberation-theology/)
-
----
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

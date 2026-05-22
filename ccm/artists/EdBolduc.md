@@ -44,7 +44,3 @@ Life Teen 모델을 참조하는 한국 청년 미사에서 *Mass of St. Ann*이
 ## 참고 자료
 
 - [ICR - Ed Bolduc](https://www.icrmusic.org/en-us/artists/3450/ed-bolduc)
-
----
-
-[⬅️ Back to Artists](index.md)

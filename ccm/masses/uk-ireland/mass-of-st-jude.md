@@ -86,7 +86,3 @@
 ## 참고 링크
 
 - [CJM Music](https://www.cjmmusic.com/)
-
----
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

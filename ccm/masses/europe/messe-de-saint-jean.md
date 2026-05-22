@@ -45,9 +45,5 @@
 
 - [엠마누엘 공동체 정리](../../organizations/EmmanuelCommunity.md)
 - [Emmanuel Community Official](https://emmanuel.info/en/)
-
----
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)
 *   [Communauté de Saint-Jean](https://www.communautesaintjean.org/)
 *   [Chants de l'Emmanuel - 공식 음원/악보](https://emmanuel.info/en/music/)

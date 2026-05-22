@@ -38,7 +38,3 @@
 
 - [작곡가·수록곡 크로스 레퍼런스](../CrossReference.md)
 - [외국 원곡 매핑](../CrossReference.md#외국-원곡--한국어-번역-매핑)
-
----
-
-[⬅️ Back to Artists](index.md)

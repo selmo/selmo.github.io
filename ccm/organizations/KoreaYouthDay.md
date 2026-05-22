@@ -44,7 +44,3 @@
 - [세계청년대회 (WYD)](WorldYouthDay.md)
 - [한국 가톨릭 대학생 연합](KoreaCatholicUniversityStudents.md)
 - [청소년·대학생·국제행사 가이드](YouthAndYoungAdultGuide.md)
-
----
-
-[⬅️ Back to Organizations](index.md)

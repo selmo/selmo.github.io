@@ -23,7 +23,3 @@
 
 - [Reuben Morgan 아티스트 페이지](../artists/ReubenMorgan.md)
 - [전례곡 — 성체조배](../Liturgical.md#성체조배)
-
----
-
-[⬅️ Back to Songs](index.md)

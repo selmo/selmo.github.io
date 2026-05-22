@@ -48,5 +48,3 @@
 
 - [Liturgy Office UK - Singing the Mass](https://www.liturgyoffice.org.uk/Missal/Music/Singing.pdf)
 - [SSG (Society of St Gregory)](https://www.ssg.org.uk/)
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

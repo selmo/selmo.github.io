@@ -44,7 +44,3 @@
 
 - [Emmanuel Community Official](https://emmanuel.info/en/)
 - [엠마누엘 공동체 정리](../../organizations/EmmanuelCommunity.md)
-
----
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

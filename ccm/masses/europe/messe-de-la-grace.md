@@ -93,7 +93,3 @@
 
 - [Glorious Official Website](https://www.glorious.fr/)
 - [Messe de la Grâce - CD](https://www.glorious.fr/cd/29-messe-de-la-grace-cd.html)
-
----
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

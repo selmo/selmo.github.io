@@ -102,7 +102,3 @@
 ## 참고 링크
 
 - [LA Phil - Misa Criolla](https://www.laphil.com/musicdb/pieces/2346/misa-criolla)
-
----
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

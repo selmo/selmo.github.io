@@ -47,7 +47,3 @@
 
 - [한국청년대회 (KYD)](KoreaYouthDay.md)
 - [청소년·대학생·국제행사 가이드](YouthAndYoungAdultGuide.md)
-
----
-
-[⬅️ Back to Organizations](index.md)

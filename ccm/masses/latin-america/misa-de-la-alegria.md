@@ -88,5 +88,3 @@
 
 - [Siempre Asi - 공식 웹사이트](https://www.siempreasi.com/)
 - [Siempre Asi - 공식 웹사이트](https://www.siempreasi.com/)
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)

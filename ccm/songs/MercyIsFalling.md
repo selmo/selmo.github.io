@@ -22,7 +22,3 @@ David Ruis의 곡으로, "주의 자비가 내려와 내려와"라는 단순한 
 
 - [David Ruis 아티스트 페이지](../artists/DavidRuis.md)
 - [전례곡 — 성령강림](../Liturgical.md#성령강림-pentecost)
-
----
-
-[⬅️ Back to Songs](index.md)

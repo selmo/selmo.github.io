@@ -92,7 +92,3 @@
 - [OCP - Mass of Restoration](https://www.ocp.org/en-us/collections/dg/88/mass-of-restoration)
 - [OCP Blog - New Contemporary Mass](https://www.ocp.org/en-us/blog/entry/new-catholic-mass-setting-leads-todays-parishioners-worship)
 - [Review - One Man In The Middle](https://onemaninthemiddle.com/music/mass-of-restoration)
-
----
-
-[⬅️ Back to International Mass Index](../../InternationalMass.md)
