@@ -39,3 +39,6 @@
 *   **[가톨릭 굿뉴스 성가검색](https://maria.catholic.or.kr/sungga/)**: 한국 성가 악보·MP3·가사
 *   **[성바오로딸](https://youtube.com/fspkorea)**: 한국 가톨릭 성가
 *   **[마리아 사랑넷 성가집](https://www.mariasarang.net/3sinang/3music/sungga.asp)**: 성가 자료, 악보 다운로드
+
+### 성가집 비교
+*   **[어린이·청소년·청년 성가집 비교](Songbooks.md)**: 연령대별·출판사별 성가집과 미사 경본 비교
