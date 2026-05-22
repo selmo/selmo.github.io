@@ -18,8 +18,9 @@
 
 *   **Ubi Caritas**: 전통 성목요일 찬가의 현대적 설정. "사랑이 있는 곳에 하느님이 계시도다" — 성체조배·성시간에서 자주 사용.
 *   **In the Breaking of the Bread**: 엠마오로 가는 두 제자(루카 24장)의 부활 체험을 노래. 부활 시기·영성체송으로 적합.
-*   **The Cry of the Poor**: 시편 34편 기반. 사회 정의와 가난한 이들의 부르짖음을 주제로 한 곡. 사회 교리·자선 주일 미사에서 자주 언급.
 *   **Pan de Vida**: 요한 6장 "생명의 빵" 주제의 이중언어 성체 찬양.
+
+> 참고: 시편 34편 기반의 **"The Cry of the Poor"**는 St. Louis Jesuits의 [John Foley, SJ](StLouisJesuits.md) 작품입니다.
 
 ## 음악 스타일
 

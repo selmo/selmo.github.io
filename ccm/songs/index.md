@@ -20,9 +20,9 @@
 | 주의 자비가 내려와 | Mercy Is Falling | David Ruis | #550 | [→](MercyIsFalling.md) |
 | 내 이름 아시죠 | He Knows My Name | Tommy Walker | #499 | [→](HeKnowsMyName.md) |
 | 내 구주 예수님 | My Jesus, My Saviour | Darlene Zschech | #391 | [→](MyJesusMySaviour.md) |
-| 사랑합니다 | Change My Heart, Oh God | Eddie Espinosa | #545 | [→](LordILoveYou.md) |
+| 사랑합니다 | Lord I Love You | Eddie Espinosa | ? | [→](LordILoveYou.md) |
 | 주를 높이기 원합니다 | I Give You My Heart | Reuben Morgan | #394 | [→](IGiveYouMyHeart.md) |
-| 주 품에 품으소서 | Still | Reuben Morgan | #495 | [→](Still.md) |
+| 주 품에 품으소서 | Still | Reuben Morgan | ? | [→](Still.md) |
 | 모든 능력과 모든 권세 | Above All | Lenny LeBlanc | #590 | [→](AboveAll.md) |
 | 주님과 같이 | There Is None Like You | Lenny LeBlanc | #752 | [→](ThereIsNoneLikeYou.md) |
 | 나의 모습 나의 소유 | I Offer My Life | Don Moen | #757 | [→](IOfferMyLife.md) |

@@ -5,7 +5,7 @@
 영국의 시인, 작곡가, 포크(Folk) 음악가. 런던 캠든 타운(Camden Town)에서 태어났습니다.
 
 ## 대표곡
-*   **[Lord of the Dance](../songs/LordOfTheDance.md)** (1967): 셰이커 교도들의 노래 "Simple Gifts"를 기반으로 만든 곡. 한국에서는 "춤의 왕"으로 번안되어 알려져 있습니다.
+*   **[Lord of the Dance](../songs/LordOfTheDance.md)** (1963년 작·출판; 1965년 앨범): 셰이커 교도들의 노래 "Simple Gifts"를 기반으로 만든 곡. 한국에서는 "춤의 왕"으로 번안되어 알려져 있습니다.
 *   **The Crow on the Cradle**: 잭슨 브라운(Jackson Browne)이 녹음하여 유명해진 곡.
 *   **Julian of Norwich**: 노리치의 줄리안의 텍스트를 기반으로 한 곡.
 *   그 외: "One More Step Along the World I Go", "Every Star Shall Sing a Carol" 등.

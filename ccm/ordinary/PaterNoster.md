@@ -61,7 +61,7 @@ ut, ope misericórdiae tuae adiúti,
 semper a peccáto simus líberi et ab omni perturbatióne secúri:
 (셈페르 아 페카토 시무스 리베리 엣 압 옴니 페르투르바치오네 세쿠리)
 exspectántes beátam spem
-(엑스펙탄테스 베아탐 스페姆)
+(엑스펙탄테스 베아탐 스펨)
 et advéntum Salvatóris nostri Iesu Christi.
 (엣 아드벤툼 살바토리스 노스트리 예수 크리스티)
 

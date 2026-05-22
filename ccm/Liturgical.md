@@ -12,7 +12,7 @@
 
 ### 성탄시기
 **미사곡**:
-*   [대영광송 (Gloria)](ordinary/Gloria.md): 미사 시작 예식의 찬미가. 성탄(12/25) 자정미사와 새벽미사, 그리고 대축일이나 주요 축일에 사용. 전례력상 성탄 시즌에 되찾으며, 대림·사순 기간中は 사용하지 않음.
+*   [대영광송 (Gloria)](ordinary/Gloria.md): 미사 시작 예식의 찬미가. 성탄(12/25) 자정미사와 새벽미사, 그리고 대축일이나 주요 축일에 사용. 전례력상 성탄 시즌에 되찾으며, 대림·사순 기간에는 사용하지 않음.
 *   [Gloria in excelsis Deo](songs/TaeHyoungChoi.md#미사곡-mass): 야훼이레 수록 대영광송 계열. (최태형 안셀모)
 *   [A Christmas Gloria](masses/north-america/mass-of-christ-the-savior.md): Dan Schutte Mass of Christ the Savior 설정.
 
@@ -83,12 +83,12 @@
 ### 주요 대축일
 
 **그리스도 왕 대축일 (Christ the King)**:
-*   [주님 당신의 길을](songs/TaeHyoungChoi.md#화답송-responsorial-psalms): 시편 24편. 나그네 왕의入场 (입장). (최태형 안셀모)
+*   [주님 당신의 길을](songs/TaeHyoungChoi.md#화답송-responsorial-psalms): 시편 24편. 나그네 왕의 입장. (최태형 안셀모)
 *   모든 왕의 왕 (The King of Kings) — 하늘바다.
 *   왕이신 예수 — 야훼이레 #380.
 
 **모든 성인 대축일 (All Saints)**:
-*   거룩하시도다: "거룩하시도다 거룩하시도다 만왕의 왕" — 시편 24에서 유래된 성인 신앙고보. (최태형 안셀모)
+*   거룩하시도다: "거룩하시도다 거룩하시도다 만왕의 왕" — 시편 24편에서 유래된 성인 신앙고백. (최태형 안셀모)
 *   하늘에 올라 — 하늘바다.
 
 **성체성혈 대축일 (Feast of Body and Blood of Christ)**:
@@ -135,11 +135,11 @@
 
 *   [두려워 말라 (Be Not Afraid)](songs/BeNotAfraid.md): 위로·신뢰. 장례 미사에서 자주 사용. (Bob Dufford, SJ)
 *   [주님 제가 여기 있나이다 (Here I Am, Lord)](songs/HereIAmLord.md): 삶의 봉헌과 여정 마무리. (Dan Schutte)
-*   [주님과 같이](../CrossReference.md): There is none like You. Lenny LeBlanc. 야훼이레 #752.
+*   [주님과 같이](songs/ThereIsNoneLikeYou.md): There is none like You. Lenny LeBlanc. 야훼이레 #752.
 *   [주님의 날 (Wait for the Lord)](artists/JacquesBerthier.md): J. Berthier. 야훼이레 #215. 연도·위령 기도.
 *   [춤의 왕 (Lord of the Dance)](songs/LordOfTheDance.md): 삶과 죽음을 넘어서는 부활 신앙. Sydney Carter. 야훼이레 #859.
 *   [주 네 맘에 들어가시려 하네](songs/TaeHyoungChoi.md#일반-성가-및-기타-hymns--others): 위로·임종. (최태형 안셀모)
-*   [너는 내 것이라](../CrossReference.md): 위로·하느님의 소유권 신뢰. 현정수 요한사도. 야훼이레 #456.
+*   [너는 내 것이라](CrossReference.md): 위로·하느님의 소유권 신뢰. 현정수 요한사도. 야훼이레 #456.
 *   위로 — 야훼이레 #704. 이진이.
 *   위령 미사: 미사 통상문에서 알렐루야를 제외하고 화답송·영성체송 중심으로 구성. 입당송 "주여, 영원한 안식을 주소서"(Requiem aeternam)가 전통적.
 

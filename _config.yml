@@ -15,6 +15,8 @@ defaults:
 
 exclude:
   - _archive/
+  - refs/
+  - cards/
   - GEMINI.md
   - "*.xlsx"
   - "*.xls"

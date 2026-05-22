@@ -15,10 +15,11 @@
 
 ## 주요 작품
 
-*   **The Summons**: "주님, 당신은 저를 부르시나요?" — 소명·파견 주제로 청년 피정·서품식·사목자 수련회에서 단골 레퍼토리.
 *   **You Are the Voice**: 창세기 1장과 시편 139편 기반. 창조와 생명, 인간 존엄을 노래.
 *   **Come, Holy Spirit**: 성령 강림 대축일·견진 성사용.
 *   **We Will Follow**: 제자직과 공동체의 결단을 노래하는 청년 미사 파견송.
+
+> 참고: "The Summons" ("Will you come and follow me")는 스코틀랜드 [Iona Community](https://en.wikipedia.org/wiki/Iona_Community)의 **John L. Bell** 작품입니다.
 
 ## 음악 스타일
 
@@ -26,7 +27,7 @@
 
 ## 한국 내 수용
 
-*Mass of Renewal*의 Gloria는 한국 청년 미사에서도 밴드 편성으로 불리기 시작했으며, *The Summons*는 소명 주제 피정과 서품식에서 사용됩니다.
+*Mass of Renewal*의 Gloria는 한국 청년 미사에서도 밴드 편성으로 불리기 시작했습니다.
 
 ## 디스코그래피 (주요 앨범)
 

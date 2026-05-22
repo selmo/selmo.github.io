@@ -4,7 +4,7 @@
 
 ## 활동 및 특징
 
-*   **전례 음악**: 로마 교구 성가대(Cappella Musicale della Basilica di Santa Cecilia)를 지휘하며 장엄하고 아름다운 다성 음악을 작곡했습니다.
+*   **전례 음악**: 로마 교구 성가대(Coro della Diocesi di Roma)를 지휘하며 장엄하고 아름다운 다성 음악을 작곡했습니다.
 *   **영화 음악**: '성경(The Bible)' 시리즈(RAI, 1993), '요셉(Joseph)' 등 이탈리아 성경 드라마 영화 음악으로 유명합니다.
 *   **청년 사목**: 요한 바오로 2세와 베네딕토 16세 교황 재위 시 [세계청년대회(WYD)](../organizations/WorldYouthDay.md) 주제가를 다수 작곡했습니다.
 

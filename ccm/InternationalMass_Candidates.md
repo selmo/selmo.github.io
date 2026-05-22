@@ -9,7 +9,7 @@
 ---
 
 <a id="north-america"></a>
-## 🇺🇸 북미 (USA & Canada) — 후보
+## 🇺🇸 북미 (USA & Canada) — 후보 {#north-america}
 
 - 📖 [Mass of Restoration](masses/north-america/mass-of-restoration.md)
 - 📖 [Mass of Communion](masses/north-america/mass-of-communion.md)
@@ -23,7 +23,7 @@
 ---
 
 <a id="uk-ireland"></a>
-## 🇬🇧🇮🇪 UK & Ireland — 후보
+## 🇬🇧🇮🇪 UK & Ireland — 후보 {#uk-ireland}
 
 - 📖 [The Glendalough Mass](masses/uk-ireland/glendalough-mass.md)
 - 📖 [The Mass of St. Patrick](masses/uk-ireland/mass-of-st-patrick.md)
@@ -36,7 +36,7 @@
 ---
 
 <a id="latin-america"></a>
-## 🇧🇷🇦🇷🇲🇽🇪🇸 남미 & 스페인 — 후보
+## 🇧🇷🇦🇷🇲🇽🇪🇸 남미 & 스페인 — 후보 {#latin-america}
 
 <a id="브라질-brazil"></a>
 ### 🇧🇷 브라질 (Brazil)
@@ -87,7 +87,7 @@
 ---
 
 <a id="europe"></a>
-## 🇪🇺 유럽 대륙 — 후보
+## 🇪🇺 유럽 대륙 — 후보 {#europe}
 
 - 📖 [Messe de la Grâce](masses/europe/messe-de-la-grace.md)
 - 📖 [Messe du Frat 2017](masses/europe/messe-du-frat-2017.md)
@@ -98,7 +98,7 @@
 ---
 
 <a id="asia"></a>
-## 🇵🇭 아시아 — 후보
+## 🇵🇭 아시아 — 후보 {#asia}
 
 - 📖 [Tinapay ng Buhay](masses/asia/tinapay-ng-buhay.md)
 - 📖 [The Easter Journey Mass](masses/asia/easter-journey-mass.md)

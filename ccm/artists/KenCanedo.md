@@ -19,7 +19,8 @@
 
 *   **Fish with Me**: "나를 따라오너라, 내가 너희를 사람 낚는 어부로 만들리라" — 마르코 1장 기반의 청년 소명 찬양. 밝고 경쾌한 스윙 리듬.
 *   **Center of My Life**: 시편 16편 기반. 묵상적이며 봉헌·영성체송으로 적합.
-*   **The Cry of the Poor**: Bob Hurd와 공동 작곡. 시편 34편, 가난한 이들의 부르짖음.
+
+> 참고: 시편 34편 기반의 **"The Cry of the Poor"**는 St. Louis Jesuits의 [John Foley, SJ](StLouisJesuits.md) 작품입니다.
 
 ## 음악 스타일
 

@@ -124,7 +124,7 @@ and the life of the world to come. Amen.
 Creio em um só Deus, Pai todo-poderoso,
 (크레이오 엥 움 소 데우스, 파이 토두-포데로주)
 Criador do céu e da terra, de todas as coisas visíveis e invisíveis.
-(크리아도르 du 세우 이 다 테하, 드 토다스 아스 코이자스 비지베이스 이 인비지베이스)
+(크리아도르 두 세우 이 다 테하, 드 토다스 아스 코이자스 비지베이스 이 인비지베이스)
 Creio em um só Senhor, Jesus Cristo, Filho Unigénito de Deus,
 (크레이오 엥 움 소 세뇨르, 제주스 크리스투, 필류 우니제니투 드 데우스)
 nascido do Pai antes de todos os séculos:

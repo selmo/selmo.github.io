@@ -5,8 +5,8 @@
 ## 약력
 
 - 쿠바계 이민자 가정에서 성장, 마이애미 출신
-- 조지타운 대학교(Georgetown University)에서 전례학 박사 학위 취득
-- 현재 에모리 대학교(Emory University) Candler School of Theology에서 전례학 교수로 재직
+- 에모리 대학교(Emory University)에서 박사 학위 취득
+- 현재 에모리 대학교 Candler School of Theology에서 전례학 교수로 재직
 - GIA와 OCP 양쪽에서 작품 출판 — 양대 출판사에 모두 기여하는 드문 케이스
 - 미국 가톨릭 주교회의(USCCB) 전례 자문 위원회 참여
 
@@ -16,10 +16,11 @@
 
 ## 주요 작품
 
-*   **We Remember**: 성체성사와 공동체 기억을 노래하는 영성체/봉헌곡.
-*   **Go Out, Go Out**: 파견·선교 주제의 파견송. Life Teen과 청년 미사에서 사용.
-*   **Todo Cambia**: 쿠바계 정체성을 반영한 스페인어곡. 변화와 희망의 주제.
+*   **Mass of Joy and Peace** (2010, GIA): 대표 미사곡 세트. 위 항목 참조.
+*   **Go Out, Go Out**: 파견·선교 주제의 파견송.
 *   **Fresh as the Morning**: 시편 30편 기반. 새 아침의 희망과 찬양.
+
+> 주의: "We Remember"는 Marty Haugen(1980, GIA)의 작품이며, "Todo Cambia"는 Julio Numhauser 작곡·Mercedes Sosa 노래로 알려진 곡입니다. 두 곡은 Tony Alonso 작품이 아닙니다.
 
 ## 학술 활동
 
@@ -33,8 +34,6 @@
 
 - *Mass of Joy and Peace* (GIA)
 - *Go Out, Go Out* (GIA, 컬렉션)
-- *We Remember* (GIA, 컬렉션)
-- *Todo Cambia* (OCP)
 
 ## 이 사이트에서 연결되는 항목
 

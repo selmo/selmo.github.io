@@ -7,7 +7,7 @@
 
 ## 개요
 
-**작곡가**: [Tony Alonso](../../artists/TonyAlonso.md), SJ
+**작곡가**: [Tony Alonso](../../artists/TonyAlonso.md)
 **출판**: GIA Publications (2010)
 **스타일**: Contemporary
 
@@ -36,9 +36,7 @@
 
 ## 사용 근거 (Evidence)
 
-OCP 제품 페이지 참조. 수록 성가집 및 미사 경본은 OCP 카탈로그에서 확인 가능:
-- OCP Mass Settings 카탈로그에 등록된 미사곡 세트
-- OCP 제품 페이지에서 수록 정보 확인 가능
+GIA Publications 카탈로그 등록. GIA *Gather* 및 관련 성가집에서 수록을 확인할 수 있습니다.
 
 ## 검색 키워드
 

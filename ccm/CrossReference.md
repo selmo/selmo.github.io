@@ -17,7 +17,7 @@
 | 9 | 신상옥 안드레아 | 13 | 10 | 23 | [Shin Sang Ok](artists/ShinSangOk.md) |
 | 10 | 신지은·이지혜 | - | 13 | 13 | [Shin Ji Eun & Lee Ji Hye](artists/ShinJiEunLeeJiHye.md) |
 | 11 | 이종철 | 1 | 9 | 10 | [Lee Jong Chul](artists/LeeJongChul.md) |
-| 12 | 이용현 알베르또 | 11 | - | 11 | [Lee Yong Hyun](artists/LeeYongHyun.md) |
+| 12 | 이용현 알베르토 | 11 | - | 11 | [Lee Yong Hyun](artists/LeeYongHyun.md) |
 | 13 | 김태진 베난시오 | 11 | - | 11 | [Kim Tae Jin](artists/KimTaeJin.md) |
 | 14 | 김정식 로제리오 | 10 | - | 10 | [Kim Jeong Sik](artists/KimJeongSik.md) |
 | 15 | 송시웅 필립보 | 9 | - | 9 | [Song Si Ung](artists/SongSiUng.md) |
@@ -79,7 +79,7 @@
 | Tommy Walker | 2 | 나의 슬픔을, 내 이름 아시죠(He knows my name) | [Tommy Walker](artists/TommyWalker.md) |
 | Darlene Zschech | 2 | 내 구주 예수님, 주 말씀 향하여 | [Darlene Zschech](artists/DarleneZschech.md) |
 | Scott Brenner | 2 | 성령의 불로, 아버지 사랑합니다 | [Scott Brenner](artists/ScottBrenner.md) |
-| Eddie Espinosa | 2 | 내 주 같은 분없네, 사랑합니다(Lord I love You) | [Eddie Espinosa](artists/EddieEspinosa.md) |
+| Eddie Espinosa | 2 | 내 주 같은 분 없네, 사랑합니다(Lord I Love You) | [Eddie Espinosa](artists/EddieEspinosa.md) |
 | Reuben Morgan | 2 | 주를 높이기 원합니다(I give You my heart), 주 품에 품으소서(Still) | [Reuben Morgan](artists/ReubenMorgan.md) |
 
 ---
@@ -100,7 +100,7 @@
 **김종성** (10곡)
 자비송, 대영광송, 복음환호송, 보편지향기도, 거룩하시도다, 신앙의 신비여, 아멘, 주님의 기도, 주님께 나라와, 하느님의 어린양
 
-**신상욱** (10곡)
+**신상옥** (10곡)
 자비송, 대영광송, 복음환호송, 보편지향기도, 거룩하시도다, 신앙의 신비여, 아멘, 주님의 기도, 주님께 나라와, 하느님의 어린양
 
 **이종철** (9곡)
@@ -129,10 +129,10 @@
 |:---|:---:|:---:|:---|
 | 현정수 | 11 | 24 | 자비송~하느님의 어린양 전 파트 |
 | 김종성 | 10 | 13 | 자비송~하느님의 어린양 전 파트 |
-| 신상욱 | 10 | 13 | 자비송~하느님의 어린양 전 파트 |
+| 신상옥 | 10 | 13 | 자비송~하느님의 어린양 전 파트 |
 | 이종철 | 9 | 1 | 하늘바다: 미사 전 파트, 야훼이레: 주님의 기도 |
 
-> 현정수, 김종성, 신상욱은 두 성가집 모두에서 미사 통상문 전 파트에 곡이 있는 핵심 작곡가입니다.
+> 현정수, 김종성, 신상옥은 두 성가집 모두에서 미사 통상문 전 파트에 곡이 있는 핵심 작곡가입니다.
 
 ---
 
@@ -174,13 +174,13 @@
 | 주 품에 품으소서 | Still | Reuben Morgan |
 | 내 구주 예수님 | My Jesus my savior | Darlene Zschech |
 | 주 말씀 향하여 | I will run to You | Darlene Zschech |
-| 내 주 같은 분없네 | There's no one like You | Eddie Espinosa |
+| 내 주 같은 분 없네 | There's no one like You | Eddie Espinosa |
 | 사랑합니다 | Lord I love You | Eddie Espinosa |
 | 비추소서 | Shine Jesus shine | Graham Kendrick |
 | 약할 때 강함 되시네 | You are my all in all | Dennis Jernigan |
 | 오 나의 자비로운 주여 | Spirit song | John Wimber |
 | 하늘 위에 주님 밖에 | God is strength of my heart | Eugene Greco |
-| 전능하신 나의 주 하느님 | Nosso Deus e pokeroso | Alda Celia |
+| 전능하신 나의 주 하느님 | Nosso Deus é poderoso | Alda Célia |
 | 야! 외쳐라 | Shout shout for joy | Dave Bell |
 | 춤의 왕 | Lord of the dance | Sydney Carter |
 
@@ -197,7 +197,7 @@
 | 구세주 빨리 오사 | Venez divin Messie | Cabrisseau |
 | 예수 부활하셨도다 | Easter Hymn (Jesus Christ Is Risen Today) | Lyra Davidica |
 | 경사롭다 | Cantique de Noël (O Holy Night) | Adolphe Adam |
-| 만왕의 왕 | Thine Be the Glory | Claudio Goudimel |
+| 만왕의 왕 | Thine Be the Glory | G. F. Handel (멜로디 *See, the Conqu'ring Hero Comes*) |
 | 천사의 양식 | Panis Angelicus | Lambillotte |
 
 ---
