@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 세인트 루이스 예수회 (St. Louis Jesuits)
 
 **St. Louis Jesuits**는 1970년대 미국 가톨릭 전례 음악의 혁신을 이끈 예수회 신학생들의 그룹입니다. 이들의 음악은 제2차 바티칸 공의회 이후 영어 전례(Vernacular Liturgy)가 정착하는 데 결정적인 역할을 했습니다.

@@ -1,7 +1,3 @@
-[Home](../index.md) | [Catholic Music](index.md) | [International Mass](InternationalMass.md) | **OCP Catalog**
-
----
-
 # OCP Mass Settings (Catalog)
 
 OCP 공식 목록( `Mass Settings` )을 표로 정리한 페이지입니다. InternationalMass 본문은 “현장 추천/큐레이션” 중심이므로, 더 많은 후보를 찾을 때 참고용으로 사용하세요.

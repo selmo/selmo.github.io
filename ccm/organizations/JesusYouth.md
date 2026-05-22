@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Organizations](index.md) | **Jesus Youth**
-
----
-
 # Jesus Youth
 
 **Jesus Youth**는 인도에서 시작되어 여러 나라로 확산된 국제 가톨릭 청년 운동입니다. 성령쇄신 영성, 공동체 생활, 복음화, 직장·학교·가정 안에서의 선교적 삶을 강조하며, 젊은이들이 젊은이들을 이끄는 구조가 강한 흐름입니다.

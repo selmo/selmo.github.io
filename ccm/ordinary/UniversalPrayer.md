@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Mass](../Mass.md) | [Universal Prayer](UniversalPrayer.md)
-
----
-
 # 보편 지향 기도 (Universal Prayer)
 
 **보편 지향 기도(신자들의 기도)**는 말씀 전례의 끝에서, 교회와 세상의 필요를 위해 공동체가 함께 바치는 전례 기도입니다.

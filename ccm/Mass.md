@@ -1,7 +1,3 @@
-[Home](../index.md) | [CCM Home](index.md) | [Mass](Mass.md) | [Liturgical](Liturgical.md) | [Other Works](OtherWorks.md) | [Commentary](Commentary.md)
-
----
-
 # 미사곡 (Mass)
 
 미사 전례의 흐름에 따른 음악 작품들을 정리한 페이지입니다.

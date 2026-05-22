@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Organizations](index.md) | **Korean Youth Sunday**
-
----
-
 # 청소년 주일 (Korean Youth Sunday)
 
 **청소년 주일**은 한국 천주교회가 해마다 5월의 마지막 주일에 지내는 특별 주일입니다. 운동이나 단체라기보다, 한국 교회가 청소년과 청년을 전례와 사목 안에서 어떻게 바라보는지 보여 주는 공식 전례 주일이라는 점에서 의미가 큽니다.

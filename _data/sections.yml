@@ -1,0 +1,15 @@
+# Maps URL path segments to display names for breadcrumbs.
+# Key is the URL path WITHOUT leading/trailing slashes.
+# Leaf pages get their title from page.title (frontmatter) or filename fallback.
+
+ccm: Catholic Music
+ccm/songs: Songs
+ccm/artists: Artists
+ccm/masses: Masses
+ccm/ordinary: Ordinary
+ccm/organizations: Organizations
+ccm/regulations: Regulations
+cs: Computer Science
+resources: Resources
+cards: Cards
+refs: References

@@ -1,7 +1,3 @@
-[Home](../../../index.md) | [Catholic Music](../../index.md) | [International Mass](../../InternationalMass.md) | [Latin America](../../InternationalMass.md#멕시코-mexico) | **Misa del Sagrado Corazón**
-
----
-
 # Misa del Sagrado Corazón (Mass of the Sacred Heart)
 
 ![Region](https://img.shields.io/badge/Region-Latin_America_(Mexico)-blue)

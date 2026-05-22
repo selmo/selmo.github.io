@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Mass](../Mass.md) | [Mysterium Fidei](MysteriumFidei.md)
-
----
-
 # 신앙의 신비여 (Mysterium Fidei)
 
 **신앙의 신비여(Mysterium fidei)**는 감사 기도 중 성찬 제정과 축성문(Consecration)이 끝난 직후, 사제의 선창에 이어 회중이 성체성사의 신비를 고백하며 바치는 환호입니다.

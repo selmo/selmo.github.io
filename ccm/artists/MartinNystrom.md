@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 마틴 니스톰 (Martin Nystrom)
 
 **Martin Nystrom**은 미국의 워십 작곡가이자 교사로, 현대 CCM 역사상 가장 널리 불리는 찬양 중 하나인 **"As the Deer"(목마른 사슴)** 의 작곡가입니다. 시편 42편을 바탕으로 한 이 곡은 개신교와 가톨릭을 넘나들며 전 세계 교회에서 불리고 있습니다.

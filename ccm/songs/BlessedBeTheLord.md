@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Songs](index.md) | **Blessed Be the Lord God Almighty**
-
----
-
 # 사랑하는 나의 아버지 (Blessed Be the Lord God Almighty)
 
 - **원곡**: Blessed Be the Lord God Almighty

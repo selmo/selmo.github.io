@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Mass](../Mass.md) | [Credo](Credo.md)
-
----
-
 # 신경 (Credo)
 
 **신경(Credo)**은 미사의 말씀 전례를 마치며, 하느님의 말씀에 대한 응답으로 신앙을 고백하는 순서입니다.

@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md) | **Kwon Sung Il**
-
----
-
 # 권성일 미카엘 (Kwon Sung Il)
 
 야훼이레에 5곡이 수록된 작곡가로, 제자직과 십자가를 주제로 한 생활성가를 작곡했습니다.

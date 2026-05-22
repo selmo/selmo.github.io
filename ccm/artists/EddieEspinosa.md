@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 에디 에스피노사 (Eddie Espinosa)
 
 **Eddie Espinosa**는 미국 출신의 워십 리더이자 작곡가로, 1980년대부터 Vineyard 예배 운동 안에서 활동했습니다. 라틴계 배경을 가진 몇 안 되는 초기 Vineyard 워십 작곡가 중 하나입니다.

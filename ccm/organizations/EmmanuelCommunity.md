@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Organizations](index.md) | **Emmanuel Community**
-
----
-
 # 엠마누엘 공동체 (Emmanuel Community)
 
 **엠마누엘 공동체**는 프랑스에서 성장한 가톨릭 공동체입니다. 흠숭, 연민, 복음화를 핵심 축으로 삼으며, 찬양과 기도, 성체성사 중심 영성을 강하게 드러냅니다.

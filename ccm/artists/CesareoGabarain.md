@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 체사레오 가바라인 (Cesáreo Gabaráin)
 
 **Cesáreo Gabaráin** (1936–1991)은 스페인의 가톨릭 사제이자 작곡가입니다. 제2차 바티칸 공의회 이후 스페인어권 가톨릭 전례 음악에 지대한 공헌을 했습니다.

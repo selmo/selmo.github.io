@@ -1,7 +1,3 @@
-[Home](../index.md) | [Catholic Music](index.md) | [Mass](Mass.md) | [Liturgical](Liturgical.md) | [Other Works](OtherWorks.md) | [Commentary](Commentary.md)
-
----
-
 # Catholic Music
 
 가톨릭 전례 음악과 생활성가(CCM), 그리고 관련 교회 문헌과 정보를 다루는 공간입니다.

@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Organizations](index.md) | **Vida Nueva**
-
----
-
 # 비다누에바 (Vida Nueva)
 
 **비다누에바(Vida Nueva)**는 한국 가톨릭 청년 피정 프로그램입니다. 스페인어로 '새로운 삶'을 뜻하며, 2박 3일의 집중 피정과 후속 공동체 모임을 중심으로 1990년대부터 현재까지 여러 교구에서 이어져 오고 있습니다.

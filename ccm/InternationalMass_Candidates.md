@@ -1,7 +1,3 @@
-[Home](../index.md) | [Catholic Music](index.md) | [International Mass](InternationalMass.md) | **International Mass (Candidates)**
-
----
-
 # 해외 현대 미사곡 (추가 후보 / 근거 보강 필요)
 
 이 페이지는 `InternationalMass.md` 본문(“많이 사용되는 미사곡”)에 아직 포함되지 않은 **추가 후보 목록**입니다.  

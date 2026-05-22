@@ -1,7 +1,3 @@
-[Home](../../../index.md) | [Catholic Music](../../index.md) | [International Mass](../../InternationalMass.md) | [UK & Ireland](../../InternationalMass.md#uk-ireland) | **Israeli Mass**
-
----
-
 # Israeli Mass
 
 ![Region](https://img.shields.io/badge/Region-Europe_(UK/Ireland)-blue)

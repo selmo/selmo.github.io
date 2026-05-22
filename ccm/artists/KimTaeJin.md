@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 김태진 베난시오 (Fr. Kim Tae-jin)
 
 **김태진 베난시오 신부**는 사제이자 작곡가로서, 가톨릭 전례 음악과 청소년 사목을 위한 활기차고 영적인 곡들을 다수 작곡했습니다.

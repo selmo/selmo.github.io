@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md) | **Park Yoon Young**
-
----
-
 # 박윤영 헬레나 (Park Yoon Young)
 
 야훼이레에 미사 통상문 6파트가 수록된 작곡가입니다. 송시웅, 현덕과 함께 야훼이레 미사곡의 한 축을 이루는 중견 작곡가입니다.

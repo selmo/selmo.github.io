@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Songs](index.md) | **God Will Make a Way**
-
----
-
 # 주님 내 길을 (God Will Make a Way)
 
 - **원곡**: God Will Make a Way

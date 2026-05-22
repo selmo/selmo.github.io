@@ -1,7 +1,3 @@
-[Home](../../../index.md) | [Catholic Music](../../index.md) | [International Mass](../../InternationalMass.md) | [WYD](../../InternationalMass.md#wyd) | **Missa Magis**
-
----
-
 # Missa Magis (WYD 2008 - Sydney)
 
 ![Region](https://img.shields.io/badge/Region-WYD_(Sydney_2008)-blue)

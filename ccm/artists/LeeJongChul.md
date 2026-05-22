@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md) | **Lee Jong Chul**
-
----
-
 # 이종철 (Lee Jong Chul)
 
 야훼이레와 하늘바다 양쪽에 수록된 작곡가로, 특히 하늘바다에서 미사 통상문 8파트에 걸쳐 어린이 미사곡을 제공했습니다. 화답송과 복음환호송에 고유한 가사 설정을 붙인 점이 특징입니다.

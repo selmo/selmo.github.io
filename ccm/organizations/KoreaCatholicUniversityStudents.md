@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Organizations](index.md) | **Korean Catholic University Students**
-
----
-
 # 한국 가톨릭 대학생 연합
 
 **한국 가톨릭 대학생 연합(한가대연)**은 각 교구 대학생 연합이 모이는 전국 단위의 가톨릭 대학생 네트워크입니다. 공개 공식 소개에서 가장 확인하기 쉬운 서울대교구 대학교사목부 자료는 서울가대연이 한가대연과 국제 가톨릭 대학생 운동(IMCS) 아시아-태평양 지부에 소속되어 있다고 설명합니다.

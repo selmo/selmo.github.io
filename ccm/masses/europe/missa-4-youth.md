@@ -1,7 +1,3 @@
-[Home](../../../index.md) | [Catholic Music](../../index.md) | [International Mass](../../InternationalMass.md) | [Europe](../../InternationalMass.md#europe) | **Missa 4 You(th)**
-
----
-
 # Missa 4 You(th)
 
 ![Region](https://img.shields.io/badge/Region-Europe_(Germany)-blue)

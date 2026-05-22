@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Mass](../Mass.md) | [Introitus](Introitus.md)
-
----
-
 # 입당송 (Introitus)
 
 **입당송(Introitus)**은 미사 시작 예식의 첫 번째 노래로, 입당 행렬이 시작될 때 부릅니다.

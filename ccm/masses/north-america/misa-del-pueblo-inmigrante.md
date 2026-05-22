@@ -1,7 +1,3 @@
-[Home](../../../index.md) | [Catholic Music](../../index.md) | [International Mass](../../InternationalMass.md) | [North America](../../InternationalMass.md#north-america) | **Misa del Pueblo Inmigrante**
-
----
-
 # Misa del Pueblo Inmigrante
 
 ![Region](https://img.shields.io/badge/Region-North_America_(USA)-blue)

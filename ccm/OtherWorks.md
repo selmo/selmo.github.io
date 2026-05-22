@@ -1,7 +1,3 @@
-[Home](../index.md) | [Catholic Music](index.md) | [Mass](Mass.md) | [Liturgical](Liturgical.md) | [Other Works](OtherWorks.md) | [Commentary](Commentary.md)
-
----
-
 # 그외 작품들 (Other Works)
 
 CCM, 찬양곡 및 기타 음악 작품들을 정리한 페이지입니다. 미사 통상문과 직접 연결되지 않는 생활성가, 번역곡, 묵상 음악은 이 페이지에서 먼저 찾아볼 수 있습니다.

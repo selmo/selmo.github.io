@@ -1,7 +1,3 @@
-[Home](../../../index.md) | [Catholic Music](../../index.md) | [International Mass](../../InternationalMass.md) | [Europe](../../InternationalMass.md#europe) | **Messa della Concordia**
-
----
-
 # Messa della Concordia
 
 ![Region](https://img.shields.io/badge/Region-Europe_(Italy)-blue)

@@ -1,7 +1,3 @@
-[Home](../../../index.md) | [Catholic Music](../../index.md) | [International Mass](../../InternationalMass.md) | [Europe](../../InternationalMass.md#europe) | **Messe de la Grâce**
-
----
-
 # Messe de la Grâce
 
 ![Region](https://img.shields.io/badge/Region-Europe_(France)-blue)

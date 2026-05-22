@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 토미 워커 (Tommy Walker)
 
 **Tommy Walker**는 미국 출신의 워십 리더이자 작곡가입니다. 캘리포니아 Pasadena에 있는 Christian Assembly 교회의 예배 사역자로 오랜 기간 활동했습니다.

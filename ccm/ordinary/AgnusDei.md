@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Mass](../Mass.md) | [Agnus Dei](AgnusDei.md)
-
----
-
 # 하느님의 어린양 (Agnus Dei)
 
 **하느님의 어린양(Agnus Dei)**은 영성체 예식 중 빵 나눔(Fraction) 동안 바치는 기도로, 세상의 죄를 없애시는 구세주 예수 그리스도께 자비와 평화를 간청합니다.

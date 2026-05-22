@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 밥 피츠 (Bob Fitts)
 
 **Bob Fitts**는 미국의 워십 리더이자 작곡가로, **YWAM (Youth With A Mission, 예수전도단)**과 밀접하게 협력하며 전 세계를 다니며 찬양 사역을 펼쳐왔습니다.

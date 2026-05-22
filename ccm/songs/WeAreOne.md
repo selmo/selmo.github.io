@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Songs](index.md)
-
----
-
 # 우리는 하나 (We Are One)
 
 *   **원곡**: The Last Farewell (Roger Whittaker 작곡)

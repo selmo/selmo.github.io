@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md) | **Hyun Duk**
-
----
-
 # 현덕 프란치스코 (Hyun Duk)
 
 야훼이레에 5곡이 수록된 작곡가로, 미사 통상문 4파트와 생활성가 1곡을 남겼습니다.

@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 세바스티안 템플 (Sebastian Temple)
 
 **Sebastian Temple** (1928–1997)은 남아프리카 공화국 출신의 작곡가로, 주로 미국과 영국에서 활동했습니다. 성 프란치스코 재속3회 회원(Secular Franciscan)으로서, 평화와 사랑의 메시지를 담은 포크 스타일의 전례 음악을 많이 남겼습니다.

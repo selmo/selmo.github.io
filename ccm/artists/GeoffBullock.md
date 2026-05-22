@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 제프 불록 (Geoff Bullock)
 
 **Geoff Bullock**은 호주의 싱어송라이터이자 피아니스트로, 힐송 뮤직(Hillsong Music)의 초석을 놓은 인물입니다. 1990년대 초반 힐송 교회의 첫 워십 목사(Worship Pastor)로 활동하며 오늘날 글로벌 워십 브랜드로 성장한 힐송의 음악적 기초를 세웠습니다.

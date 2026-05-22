@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 현정수 요한사도 (Fr. Hyun Jeong-su)
 
 **현정수 요한사도 신부**는 수원교구 소속 사제로, 여러 미사곡과 생활성가를 작곡해 온 한국 가톨릭 성음악 작곡가입니다.

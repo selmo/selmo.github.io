@@ -1,7 +1,3 @@
-[Home](../../../index.md) | [Catholic Music](../../index.md) | [International Mass](../../InternationalMass.md) | [WYD](../../InternationalMass.md#wyd) | **Missa Orientalis**
-
----
-
 # Missa Orientalis (WYD 2016 - Krakow)
 
 ![Region](https://img.shields.io/badge/Region-WYD_(Krakow_2016)-blue)

@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md) | **Choi Duk Shin**
-
----
-
 # 최덕신 (Choi Duk Shin)
 
 야훼이레에 9곡이 수록된 개신교 CCM 작곡가입니다. 전곡 KOMCA 저작권으로 등록되어 있으며, 한국 가톨릭 청년 미사에서도 널리 불리는 레퍼토리를 남겼습니다.

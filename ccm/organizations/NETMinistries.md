@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Organizations](index.md) | **NET Ministries**
-
----
-
 # NET Ministries
 
 **NET Ministries**는 미국과 캐나다를 중심으로 활동하는 가톨릭 청소년 선교 사도직입니다. 젊은 선교사들이 본당, 학교, 피정, 청소년 사목 현장으로 파견되어 또래 청소년에게 복음을 전하는 구조로 잘 알려져 있습니다.

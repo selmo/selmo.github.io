@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Songs](index.md) | **Lord I Love You**
-
----
-
 # 사랑합니다 (Lord I Love You / Change My Heart, Oh God)
 
 - **원곡**: Change My Heart, Oh God

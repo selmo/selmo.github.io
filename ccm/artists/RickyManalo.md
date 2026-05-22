@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 리키 마날로 (Ricky Manalo, CSP)
 
 **Ricky Manalo, CSP**는 필리핀계 미국인 가톨릭 사제이자 작곡가, 신학자입니다. 파울로회(Missionary Society of Saint Paul, CSP) 회원으로, 다문화 전례 음악과 전례 신학 연구 양쪽에서 활동하는 독특한 이력을 가졌습니다.

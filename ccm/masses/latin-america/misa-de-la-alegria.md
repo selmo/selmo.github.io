@@ -1,7 +1,3 @@
-[Home](../../../index.md) | [Catholic Music](../../index.md) | [International Mass](../../InternationalMass.md) | [Latin America](../../InternationalMass.md#스페인-spain) | **Misa de la Alegría**
-
----
-
 # Misa de la Alegría
 
 ![Region](https://img.shields.io/badge/Region-Europe_(Spain)-blue)

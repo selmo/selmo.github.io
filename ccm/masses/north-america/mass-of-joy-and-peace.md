@@ -1,7 +1,3 @@
-[Home](../../../index.md) | [Catholic Music](../../index.md) | [International Mass](../../InternationalMass.md) | [North America](../../InternationalMass.md#north-america) | **Mass of Joy and Peace**
-
----
-
 # Mass of Joy and Peace
 
 ![Region](https://img.shields.io/badge/Region-North_America-blue)

@@ -1,7 +1,3 @@
-[Home](../../../index.md) | [Catholic Music](../../index.md) | [International Mass](../../InternationalMass.md) | [WYD](../../InternationalMass.md#wyd) | **Missa de Angelis + Credo III**
-
----
-
 # Missa de Angelis (Missa VIII) + Credo III
 
 ![Region](https://img.shields.io/badge/Region-WYD_(Various)-blue)

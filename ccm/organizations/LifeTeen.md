@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Organizations](index.md) | **Life Teen**
-
----
-
 # Life Teen
 
 **Life Teen**은 미국에서 시작된 가톨릭 청소년 사목 운동입니다. 성체성사 중심의 본당 청소년 사목, 현대적인 찬양과 밴드 편성, 그리고 또래 언어에 맞는 신앙 교육으로 널리 알려져 있습니다.

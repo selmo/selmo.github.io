@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Organizations](index.md)
-
----
-
 # 관련 단체 및 조직 (Organizations)
 
 가톨릭 전례 음악과 생활성가 발전을 위해 활동하는 주요 협의체 및 공식 기구들입니다.

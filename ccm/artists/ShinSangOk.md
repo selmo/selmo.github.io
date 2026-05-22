@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 신상옥 안드레아 (Shin Sang-ok)
 
 **신상옥 안드레아**는 한국 가톨릭 생활성가에서 널리 알려진 작곡가이자 가수입니다. 서정적인 선율과 호소력 있는 창법으로 여러 곡이 꾸준히 불려 왔습니다.

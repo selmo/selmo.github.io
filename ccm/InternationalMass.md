@@ -1,7 +1,3 @@
-[Home](../index.md) | [Catholic Music](index.md) | **International Mass**
-
----
-
 # 해외 현대 미사곡 (International Contemporary Mass Settings)
 
 ‘많이 사용되는’ 미사곡 세트(통상문 설정)를 지역별로 정리합니다.

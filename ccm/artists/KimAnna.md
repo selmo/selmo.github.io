@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md) | **Kim Anna**
-
----
-
 # 김안나 (Kim Anna)
 
 가톨릭 어린이 찬양집 《하늘바다》에 5곡이 수록된 작곡가입니다. 성호경, 거룩하시도다, 아멘, 주님의 기도, 하느님의 어린양 등 미사 통상문 핵심 파트를 작곡했습니다.

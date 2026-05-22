@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Organizations](index.md) | **Korea Youth Day**
-
----
-
 # 한국청년대회 (Korea Youth Day, KYD)
 
 **한국청년대회(KYD)**는 전국의 가톨릭 청년이 한자리에 모여 미사, 교리교육, 순례, 교류, 축제를 함께하는 한국 천주교의 전국 청년 행사입니다. 주교회의 청소년사목위원회가 주최하며, 대회마다 교구가 순차적으로 주관합니다. 교구별 청년 사목을 전국 차원에서 연결해 주는 역할을 해 왔습니다.

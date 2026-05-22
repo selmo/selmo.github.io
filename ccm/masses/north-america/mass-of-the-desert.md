@@ -1,7 +1,3 @@
-[Home](../../../index.md) | [Catholic Music](../../index.md) | [International Mass](../../InternationalMass.md) | [North America](../../InternationalMass.md#north-america) | **Mass of the Desert**
-
----
-
 # Mass of the Desert
 
 ![Region](https://img.shields.io/badge/Region-North_America-blue)

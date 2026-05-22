@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [규정 및 지침](index.md)
-
----
-
 # 가톨릭 성음악 규정 및 지침 (Regulations & Guidelines)
 
 가톨릭 교회의 성음악에 관한 주요 문헌들을 시간순으로 정리한 페이지입니다. 각 문헌의 제목을 클릭하면 상세 내용(전문 또는 발췌)을 확인할 수 있습니다.

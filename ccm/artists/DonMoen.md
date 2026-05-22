@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 돈 모엔 (Don Moen)
 
 **Don Moen**은 미국의 싱어송라이터, 프로듀서, 워십 리더입니다. 현대 기독교 음악(CCM) 및 워십 음악(Worship Music) 분야에서 영향력이 큰 인물로 자주 언급됩니다.

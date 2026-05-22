@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Organizations](index.md) | **Damascus**
-
----
-
 # Damascus
 
 **Damascus**는 미국 오하이오를 기반으로 한 가톨릭 청소년·청년 사목 단체입니다. 캠프, 리트릿, 주말 집회, 선교 훈련, 예배 사역을 묶어 젊은 세대의 제자 양성을 강조합니다.

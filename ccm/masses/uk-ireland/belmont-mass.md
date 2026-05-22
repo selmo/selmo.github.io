@@ -1,7 +1,3 @@
-[Home](../../../index.md) | [Catholic Music](../../index.md) | [International Mass](../../InternationalMass.md) | [UK & Ireland](../../InternationalMass.md#uk-ireland) | **Belmont Mass**
-
----
-
 # Belmont Mass
 
 ![Region](https://img.shields.io/badge/Region-UK_&_Ireland-blue)

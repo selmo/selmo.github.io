@@ -1,9 +1,5 @@
 # Tae-Hyoung Choi
 
-[Home](index.md) | [CCM](ccm/index.md) | [Computer Science](cs/index.md)
-
----
-
 ## 🎵 [Catholic Liturgical CCM](ccm/index.md)
 
 가톨릭 전례 음악과 CCM 작품들을 소개합니다.

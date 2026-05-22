@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Mass](../Mass.md) | [Asperges](Asperges.md)
-
----
-
 # 성수 예식 (The Rite of Blessing and Sprinkling Holy Water)
 
 **성수 예식**은 주일 미사 시작 때, 특히 부활 시기에 참회 예식(자비송 포함)을 대신하여 거행될 수 있는 예식입니다.

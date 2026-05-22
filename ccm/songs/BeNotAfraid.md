@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Songs](index.md)
-
----
-
 # 두려워 말라 (Be Not Afraid)
 
 *   **원곡**: Be Not Afraid (1975)

@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 젠 로쏘 & 젠 베르데 (Gen Rosso & Gen Verde)
 
 **[포콜라레 운동](../organizations/FocolareMovement.md) (Focolare Movement)**, 즉 마리아 사업회(Work of Mary)에 속한 국제적인 예술 공연 단체들입니다. 이들의 음악은 일치와 형제애, 평화의 메시지를 담고 있으며 전 세계 가톨릭 청년 음악 흐름에 영향을 준 사례로 자주 언급됩니다.

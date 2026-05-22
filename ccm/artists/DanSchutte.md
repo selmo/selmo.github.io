@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 댄 슈테 (Dan Schutte)
 
 **Dan Schutte**는 미국의 가톨릭 작곡가로, [St. Louis Jesuits](StLouisJesuits.md)의 핵심 멤버입니다. 제2차 바티칸 공의회 이후 영어 전례 음악의 정착에 결정적 기여를 했습니다.

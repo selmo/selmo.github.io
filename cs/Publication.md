@@ -1,7 +1,3 @@
-[Home](../index.md) | [CS Home](index.md) | [Publication](Publication.md) | [Project](Project.md) | [Patent](Patent.md)
-
----
-
 # Publication
 
 - Hyunha Kim, Tae-Hyoung Choi, Seung-Cheol Jung, Hyoung-Cheol Kim, Oukseh Lee, Kyung-Goo Doh: [Applying dataflow analysis to detecting software vulnerability](https://ieeexplore.ieee.org/document/4493756), In Proceedings of 10th International Conference on Advanced Communication Technology, 1:255-258, February 17-20, 2008.

@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Mass](../Mass.md) | [Gloria](Gloria.md)
-
----
-
 # 대영광송 (Gloria)
 
 **대영광송(Gloria in excelsis Deo)**은 미사 시작 예식에서 자비송 다음에 바치는, 하느님을 찬미하는 매우 오래되고 숭고한 찬미가입니다.

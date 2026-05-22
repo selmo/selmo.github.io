@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md) | **Shin Ji Eun & Lee Ji Hye**
-
----
-
 # 신지은·이지혜 (Shin Ji Eun & Lee Ji Hye)
 
 가톨릭 어린이 찬양집 《하늘바다》의 미사 통상문 전 파트에 걸쳐 13곡을 작곡·편곡한 여성 듀오입니다. 어린이 눈높이에 맞춘 밝고 경쾌한 선율로, 하늘바다 미사곡 코어 레퍼토리를 구성합니다.

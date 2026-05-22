@@ -1,7 +1,3 @@
-[Home](../../../index.md) | [Catholic Music](../../index.md) | [International Mass](../../InternationalMass.md) | [UK & Ireland](../../InternationalMass.md#uk-ireland) | **Ruah**
-
----
-
 # Ruah: Mass of the Breath of God
 
 ![Region](https://img.shields.io/badge/Region-UK_&_Ireland_(Ireland)-blue)

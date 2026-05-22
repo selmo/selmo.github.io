@@ -1,7 +1,3 @@
-[Home](../../../index.md) | [Catholic Music](../../index.md) | [International Mass](../../InternationalMass.md) | [UK & Ireland](../../InternationalMass.md#uk-ireland) | **Mass of St. Bernadette**
-
----
-
 # Mass of St. Bernadette
 
 ![Region](https://img.shields.io/badge/Region-UK_&_Ireland-blue)

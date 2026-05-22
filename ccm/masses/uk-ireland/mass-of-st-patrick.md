@@ -1,7 +1,3 @@
-[Home](../../../index.md) | [Catholic Music](../../index.md) | [International Mass](../../InternationalMass.md) | [UK & Ireland](../../InternationalMass.md#uk-ireland) | **The Mass of St. Patrick**
-
----
-
 # The Mass of St. Patrick
 
 ![Region](https://img.shields.io/badge/Region-UK_&_Ireland_(Ireland)-blue)

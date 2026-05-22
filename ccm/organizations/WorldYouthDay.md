@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Organizations](index.md) | **World Youth Day**
-
----
-
 # 세계청년대회 (World Youth Day, WYD)
 
 **세계청년대회(WYD)**는 교황청이 주관하는 국제 청년 행사입니다. 1985년 교황 요한 바오로 2세에 의해 시작되어, 교리교육, 청년 집회, 순례, 문화 행사, 대규모 교황 미사가 결합된 형태로 2-3년마다 열립니다. 개최국의 언어와 문화, 보편 교회의 전례 전통이 함께 드러나는 자리입니다.

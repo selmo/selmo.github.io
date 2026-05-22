@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 에드 볼덕 (Ed Bolduc)
 
 **Ed Bolduc**은 미국 조지아주 애틀랜타에 거주하는 가톨릭 작곡가이자 음악 디렉터입니다. Life Teen 네트워크와 밀접하게 연결된 청년 지향 전례 음악의 핵심 작곡가로, WLP(World Library Publications) / ICR을 통해 출판합니다.

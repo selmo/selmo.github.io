@@ -1,7 +1,3 @@
-[Home](../../../index.md) | [Catholic Music](../../index.md) | [International Mass](../../InternationalMass.md) | [North America](../../InternationalMass.md#north-america) | **Mass of a Joyful Heart**
-
----
-
 # Mass of a Joyful Heart
 
 ![Region](https://img.shields.io/badge/Region-North_America-blue)

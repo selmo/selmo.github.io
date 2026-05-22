@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md) | **Ko Hyung Won**
-
----
-
 # 고형원 (Ko Hyung Won)
 
 야훼이레에 9곡이 수록된 개신교 CCM 작곡가입니다. KCMCA 저작권 등록, 선교적 비전과 부흥을 주제로 한 곡이 주를 이룹니다.

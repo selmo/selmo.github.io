@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Mass](../Mass.md) | [Alleluia](Alleluia.md)
-
----
-
 # 복음 환호송 (Gospel Acclamation: Alleluia)
 
 **복음 환호송**은 복음 봉독 직전에, 신자들이 복음에서 말씀하실 주님을 환영하고 맞이하며 믿음을 고백하는 환호 노래입니다.

@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 마르코 프리시나 (Marco Frisina)
 
 **Monsignor Marco Frisina**은 이탈리아의 가톨릭 사제이자 세계적인 작곡가입니다. 영화 음악과 오라토리오, 전례 음악 분야에서 왕성하게 활동하고 있습니다.

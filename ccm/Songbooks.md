@@ -1,7 +1,3 @@
-[Home](../index.md) | [Catholic Music](index.md) | [Resources](Resources.md) | **Songbooks**
-
----
-
 # 어린이·청소년·청년 성가집 비교
 
 한국 및 해외에서 사용되는 어린이, 청소년, 청년 대상 가톨릭 성가집과 미사 경본을 연령대별, 출판사별로 정리한 비교 페이지입니다.

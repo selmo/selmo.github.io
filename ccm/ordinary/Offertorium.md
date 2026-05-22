@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Mass](../Mass.md) | [Offertorium](Offertorium.md)
-
----
-
 # 봉헌송 (Offertorium)
 
 **봉헌송(Offertorium)**, 또는 **예물 준비 성가**는 예물 준비 예식 동안 부르는 노래입니다.

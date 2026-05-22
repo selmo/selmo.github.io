@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Songs](index.md) | **Still**
-
----
-
 # 주 품에 품으소서 (Still)
 
 - **원곡**: Still

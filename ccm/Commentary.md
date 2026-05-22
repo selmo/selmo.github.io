@@ -1,7 +1,3 @@
-[Home](../index.md) | [Catholic Music](index.md) | [Mass](Mass.md) | [Liturgical](Liturgical.md) | [Other Works](OtherWorks.md) | [Commentary](Commentary.md)
-
----
-
 # 평론 및 정보 (Commentary)
 
 가톨릭 전례 음악에 대한 평론, 분석, 역사적 정보를 담은 위키 스타일 페이지입니다.

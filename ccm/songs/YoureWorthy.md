@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Songs](index.md) | **You're Worthy**
-
----
-
 # 경배하리 내 온 맘 다해 (You're Worthy of My Praise)
 
 - **원곡**: You're Worthy of My Praise

@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 아티스트 및 작곡가 (Artists & Composers)
 
 가톨릭 성가 및 CCM 작곡가들에 대한 정보입니다.

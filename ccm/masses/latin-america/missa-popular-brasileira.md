@@ -1,7 +1,3 @@
-[Home](../../../index.md) | [Catholic Music](../../index.md) | [International Mass](../../InternationalMass.md) | [Latin America](../../InternationalMass.md#latin-america) | **Missa Popular Brasileira**
-
----
-
 # Missa Popular Brasileira
 
 ![Region](https://img.shields.io/badge/Region-Latin_America_(Brazil)-blue)

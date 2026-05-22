@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Mass](../Mass.md) | [Doxology & Amen](DoxologyAmen.md)
-
----
-
 # 마침영광송과 아멘 (Doxology & Amen)
 
 감사 기도(Eucharistic Prayer)의 절정이며 마무리를 이루는 부분입니다. 사제는 성체와 성혈을 받들어 올리며(성체 거양) 하느님께 영광을 드리고, 온 회중은 이에 대해 장엄하게 "아멘"으로 화답합니다.

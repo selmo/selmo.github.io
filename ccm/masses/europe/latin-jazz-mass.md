@@ -1,7 +1,3 @@
-[Home](../../../index.md) | [Catholic Music](../../index.md) | [International Mass](../../InternationalMass.md) | [Europe](../../InternationalMass.md#europe) | **The Latin Jazz Mass**
-
----
-
 # The Latin Jazz Mass
 
 ![Region](https://img.shields.io/badge/Region-Europe_(Germany_Switzerland)-blue)

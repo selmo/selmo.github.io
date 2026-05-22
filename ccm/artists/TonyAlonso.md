@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 토니 알론소 (Tony Alonso)
 
 **Tony Alonso**는 미국의 가톨릭 작곡가이자 전례 신학자입니다. 20대 초반부터 GIA와 OCP 양대 출판사에서 작품을 발표하기 시작한 신동형 작곡가로, 학문적 깊이와 대중적 감각을 겸비한 현대 전례 음악의 주요 인물입니다.

@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Mass](../Mass.md) | [Peace Greeting](PeaceGreeting.md)
-
----
-
 # 평화의 인사 (Sign of Peace)
 
 **평화의 인사**는 영성체 전에 교회와 인류 가족의 평화와 일치를 간청하며, 신자들이 서로 사랑과 평화를 나누는 예식입니다.

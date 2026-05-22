@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Mass](../Mass.md) | [Pater Noster](PaterNoster.md)
-
----
-
 # 주님의 기도 (Pater Noster)
 
 **주님의 기도(Pater Noster)**는 예수님께서 직접 가르쳐 주신 기도로, 성찬의 식탁(영성체)을 준비하며 하느님의 자녀로서 바치는 가장 완전한 기도입니다.

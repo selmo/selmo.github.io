@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Songs](index.md) | **Holy Spirit, We Welcome You**
-
----
-
 # 거룩하신 성령이여 (Holy Spirit, We Welcome You)
 
 - **원곡**: Holy Spirit, We Welcome You

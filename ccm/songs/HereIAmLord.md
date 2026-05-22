@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Songs](index.md)
-
----
-
 # 주님 제가 여기 있나이다 (Here I Am, Lord)
 
 *   **원곡**: Here I Am, Lord (1981)

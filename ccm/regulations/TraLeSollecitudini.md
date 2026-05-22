@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [규정 및 지침](index.md)
-
----
-
 # 사목적 관심 (Tra le Sollecitudini)
 **성 비오 10세 교황의 성음악에 관한 자의 교서**
 (1903년 11월 22일)

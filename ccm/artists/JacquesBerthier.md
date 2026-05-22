@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 자크 베르티에 (Jacques Berthier) & 떼제 (Taizé)
 
 **자크 베르티에** (1923–1994)는 프랑스의 작곡가이자 오르가니스트로, **[떼제 공동체](../organizations/TaizeCommunity.md) (Taizé Community)**의 독특한 기도 음악을 확립하는 데 결정적인 역할을 했습니다.

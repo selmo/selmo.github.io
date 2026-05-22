@@ -1,7 +1,3 @@
-[Home](../../../index.md) | [Catholic Music](../../index.md) | [International Mass](../../InternationalMass.md) | [Latin America & Spain](../../InternationalMass.md#latin-america) | **Misa de Juventud**
-
----
-
 # Misa de Juventud
 
 ![Region](https://img.shields.io/badge/Region-Spain_&_Latin_America-blue)

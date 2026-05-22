@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Organizations](index.md) | **Holyspirit Youth Day**
-
----
-
 # 젊은이 성령축제 HYD (Holyspirit Youth Day)
 
 **HYD(Holyspirit Youth Day)**는 한국가톨릭젊은이성령쇄신연합이 여는 청년 성령축제입니다. 공개 자료상 현재는 독립 고정 홈페이지보다 기사와 교구 공지를 통해 내용이 확인되는 경우가 많으며, 한국 가톨릭 청년 성령쇄신 흐름을 한 번에 볼 수 있는 대표 행사 가운데 하나로 읽을 수 있습니다.

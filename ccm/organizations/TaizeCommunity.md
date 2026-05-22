@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Organizations](index.md) | **Taizé Community**
-
----
-
 # 떼제 공동체 (Taizé Community)
 
 **떼제 공동체**는 프랑스 부르고뉴 지방의 작은 마을 떼제(Taizé)에 위치한 에큐메니칼 수도 공동체입니다. 공동 기도, 성경 묵상, 화해와 일치의 영성을 중심으로 전 세계 젊은이들을 초대해 왔습니다.

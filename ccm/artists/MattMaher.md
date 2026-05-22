@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 맷 마허 (Matt Maher)
 
 **Matt Maher**는 캐나다 출신의 미국 활동 싱어송라이터이자 워십 리더입니다. 현대 CCM 씬에서 활동해 온 가톨릭 아티스트로 널리 알려져 있습니다.

@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [규정 및 지침](index.md)
-
----
-
 # 성음악 훈령 (Musicam Sacram)
 **거룩한 전례의 음악에 관한 훈령**
 교황청 예부성성 (1967년 3월 5일)

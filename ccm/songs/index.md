@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Songs](index.md)
-
----
-
 # 곡 정보 및 해설 (Songs)
 
 번역곡, 번안곡 및 주요 작품들에 대한 해설입니다. 각 곡은 원곡 정보, 작곡가, 수록 성가집을 포함합니다.

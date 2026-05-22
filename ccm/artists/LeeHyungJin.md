@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 이형진 가브리엘 (Lee Hyung-jin)
 
 **이형진 가브리엘**은 서정적이고 맑은 감성의 곡들로 알려진 가톨릭 생활성가 작곡가입니다.

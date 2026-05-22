@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Songs](index.md) | **The Power of Your Love**
-
----
-
 # 주께 가오니 (The Power of Your Love)
 
 - **원곡**: The Power of Your Love

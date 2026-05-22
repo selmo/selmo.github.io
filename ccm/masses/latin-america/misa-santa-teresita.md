@@ -1,7 +1,3 @@
-[Home](../../../index.md) | [Catholic Music](../../index.md) | [International Mass](../../InternationalMass.md) | [Latin America](../../InternationalMass.md#스페인-spain) | **Misa Santa Teresita del Niño Jesús**
-
----
-
 # Misa Santa Teresita del Niño Jesús
 
 ![Region](https://img.shields.io/badge/Region-Latin_America_(Spanish)-blue)

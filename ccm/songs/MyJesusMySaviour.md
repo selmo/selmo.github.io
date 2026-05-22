@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Songs](index.md) | **My Jesus My Saviour**
-
----
-
 # 내 구주 예수님 (My Jesus, My Saviour)
 
 - **원곡**: My Jesus, My Saviour

@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Organizations](index.md) | **Youth and Young Adult Guide**
-
----
-
 # 청소년·대학생·국제행사 가이드
 
 이 페이지는 청소년·청년 사목과 전례 음악을 함께 읽을 때, 어떤 흐름을 먼저 보면 좋은지 정리한 상위 안내 페이지입니다.  

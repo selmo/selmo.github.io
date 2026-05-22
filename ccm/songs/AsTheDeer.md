@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Songs](index.md)
-
----
-
 # 목마른 사슴 (As the Deer)
 
 *   **원곡**: As the Deer (1984)

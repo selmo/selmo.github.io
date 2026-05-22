@@ -1,7 +1,3 @@
-[Home](../index.md) | [CS Home](index.md) | [Publication](Publication.md) | [Project](Project.md) | [Patent](Patent.md)
-
----
-
 # Computer Science
 
 소프트웨어 보안, 프로그램 분석 관련 연구 및 프로젝트

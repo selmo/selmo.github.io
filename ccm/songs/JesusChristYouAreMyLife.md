@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Songs](index.md)
-
----
-
 # 예수 그리스도 당신은 나의 생명 (Jesus Christ, You Are My Life)
 
 *   **원곡**: Jesus Christ, You Are My Life (2000)

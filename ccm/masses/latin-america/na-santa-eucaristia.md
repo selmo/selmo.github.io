@@ -1,7 +1,3 @@
-[Home](../../../index.md) | [Catholic Music](../../index.md) | [International Mass](../../InternationalMass.md) | [Latin America](../../InternationalMass.md#브라질-brazil) | **Na Santa Eucaristia**
-
----
-
 # Canção Nova - Na Santa Eucaristia
 
 ![Region](https://img.shields.io/badge/Region-Latin_America_(Brazil)-blue)

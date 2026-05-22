@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 존 마이클 탈봇 (John Michael Talbot)
 
 **John Michael Talbot**은 미국의 가톨릭 수사(Monk)이자 음악가입니다. 'Brothers and Sisters of Charity'라는 수도 공동체를 창설하여 이끌고 있습니다.

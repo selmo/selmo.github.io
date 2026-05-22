@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Mass](../Mass.md) | [Graduale](Graduale.md)
-
----
-
 # 화답송 (Graduale / Responsorial Psalm)
 
 **화답송**은 제1독서 후에 하느님의 말씀을 묵상하며 부르는 노래입니다. 현대 전례에서는 주로 **화답 시편(Responsorial Psalm)**의 형태로 불립니다.

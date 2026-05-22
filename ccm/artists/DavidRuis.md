@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 데이비드 루이스 (David Ruis)
 
 **David Ruis**는 캐나다 출신의 워십 리더이자 작곡가입니다. 1990년대 Vineyard 예배 운동에서 활동하며 여러 교파를 아우르는 예배곡을 썼습니다.

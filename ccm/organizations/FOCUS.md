@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Organizations](index.md) | **FOCUS**
-
----
-
 # FOCUS
 
 **FOCUS**(Fellowship of Catholic University Students)는 미국에서 시작된 가톨릭 대학생 선교 사도직입니다. 대학 캠퍼스에서 학생들을 만나 성경 공부, 일대일 제자훈련, 선교 여행, 대형 집회를 통해 복음화를 실천하는 흐름으로 잘 알려져 있습니다.

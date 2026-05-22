@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 데이비드 펠링햄 (David Fellingham)
 
 **David Fellingham**은 영국의 작곡가이자 예배 인도자로, 영국의 현대 교회 음악(CCM) 발전에 기여했습니다. 특히 **Kingsway's Thankyou Music**을 통해 많은 곡을 발표했습니다.

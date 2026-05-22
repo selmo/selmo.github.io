@@ -1,7 +1,3 @@
-[Home](../../../index.md) | [Catholic Music](../../index.md) | [International Mass](../../InternationalMass.md) | [Latin America](../../InternationalMass.md#페루-peru) | **Misa Andina (Gloria)**
-
----
-
 # Misa Andina (Gloria)
 
 ![Region](https://img.shields.io/badge/Region-Latin_America_(Peru)-blue)

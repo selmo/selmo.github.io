@@ -1,7 +1,3 @@
-[Home](../../../index.md) | [Catholic Music](../../index.md) | [International Mass](../../InternationalMass.md) | [Latin America](../../InternationalMass.md#도미니카공화국-dominican-republic) | **Misa Dominicana**
-
----
-
 # Misa Dominicana
 
 ![Region](https://img.shields.io/badge/Region-Latin_America_(Dominican_Republic)-blue)

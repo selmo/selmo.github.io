@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Mass](../Mass.md) | [Communio](Communio.md)
-
----
-
 # 영성체송 (Communio)
 
 **영성체송(Communio)**은 사제와 신자들이 성체를 모시는 동안 부르는 노래입니다.

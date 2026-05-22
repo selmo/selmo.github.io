@@ -1,7 +1,3 @@
-[Home](../../../index.md) | [Catholic Music](../../index.md) | [International Mass](../../InternationalMass.md) | [Europe](../../InternationalMass.md#europe) | **Peter Janssens - NGL Masses**
-
----
-
 # Peter Janssens - NGL Masses
 
 ![Region](https://img.shields.io/badge/Region-Europe_(Germany)-blue)

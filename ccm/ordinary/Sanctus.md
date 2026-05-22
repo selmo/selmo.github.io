@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Mass](../Mass.md) | [Sanctus](Sanctus.md)
-
----
-
 # 거룩하시도다 (Sanctus)
 
 **거룩하시도다(Sanctus)**는 미사 성찬 전례의 감사송(Preface) 끝부분에, 사제와 온 회중이 천사들과 성인들의 노래에 합류하여 하느님을 찬미하는 환호입니다.

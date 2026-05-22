@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 크리스 보워터 (Chris Bowater)
 
 **Chris Bowater**는 영국의 작곡가이자 워십 리더로, 1970년대와 80년대 영국의 은사주의 쇄신 운동(Charismatic Movement)과 현대 예배 음악에 큰 영향을 미쳤습니다.

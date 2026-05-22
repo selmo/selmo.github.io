@@ -1,7 +1,3 @@
-[Home](../index.md) | [Catholic Music](index.md) | [Resources](Resources.md)
-
----
-
 # 리소스 (Resources)
 
 악보 자료 및 유용한 웹사이트 링크 모음입니다. 출판사 카탈로그, 공동체 공식 사이트, 교회 문헌, 학술 자료를 우선합니다.

@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md) | **Kim Jong Sung**
-
----
-
 # 김종성 요한사도 (Kim Jong Sung)
 
 미사 통상문 전 파트(자비송~하느님의 어린양)에 곡을 가진 작곡가로, 야훼이레와 하늘바다 양쪽에 고루 수록된 몇 안 되는 공통 작곡가입니다. 전통적 전례문에 충실하면서도 회중이 따라 부르기 쉬운 선율이 특징입니다.

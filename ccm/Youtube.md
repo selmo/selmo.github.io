@@ -1,7 +1,3 @@
-[Home](../index.md) | [Catholic Music](index.md) | [Mass](Mass.md) | [Liturgical](Liturgical.md) | [Other Works](OtherWorks.md) | [Commentary](Commentary.md)
-
----
-
 # 유튜브 영상 모음 (YouTube)
 
 이 사이트에 소개된 곡과 미사곡, 작곡가들의 유튜브 영상 링크를 주제별로 정리한 페이지입니다.

@@ -1,7 +1,3 @@
-[Home](../../../index.md) | [Catholic Music](../../index.md) | [International Mass](../../InternationalMass.md) | [Latin America](../../InternationalMass.md#다문화-multicultural) | **Nueva Misa Latinoamericana**
-
----
-
 # Nueva Misa Latinoamericana
 
 ![Region](https://img.shields.io/badge/Region-Latin_America_(Multicultural)-blue)

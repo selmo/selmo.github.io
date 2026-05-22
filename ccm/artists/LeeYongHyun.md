@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 이용현 알베르토 (Fr. Lee Yong-hyun)
 
 **이용현 알베르토 신부**는 서울대교구 소속 사제로, 사제 밴드 '우이동 (우리가 여기 있나이다 주님)' 등을 통해 활발히 활동해 온 작곡가입니다.

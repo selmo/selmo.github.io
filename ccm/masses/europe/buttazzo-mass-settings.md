@@ -1,7 +1,3 @@
-[Home](../../../index.md) | [Catholic Music](../../index.md) | [International Mass](../../InternationalMass.md) | [Europe](../../InternationalMass.md#europe) | **Buttazzo Mass Settings**
-
----
-
 # Francesco Buttazzo Mass Settings
 
 ![Region](https://img.shields.io/badge/Region-Europe_(Italy)-blue)

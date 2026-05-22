@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Organizations](index.md) | **Youth Repertoire Map**
-
----
-
 # 청소년·청년 운동과 레퍼토리 대응표
 
 이 페이지는 청소년·청년 운동을 읽을 때, 이 사이트 안에서 어떤 미사곡, 전례 음악, 관련 아티스트 페이지를 함께 보면 좋은지 정리한 실용 허브입니다.

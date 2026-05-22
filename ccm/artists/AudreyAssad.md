@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 오드리 아사드 (Audrey Assad)
 
 **Audrey Assad**는 미국의 싱어송라이터이자 피아니스트입니다. 서정적이고 깊이 있는 가사로 많은 이들의 공감을 얻었습니다.

@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Songs](index.md) | **He Knows My Name**
-
----
-
 # 내 이름 아시죠 (He Knows My Name)
 
 - **원곡**: He Knows My Name

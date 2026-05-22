@@ -1,7 +1,3 @@
-[Home](../../../index.md) | [Catholic Music](../../index.md) | [International Mass](../../InternationalMass.md) | [Latin America](../../InternationalMass.md#쿠바-cuba) | **Misa de la Aurora**
-
----
-
 # Misa de la Aurora
 
 ![Region](https://img.shields.io/badge/Region-Latin_America_(Cuba)-blue)

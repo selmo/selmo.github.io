@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Organizations](index.md) | **Alpha Youth (Catholic Context)**
-
----
-
 # Alpha Youth in a Catholic Context
 
 **Alpha Youth**는 원래 초교파적 기독교 복음화 프로그램이지만, 최근에는 가톨릭 본당과 학교에서도 청소년 복음화와 견진 준비, 소그룹 대화 프로그램으로 널리 활용되고 있습니다. 따라서 엄밀한 의미의 "가톨릭 운동"이라기보다, 가톨릭 청소년 사목 안에서 자주 채택되는 청소년 프로그램으로 보는 편이 정확합니다.

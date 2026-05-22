@@ -1,7 +1,3 @@
-[Home](../index.md) | [Catholic Music](index.md) | [Songbooks](Songbooks.md) | **Cross Reference**
-
----
-
 # 작곡가·수록곡·성가집 크로스 레퍼런스
 
 야훼이레(3판)와 하늘바다의 작곡가별 수록 현황, 외국 원곡 매핑, 공통 작곡자 정보를 한눈에 비교할 수 있는 레퍼런스 페이지입니다.

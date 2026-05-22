@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 켄 카네도 (Ken Canedo)
 
 **Ken Canedo**는 미국의 가톨릭 작곡가이자 음악 프로듀서, 사목 음악가입니다. 포크·재즈·블루스·복음 성가 스타일을 가톨릭 전례에 도입한 독특한 크로스오버 작곡가로, Bob Hurd와의 협업으로 잘 알려져 있습니다.

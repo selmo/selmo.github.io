@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md) | **Song Si Ung**
-
----
-
 # 송시웅 필립보 (Song Si Ung)
 
 야훼이레에 미사 통상문 전 파트 9곡이 수록된 작곡가입니다. 자비송부터 하느님의 어린양까지 미사 전 파트를 하나의 세트로 작곡했습니다.

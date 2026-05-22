@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Songs](index.md)
-
----
-
 # 춤의 왕 (Lord of the Dance)
 
 *   **원곡**: Lord of the Dance (1967)

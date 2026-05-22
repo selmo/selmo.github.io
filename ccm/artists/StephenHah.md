@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md) | **Stephen Hah**
-
----
-
 # Stephen Hah
 
 야훼이레에 14곡이 수록된 한인 디아스포라 작곡가입니다. 영문 가사로 작곡된 곡들이 CopyCare 라이선스로 야훼이레에 한국어 번역 수록되어 있으며, 대부분 개신교 CCM 카테고리로 분류됩니다.

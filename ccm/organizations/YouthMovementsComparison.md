@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Organizations](index.md) | **Youth Movements Comparison**
-
----
-
 # 청소년·청년 운동 비교표
 
 이 페이지는 [Life Teen](LifeTeen.md)을 중심으로 비슷한 청소년·청년 사목 흐름을 빠르게 비교하기 위한 요약 허브입니다. 엄밀한 의미의 "운동"과 "행사", "사도직", "프로그램"이 섞여 있으므로, 아래 표는 전례 음악과 청년 사목 현장에서 체감되는 차이를 기준으로 정리했습니다.

@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [규정 및 지침](index.md)
-
----
-
 # 거룩한 전례에 관한 헌장 (Sacrosanctum Concilium)
 **제2차 바티칸 공의회 헌장**
 (1963년 12월 4일)

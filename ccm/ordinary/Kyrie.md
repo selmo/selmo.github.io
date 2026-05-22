@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Mass](../Mass.md) | [Kyrie](Kyrie.md)
-
----
-
 # 자비송 (Kyrie)
 
 **자비송(Kyrie eleison)**은 미사 시작 예식의 참회 예절 다음에 이어지는 기도로, 신자들이 주님께 환호하며 그분의 자비를 간청하는 노래입니다.
@@ -75,8 +71,6 @@ Cristo, tende piedade de nós.
 (크리스토, 텐데 피에다지 드 노스)
 Senhor, tende piedade de nós.
 (세뇨르, 텐데 피에다지 드 노스)
-
-
 
 ## 4. 음악적 특징 및 형식
 

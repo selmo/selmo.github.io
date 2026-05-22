@@ -1,0 +1,32 @@
+title: Tae-Hyoung Choi
+description: Catholic music, liturgy, and computer science notes
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Use our custom layout for every page
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - _archive/
+  - GEMINI.md
+  - "*.xlsx"
+  - "*.xls"
+  - "*.pdf"
+  - README.md
+  - config.yml
+
+# Plugins available on GitHub Pages
+plugins:
+  - jekyll-relative-links
+
+# Process .md links as if they were rendered HTML links
+relative_links:
+  enabled: true
+  collections: false

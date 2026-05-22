@@ -1,7 +1,3 @@
-[Home](../../../index.md) | [Catholic Music](../../index.md) | [International Mass](../../InternationalMass.md) | [Latin America](../../InternationalMass.md#아르헨티나-argentina) | **Misa Criolla**
-
----
-
 # Misa Criolla
 
 ![Region](https://img.shields.io/badge/Region-Latin_America_(Argentina)-blue)

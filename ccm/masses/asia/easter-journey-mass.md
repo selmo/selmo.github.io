@@ -1,7 +1,3 @@
-[Home](../../../index.md) | [Catholic Music](../../index.md) | [International Mass](../../InternationalMass.md) | [Asia](../../InternationalMass.md#asia) | **The Easter Journey Mass**
-
----
-
 # The Easter Journey Mass
 
 ![Region](https://img.shields.io/badge/Region-Asia_(Philippines)-blue)

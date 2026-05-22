@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 카리 랜드리 (Carey Landry)
 
 **Carey Landry**는 미국의 가톨릭 작곡가이자 사목자입니다. 어린이와 청소년을 위한 전례 음악으로 잘 알려져 있습니다.

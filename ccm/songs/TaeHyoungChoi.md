@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Songs](index.md)
-
----
-
 # 최태형 안셀모 작품 목록 (Works of Anselmo Choi)
 
 수원교구 청소년-청년 성가집 **야훼이레** (2007년 개정판 기준)에 수록된 최태형 안셀모의 작품 목록입니다.

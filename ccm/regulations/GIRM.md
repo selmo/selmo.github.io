@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [규정 및 지침](index.md)
-
----
-
 # 로마 미사 경본 총지침 (GIRM)
 **Institutio Generalis Missalis Romani**
 **General Instruction of the Roman Missal**

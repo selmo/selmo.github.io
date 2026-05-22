@@ -1,7 +1,3 @@
-[Home](../../../index.md) | [Catholic Music](../../index.md) | [International Mass](../../InternationalMass.md) | [North America](../../InternationalMass.md#north-america) | **Mass of St. Mary Magdalene**
-
----
-
 # Mass of St. Mary Magdalene
 
 ![Region](https://img.shields.io/badge/Region-North_America-blue)

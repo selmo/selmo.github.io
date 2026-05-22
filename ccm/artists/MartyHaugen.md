@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 마티 호건 (Marty Haugen)
 
 **Marty Haugen**은 미국의 가톨릭 작곡가입니다. GIA Publications와의 긴협력으로, 1980년대 이후 영어권 가톨릭 전례 음악에서 가장 영향력 있는 작곡가 중 한 명입니다.

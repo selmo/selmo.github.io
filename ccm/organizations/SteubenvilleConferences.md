@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Organizations](index.md) | **Steubenville Conferences**
-
----
-
 # Steubenville Conferences
 
 **Steubenville Conferences**는 프란치스칸 대학교(FUS)가 주관하는 가톨릭 청소년·청년 집회 네트워크입니다. 강연, 성체조배, 고해성사, 미사, 찬양 집회가 결합된 북미 대표 청소년 신앙 행사 가운데 하나로 널리 알려져 있습니다.

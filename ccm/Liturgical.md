@@ -1,7 +1,3 @@
-[Home](../index.md) | [Catholic Music](index.md) | [Mass](Mass.md) | [Liturgical](Liturgical.md) | [Other Works](OtherWorks.md) | [Commentary](Commentary.md)
-
----
-
 # 전례곡 (Liturgical)
 
 다양한 전례 시기와 용도를 위한 음악을 정리한 페이지입니다. 아래 목록은 현재 사이트 안에 정리된 곡과 작곡가 문서를 전례 주제별로 다시 묶은 것입니다. 실제 선곡에서는 그날의 전례문, 독서, 본당 회중 난이도를 먼저 확인해야 합니다.

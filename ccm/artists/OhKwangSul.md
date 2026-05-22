@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md) | **Oh Kwang Sul**
-
----
-
 # 오광설 (Oh Kwang Sul)
 
 가톨릭 어린이 찬양집 《하늘바다》에 5곡이 수록된 작곡가입니다. 복음환호송, 대영광송(가사 정리), 보편지향기도, 거룩하시도다, 거양성체, 신앙의 신비여 등에 기여했습니다.

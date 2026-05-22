@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Organizations](index.md) | **Focolare Movement**
-
----
-
 # 포콜라레 운동 (Focolare Movement)
 
 **포콜라레 운동**은 이탈리아 트렌토에서 키아라 루빅(Chiara Lubich, 1920-2008)이 1943년 제2차 세계대전 중 시작한 가톨릭 영성 운동입니다. "모두 하나가 되게 해 주십시오"(요한 17:21)라는 예수님의 기도를 중심에 두고, 교회 안팎의 대화와 공동체적 삶을 통해 일치의 영성을 실천합니다.

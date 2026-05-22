@@ -1,0 +1,7 @@
+# Top-level navigation shown in the sticky header
+- title: Home
+  url: /
+- title: Catholic Music
+  url: /ccm/
+- title: Computer Science
+  url: /cs/

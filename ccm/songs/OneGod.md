@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Songs](index.md) | **One God**
-
----
-
 # 들으라 이스라엘 (One God)
 
 - **원곡**: One God

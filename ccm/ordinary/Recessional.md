@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Mass](../Mass.md) | [Recessional](Recessional.md)
-
----
-
 # 파견송 (Recessional Hymn)
 
 **파견송(마침 성가)**은 미사 마침 예식에서 사제와 봉사자들이 퇴장할 때 관습적으로 부르는 노래입니다.

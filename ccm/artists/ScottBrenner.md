@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 스캇 브레너 (Scott Brenner)
 
 **Scott Brenner**는 미국 출신의 메시아닉 유대인(Messianic Jewish) 워십 리더이자 작곡가입니다. 유대적 뿌리를 가진 예배곡으로 알려져 있습니다.

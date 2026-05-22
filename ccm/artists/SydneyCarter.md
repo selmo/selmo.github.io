@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 시드니 카터 (Sydney Carter)
 
 **Sydney Bertram Carter** (1915년 5월 6일 – 2004년 3월 13일)

@@ -1,7 +1,3 @@
-[Home](../index.md) | [Catholic Music](index.md) | [International Mass](InternationalMass.md) | **GIA Catalog**
-
----
-
 # GIA Mass Settings (Catalog)
 
 GIA Publications 공식 목록( `Mass Settings` )을 표로 정리한 페이지입니다. 에디션/스코어 표기 차이로 중복되는 항목은 “기본 타이틀” 기준으로 정리했으며, 링크는 대표 리소스 페이지로 연결됩니다.

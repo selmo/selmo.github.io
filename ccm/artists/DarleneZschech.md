@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Artists](index.md)
-
----
-
 # 달린 체크 (Darlene Zschech)
 
 **Darlene Zschech**는 호주 출신의 워십 리더이자 작곡가로, Hillsong Church의 예배 사역을 이끌며 전 세계적으로 알려졌습니다. 'Shout to the Lord'의 작곡자로 가장 유명합니다.

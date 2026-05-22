@@ -1,7 +1,3 @@
-[Home](../../index.md) | [Catholic Music](../index.md) | [Songs](index.md) | **Above All**
-
----
-
 # 모든 능력과 모든 권세 (Above All)
 
 - **원곡**: Above All
