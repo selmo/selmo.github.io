@@ -4,23 +4,53 @@
 
 # 토니 알론소 (Tony Alonso)
 
-**Tony Alonso**는 미국의 가톨릭 작곡가이자 학자입니다. GIA와 OCP 양쪽에서 출판하며, 전례 음악과 신학의 접점에서 활동합니다.
+**Tony Alonso**는 미국의 가톨릭 작곡가이자 전례 신학자입니다. 20대 초반부터 GIA와 OCP 양대 출판사에서 작품을 발표하기 시작한 신동형 작곡가로, 학문적 깊이와 대중적 감각을 겸비한 현대 전례 음악의 주요 인물입니다.
+
+## 약력
+
+- 쿠바계 이민자 가정에서 성장, 마이애미 출신
+- 조지타운 대학교(Georgetown University)에서 전례학 박사 학위 취득
+- 현재 에모리 대학교(Emory University) Candler School of Theology에서 전례학 교수로 재직
+- GIA와 OCP 양쪽에서 작품 출판 — 양대 출판사에 모두 기여하는 드문 케이스
+- 미국 가톨릭 주교회의(USCCB) 전례 자문 위원회 참여
 
 ## 대표 미사곡
 
-*   **[Mass of Joy and Peace](../masses/north-america/mass-of-joy-and-peace.md)**: GIA 출판. 경쾌하고 평화로운 분위기의 contemporary 미사곡 세트.
+*   **[Mass of Joy and Peace](../masses/north-america/mass-of-joy-and-peace.md)**: GIA 출판. 밝고 경쾌한 contemporary 미사곡 세트. Gloria와 Lamb of God가 특히 본당에서 널리 사용됩니다.
 
 ## 주요 작품
 
-*   **We Remember**: 기념·감사 주제. 봉헌·영성체곡으로 사용.
-*   **Go Out, Go Out**: 파견·선교 주제. 파견송으로 자주 불림.
-*   **Todo Cambia**: 다문화·정의 주제. 스페인어권 공동체와의 협력.
+*   **We Remember**: 성체성사와 공동체 기억을 노래하는 영성체/봉헌곡.
+*   **Go Out, Go Out**: 파견·선교 주제의 파견송. Life Teen과 청년 미사에서 사용.
+*   **Todo Cambia**: 쿠바계 정체성을 반영한 스페인어곡. 변화와 희망의 주제.
+*   **Fresh as the Morning**: 시편 30편 기반. 새 아침의 희망과 찬양.
 
-## 특징
+## 학술 활동
 
-경쾌하면서도 전례적으로 충실한 곡이 특징입니다. 밴드 편성과 오르간 반주 모두 적합하며, 연중 시기 본당 레퍼토리에서 자주 거론됩니다.
+전례 신학자로서 다문화 전례, 젊은 세대의 전례 참여, 전례 음악과 문화적 정체성의 관계를 연구합니다. 학술 저서와 더불어 GIA의 성가집 편집에도 참여합니다.
+
+## 음악 스타일
+
+경쾌하고 낙관적인 선율이 특징입니다. 밴드 편성과 전통 오르간 반주 양쪽에 모두 적합한 유연한 편곡으로, 연중 시기 본당 레퍼토리에서 폭넓게 선택됩니다. 라틴·쿠바 음악 요소가 은은하게 배어 있는 것도 특징입니다.
+
+## 디스코그래피 (주요 앨범)
+
+- *Mass of Joy and Peace* (GIA)
+- *Go Out, Go Out* (GIA, 컬렉션)
+- *We Remember* (GIA, 컬렉션)
+- *Todo Cambia* (OCP)
+
+## 이 사이트에서 연결되는 항목
+
+- [Mass of Joy and Peace](../masses/north-america/mass-of-joy-and-peace.md)
+- [해외 현대 미사곡 — 북미](../InternationalMass.md#north-america)
+- [작곡가·수록곡 크로스 레퍼런스](../CrossReference.md)
 
 ## 참고 자료
 
 - [GIA - Tony Alonso](https://giamusic.com/resource/tony-alonso)
 - [OCP - Tony Alonso](https://www.ocp.org/en-us/artists/350/tony-alonso)
+
+---
+
+[⬅️ Back to Artists](index.md)

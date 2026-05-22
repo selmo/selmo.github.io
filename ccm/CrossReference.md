@@ -15,24 +15,24 @@
 | 3 | 현정수 요한사도 | 24 | 11 | 35 | [Hyun Jeong Su](artists/HyunJeongSu.md) |
 | 4 | 이형진 가브리엘 | 21 | - | 21 | [Lee Hyung Jin](artists/LeeHyungJin.md) |
 | 5 | 임두빈 | - | 15 | 15 | - |
-| 6 | 김영구 요한사도 | 14 | - | 14 | - |
-| 7 | Stephen Hah | 14 | - | 14 | - |
-| 8 | 김종성 요한사도 | 13 | 10 | 23 | - |
+| 6 | 김영구 요한사도 | 14 | - | 14 | [Kim Young Gu](artists/KimYoungGu.md) |
+| 7 | Stephen Hah | 14 | - | 14 | [Stephen Hah](artists/StephenHah.md) |
+| 8 | 김종성 요한사도 | 13 | 10 | 23 | [Kim Jong Sung](artists/KimJongSung.md) |
 | 9 | 신상옥 안드레아 | 13 | 10 | 23 | [Shin Sang Ok](artists/ShinSangOk.md) |
-| 10 | 신지은·이지혜 | - | 13 | 13 | - |
-| 11 | 이종철 | 1 | 9 | 10 | - |
+| 10 | 신지은·이지혜 | - | 13 | 13 | [Shin Ji Eun & Lee Ji Hye](artists/ShinJiEunLeeJiHye.md) |
+| 11 | 이종철 | 1 | 9 | 10 | [Lee Jong Chul](artists/LeeJongChul.md) |
 | 12 | 이용현 알베르또 | 11 | - | 11 | [Lee Yong Hyun](artists/LeeYongHyun.md) |
 | 13 | 김태진 베난시오 | 11 | - | 11 | [Kim Tae Jin](artists/KimTaeJin.md) |
 | 14 | 김정식 로제리오 | 10 | - | 10 | [Kim Jeong Sik](artists/KimJeongSik.md) |
-| 15 | 송시웅 필립보 | 9 | - | 9 | - |
-| 16 | 최덕신 | 9 | - | 9 | - |
-| 17 | 고형원 | 9 | - | 9 | - |
-| 18 | 김안나 | - | 8 | 8 | - |
+| 15 | 송시웅 필립보 | 9 | - | 9 | [Song Si Ung](artists/SongSiUng.md) |
+| 16 | 최덕신 | 9 | - | 9 | [Choi Duk Shin](artists/ChoiDukShin.md) |
+| 17 | 고형원 | 9 | - | 9 | [Ko Hyung Won](artists/KoHyungWon.md) |
+| 18 | 김안나 | - | 8 | 8 | [Kim Anna](artists/KimAnna.md) |
 | 19 | Chris A. Bowater | 7 | - | 7 | [Chris Bowater](artists/ChrisBowater.md) |
-| 20 | 박윤영 헬레나 | 6 | - | 6 | - |
-| 21 | 현덕 프란치스코 | 5 | - | 5 | - |
-| 22 | 권성일 미카엘 | 5 | - | 5 | - |
-| 23 | 오광설 | - | 5 | 5 | - |
+| 20 | 박윤영 헬레나 | 6 | - | 6 | [Park Yoon Young](artists/ParkYoonYoung.md) |
+| 21 | 현덕 프란치스코 | 5 | - | 5 | [Hyun Duk](artists/HyunDuk.md) |
+| 22 | 권성일 미카엘 | 5 | - | 5 | [Kwon Sung Il](artists/KwonSungIl.md) |
+| 23 | 오광설 | - | 5 | 5 | [Oh Kwang Sul](artists/OhKwangSul.md) |
 | 24 | 성기영 아가빠 | 4 | - | 4 | - |
 | 25 | 임석수 바오로 | 4 | - | 4 | - |
 | 26 | David Ruis | 3 | - | 3 | - |
@@ -71,7 +71,7 @@
 | 외국 작곡가 | 곡수 | 대표 번역곡 | 아티스트 페이지 |
 |:---|:---:|:---|:---|
 | Chris A. Bowater | 7 | 거룩하신 성령이여(Holy Spirit), 예수의 이름으로(I will stand) | [Chris Bowater](artists/ChrisBowater.md) |
-| David Ruis | 3 | 경배하리(You're worthy), 주의 자비(Mercy is falling) | - |
+| David Ruis | 3 | 경배하리(You're worthy), 주의 자비(Mercy is falling) | [David Ruis](artists/DavidRuis.md) |
 | David Fellingham | 3 | 기뻐하며 왕께 노래(Shout for joy) | [David Fellingham](artists/DavidFellingham.md) |
 | Brent Chambers | 3 | 나 기뻐하리(I will rejoice), 오 하느님 받으소서 | [Brent Chambers](artists/BrentChambers.md) |
 | Bob Fitts | 2 | 들으라 이스라엘(One God), 사랑하는 나의 아버지 | [Bob Fitts](artists/BobFitts.md) |
@@ -80,11 +80,11 @@
 | Sebastian Temple | 2 | 거룩하신 성사여, 둘이나 셋이 모인 곳에 | [Sebastian Temple](artists/SebastianTemple.md) |
 | Martin Nystrom | 2 | 목마른 사슴(As the deer), 선하신 목자(Shepherd) | [Martin Nystrom](artists/MartinNystrom.md) |
 | Geoff Bullock | 2 | 주께 가오니(Power of Your love), 주를 향한 나의 사랑(Just let me say) | [Geoff Bullock](artists/GeoffBullock.md) |
-| Tommy Walker | 2 | 나의 슬픔을, 내 이름 아시죠(He knows my name) | - |
-| Darlene Zschech | 2 | 내 구주 예수님, 주 말씀 향하여 | - |
-| Scott Brenner | 2 | 성령의 불로, 아버지 사랑합니다 | - |
-| Eddie Espinosa | 2 | 내 주 같은 분없네, 사랑합니다(Lord I love You) | - |
-| Reuben Morgan | 2 | 주를 높이기 원합니다(I give You my heart), 주 품에 품으소서(Still) | - |
+| Tommy Walker | 2 | 나의 슬픔을, 내 이름 아시죠(He knows my name) | [Tommy Walker](artists/TommyWalker.md) |
+| Darlene Zschech | 2 | 내 구주 예수님, 주 말씀 향하여 | [Darlene Zschech](artists/DarleneZschech.md) |
+| Scott Brenner | 2 | 성령의 불로, 아버지 사랑합니다 | [Scott Brenner](artists/ScottBrenner.md) |
+| Eddie Espinosa | 2 | 내 주 같은 분없네, 사랑합니다(Lord I love You) | [Eddie Espinosa](artists/EddieEspinosa.md) |
+| Reuben Morgan | 2 | 주를 높이기 원합니다(I give You my heart), 주 품에 품으소서(Still) | [Reuben Morgan](artists/ReubenMorgan.md) |
 
 ---
 
@@ -225,33 +225,42 @@
 | Martin Nystrom | [artists/MartinNystrom.md](artists/MartinNystrom.md) | 미국 워십 |
 | Sebastian Temple | [artists/SebastianTemple.md](artists/SebastianTemple.md) | 영국/미국 |
 | Sydney Carter | [artists/SydneyCarter.md](artists/SydneyCarter.md) | 영국 포크 |
+| David Ruis | [artists/DavidRuis.md](artists/DavidRuis.md) | 캐나다 Vineyard |
+| Tommy Walker | [artists/TommyWalker.md](artists/TommyWalker.md) | 미국 워십 |
+| Darlene Zschech | [artists/DarleneZschech.md](artists/DarleneZschech.md) | 호주 Hillsong |
+| Scott Brenner | [artists/ScottBrenner.md](artists/ScottBrenner.md) | 메시아닉 유대인 |
+| Eddie Espinosa | [artists/EddieEspinosa.md](artists/EddieEspinosa.md) | 미국 Vineyard |
+| Reuben Morgan | [artists/ReubenMorgan.md](artists/ReubenMorgan.md) | 호주 Hillsong |
 | 현정수 | [artists/HyunJeongSu.md](artists/HyunJeongSu.md) | 한국 창작 |
 | 김정식 | [artists/KimJeongSik.md](artists/KimJeongSik.md) | 한국 창작 |
 | 김태진 | [artists/KimTaeJin.md](artists/KimTaeJin.md) | 한국 창작 |
 | 이형진 | [artists/LeeHyungJin.md](artists/LeeHyungJin.md) | 한국 창작 |
 | 이용현 | [artists/LeeYongHyun.md](artists/LeeYongHyun.md) | 한국 창작 |
 | 신상옥 | [artists/ShinSangOk.md](artists/ShinSangOk.md) | 한국 창작 |
-| 최태형 | [songs/TaeHyoungChoi.md](songs/TaeHyoungChoi.md) | 한국 창작 (수록곡 기준 페이지) |
+| 최태형 | [songs/TaeHyoungChoi.md](songs/TaeHyoungChoi.md) | 한국 창작 (수록곡 기준) |
+| 김종성 | [artists/KimJongSung.md](artists/KimJongSung.md) | 한국 창작 |
+| 김영구 | [artists/KimYoungGu.md](artists/KimYoungGu.md) | 한국 창작 |
+| 송시웅 | [artists/SongSiUng.md](artists/SongSiUng.md) | 한국 창작 |
+| 이종철 | [artists/LeeJongChul.md](artists/LeeJongChul.md) | 한국 창작 |
+| 신지은·이지혜 | [artists/ShinJiEunLeeJiHye.md](artists/ShinJiEunLeeJiHye.md) | 한국 창작 |
+| 오광설 | [artists/OhKwangSul.md](artists/OhKwangSul.md) | 한국 창작 |
+| 김안나 | [artists/KimAnna.md](artists/KimAnna.md) | 한국 창작 |
+| 박윤영 | [artists/ParkYoonYoung.md](artists/ParkYoonYoung.md) | 한국 창작 |
+| 현덕 | [artists/HyunDuk.md](artists/HyunDuk.md) | 한국 창작 |
+| 권성일 | [artists/KwonSungIl.md](artists/KwonSungIl.md) | 한국 창작 |
+| 고형원 | [artists/KoHyungWon.md](artists/KoHyungWon.md) | 개신교 CCM |
+| 최덕신 | [artists/ChoiDukShin.md](artists/ChoiDukShin.md) | 개신교 CCM |
+| Stephen Hah | [artists/StephenHah.md](artists/StephenHah.md) | 한인 디아스포라 |
 
-### 아티스트 페이지 없음 — 주요 작곡가 (작성 우선순위)
-
-야훼이레 또는 하늘바다에 5곡 이상 수록되었으나 개별 페이지가 없는 작곡가입니다.
+### 아티스트 페이지 없음 — 추가 검토 대상
 
 | 작곡가 | 곡수 | 주 수록 성가집 | 비고 |
 |:---|:---:|:---|:---|
-| 김종성 요한사도 | 23 | 야훼이레 + 하늘바다 | 미사 통상문 전 파트 |
 | 임두빈 | 15 | 하늘바다 | 어린이 미사곡 특화 |
-| 김영구 요한사도 | 14 | 야훼이레 | - |
-| 신지은·이지혜 | 13 | 하늘바다 | 어린이 미사곡 듀오 |
-| 이종철 | 10 | 하늘바다 + 야훼이레 | 미사 통상문 |
-| 송시웅 필립보 | 9 | 야훼이레 | - |
-| 최덕신 | 9 | 야훼이레 | - |
-| 고형원 | 9 | 야훼이레 | - |
-| 김안나 | 8 | 하늘바다 | - |
-| 박윤영 헬레나 | 6 | 야훼이레 | - |
-| 현덕 프란치스코 | 5 | 야훼이레 | - |
-| 권성일 미카엘 | 5 | 야훼이레 | - |
-| 오광설 | 5 | 하늘바다 | - |
+| 성기영 아가빠 | 4 | 야훼이레 | 보편지향기도·아멘·주 찬양 |
+| 임석수 바오로 | 4 | 야훼이레 | 가난함을 주소서·그 길 |
+| 유상렬 | 3 | 야훼이레 | 개신교 CCM, CCMKOREA |
+| 정종원 | 3 | 야훼이레 | 개신교 CCM, KOMCA/BEE COMPANY |
 
 ---
 
@@ -262,6 +271,7 @@
 - [야훼이레 수록곡 목록 (3판)](../resources/야훼이레-수록곡목록-3판.xlsx)
 - [해외 현대 미사곡](InternationalMass.md)
 - [아티스트 목록](artists/index.md)
+- [Journeysongs ↔ 한국 성가집 매핑](Journeysongs.md)
 - [리소스 모음](Resources.md)
 
 ---

@@ -10,6 +10,7 @@
 
 ### 출판사 카탈로그
 *   **[OCP Mass Settings](https://www.ocp.org/en-us/mass-settings)**: 북미권 미사곡 세트 카탈로그
+*   **[Journeysongs 분석 (사이트 내)](Journeysongs.md)**: OCP 종합 성가집 3판 목록과 한국 내 사용 매핑
 *   **[GIA Mass Settings](https://giamusic.com/mass-settings)**: GIA 출판 미사곡 세트 카탈로그
 *   **[WLP (World Library Publications)](https://www.wlpmusic.com/)**: 전례 음악 출판사
 

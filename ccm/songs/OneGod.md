@@ -1,0 +1,33 @@
+[Home](../../index.md) | [Catholic Music](../index.md) | [Songs](index.md) | **One God**
+
+---
+
+# 들으라 이스라엘 (One God)
+
+- **원곡**: One God
+- **작곡**: Bob Fitts
+- **번역 수록**: 야훼이레 #491
+- **저작권**: CopyCare
+
+## 개요
+
+신명기 6장 4절("들으라 이스라엘, 주 우리 하느님은 한 분이신 주님이시다")을 현대 워십 스타일로 노래한 곡입니다. 유일하신 하느님을 고백하는 신앙 선언적 찬양입니다.
+
+## 가사 주제
+
+"들으라 이스라엘, 주 하느님은 오직 한 분" — 구약의 위대한 신앙 고백인 쉐마(Shema)를 현대적 언어로 찬양합니다.
+
+## 연결 정보
+
+- **아티스트**: [Bob Fitts](../artists/BobFitts.md)
+- **수록 성가집**: 야훼이레 (3판) #491
+- **원곡 작곡가**: Bob Fitts (미국)
+
+## 참고 자료
+
+- [Bob Fitts 아티스트 페이지](../artists/BobFitts.md)
+- [작곡가·수록곡 크로스 레퍼런스](../CrossReference.md)
+
+---
+
+[⬅️ Back to Songs](index.md)

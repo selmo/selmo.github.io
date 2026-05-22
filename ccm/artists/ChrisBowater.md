@@ -14,7 +14,7 @@
 ## 야훼이레 수록곡
 수원교구 성가집 '야훼이레'에 수록된 그의 대표곡들은 다음과 같습니다.
 
-*   **321. 거룩하신 성령이여 (Holy Spirit, We Welcome You)**
+*   **321. [거룩하신 성령이여 (Holy Spirit, We Welcome You)](../songs/HolySpiritWeWelcomeYou.md)**
     *   원제: Holy Spirit, We Welcome You
     *   특징: 성령 초청 기도 맥락에서 자주 언급되는 곡으로, 미사 전이나 기도 모임 시작 때 자주 불립니다.
 *   **462. 눈을 들어 주를 보라 (See His Glory)**

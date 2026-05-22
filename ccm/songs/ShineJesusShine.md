@@ -1,0 +1,33 @@
+[Home](../../index.md) | [Catholic Music](../index.md) | [Songs](index.md) | **Shine Jesus Shine**
+
+---
+
+# 비추소서 (Shine Jesus Shine)
+
+- **원곡**: Shine Jesus Shine
+- **작곡**: Graham Kendrick
+- **번역 수록**: 야훼이레 #553
+- **저작권**: 외국곡
+
+## 개요
+
+영국 워십 작곡가 Graham Kendrick의 대표곡입니다. "주님, 이 땅에 당신의 영광을 비추소서"라는 강렬한 기도로 시작되는 이 곡은 1987년 발표 이후 전 세계 교회에서 가장 많이 불리는 현대 찬양 중 하나가 되었습니다.
+
+## 가사 주제
+
+어둠 속에 빛을 비추시는 그리스도의 빛이 개인과 교회와 세상을 변화시키기를 청원하는 중보적 찬양입니다.
+
+## 연결 정보
+
+- **원곡 작곡가**: Graham Kendrick (영국)
+- **수록 성가집**: 야훼이레 (3판) #553
+- **아티스트 페이지**: 아티스트 페이지는 아직 없습니다
+
+## 참고 자료
+
+- [작곡가·수록곡 크로스 레퍼런스](../CrossReference.md)
+- [외국 원곡 매핑](../CrossReference.md#외국-원곡--한국어-번역-매핑)
+
+---
+
+[⬅️ Back to Songs](index.md)

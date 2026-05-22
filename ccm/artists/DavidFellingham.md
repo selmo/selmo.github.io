@@ -15,7 +15,7 @@
 *   **384. 기뻐하며 승리의 노래 (We Will Rejoice)**
     *   원제: We Will Rejoice / God Is Rising Up
     *   특징: 승리와 회복을 선포하는 힘찬 찬양곡입니다.
-*   **385. 기뻐하며 왕께 노래 (Shout For Joy and Sing)**
+*   **385. [기뻐하며 왕께 노래 (Shout For Joy and Sing)](../songs/ShoutForJoy.md)**
     *   원제: Shout For Joy and Sing
     *   기반 성경: 시편 21편
 *   **779. 주님의 영광 나타나셨네 (The Lord Has Displayed His Glory)**

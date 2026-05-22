@@ -11,7 +11,7 @@
 *   성경 말씀(특히 시편)을 가사로 사용하여 곡을 만드는 데 탁월합니다.
 
 ## 야훼이레 수록곡
-*   **402. 나 기뻐하리 (I Will Rejoice)**
+*   **402. [나 기뻐하리 (I Will Rejoice)](../songs/IWillRejoice.md)**
     *   원제: I Will Rejoice
     *   특징: 단순하고 경쾌한 리듬으로 하느님 안에서의 기쁨을 노래하는 곡입니다.
 *   **431. 내가 만민 중에 (Be Exalted O God)**

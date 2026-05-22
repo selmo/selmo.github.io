@@ -16,7 +16,7 @@
     *   원제: I Offer My Life
     *   작사/작곡: Don Moen & Claire Cloninger
     *   특징: 자신의 삶 전체를 주님께 봉헌한다는 고백을 담은 곡으로, 봉헌 성가로 매우 적합합니다.
-*   **759. 주님 내 길을 (God Will Make a Way)**
+*   **759. [주님 내 길을 (God Will Make a Way)](../songs/GodWillMakeAWay.md)**
     *   원제: God Will Make a Way
     *   특징: "나의 가는 길 주님 인도하시네"라는 가사로 유명합니다. 돈 모엔이 조카를 잃은 비극적인 사고를 겪은 가족을 위로하기 위해 이사야 43장 19절("보라, 내가 새 일을 하려 한다... 광야에 길을 내고 사막에 강을 내리라.") 말씀을 묵상하며 쓴 곡입니다.
 

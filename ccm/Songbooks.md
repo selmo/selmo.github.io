@@ -89,7 +89,7 @@
 | **Today's Missal** | 일반 본당 | Traditional / Contemporary 혼합 | 계절판(Seasonal). 미사 독서와 성가 수록 |
 | **Spirit & Song** | 청소년·청년 | Contemporary / Rock / Pop | 밴드 편성 중심. Life Teen 네트워크에서 자주 사용 |
 | **Glory & Praise** | 일반·청년 | Contemporary | 3판까지 출간. 컨템포러리 포크 스타일 |
-| **Journeysongs** | 일반 | Comprehensive | 대규모 합본판. 전통·현대 모두 수록 |
+| **[Journeysongs](Journeysongs.md)** | 일반 | Comprehensive | 대규모 합본판. 전통·현대 모두 수록 |
 | **Heritage Missal** | 일반 | Traditional / Contemporary | 연간판. 다문화 콘텐츠 포함 |
 | **Flor y Canto** | 스페인어권 | Latin flavored | 스페인어 전례 성가집 |
 | **Unidos en Cristo** | 이중언어 | Bilingual | 영어/스페인어 이중언어 공동체용 |
@@ -164,6 +164,7 @@
 - [해외 현대 미사곡](InternationalMass.md) — 출판사별 미사곡 세트
 - [Life Teen](organizations/LifeTeen.md) — 청소년 사목 운동과 성가집
 - [세계청년대회 (WYD)](organizations/WorldYouthDay.md) — WYD 공식 송북
+- **[Journeysongs 상세 분석](Journeysongs.md)** — OCP 종합 성가집 목록과 한국 사용 매핑
 - [리소스 모음](Resources.md)
 
 ---

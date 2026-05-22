@@ -20,6 +20,32 @@
     *   대표곡: '알베르토 미사곡', '그 분께로 한 걸음씩'
 *   **[현정수 요한사도 (Fr. Hyun Jeong-su)](HyunJeongSu.md)**
     *   대표곡: '현정수 미사곡', '아버지 뜻대로', '주님을 향하여'
+*   **[김종성 요한사도 (Kim Jong-sung)](KimJongSung.md)**
+    *   야훼이레·하늘바다 23곡. 미사 통상문 전 파트. 양대 성가집 공통 작곡가
+*   **[김영구 요한사도 (Kim Young-gu)](KimYoungGu.md)**
+    *   야훼이레 14곡. 시편 기반 생활성가. '야훼는 나의 목자'
+*   **[송시웅 필립보 (Song Si-ung)](SongSiUng.md)**
+    *   야훼이레 미사 통상문 9곡. 완전한 미사 세트
+*   **[이종철 (Lee Jong-chul)](LeeJongChul.md)**
+    *   하늘바다 8곡 + 야훼이레 1곡. '하느님 말씀 잘 들었어요'
+*   **[신지은·이지혜](ShinJiEunLeeJiHye.md)**
+    *   하늘바다 13곡. 어린이 미사 전 파트 여성 듀오
+*   **[오광설 (Oh Kwang-sul)](OhKwangSul.md)**
+    *   하늘바다 5곡. 작곡 및 전례문 가사 정리
+*   **[김안나 (Kim Anna)](KimAnna.md)**
+    *   하늘바다 5곡. 성호경·거룩하시도다·아멘 등
+*   **[박윤영 헬레나 (Park Yoon-young)](ParkYoonYoung.md)**
+    *   야훼이레 미사 통상문 6곡
+*   **[현덕 프란치스코 (Hyun Duk)](HyunDuk.md)**
+    *   야훼이레 5곡. 자비송·대영광송·거룩하시도다·하느님의 어린양
+*   **[권성일 미카엘 (Kwon Sung-il)](KwonSungIl.md)**
+    *   야훼이레 5곡. '가자 갈릴래아로', '너 나를 사랑하느냐'
+*   **[고형원 (Ko Hyung-won)](KoHyungWon.md)**
+    *   야훼이레 9곡. '땅끝에서', '부흥', '파송의 노래'
+*   **[최덕신 (Choi Duk-shin)](ChoiDukShin.md)**
+    *   야훼이레 9곡. '그 이름', '나를 받으옵소서'
+*   **[Stephen Hah](StephenHah.md)**
+    *   야훼이레 14곡. 한인 디아스포라 작곡가. '그 날에 이르러'
 
 ## 해외 가톨릭 아티스트 (Global Catholic Artists)
 ### 미사곡 작곡가 (Mass Setting Composers)
@@ -79,9 +105,14 @@
 *   **[돈 모엔 (Don Moen)](DonMoen.md)** ('나의 모습 나의 소유')
 *   **[레니 르블랑 (Lenny LeBlanc)](LennyLeBlanc.md)** ('모든 능력과 모든 권세')
 *   **[브렌트 챔버스 (Brent Chambers)](BrentChambers.md)** ('오 하느님 받으소서')
+*   **[데이비드 루이스 (David Ruis)](DavidRuis.md)** ('경배하리', '주의 자비')
+*   **[토미 워커 (Tommy Walker)](TommyWalker.md)** ('내 이름 아시죠')
+*   **[달린 체크 (Darlene Zschech)](DarleneZschech.md)** ('내 구주 예수님')
+*   **[스캇 브레너 (Scott Brenner)](ScottBrenner.md)** ('성령의 불로')
+*   **[에디 에스피노사 (Eddie Espinosa)](EddieEspinosa.md)** ('사랑합니다')
+*   **[루벤 모건 (Reuben Morgan)](ReubenMorgan.md)** ('주를 높이기 원합니다', '주 품에 품으소서')
 *   **그 외 주요 아티스트**:
     *   **Graham Kendrick**: '빛의 노래 (Shine Jesus Shine)'
-    *   **Darlene Zschech**: '내 구주 예수님 (My Jesus My Saviour)'
     *   **Paul Baloche**: '모든 능력과 모든 권세' (공동 작곡), '나의 맘 속에 (Open the eyes of my heart)'
 
 ## 포크 & 기타 (Folk & Others)
