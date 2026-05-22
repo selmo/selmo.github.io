@@ -8,14 +8,15 @@
 
 ## 전례 시기별
 
-### 대릴시기
-*   [주님 당신의 길을](songs/TaeHyoungChoi.md#화답송-responsorial-psalms): 시편 24편. 대릴 제1-2주간 화답송. (최태형 안셀모)
-*   [구원](songs/TaeHyoungChoi.md#화답송-responsorial-psalms): 시편 80편. 대릴 희망·위로 주제. (최태형 안셀모)
-*   [주여 당신은 (Pescador de Hombres)](songs/PescadorDeHombres.md): 제자 부름·소명 주제. 대릴·연중 사용. (Cesáreo Gabaráin)
+### 대림시기
+*   [주님 당신의 길을](songs/TaeHyoungChoi.md#화답송-responsorial-psalms): 시편 24편. 대림 제1-2주간 화답송. (최태형 안셀모)
+*   [구원](songs/TaeHyoungChoi.md#화답송-responsorial-psalms): 시편 80편. 대림 희망·위로 주제. (최태형 안셀모)
+*   주의 뜻은 피하지 아니하리 — 하늘바다. 하느님의 보호와 신뢰.
+*   오소서 오소서 (O Come, O Come, Emmanuel): 고대 라틴어 성가. 대림 제3주간 "O"-antiphons 기반. 야훼이레 #251.
 
 ### 성탄시기
 **미사곡**:
-*   [대영광송 (Gloria)](ordinary/Gloria.md): 성탄 신비와 연결되는 미사 시작 예식의 찬미가입니다.
+*   [대영광송 (Gloria)](ordinary/Gloria.md): 미사 시작 예식의 찬미가. 성탄(12/25) 자정미사와 새벽미사, 그리고 대축일이나 주요 축일에 사용. 전례력상 성탄 시즌에 되찾으며, 대림·사순 기간中は 사용하지 않음.
 *   [Gloria in excelsis Deo](songs/TaeHyoungChoi.md#미사곡-mass): 야훼이레 수록 대영광송 계열. (최태형 안셀모)
 *   [A Christmas Gloria](masses/north-america/mass-of-christ-the-savior.md): Dan Schutte Mass of Christ the Savior 설정.
 
@@ -41,8 +42,10 @@
 *   [성전 오른편에서](ordinary/Asperges.md#3-관련-작품): 부활 시기 성수 예식 노래.
 *   [와서 아침을 들라](songs/TaeHyoungChoi.md#일반-성가-및-기타-hymns--others): 부활 후 예수님과 제자들의 만남. (최태형 안셀모)
 *   [예수 그리스도 당신은 나의 생명](songs/JesusChristYouAreMyLife.md): 부활·청년 환호 주제. WYD 2000 주제가. (Marco Frisina)
-*   Christ Is Risen (Matt Maher): 부활 시기 찬양. 원어 사용. — [Matt Maher](artists/MattMaher.md)
+*   [Christ Is Risen](artists/MattMaher.md): 부활 시기 찬양. 원어 사용. (Matt Maher)
 *   [Ressuscitou](masses/latin-america/ressuscitou.md): 샬롬 공동체 부활 찬양 미사곡. (포르투갈어)
+*   Jesus Christ Is Risen Today — 야훼이레 #260. 전통 부활 성가 (Lyra Davidica 멜로디).
+*   부활의 새 아침 — 하늘바다. 부활 대축일 영광송.
 
 **하늘바다 부활곡**: 거룩하다 부활이여, 부활하신 주 예수, 알렐루야 노래하자, 엠마우스, 예수 부활하셨네/하셨도다, 이 날은 주의 날, 죽음을 이긴, 탈출의 노래.
 
@@ -64,10 +67,13 @@
 **성토요일 / 부활 성야 (Easter Vigil)**:
 *   [탈출의 노래](songs/TaeHyoungChoi.md#일반-성가-및-기타-hymns--others): 출애굽기 독서 후 화답송. (최태형 안셀모)
 *   부활 성야 미사는 구약 7독서 + 신약의 풍성한 전례로, 각 독서 사이 화답송이 중요합니다.
+*   세례 예식곡: [주님 제가 여기 있나이다](songs/HereIAmLord.md) — 세례 서약 갱신 예식 입당송으로 적합.
+*   Exsultet (부활 성경): 라틴어 부활 성경. 전례 문헌상 부활 성야의 핵심 성경.
+*   새벽 종소리 — 하늘바다. 성야 미사의 마무리.
 
 ### 성령강림 (Pentecost)
 
-*   [오소서 성령이여 (Veni Creator Spiritus)](mass.md): 성령 강림 대축일 입당송·기도. 그레고리오 성가 + 현대 설정.
+*   [오소서 성령이여 (Veni Creator Spiritus)](Mass.md): 성령 강림 대축일 입당송·기도. 그레고리오 성가 + 현대 설정.
 *   [거룩하신 성령이여 (Holy Spirit, We Welcome You)](songs/HolySpiritWeWelcomeYou.md): Chris Bowater. 야훼이레 #321.
 *   [성령의 불로 (Fire of the Holy Spirit)](artists/LeeHyungJin.md): 이형진 가브리엘. 야훼이레 #325.
 *   [살아계신 성령님 (Spirit of the Living God)](artists/BrentChambers.md): Paul Armstrong. 야훼이레 #322.
@@ -77,6 +83,22 @@
 *   [성가집과 CCM의 성령 관련 곡들](CrossReference.md): 야훼이레 성령 카테고리 12곡.
 
 **하늘바다**: 성령 장풍, 성령강림송, 성령송가, 성령 안에.
+
+### 주요 대축일
+
+**그리스도 왕 대축일 (Christ the King)**:
+*   [주님 당신의 길을](songs/TaeHyoungChoi.md#화답송-responsorial-psalms): 시편 24편. 나그네 왕의入场 (입장). (최태형 안셀모)
+*   모든 왕의 왕 (The King of Kings) — 하늘바다.
+*   왕이신 예수 — 야훼이레 #380.
+
+**모든 성인 대축일 (All Saints)**:
+*   거룩하시도다: "거룩하시도다 거룩하시도다 만왕의 왕" — 시편 24에서 유래된 성인 신앙고보. (최태형 안셀모)
+*   하늘에 올라 — 하늘바다.
+
+**성체성혈 대축일 (Feast of Body and Blood of Christ)**:
+*   [하느님의 어린양](songs/TaeHyoungChoi.md#미사곡-mass): 영성체송의 핵심. (최태형 안셀모)
+*   성체송가 (Pange Lingua) — 라틴어 전통 성가. 떼제 공동체에서 짧은 버전 사용.
+*   [거룩하신 성사여 (Take My Hands)](artists/SebastianTemple.md): 성체 신심 맥락. (Sebastian Temple)
 
 ### 연중시기
 *   [주님께서 얼마나 좋은 분인지](songs/TaeHyoungChoi.md#화답송-responsorial-psalms): 시편 33편. 화답송·영성체곡. (최태형 안셀모)
