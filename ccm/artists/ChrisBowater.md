@@ -27,6 +27,11 @@
 *   **815. 주 찬양해요 (Praise Ye the Lord)**
     *   원제: Praise Ye the Lord
 
+## 이 사이트에서 연결되는 항목
+
+- [그외 작품들](../OtherWorks.md) — 성령·찬양 주제 CCM
+- [곡 정보 및 해설](../songs/index.md) — 야훼이레 수록곡
+
 ## 참고 자료 (References)
 *   [Cross Rhythms: Chris Bowater Artist Profile](https://www.crossrhythms.co.uk/artists/Chris_Bowater/2367/)
 *   [Christian Music Archive: Chris Bowater](https://www.christianmusicarchive.com/artist/chris-bowater)

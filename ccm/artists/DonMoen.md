@@ -20,5 +20,11 @@
     *   원제: God Will Make a Way
     *   특징: "나의 가는 길 주님 인도하시네"라는 가사로 유명합니다. 돈 모엔이 조카를 잃은 비극적인 사고를 겪은 가족을 위로하기 위해 이사야 43장 19절("보라, 내가 새 일을 하려 한다... 광야에 길을 내고 사막에 강을 내리라.") 말씀을 묵상하며 쓴 곡입니다.
 
+## 이 사이트에서 연결되는 항목
+
+- [그외 작품들](../OtherWorks.md) — 봉헌·위로 주제 번역 CCM
+- [곡 정보 및 해설](../songs/index.md) — 야훼이레 수록곡
+- [Bob Fitts](BobFitts.md) — 같은 Integrity Music 계열
+
 ## 참고 자료 (References)
 *   [Don Moen 공식 웹사이트](https://donmoen.com/)

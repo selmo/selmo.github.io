@@ -21,6 +21,12 @@
 *   **779. 주님의 영광 나타나셨네 (The Lord Has Displayed His Glory)**
     *   원제: The Lord Has Displayed His Glory
 
+## 이 사이트에서 연결되는 항목
+
+- [그외 작품들](../OtherWorks.md) — 승리·찬양 주제 CCM
+- [곡 정보 및 해설](../songs/index.md) — 야훼이레 수록곡
+- [Chris Bowater](ChrisBowater.md) — 같은 영국 현대 예배 음악 흐름
+
 ## 참고 자료 (References)
 *   [SongSelect: David Fellingham](https://us.songselect.com/authors/detail/252)
 *   [Hymnary.org: David Fellingham](https://hymnary.org/person/Fellingham_D)

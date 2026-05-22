@@ -32,6 +32,12 @@
 - "Holy Is His Name"이 한국 청년 묵상 기도와 성체조배에서 자주 불립니다.
 - 야훼이레 등 한국 성가집에 번역 수록.
 
+## 이 사이트에서 연결되는 항목
+
+- [전례곡 - 성체조배](../Liturgical.md#성체조배) — 묵상 기도와 성모 신심
+- [그외 작품들](../OtherWorks.md) — 묵상/기도 음악
+- [Sebastian Temple](SebastianTemple.md) — 프란치스코 영성 계열 작곡가
+
 ## 참고 자료
 
 - [John Michael Talbot 공식 웹사이트](https://www.johnmichaeltalbot.com/)

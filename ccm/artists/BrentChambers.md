@@ -22,6 +22,11 @@
     *   원제: Song of Offering (You are my God)
     *   특징: "오 하느님 받으소서 왕께 드리는 제사"라는 가사로, 봉헌 예식에 자주 사용됩니다.
 
+## 이 사이트에서 연결되는 항목
+
+- [그외 작품들](../OtherWorks.md) — 시편 기반 찬양·봉헌곡
+- [곡 정보 및 해설](../songs/index.md) — 야훼이레 수록곡 맥락
+
 ## 참고 자료 (References)
 *   [SongSelect: Brent Chambers](https://us.songselect.com/authors/detail/265)
 *   [Audio Mack: Brent Chambers](https://audiomack.com/brentchambers)

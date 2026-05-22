@@ -19,5 +19,10 @@
     *   원제: Just Let Me Say
     *   내용: 주님을 향한 사랑을 고백하는 부드럽고 아름다운 곡입니다.
 
+## 이 사이트에서 연결되는 항목
+
+- [그외 작품들](../OtherWorks.md) — 현대 워십 번역곡
+- [곡 정보 및 해설](../songs/index.md) — 야훼이레 수록곡
+
 ## 참고 자료 (References)
 *   [Geoff Bullock 공식 웹사이트](https://www.geoffbullock.com/)

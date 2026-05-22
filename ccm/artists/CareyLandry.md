@@ -28,6 +28,12 @@
 - *Hi God 2* — 속편
 - *Share the Bread* — 청소년 미사곡
 
+## 이 사이트에서 연결되는 항목
+
+- [전례곡](../Liturgical.md) — 어린이·청소년 전례 맥락
+- [곡 정보 및 해설](../songs/index.md) — 야훼이레 번역곡
+- [그외 작품들](../OtherWorks.md) — CCM/생활성가
+
 ## 참고 자료
 
 - [OCP - Carey Landry](https://www.ocp.org/en-us/artists/352)

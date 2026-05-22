@@ -31,6 +31,12 @@
 - 야훼이레 799번 "주여 우리는 지금"이 대표적 번역곡입니다.
 - 한국 가톨릭 성가집에서 스페인어권 번역곡의 대표 작곡가로 자주 언급됩니다.
 
+## 이 사이트에서 연결되는 항목
+
+- [Pescador de Hombres (주여 당신은)](../songs/PescadorDeHombres.md) — 대표곡 해설
+- [전례곡 - 사순시기](../Liturgical.md#사순시기) — 제자 부름·소명 주제
+- [해외 현대 미사곡 - 라틴 아메리카](../InternationalMass.md#latin-america) — 스페인어권 전례 음악 맥락
+
 ## 참고 자료
 
 - [OCP - Cesáreo Gabaráin](https://www.ocp.org/en-us/artists/4215/cesareo-gabarain)

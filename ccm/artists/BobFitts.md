@@ -19,6 +19,12 @@
     *   원제: Blessed Be the Lord God Almighty
     *   내용: 시편 22편을 기반으로 하며, "사랑하는 나의 아버지, 이름 높여 드립니다"라는 가사로 시작되는 유명한 찬양입니다. 하느님의 거룩하심을 찬양합니다.
 
+## 이 사이트에서 연결되는 항목
+
+- [그외 작품들](../OtherWorks.md) — CCM/워십 번역곡
+- [곡 정보 및 해설](../songs/index.md) — 야훼이레 수록곡 맥락
+- [Don Moen](DonMoen.md) — 같은 Integrity Music 계열
+
 ## 참고 자료 (References)
 *   [Bob Fitts 공식 웹사이트](https://bobfitts.com/)
 *   [Integrity Music Artist Profile](https://www.integritymusic.com/)

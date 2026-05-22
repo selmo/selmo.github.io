@@ -37,6 +37,15 @@
 - *In Every Land* (1978)
 - *Choose Christ* (1981)
 
+## 이 사이트에서 연결되는 항목
+
+- [Here I Am, Lord (주님 제가 여기 있나이다)](../songs/HereIAmLord.md) — Dan Schutte 대표곡
+- [Be Not Afraid (두려워 말라)](../songs/BeNotAfraid.md) — Bob Dufford 대표곡
+- [Mass of Christ the Savior](../masses/north-america/mass-of-christ-the-savior.md) — Dan Schutte 미사곡
+- [Dan Schutte](DanSchutte.md) — 개별 아티스트 페이지
+- [전례곡 - 사순시기](../Liturgical.md#사순시기) — 위로·소명 주제
+- [해외 현대 미사곡 - 북미](../InternationalMass.md#north-america)
+
 ## 참고 자료
 
 - [Dan Schutte - 공식 웹사이트](https://www.danschuttemusic.com/)

@@ -19,5 +19,10 @@
     *   원제: There Is None Like You
     *   특징: 주님의 자비하심과 치유의 손길을 노래하는 서정적인 경배곡입니다. "주님과 같이 내 마음 만지는 분은 없네"라는 고백을 담고 있습니다.
 
+## 이 사이트에서 연결되는 항목
+
+- [그외 작품들](../OtherWorks.md) — CCM 경배·찬양 번역곡
+- [곡 정보 및 해설](../songs/index.md) — 야훼이레 수록곡
+
 ## 참고 자료 (References)
 *   [Lenny LeBlanc 공식 웹사이트](https://lennyleblanc.com/)

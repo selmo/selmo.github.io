@@ -26,6 +26,12 @@
 - 야훼이레 356번 "거룩하신 성사여"와 490번 "둘이나 셋이 모인 곳에"가 대표적 번역곡입니다.
 - 성체조배·봉헌·평화 예식에서 자주 불립니다.
 
+## 이 사이트에서 연결되는 항목
+
+- [전례곡 - 성체조배](../Liturgical.md#성체조배) — 평화·봉헌 주제
+- [곡 정보 및 해설](../songs/index.md) — 야훼이레 수록곡
+- [John Michael Talbot](JohnMichaelTalbot.md) — 같은 프란치스코 영성 계열
+
 ## 참고 자료
 
 - [OCP - Sebastian Temple](https://www.ocp.org/en-us/artists/3865/sebastian-temple)
