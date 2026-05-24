@@ -2,7 +2,7 @@
 
 - **원곡**: Here I Am, Lord (1981)
 - **작곡**: Dan Schutte / [St. Louis Jesuits](../artists/StLouisJesuits.md)
-- **번역 수록**: 야훼이레 수록 (번호 확인 필요)
+- **번역 수록**: 야훼이레 3판 미수록 (다른 한국 성가집 수록 가능)
 - **저작권**: OCP / New Dawn Music
 
 ## 탄생 배경

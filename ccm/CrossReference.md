@@ -16,14 +16,14 @@
 | 8 | 김종성 요한사도 | 13 | 10 | 23 | [Kim Jong Sung](artists/KimJongSung.md) |
 | 9 | 신상옥 안드레아 | 13 | 10 | 23 | [Shin Sang Ok](artists/ShinSangOk.md) |
 | 10 | 신지은·이지혜 | - | 13 | 13 | [Shin Ji Eun & Lee Ji Hye](artists/ShinJiEunLeeJiHye.md) |
-| 11 | 이종철 | 1 | 9 | 10 | [Lee Jong Chul](artists/LeeJongChul.md) |
-| 12 | 이용현 알베르토 | 11 | - | 11 | [Lee Yong Hyun](artists/LeeYongHyun.md) |
+| 11 | 이종철 | 1 | 8 | 9 | [Lee Jong Chul](artists/LeeJongChul.md) |
+| 12 | 이용현 알베르또 | 11 | - | 11 | [Lee Yong Hyun](artists/LeeYongHyun.md) |
 | 13 | 김태진 베난시오 | 11 | - | 11 | [Kim Tae Jin](artists/KimTaeJin.md) |
 | 14 | 김정식 로제리오 | 10 | - | 10 | [Kim Jeong Sik](artists/KimJeongSik.md) |
 | 15 | 송시웅 필립보 | 9 | - | 9 | [Song Si Ung](artists/SongSiUng.md) |
 | 16 | 최덕신 | 9 | - | 9 | [Choi Duk Shin](artists/ChoiDukShin.md) |
 | 17 | 고형원 | 9 | - | 9 | [Ko Hyung Won](artists/KoHyungWon.md) |
-| 18 | 김안나 | - | 8 | 8 | [Kim Anna](artists/KimAnna.md) |
+| 18 | 김안나 | - | 5 | 5 | [Kim Anna](artists/KimAnna.md) |
 | 19 | Chris A. Bowater | 7 | - | 7 | [Chris Bowater](artists/ChrisBowater.md) |
 | 20 | 박윤영 헬레나 | 6 | - | 6 | [Park Yoon Young](artists/ParkYoonYoung.md) |
 | 21 | 현덕 프란치스코 | 5 | - | 5 | [Hyun Duk](artists/HyunDuk.md) |
@@ -103,11 +103,11 @@
 **신상옥** (10곡)
 자비송, 대영광송, 복음환호송, 보편지향기도, 거룩하시도다, 신앙의 신비여, 아멘, 주님의 기도, 주님께 나라와, 하느님의 어린양
 
-**이종철** (9곡)
+**이종철** (8곡)
 자비송, 대영광송, 복음환호송(2), 보편지향기도, 거룩하시도다, 주님의 기도, 하느님의 어린양
 
-**김안나** (8곡)
-성호경, 자비송, 거룩하시도다, 아멘, 주님의 기도, 하느님의 어린양
+**김안나** (5곡)
+성호경, 거룩하시도다, 아멘, 주님의 기도, 하느님의 어린양
 
 **오광설** (5곡)
 복음환호송, 보편지향기도, 거룩하시도다, 거양성체, 신앙의 신비여
@@ -130,7 +130,7 @@
 | 현정수 | 11 | 24 | 자비송~하느님의 어린양 전 파트 |
 | 김종성 | 10 | 13 | 자비송~하느님의 어린양 전 파트 |
 | 신상옥 | 10 | 13 | 자비송~하느님의 어린양 전 파트 |
-| 이종철 | 9 | 1 | 하늘바다: 미사 전 파트, 야훼이레: 주님의 기도 |
+| 이종철 | 8 | 1 | 하늘바다: 미사 전 파트, 야훼이레: 주님의 기도 |
 
 > 현정수, 김종성, 신상옥은 두 성가집 모두에서 미사 통상문 전 파트에 곡이 있는 핵심 작곡가입니다.
 

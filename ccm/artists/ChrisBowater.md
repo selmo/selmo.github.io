@@ -22,6 +22,10 @@
     *   내용: 예수 그리스도의 왕권과 영광을 선포하는 장엄한 곡입니다.
 *   **815. 주 찬양해요 (Praise Ye the Lord)**
     *   원제: Praise Ye the Lord
+*   **819. 지존하신 주님 이름 앞에 (Jesus at Your Name)**
+    *   원제: Jesus at Your Name
+*   **908. 하느님 어린양 (Lamb of God)**
+    *   원제: Lamb of God
 
 ## 이 사이트에서 연결되는 항목
 

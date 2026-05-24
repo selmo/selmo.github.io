@@ -12,8 +12,8 @@
     *   대표곡: '자비송', '그 이름 예수', '별이 되리라'
 *   **[김태진 베난시오 (Fr. Kim Tae-jin)](KimTaeJin.md)**
     *   대표곡: '베난시오 미사곡', '그리스도 향기 가득한 날이면'
-*   **[이용현 알베르토 (Fr. Lee Yong-hyun)](LeeYongHyun.md)**
-    *   대표곡: '알베르토 미사곡', '그 분께로 한 걸음씩'
+*   **[이용현 알베르또 (Fr. Lee Yong-hyun)](LeeYongHyun.md)**
+    *   대표곡: '알베르또 미사곡', '그 분께로 한 걸음씩'
 *   **[현정수 요한사도 (Fr. Hyun Jeong-su)](HyunJeongSu.md)**
     *   대표곡: '현정수 미사곡', '아버지 뜻대로', '주님을 향하여'
 *   **[김종성 요한사도 (Kim Jong-sung)](KimJongSung.md)**

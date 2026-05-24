@@ -37,12 +37,12 @@
 
 | 운동/행사 | 연결 유형 | 함께 볼 페이지 | 메모 |
 | :--- | :--- | :--- | :--- |
-| [한국 가톨릭 대학생 연합](KoreaCatholicUniversityStudents.md) | 스타일상 참고 | [김태진 베난시오](../artists/KimTaeJin.md), [이용현 알베르토](../artists/LeeYongHyun.md), [미사곡 (Mass)](../Mass.md) | 캠퍼스 미사, 학생회 찬양, 학생 주도 전례 문화를 한국어 레퍼토리와 함께 읽기 좋음 |
+| [한국 가톨릭 대학생 연합](KoreaCatholicUniversityStudents.md) | 스타일상 참고 | [김태진 베난시오](../artists/KimTaeJin.md), [이용현 알베르또](../artists/LeeYongHyun.md), [미사곡 (Mass)](../Mass.md) | 캠퍼스 미사, 학생회 찬양, 학생 주도 전례 문화를 한국어 레퍼토리와 함께 읽기 좋음 |
 | [비다누에바](VidaNueva.md) | 스타일상 참고 | [이형진 가브리엘](../artists/LeeHyungJin.md), [신상옥 안드레아](../artists/ShinSangOk.md) | 청년 피정, 나눔, 간증, 공동체 노래 문화와 연결해 보기 좋은 한국 생활성가 흐름 |
-| [한국 가톨릭 젊은이 성령쇄신](KoreanYoungCharismaticRenewal.md) | 스타일상 참고 | [김태진 베난시오](../artists/KimTaeJin.md), [이용현 알베르토](../artists/LeeYongHyun.md), [현정수 요한사도](../artists/HyunJeongSu.md) | 열린 찬양 미사, 기도회, 청년 사도직 분위기와 맞닿은 한국 찬양미사·청년 미사 흐름 |
+| [한국 가톨릭 젊은이 성령쇄신](KoreanYoungCharismaticRenewal.md) | 스타일상 참고 | [김태진 베난시오](../artists/KimTaeJin.md), [이용현 알베르또](../artists/LeeYongHyun.md), [현정수 요한사도](../artists/HyunJeongSu.md) | 열린 찬양 미사, 기도회, 청년 사도직 분위기와 맞닿은 한국 찬양미사·청년 미사 흐름 |
 | [한국청년대회 (KYD)](KoreaYouthDay.md) | 스타일상 참고 | [김태진 베난시오](../artists/KimTaeJin.md), [현정수 요한사도](../artists/HyunJeongSu.md), [미사곡 (Mass)](../Mass.md) | 전국 청년 대회, 순례, 교구 교류 행사에서 함께 부를 수 있는 한국 청년 미사·생활성가 흐름 |
 | [청소년 주일](KoreanYouthSunday.md) | 스타일상 참고 | [미사곡 (Mass)](../Mass.md), [김태진 베난시오](../artists/KimTaeJin.md), [현정수 요한사도](../artists/HyunJeongSu.md) | 본당 청소년 미사와 한국 교회의 공식 청소년 전례 분위기를 연결해서 보기 좋음 |
-| [젊은이 성령축제 HYD](HolyspiritYouthDay.md) | 스타일상 참고 | [한국 가톨릭 젊은이 성령쇄신](KoreanYoungCharismaticRenewal.md), [이용현 알베르토](../artists/LeeYongHyun.md), [김태진 베난시오](../artists/KimTaeJin.md) | 찬양기도회와 성령축제 문법으로 읽는 한국 청년 워십형 전례 문화 |
+| [젊은이 성령축제 HYD](HolyspiritYouthDay.md) | 스타일상 참고 | [한국 가톨릭 젊은이 성령쇄신](KoreanYoungCharismaticRenewal.md), [이용현 알베르또](../artists/LeeYongHyun.md), [김태진 베난시오](../artists/KimTaeJin.md) | 찬양기도회와 성령축제 문법으로 읽는 한국 청년 워십형 전례 문화 |
 
 ## 4. 빠르게 읽는 방법
 
@@ -53,6 +53,6 @@
 *   `아시아 청년 공동체`를 보고 싶으면: [Jesus Youth](JesusYouth.md) -> [Tinapay ng Buhay](../masses/asia/tinapay-ng-buhay.md)
 *   `한국 대학생 공동체`를 보고 싶으면: [한국 가톨릭 대학생 연합](KoreaCatholicUniversityStudents.md) -> [김태진 베난시오](../artists/KimTaeJin.md)
 *   `한국 청년 피정`을 보고 싶으면: [비다누에바](VidaNueva.md) -> [이형진 가브리엘](../artists/LeeHyungJin.md)
-*   `한국 찬양미사·기도회`를 보고 싶으면: [한국 가톨릭 젊은이 성령쇄신](KoreanYoungCharismaticRenewal.md) -> [이용현 알베르토](../artists/LeeYongHyun.md)
+*   `한국 찬양미사·기도회`를 보고 싶으면: [한국 가톨릭 젊은이 성령쇄신](KoreanYoungCharismaticRenewal.md) -> [이용현 알베르또](../artists/LeeYongHyun.md)
 *   `한국 전국 청년 행사`를 보고 싶으면: [한국청년대회](KoreaYouthDay.md) -> [김태진 베난시오](../artists/KimTaeJin.md)
 *   `한국 청소년 공식 전례 주일`을 보고 싶으면: [청소년 주일](KoreanYouthSunday.md) -> [미사곡 (Mass)](../Mass.md)

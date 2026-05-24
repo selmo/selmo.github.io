@@ -2,7 +2,7 @@
 
 - **원곡**: Lord I Love You (I Love You Lord 별개 곡 — Eddie Espinosa)
 - **작곡**: Eddie Espinosa
-- **번역 수록**: 야훼이레 수록 (번호 확인 필요)
+- **번역 수록**: 야훼이레 #582
 - **저작권**: CopyCare
 
 ## 개요

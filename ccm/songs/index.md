@@ -20,13 +20,13 @@
 | 주의 자비가 내려와 | Mercy Is Falling | David Ruis | #550 | [→](MercyIsFalling.md) |
 | 내 이름 아시죠 | He Knows My Name | Tommy Walker | #499 | [→](HeKnowsMyName.md) |
 | 내 구주 예수님 | My Jesus, My Saviour | Darlene Zschech | #391 | [→](MyJesusMySaviour.md) |
-| 사랑합니다 | Lord I Love You | Eddie Espinosa | ? | [→](LordILoveYou.md) |
+| 사랑합니다 | Lord I Love You | Eddie Espinosa | #582 | [→](LordILoveYou.md) |
 | 주를 높이기 원합니다 | I Give You My Heart | Reuben Morgan | #394 | [→](IGiveYouMyHeart.md) |
-| 주 품에 품으소서 | Still | Reuben Morgan | ? | [→](Still.md) |
+| 주 품에 품으소서 | Still | Reuben Morgan | #816 | [→](Still.md) |
 | 모든 능력과 모든 권세 | Above All | Lenny LeBlanc | #590 | [→](AboveAll.md) |
 | 주님과 같이 | There Is None Like You | Lenny LeBlanc | #752 | [→](ThereIsNoneLikeYou.md) |
 | 나의 모습 나의 소유 | I Offer My Life | Don Moen | #757 | [→](IOfferMyLife.md) |
-| 주여 당신은 | Pescador de Hombres | Cesáreo Gabaráin | - | [→](PescadorDeHombres.md) |
+| 주여 당신은 | Pescador de Hombres | Cesáreo Gabaráin | #799 | [→](PescadorDeHombres.md) |
 | 두려워 말라 | Be Not Afraid | Bob Dufford, SJ | - | [→](BeNotAfraid.md) |
 | 주님 제가 여기 있나이다 | Here I Am, Lord | Dan Schutte | - | [→](HereIAmLord.md) |
 | 예수 그리스도 당신은 나의 생명 | Jesus Christ, You Are My Life | Marco Frisina | - | [→](JesusChristYouAreMyLife.md) |
