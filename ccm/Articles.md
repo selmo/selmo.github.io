@@ -26,7 +26,7 @@
 | 제목 | 매체 | 날짜 | 태그 |
 |:---|:---|:---:|:---|
 {% for a in group -%}
-| [{{ a.title }}]({{ a.url }}){% if a.author %}<br><sub>— {{ a.author }}</sub>{% endif %}{% if a.summary %}<br><sub>{{ a.summary }}</sub>{% endif %} | {{ a.source }} | {{ a.date }} | {% if a.tags %}{% for tag in a.tags %}`{{ tag }}`{% unless forloop.last %} {% endunless %}{% endfor %}{% endif %} |
+| {% if a.url %}[{{ a.title }}]({{ a.url }}){% else %}{{ a.title }}{% endif %}{% if a.author %}<br><sub>— {{ a.author }}</sub>{% endif %}{% if a.summary %}<br><sub>{{ a.summary }}</sub>{% endif %}{% unless a.verified %}{% if a.url %} <sub>·날짜 근사</sub>{% endif %}{% endunless %} | {{ a.source }} | {{ a.date }} | {% if a.tags %}{% for tag in a.tags %}`{{ tag }}`{% unless forloop.last %} {% endunless %}{% endfor %}{% endif %} |
 {% endfor %}
 
   {% endif %}

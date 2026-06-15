@@ -2,25 +2,38 @@
 #
 # Schema:
 #   - title:        기사 제목
-#     url:          링크
-#     source:       매체명 (예: 가톨릭신문, 평화신문, CPBC, 연합뉴스, 조선일보, 가톨릭평론, RISS)
+#     url:          링크 (없으면 제목이 일반 텍스트로 표시됨 — 오프라인 행사 등)
+#     source:       매체명
 #     source_type:  catholic_press | general_press | webzine_blog | academic
-#     date:         발행일 (YYYY-MM-DD 또는 YYYY-MM 또는 YYYY)
+#     date:         발행일 (YYYY-MM-DD / YYYY-MM / YYYY)
 #     author:       기자/필자 (선택)
 #     summary:      한두 문장 요약 (선택)
 #     tags:         주제 태그 배열 (선택)
+#     verified:     true 이면 제목/날짜/기자를 원문 확인함. 없으면 날짜는 근사치(아래 주의 참고).
+#     note:         편집용 메모 (선택, 페이지에는 표시되지 않음)
+#
+# ⚠️ 날짜 주의: 가톨릭신문 URL의 앞 8자리(YYYYMMDD…)는 실제 발행일과 며칠 어긋나는
+#    경우가 확인됨(예: 이형진 기사 URL 0904 vs 실제 0909). 따라서 verified: true 가
+#    아닌 catholictimes 항목의 날짜는 근사치이며, 페이지에 '날짜 근사'로 표시됩니다.
 #
 # 분류 가이드:
 #   catholic_press : 가톨릭신문, 가톨릭평화신문, CPBC, 굿뉴스, 교구·수도회 공식 매체
 #   general_press  : 연합뉴스, 조선일보, 한겨레, KBS 등 일반 매체
 #   webzine_blog   : 가톨릭 웹진(예: 가톨릭뉴스 지금여기), 본당·교구 회지, 음악PD/블로그, 단체 공식 사이트
-#   academic       : 학술지, 학위논문, 평론지(가톨릭평론 등), 단행본 서평
-#
-# ⚠️ 초기 시드는 WebSearch 결과를 바탕으로 추가되었습니다. 일부 기사의 날짜·요약은
-# URL 패턴(YYYYMMDD…)이나 검색 스니펫에서 추정한 값으로, 본문 확인 후 보정해 주세요.
+#   academic       : 학술지, 학위논문, 평론지(가톨릭평론 등), 단행본 서평, 학술 포럼
 
 items:
   # ---------- 가톨릭 언론 (catholic_press) ----------
+
+  - title: 김선호 신부, 생활성가 「사랑의 늘푸름」 펴내
+    url: https://m.catholictimes.org/238734
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 1996-04-07
+    author: 우광호
+    summary: 인천 주안1동본당 김선호 신부가 늘푸른 중창단과 함께 청소년이 즐겨 부를 수 있는 생활성가 음반을 펴냄.
+    tags: [생활성가, 김선호, 음반, 청소년]
+    verified: true
 
   - title: "'가톨릭생활성가'란"
     url: https://www.catholictimes.org/article/200201270009929
@@ -35,8 +48,18 @@ items:
     source: 가톨릭신문
     source_type: catholic_press
     date: 2003-06-08
-    summary: 청소년·청년 미사에서 사용되는 성가의 전례적 적합성과 일반 워십·CCM과의 구분 필요성을 다룬 기획기사.
+    summary: 청소년·청년 미사에서 쓰이는 성가의 전례적 적합성과 일반 워십·CCM과의 구분 필요성을 다룬 기획기사.
     tags: [청년, 전례, 논의]
+
+  - title: 생활성가 미사곡 음반 낸 이용현 신부
+    url: https://www.catholictimes.org/article/200401180088832
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2004-01-18
+    author: 주정아
+    summary: 서울대교구 이용현 신부가 입당성가부터 파견성가까지 아우른 생활성가 미사곡 음반 「미사」를 발매.
+    tags: [생활성가, 이용현, 미사곡, 음반]
+    verified: true
 
   - title: 서울 본당청년사목부, 제3회 가톨릭 청년 성가 경연대회
     url: https://www.catholictimes.org/article/200411070108408
@@ -62,6 +85,14 @@ items:
     summary: 생활성가 그룹 OnE의 활동과 작곡가 최태형 안셀모의 인터뷰. '생활성가 다시 듣기' 연재 1회.
     tags: [생활성가, OnE, 최태형, 인터뷰]
 
+  - title: 제15회 PBC 창작생활성가제 — 창작생활성가로 신앙에 흥을 더하다
+    url: http://www.cpbc.co.kr/CMS/newspaper/view_body.php?cid=600489&path=201510
+    source: 가톨릭평화신문
+    source_type: catholic_press
+    date: 2015-10
+    summary: 서강대 메리홀에서 열린 제15회 PBC 창작생활성가제. 전국 7개 교구 10개 팀이 참가.
+    tags: [CPBC 창작성가제, 행사]
+
   - title: 「생활성가 찬미회」 — 성가의 대중화에 앞장
     url: https://www.catholictimes.org/article/201803160253349
     source: 가톨릭신문
@@ -74,17 +105,11 @@ items:
     url: https://www.catholictimes.org/article/201809040271536
     source: 가톨릭신문
     source_type: catholic_press
-    date: 2018-09-04
-    summary: 작곡가 이형진 가브리엘의 생활성가 작곡 여정과 신앙 체험을 다룬 인터뷰 시리즈 1편.
-    tags: [생활성가, 이형진, 인터뷰, 작곡가]
-
-  - title: 가톨릭 청년 창작생활성가 그룹 '위로 프로젝트'
-    url: https://www.catholictimes.org/article/202012210036079
-    source: 가톨릭신문
-    source_type: catholic_press
-    date: 2020-12-21
-    summary: 클래시컬 크로스오버 그룹 'Layers' 멤버 강대명 바오로가 주축이 된 청년 창작생활성가 프로젝트 소개.
-    tags: [생활성가, 청년, 위로 프로젝트, 강대명]
+    date: 2018-09-09
+    author: 신동헌
+    summary: 찬양사도 이형진이 대표곡 '내 생애의 모든 것'·'낮은 자 되게 하신 주'를 중심으로 30년 신앙 여정을 나눈 인터뷰.
+    tags: [생활성가, 이형진, 인터뷰, 찬양사도]
+    verified: true
 
   - title: "[문화단신] 생활성가 찬미회 「평화의 노래」 출반"
     url: https://www.catholictimes.org/article/202011250004854
@@ -94,30 +119,26 @@ items:
     summary: 생활성가 찬미회의 신보 「평화의 노래」 발매 소식.
     tags: [생활성가, 음반, 찬미회]
 
-  - title: 김선호 신부, 생활성가 「사랑의 늘푸름」 펴내
-    url: https://m.catholictimes.org/238734
+  - title: 가톨릭 청년 창작생활성가 그룹 '위로 프로젝트'
+    url: https://www.catholictimes.org/article/202012210036079
     source: 가톨릭신문
     source_type: catholic_press
-    summary: 김선호 신부의 생활성가 곡집 「사랑의 늘푸름」 출간 소식. 누구나 쉽게 따라 부를 수 있는 곡들로 구성.
-    tags: [생활성가, 김선호, 곡집]
-
-  - title: 제15회 PBC 창작생활성가제 — 창작생활성가로 신앙에 흥을 더하다
-    url: http://www.cpbc.co.kr/CMS/newspaper/view_body.php?cid=600489&path=201510
-    source: 가톨릭평화신문
-    source_type: catholic_press
-    date: 2015-10
-    summary: 서강대 메리홀에서 열린 제15회 PBC 창작생활성가제. 전국 7개 교구 10개 팀이 참가.
-    tags: [CPBC 창작성가제, 행사]
+    date: 2020-12-25
+    author: 성슬기
+    summary: 코로나19로 지친 신자들을 위해 청년 예술가들이 결성한 '위로 프로젝트'가 첫 곡 '우리 다시'를 발표.
+    tags: [생활성가, 청년, 위로 프로젝트, 강대명]
+    verified: true
 
   - title: cpbc 창작성가제 참여자는 6·7월 접수
     url: https://news.cpbc.co.kr/article/1109823
     source: 가톨릭평화신문
     source_type: catholic_press
-    summary: CPBC 창작성가제 참가자 접수 안내 기사.
+    summary: CPBC 창작성가제 참가자 접수 기간(6·7월)을 안내하는 공지성 기사.
     tags: [CPBC 창작성가제, 공지]
 
   # ---------- 일반 언론 (general_press) ----------
-  # (현재 시드 없음 — 사용자 보강 필요)
+  # 현재 시드 없음. WebSearch에서 일반지(연합뉴스·KBS·중앙일보 등)의 생활성가 직접
+  # 기사를 확보하지 못함. 사용자가 읽은 기사 URL을 주면 메타데이터를 추출해 추가 예정.
 
   # ---------- 회지·웹진·블로그 (webzine_blog) ----------
 
@@ -159,9 +180,12 @@ items:
   # ---------- 학술·평론 (academic) ----------
 
   - title: 제1회 생활성가포럼 — '우리시대 생활성가를 말한다'
-    url: https://www.catholictimes.org/article/200201270009929
-    source: 가톨릭대 교회음악대학원·CPBC 공동 주최 / 가톨릭신문 보도
+    source: 가톨릭대 교회음악대학원 · CPBC·가톨릭평화신문 공동 주최
     source_type: academic
     date: 2010-11-26
-    summary: 중림동 가톨릭대 교회음악대학원 최양업홀에서 열린 첫 학술 포럼. 한국 가톨릭 생활성가의 역사와 위상, 사목적 가능성을 검토.
+    summary: 중림동 가톨릭대 교회음악대학원 최양업홀에서 열린 첫 학술 포럼. 한국 가톨릭 생활성가의 역사·위상과 사목적 가능성을 검토.
     tags: [생활성가, 포럼, 학술, 가톨릭대]
+    note: >-
+      행사 개최(2010-11-26)는 복수 출처로 확인되나 보도 기사 원문 URL은 미확정.
+      초기 시드에서 2002년 '가톨릭생활성가란' 기사 URL을 잘못 붙였던 것을 제거함.
+      정확한 보도 URL 확보 시 url 필드 추가 요망.
