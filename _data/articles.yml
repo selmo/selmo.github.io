@@ -9,12 +9,17 @@
 #     author:       기자/필자 (선택)
 #     summary:      한두 문장 요약 (선택)
 #     tags:         주제 태그 배열 (선택)
-#     verified:     true 이면 제목/날짜/기자를 원문 확인함. 없으면 날짜는 근사치(아래 주의 참고).
+#     verified:     true 이면 URL·제목이 실재함을 확인함(WebFetch). 날짜 정밀도는 아래 주의 참고.
 #     note:         편집용 메모 (선택, 페이지에는 표시되지 않음)
 #
-# ⚠️ 날짜 주의: 가톨릭신문 URL의 앞 8자리(YYYYMMDD…)는 실제 발행일과 며칠 어긋나는
-#    경우가 확인됨(예: 이형진 기사 URL 0904 vs 실제 0909). 따라서 verified: true 가
-#    아닌 catholictimes 항목의 날짜는 근사치이며, 페이지에 '날짜 근사'로 표시됩니다.
+# ⚠️ 날짜 검증 메모
+#   - 가톨릭신문(catholictimes.org): URL 8자리는 '온라인 입력일'이라 실제 발행일과
+#     다를 수 있음(예: 이형진 기사 URL 0904 vs 본문 발행일 0909). verified 항목의
+#     date는 기사 본문에서 읽은 실제 발행일이다.
+#   - 가톨릭평화신문(news.cpbc.co.kr): 본문이 JS로 렌더링되어 WebFetch로는 제목만
+#     정적 확인됨. 제목·URL은 실재하며, 날짜·기자는 제목 완전일치 검색의 색인
+#     스니펫으로 교차확인한 값이라 일부는 월(YYYY-MM)까지만 확정.
+#   - verified 가 없는 항목의 date는 근사치이며 페이지에 '날짜 근사'로 표시된다.
 #
 # 분류 가이드:
 #   catholic_press : 가톨릭신문, 가톨릭평화신문, CPBC, 굿뉴스, 교구·수도회 공식 매체
@@ -23,7 +28,22 @@
 #   academic       : 학술지, 학위논문, 평론지(가톨릭평론 등), 단행본 서평, 학술 포럼
 
 items:
-  # ---------- 가톨릭 언론 (catholic_press) ----------
+  # ============================================================
+  # 가톨릭 언론 (catholic_press)
+  # ============================================================
+
+  # ---- 가톨릭신문: 음반·인물·해설 (시간순) ----
+
+  - title: 복음성가 음반 출반 준비중인 이용현 신부
+    url: https://www.catholictimes.org/article/200906250258023
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 1998-12-06
+    author: 이주연
+    summary: 함께 부를 적합한 성가 부족 문제를 지적하며 자작·동료 사제 곡을 담은 복음성가 음반을 준비하는 이용현 신부 소식.
+    tags: [복음성가, 음반, 이용현, 청소년성가]
+    verified: true
+    note: 본문 발행일 1998-12-06(제2130호 13면). URL의 200906…은 온라인 입력일.
 
   - title: 김선호 신부, 생활성가 「사랑의 늘푸름」 펴내
     url: https://m.catholictimes.org/238734
@@ -40,16 +60,28 @@ items:
     source: 가톨릭신문
     source_type: catholic_press
     date: 2002-01-27
-    summary: 한국 천주교에서 통용되는 '생활성가'의 개념과 범위, 개신교 CCM과의 관계를 정리한 기사.
-    tags: [생활성가, 정의, 개관]
+    summary: 1974년 성바오로딸수도회 음반에서 시작된 가톨릭 생활성가가 2000년대 초 70여 팀 규모로 확대되는 흐름을 정리한 해설.
+    tags: [생활성가, 정의, 역사, 개관]
+    verified: true
+
+  - title: "생활성가 음반 '믿음의 나무로' 나와"
+    url: https://www.catholictimes.org/139329
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2002-11-10
+    author: 이진아
+    summary: 이탈리아 유학 부부가 남편의 작곡과 아내의 노래로 신앙 여정을 담은 생활성가 음반 '믿음의 나무로'를 발표.
+    tags: [생활성가, 음반]
+    verified: true
 
   - title: 청소년·청년 위한 올바른 성가 구분 시급
     url: https://www.catholictimes.org/article/200306080073877
     source: 가톨릭신문
     source_type: catholic_press
     date: 2003-06-08
-    summary: 청소년·청년 미사에서 쓰이는 성가의 전례적 적합성과 일반 워십·CCM과의 구분 필요성을 다룬 기획기사.
-    tags: [청년, 전례, 논의]
+    summary: 청소년·청년 미사에서 전례용 성가와 생활용(준전례) 성가를 명확히 구분하고 무분별한 대중음악 기반 생활성가 사용을 지양하자는 제언.
+    tags: [생활성가, 전례음악, 청년미사, 평론]
+    verified: true
 
   - title: 생활성가 미사곡 음반 낸 이용현 신부
     url: https://www.catholictimes.org/article/200401180088832
@@ -66,8 +98,19 @@ items:
     source: 가톨릭신문
     source_type: catholic_press
     date: 2004-11-07
-    summary: 서울대교구 본당청년사목부가 주최한 청년 성가 경연대회 행사 보도.
-    tags: [청년, 경연대회, 서울대교구]
+    summary: 서울대교구 본당청년사목부 주최 제3회 가톨릭 청년 성가 경연대회에서 역촌동본당 우니따스 청년성가대가 대상을 수상.
+    tags: [생활성가, 청년성가, 경연대회, 서울대교구]
+    verified: true
+
+  - title: "생활성가 음반 '사랑하나, …하느님 사랑 이야기' 낸 현정수 신부"
+    url: https://www.catholictimes.org/article/200701070158393
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2007-01-07
+    author: 우광호
+    summary: 현정수 신부가 다양한 장르와 찬양팀 협업으로 하느님의 사랑을 전하는 데뷔 생활성가 음반을 발표.
+    tags: [생활성가, 음반, 현정수]
+    verified: true
 
   - title: 1000회 공연 앞둔 생활성가그룹 '이노주사'
     url: https://www.catholictimes.org/article/200709160174014
@@ -76,30 +119,189 @@ items:
     date: 2007-09-16
     summary: 본당 순회 공연을 이어 온 생활성가 그룹 '이노주사'의 1000회 공연을 앞두고 활동을 정리한 기사.
     tags: [생활성가, 그룹, 이노주사, 공연]
+    verified: true
+
+  # ---- 가톨릭신문 연재 '내 손 안에 생활성가' (이승훈 기자, 2012–2013, 15부작) ----
 
   - title: 내 손 안에 생활성가 (1) 주님 제 소리를 들으소서 — 생활성가 그룹 OnE
     url: https://www.catholictimes.org/article/201206120245934
     source: 가톨릭신문
     source_type: catholic_press
     date: 2012-06-12
-    summary: 생활성가 그룹 OnE의 활동과 작곡가 최태형 안셀모의 인터뷰. '생활성가 다시 듣기' 연재 1회.
-    tags: [생활성가, OnE, 최태형, 인터뷰]
+    summary: 생활성가 그룹 OnE의 활동과 작곡가 최태형 안셀모 인터뷰. '내 손 안에 생활성가' 연재 1회.
+    tags: [생활성가, 내손안에생활성가, OnE, 최태형]
+    verified: true
 
-  - title: 제15회 PBC 창작생활성가제 — 창작생활성가로 신앙에 흥을 더하다
-    url: http://www.cpbc.co.kr/CMS/newspaper/view_body.php?cid=600489&path=201510
-    source: 가톨릭평화신문
-    source_type: catholic_press
-    date: 2015-10
-    summary: 서강대 메리홀에서 열린 제15회 PBC 창작생활성가제. 전국 7개 교구 10개 팀이 참가.
-    tags: [CPBC 창작성가제, 행사]
-
-  - title: 「생활성가 찬미회」 — 성가의 대중화에 앞장
-    url: https://www.catholictimes.org/article/201803160253349
+  - title: 내 손 안에 생활성가 (8) 임마누엘 — 장환진(요한)
+    url: https://www.catholictimes.org/article/201210160009278
     source: 가톨릭신문
     source_type: catholic_press
-    date: 2018-03-16
-    summary: 본당 단위 생활성가 보급을 목표로 출범한 '생활성가 찬미회'의 활동 소개.
-    tags: [생활성가, 단체, 찬미회]
+    date: 2012-10-21
+    author: 이승훈
+    summary: PBC 창작생활성가제 수상자 장환진(요한)이 요셉의 꿈에서 영감을 얻어 만든 '임마누엘'을 소개.
+    tags: [생활성가, 내손안에생활성가, 장환진, 창작생활성가]
+    verified: true
+
+  - title: 내 손 안에 생활성가 (9) 모든 이에게 — J-Fam
+    url: https://www.catholictimes.org/article/201211020011105
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2012-11-02
+    author: 이승훈
+    summary: 2010년 결성된 9인조 가톨릭 청년 CCM 찬양팀 J-Fam과 그들의 곡 '모든 이에게'를 소개.
+    tags: [생활성가, 내손안에생활성가, J-Fam, 청년CCM]
+    verified: true
+
+  - title: 내 손 안에 생활성가 (12) 주님 향한 발걸음 — 박명선(수산나)
+    url: https://www.catholictimes.org/article/201212230015443
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2013-01-01
+    author: 이승훈
+    summary: 가수·작곡가 박명선(수산나)이 3년간 앨범 작업 중 소명을 의심할 때 영적 닻이 된 곡 이야기.
+    tags: [생활성가, 내손안에생활성가, 박명선]
+    verified: true
+
+  - title: 내 손 안에 생활성가 (15·끝) 예수마리아요셉 — 계만석(프란치스코)
+    url: https://www.catholictimes.org/article/201302040018583
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2013-02-04
+    author: 이승훈
+    summary: 한국 전통 가톨릭 기도 관습에서 영감을 얻은 계만석의 '예수마리아요셉'을 소개하며 15부작 연재를 마무리.
+    tags: [생활성가, 내손안에생활성가, 계만석, 연재완결]
+    verified: true
+
+  - title: 서울대교구, 「청소년 청년 성가집」 발간
+    url: https://www.catholictimes.org/article/201303050020352
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2013-03-05
+    author: 이승훈
+    summary: 서울대교구가 성가 360곡·미사곡 87곡·율동성가 34곡·떼제 12곡을 담은 청소년·청년 사목용 공식 인준 성가집을 발간.
+    tags: [청소년성가, 성가집, 서울대교구, 생활성가, 전례]
+    verified: true
+
+  # ---- 가톨릭신문 연재 '생활성가의 기쁨' (신동헌 기자, 2016–2019) ----
+
+  - title: "[QR생활성가] 전부"
+    url: https://www.catholictimes.org/article/201601120147666
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2016-01-17
+    summary: 전주교구 생활성가팀 '그루터기'가 연주하고 유상렬이 작곡한 생활성가 '전부'를 QR로 소개.
+    tags: [생활성가, QR생활성가, 그루터기, 유상렬]
+    verified: true
+
+  - title: "[생활성가의 기쁨] 현정수 신부 (상)"
+    url: https://www.catholictimes.org/article/201612270175186
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2017-01-01
+    author: 신동헌
+    summary: 신학생 시절 성소를 고민하던 현정수 신부가 곡을 쓰게 된 배경과 신앙 고백을 다룬 연재 인터뷰.
+    tags: [생활성가, 작곡가인터뷰, 현정수, 생활성가의기쁨]
+    verified: true
+
+  - title: "[생활성가의 기쁨] 김상균씨"
+    url: https://www.catholictimes.org/article/201701310177561
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2017-02-05
+    author: 신동헌
+    summary: 작곡가 김상균이 '아버지', '주 하느님' 두 곡에 담은 개인적 신앙 체험과 고백을 다룬 인터뷰.
+    tags: [생활성가, 작곡가인터뷰, 김상균, 생활성가의기쁨]
+    verified: true
+
+  - title: "[생활성가의 기쁨] 최현숙 아가타씨 (상)"
+    url: https://www.catholictimes.org/view.aspx?AID=277096
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2017-02-19
+    author: 신동헌
+    summary: 20대에 실명한 작곡가 최현숙(아가타)이 예수의 사랑을 깨닫고 '구원자 예수 너의 사랑'을 만든 영적 회복 이야기.
+    tags: [생활성가, 작곡가인터뷰, 최현숙, 생활성가의기쁨]
+    verified: true
+
+  - title: "[생활성가의 기쁨] 박우곤(알렉시우스)씨"
+    url: https://www.catholictimes.org/view.aspx?AID=277774
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2017-03-19
+    author: 신동헌
+    summary: 작곡가 박우곤(알렉시우스)이 사람의 인정 대신 하느님께 자신을 맡기며 의미 있는 성가를 만들게 된 이야기.
+    tags: [생활성가, 작곡가인터뷰, 박우곤, 생활성가의기쁨]
+    verified: true
+
+  - title: "[생활성가의 기쁨] 신상옥 안드레아 (하)"
+    url: https://www.catholictimes.org/article/201704250190060
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2017-04-30
+    author: 신동헌
+    summary: 작곡가 신상옥이 투병 중 영적 묵상과 임종 봉사 수녀들을 보며 '내 발을 씻기신 예수'를 만든 과정.
+    tags: [생활성가, 작곡가인터뷰, 신상옥, 생활성가의기쁨]
+    verified: true
+
+  - title: "[생활성가의 기쁨] 김정식 로제리오 (하)"
+    url: https://www.catholictimes.org/article/201707180213936
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2017-07-23
+    author: 신동헌
+    summary: 1세대 생활성가 가수 김정식(로제리오)이 일상의 순간을 영적 기쁨과 성가 창작의 영감으로 삼는 과정.
+    tags: [생활성가, 작곡가인터뷰, 김정식, 생활성가의기쁨]
+    verified: true
+
+  - title: "[생활성가의 기쁨] 이재석 신부 (상)"
+    url: https://www.catholictimes.org/article/201709260237167
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2017-10-01
+    author: 신동헌
+    summary: 부산교구 이재석 신부가 사제 서품 성구를 바탕으로 찬양 콘서트와 성가 창작 사목을 펼치는 이야기.
+    tags: [생활성가, 사제작곡가, 이재석, 생활성가의기쁨]
+    verified: true
+
+  - title: "[생활성가의 기쁨] 이재석 신부 (하)"
+    url: https://www.catholictimes.org/view.aspx?AID=288357
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2017-10-22
+    author: 신동헌
+    summary: 이재석 신부가 '손길', '내 영혼이 주님을' 등 곡을 통해 하느님의 사랑과 위로를 나누는 음악 사목.
+    tags: [생활성가, 사제작곡가, 이재석, 생활성가의기쁨]
+    verified: true
+
+  - title: "[생활성가의 기쁨] 한덕훈 신부 (하)"
+    url: https://www.catholictimes.org/view.aspx?AID=288744
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2017-11-19
+    author: 신동헌
+    summary: 인천교구 한덕훈 신부가 '나의 주님 나의 하느님', '희망' 등으로 어려움을 겪는 청년 신자들을 격려하는 곡 작업.
+    tags: [생활성가, 사제작곡가, 한덕훈, 생활성가의기쁨]
+    verified: true
+
+  - title: "[생활성가의 기쁨] 계만석씨 (하)"
+    url: https://www.catholictimes.org/article/201806260267639
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2018-07-01
+    author: 신동헌
+    summary: 작곡가 계만석이 외로움과 신앙 체험을 바탕으로 단순·반복의 기도 성가를 만드는 이야기.
+    tags: [생활성가, 작곡가인터뷰, 계만석, 생활성가의기쁨]
+    verified: true
+
+  - title: "[생활성가의 기쁨] 생활성가 공동체 더 위드 김현주씨 (상)"
+    url: https://www.catholictimes.org/view.aspx?AID=297869
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2018-08-12
+    author: 신동헌
+    summary: 생활성가 공동체 '더 위드'의 대표 김현주가 그리스도와의 만남을 성가 창작의 영감으로 삼는 이야기.
+    tags: [생활성가, 공동체, 더위드, 김현주, 생활성가의기쁨]
+    verified: true
 
   - title: "[생활성가의 기쁨] 이형진 (상)"
     url: https://www.catholictimes.org/article/201809040271536
@@ -108,7 +310,48 @@ items:
     date: 2018-09-09
     author: 신동헌
     summary: 찬양사도 이형진이 대표곡 '내 생애의 모든 것'·'낮은 자 되게 하신 주'를 중심으로 30년 신앙 여정을 나눈 인터뷰.
-    tags: [생활성가, 이형진, 인터뷰, 찬양사도]
+    tags: [생활성가, 이형진, 인터뷰, 찬양사도, 생활성가의기쁨]
+    verified: true
+
+  - title: "[생활성가의 기쁨] 최선미"
+    url: https://www.catholictimes.org/article/201903190021628
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2019-03-24
+    author: 신동헌
+    summary: 생활성가 가수 최선미가 작고한 아버지의 시에 강훈이 곡을 붙여 삶과 죽음을 묵상한 싱글 앨범을 낸 이야기.
+    tags: [생활성가, 가수인터뷰, 최선미, 생활성가의기쁨]
+    verified: true
+
+  - title: "[생활성가의 기쁨] 윤혜숙"
+    url: https://www.catholictimes.org/article/201910070125419
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2019-10-13
+    author: 신동헌
+    summary: 작곡가 윤혜숙이 이사야서 묵상과 참회 체험을 바탕으로 하느님의 자비를 노래한 '너의 죄를 씻으니'를 만든 이야기.
+    tags: [생활성가, 작곡가인터뷰, 윤혜숙, 생활성가의기쁨]
+    verified: true
+
+  # ---- 가톨릭신문: 단체·행사·기타 ----
+
+  - title: 「생활성가 찬미회」 — 성가의 대중화에 앞장
+    url: https://www.catholictimes.org/article/201803160253349
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2018-03-16
+    summary: 본당 단위 생활성가 보급을 목표로 출범한 '생활성가 찬미회'의 활동 소개.
+    tags: [생활성가, 단체, 찬미회]
+    verified: true
+
+  - title: 데뷔 20주년 맞은 생활성가 가수 김시연씨
+    url: https://www.catholictimes.org/article/202010200252115
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2020-10-25
+    author: 김현정
+    summary: 생활성가 가수 김시연(아녜스)이 데뷔 20주년을 맞아 새 디지털 싱글과 월례 힐링 콘서트로 음악 사목을 이어가는 이야기.
+    tags: [생활성가, 가수인터뷰, 김시연]
     verified: true
 
   - title: "[문화단신] 생활성가 찬미회 「평화의 노래」 출반"
@@ -118,6 +361,7 @@ items:
     date: 2020-11-25
     summary: 생활성가 찬미회의 신보 「평화의 노래」 발매 소식.
     tags: [생활성가, 음반, 찬미회]
+    verified: true
 
   - title: 가톨릭 청년 창작생활성가 그룹 '위로 프로젝트'
     url: https://www.catholictimes.org/article/202012210036079
@@ -129,27 +373,187 @@ items:
     tags: [생활성가, 청년, 위로 프로젝트, 강대명]
     verified: true
 
+  - title: 제20회 CPBC창작생활성가 공모… 7월 25일까지 접수
+    url: https://www.catholictimes.org/358521
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2021-06-27
+    author: 박민규
+    summary: CPBC가 새 생활성가와 가수를 발굴하는 제20회 창작생활성가제 참가 신청을 받으며 10월 결선을 예고.
+    tags: [창작생활성가, 공모, CPBC, 경연]
+    verified: true
+
+  - title: 수원교구 제15회 창작성가제
+    url: https://www.catholictimes.org/article/202207260127767
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2022-07-31
+    author: 박지순
+    summary: 2022년 7월 열린 수원교구 제15회 창작성가제에서 황혜원이 '혹시 생각해 본 적 있니?'로 대상을 수상.
+    tags: [창작성가, 경연, 수원교구, 찬양사도]
+    verified: true
+
+  - title: "[가톨릭 청년 단체를 찾아서(9)] 서울대교구 생활성가 밴드 '유빌라떼'"
+    url: https://www.catholictimes.org/article/20240715500083
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2024-07-21
+    author: 박주헌
+    summary: 1998년 결성된 서울대교구 청소년국 생활성가 밴드 유빌라떼가 전통 성가에 새 편곡을 더하며 생활성가 대중화를 추진한다는 인터뷰.
+    tags: [생활성가, 청년밴드, 유빌라떼, 서울대교구]
+    verified: true
+
+  - title: "[우리 이웃 이야기] 수원가톨릭청년합창단 우재훈 단장"
+    url: https://www.catholictimes.org/article/20240805500152
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2024-08-11
+    author: 박효주
+    summary: 수원가톨릭청년합창단 우재훈 단장이 음정·박자보다 진심과 영적 울림을 추구하는 음악 선교 단체의 비전을 밝힌 인터뷰.
+    tags: [생활성가, 청년합창단, 수원교구, 음악선교]
+    verified: true
+
+  # ---- 가톨릭평화신문 / CPBC (제목·URL 확인, 날짜·기자는 색인 교차확인) ----
+
+  - title: "'생활성가 미사곡' 앨범 낸 이용현 신부"
+    url: https://news.cpbc.co.kr/article/167278
+    source: 가톨릭평화신문
+    source_type: catholic_press
+    date: 2004-01
+    summary: 이용현 신부가 입당송·퇴장송·특송을 망라한 생활성가 미사곡 앨범 '미사'를 발표한 소식. (가톨릭신문 동일 사안 2004-01-18 보도)
+    tags: [생활성가, 이용현, 미사곡, 음반]
+    verified: true
+
+  - title: 제1회 부산교구 생활성가 페스티벌
+    url: https://news.cpbc.co.kr/article/194363
+    source: 가톨릭평화신문
+    source_type: catholic_press
+    date: 2004-03-24
+    summary: 부산교구 주최 제1회 생활성가 페스티벌에 부산 지역 9개 팀이 참가해 신자들과 함께 찬양한 행사 보도.
+    tags: [생활성가, 교구 행사, 페스티벌, 부산교구]
+    verified: true
+
+  - title: "'The Present'의 첫 음반"
+    url: https://news.cpbc.co.kr/article/166416
+    source: 가톨릭평화신문
+    source_type: catholic_press
+    date: 2005-10-19
+    summary: 이용현 신부가 이끄는 생활성가 그룹 'The Present'의 첫 음반 발매 소개.
+    tags: [생활성가, 음반, 그룹, 이용현]
+    verified: true
+
+  - title: "[특별기고] 생활성가? CCM? '현대성가'라고 부르자"
+    url: https://news.cpbc.co.kr/article/406707
+    source: 가톨릭평화신문
+    source_type: catholic_press
+    date: 2012-02-29
+    summary: 제2차 바티칸 공의회 전례개혁 이후 통기타 포크 성가와 CCM의 역사를 짚으며 '현대성가' 명칭을 제안한 특별기고.
+    tags: [생활성가, CCM, 현대성가, 평론, 특별기고]
+    verified: true
+
+  - title: 제15회 PBC 창작생활성가제 — 창작생활성가로 신앙에 흥을 더하다
+    url: http://www.cpbc.co.kr/CMS/newspaper/view_body.php?cid=600489&path=201510
+    source: 가톨릭평화신문
+    source_type: catholic_press
+    date: 2015-10
+    summary: 서강대 메리홀에서 열린 제15회 PBC 창작생활성가제. 전국 7개 교구 10개 팀이 참가.
+    tags: [CPBC 창작성가제, 행사]
+    verified: true
+
+  - title: 돈과 명예 대신 소통과 복음 위해 노래 불러요
+    url: https://news.cpbc.co.kr/article/712043
+    source: 가톨릭평화신문
+    source_type: catholic_press
+    date: 2018-02-21
+    summary: 한국 교회 생활성가 장르의 개척자로 꼽히는 가수를 인터뷰한 인물 기사.
+    tags: [생활성가, 인터뷰, 작곡가]
+    verified: true
+
+  - title: "[3040 예술인] (26) 박하얀 에우세비아 (작곡가 겸 생활성가 가수)"
+    url: https://news.cpbc.co.kr/article/715442
+    source: 가톨릭평화신문
+    source_type: catholic_press
+    date: 2018-03-28
+    summary: 제8회 PBC 창작생활성가제 참가 경력의 작곡가 겸 생활성가 가수 박하얀(에우세비아) 인터뷰.
+    tags: [생활성가, 인터뷰, 작곡가, 박하얀]
+    verified: true
+
+  - title: "'칵테일 사랑' 부른 신윤미씨, 생활성가의 길 걷다"
+    url: https://news.cpbc.co.kr/article/742455
+    source: 가톨릭평화신문
+    source_type: catholic_press
+    date: 2019-01-12
+    author: 백슬기
+    summary: 대중가수 신윤미가 받은 재능에 감사하며 성가를 쓰기 시작해 생활성가의 길로 들어선 과정을 소개.
+    tags: [생활성가, 인터뷰, 신윤미, 마로니에]
+    verified: true
+
+  - title: "[문화 확대경] (9) 생활성가 가수 데뷔한 마로니에 신윤미(안젤라)"
+    url: https://news.cpbc.co.kr/article/745657
+    source: 가톨릭평화신문
+    source_type: catholic_press
+    date: 2019-02
+    author: 이힘
+    summary: "'칵테일 사랑'으로 알려진 마로니에 보컬 신윤미가 생활성가 가수로 데뷔한 행보를 다룬 문화 기사."
+    tags: [생활성가, 인터뷰, 신윤미, 마로니에]
+    verified: true
+
+  - title: 생활성가·힙합·합창 선율에 녹아든 청년들의 신앙 열정 뿜뿜
+    url: https://news.cpbc.co.kr/article/835503
+    source: 가톨릭평화신문
+    source_type: catholic_press
+    date: 2023-09-27
+    summary: "'나는 가톨릭 청년이다' 연재 — 생활성가 찬양크루 등 다양한 장르로 신앙을 표현하는 청년들의 찬양 활동을 조명."
+    tags: [생활성가, 청년, 힙합, 합창, 찬양사도]
+    verified: true
+
+  - title: 찬양 사도들의 열창에 분위기 후끈… 노래 드리는 찬미의 기쁨 나눠
+    url: https://news.cpbc.co.kr/article/836380
+    source: 가톨릭평화신문
+    source_type: catholic_press
+    date: 2022-11-30
+    author: 김정아
+    summary: 제21회 CPBC 창작성가제 본선·시상식 보도로 영예의 대상은 '주하리랑'에게 돌아갔다.
+    tags: [CPBC 창작성가제, 행사, 제21회, 대상]
+    verified: true
+
   - title: cpbc 창작성가제 참여자는 6·7월 접수
     url: https://news.cpbc.co.kr/article/1109823
     source: 가톨릭평화신문
     source_type: catholic_press
     summary: CPBC 창작성가제 참가자 접수 기간(6·7월)을 안내하는 공지성 기사.
     tags: [CPBC 창작성가제, 공지]
+    verified: true
 
-  # ---------- 일반 언론 (general_press) ----------
-  # 현재 시드 없음. WebSearch에서 일반지(연합뉴스·KBS·중앙일보 등)의 생활성가 직접
-  # 기사를 확보하지 못함. 사용자가 읽은 기사 URL을 주면 메타데이터를 추출해 추가 예정.
+  # ============================================================
+  # 일반 언론 (general_press)
+  # ============================================================
+  # 현재 시드 없음. 4개 분야 fan-out 검색에서도 연합뉴스·KBS·중앙·한겨레 등
+  # 일반지의 생활성가 '직접' 기사를 확인하지 못함 — 이 주제는 사실상 가톨릭
+  # 전문 매체에 집중되어 있음. 사용자가 읽은 일반지 기사 URL을 주면 추가 예정.
 
-  # ---------- 회지·웹진·블로그 (webzine_blog) ----------
+  # ============================================================
+  # 회지·웹진·블로그 (webzine_blog)
+  # ============================================================
 
   - title: 가톨릭찬양사도협회 공식 페이스북 (@KACMA2017)
     url: https://www.facebook.com/KACMA2017/
     source: 가톨릭찬양사도협회
     source_type: webzine_blog
-    summary: 협회 소식·행사·찬양 사도 활동을 게시하는 공식 SNS 채널. 한글 정식명은 '가톨릭찬양사도협회', 영어명 Contemporary Catholic Music Ministry Association of Korea.
+    summary: 협회 소식·행사·찬양 사도 활동을 게시하는 공식 SNS 채널. 한글 정식명 '가톨릭찬양사도협회', 영어명 Contemporary Catholic Music Ministry Association of Korea.
     tags: [찬양사도, 협회, 공식채널]
     verified: true
     note: 단체 공식 채널(기사가 아닌 페이지). 페이스북은 로그인 월로 본문 크롤이 제한됨.
+
+  - title: "'생활성가인은 가수 아닌 찬양사도'"
+    url: http://www.catholicnews.co.kr/news/articleView.html?idxno=16034
+    source: 가톨릭뉴스 지금여기
+    source_type: webzine_blog
+    date: 2016-01-28
+    author: 배선영
+    summary: 가톨릭 생활성가 찬양사도협회 이형진 회장이 생활성가 음악인은 단순한 가수가 아니라 예수의 삶을 보여주는 찬양사도여야 한다고 강조한 인터뷰.
+    tags: [찬양사도, 생활성가, 이형진, 협회]
+    verified: true
 
   - title: "'생활성가, 노래와 음악의 옷을 입은 복음'"
     url: https://www.catholicnews.co.kr/news/articleView.html?idxno=4428
@@ -186,7 +590,9 @@ items:
     summary: 가톨릭 생활성가 명곡 추천 큐레이션 시리즈 3편.
     tags: [생활성가, 큐레이션, 추천]
 
-  # ---------- 학술·평론 (academic) ----------
+  # ============================================================
+  # 학술·평론 (academic)
+  # ============================================================
 
   - title: 제1회 생활성가포럼 — '우리시대 생활성가를 말한다'
     source: 가톨릭대 교회음악대학원 · CPBC·가톨릭평화신문 공동 주최
@@ -196,5 +602,24 @@ items:
     tags: [생활성가, 포럼, 학술, 가톨릭대]
     note: >-
       행사 개최(2010-11-26)는 복수 출처로 확인되나 보도 기사 원문 URL은 미확정.
-      초기 시드에서 2002년 '가톨릭생활성가란' 기사 URL을 잘못 붙였던 것을 제거함.
       정확한 보도 URL 확보 시 url 필드 추가 요망.
+
+  - title: 한국 천주교 장례예식서를 통해 본 장례문화와 연도(煉禱)의 노래문화
+    url: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001250063
+    source: 한국음악사학보 제40호
+    source_type: academic
+    date: 2008
+    author: 주은경
+    summary: 1864년 『천주성교공과』부터 2003년 『상장예식』까지 연도(위령기도)의 악보화 과정을 다룬 전례음악 토착화 연구. (생활성가가 아닌 전례음악 일반 학술자료)
+    tags: [전례음악, 연도, 토착화, 논문]
+    verified: true
+
+  - title: 19세기 중반부터 20세기 초반의 가톨릭 성가를 통한 한국의 서양음악 수용
+    url: https://www.earticle.net/Article/A441167
+    source: 음악응용연구 제15집 (한국음악응용학회)
+    source_type: academic
+    date: 2023
+    author: 이지영
+    summary: 가톨릭 성가 교육을 통한 한국의 서양음악 수용 과정을 중국·일본과 비교 분석한 음악사 논문. (생활성가가 아닌 가톨릭 성가 음악사)
+    tags: [가톨릭성가, 음악사, 서양음악수용, 논문]
+    verified: true
