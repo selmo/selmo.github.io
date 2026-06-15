@@ -4,7 +4,7 @@
 
 ## 찬양사도 협회 / 협의회
 
-### [가톨릭찬양사도협회 (CMAK)](https://cafe.naver.com/kccmkccm)
+### [가톨릭찬양사도협회](https://cafe.naver.com/kccmkccm)
 **Contemporary Catholic Music Ministry Association of Korea**
 
 한국 가톨릭 교회의 생활성가 찬양 사도들의 공식 연합체입니다.
@@ -14,7 +14,8 @@
     *   창작성가제 지원 및 협력
     *   생활성가 역사 기록 및 아카이브 구축
     *   각 교구 찬양사도협의회 간의 네트워크 역할
-*   **참고할 점**: 공개 웹 검색으로는 세부 운영 자료 확인이 제한적이므로, 실제 활동 현황은 협회 공지와 교구 네트워크 안내를 함께 확인하는 편이 좋습니다.
+*   **공식 채널**: [네이버 카페](https://cafe.naver.com/kccmkccm) · [페이스북 @KACMA2017](https://www.facebook.com/KACMA2017/)
+*   **참고할 점**: 공개 웹 검색으로는 세부 운영 자료 확인이 제한적이므로, 실제 활동 현황은 위 공식 채널과 교구 네트워크 안내를 함께 확인하는 편이 좋습니다. (영어 약어는 자료마다 다르게 표기되며 — 공식 페이스북 핸들은 `KACMA`, 일부 문서는 `C2M2AK`/`KCMMA` — 본 사이트는 한글 정식명을 기준으로 표기합니다.)
 *   **공개 참고 자료**: [창립 18주년 기념 포럼 기사](https://m.catholic.or.kr/web/news/?flag=6&seq=206379), [청소년·청년을 위한 찬양콘서트 기사](https://photo.catholic.or.kr/bbs/newsView.asp?id=187959)
 
 ### [수원교구 찬양사도협의회](https://cafe.naver.com/suwonccm)

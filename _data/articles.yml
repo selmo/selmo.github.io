@@ -142,6 +142,15 @@ items:
 
   # ---------- 회지·웹진·블로그 (webzine_blog) ----------
 
+  - title: 가톨릭찬양사도협회 공식 페이스북 (@KACMA2017)
+    url: https://www.facebook.com/KACMA2017/
+    source: 가톨릭찬양사도협회
+    source_type: webzine_blog
+    summary: 협회 소식·행사·찬양 사도 활동을 게시하는 공식 SNS 채널. 한글 정식명은 '가톨릭찬양사도협회', 영어명 Contemporary Catholic Music Ministry Association of Korea.
+    tags: [찬양사도, 협회, 공식채널]
+    verified: true
+    note: 단체 공식 채널(기사가 아닌 페이지). 페이스북은 로그인 월로 본문 크롤이 제한됨.
+
   - title: "'생활성가, 노래와 음악의 옷을 입은 복음'"
     url: https://www.catholicnews.co.kr/news/articleView.html?idxno=4428
     source: 가톨릭뉴스 지금여기
