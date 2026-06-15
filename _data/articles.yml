@@ -1,0 +1,167 @@
+# 생활성가 / 가톨릭 CCM / 찬양사도 관련 기사 모음
+#
+# Schema:
+#   - title:        기사 제목
+#     url:          링크
+#     source:       매체명 (예: 가톨릭신문, 평화신문, CPBC, 연합뉴스, 조선일보, 가톨릭평론, RISS)
+#     source_type:  catholic_press | general_press | webzine_blog | academic
+#     date:         발행일 (YYYY-MM-DD 또는 YYYY-MM 또는 YYYY)
+#     author:       기자/필자 (선택)
+#     summary:      한두 문장 요약 (선택)
+#     tags:         주제 태그 배열 (선택)
+#
+# 분류 가이드:
+#   catholic_press : 가톨릭신문, 가톨릭평화신문, CPBC, 굿뉴스, 교구·수도회 공식 매체
+#   general_press  : 연합뉴스, 조선일보, 한겨레, KBS 등 일반 매체
+#   webzine_blog   : 가톨릭 웹진(예: 가톨릭뉴스 지금여기), 본당·교구 회지, 음악PD/블로그, 단체 공식 사이트
+#   academic       : 학술지, 학위논문, 평론지(가톨릭평론 등), 단행본 서평
+#
+# ⚠️ 초기 시드는 WebSearch 결과를 바탕으로 추가되었습니다. 일부 기사의 날짜·요약은
+# URL 패턴(YYYYMMDD…)이나 검색 스니펫에서 추정한 값으로, 본문 확인 후 보정해 주세요.
+
+items:
+  # ---------- 가톨릭 언론 (catholic_press) ----------
+
+  - title: "'가톨릭생활성가'란"
+    url: https://www.catholictimes.org/article/200201270009929
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2002-01-27
+    summary: 한국 천주교에서 통용되는 '생활성가'의 개념과 범위, 개신교 CCM과의 관계를 정리한 기사.
+    tags: [생활성가, 정의, 개관]
+
+  - title: 청소년·청년 위한 올바른 성가 구분 시급
+    url: https://www.catholictimes.org/article/200306080073877
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2003-06-08
+    summary: 청소년·청년 미사에서 사용되는 성가의 전례적 적합성과 일반 워십·CCM과의 구분 필요성을 다룬 기획기사.
+    tags: [청년, 전례, 논의]
+
+  - title: 서울 본당청년사목부, 제3회 가톨릭 청년 성가 경연대회
+    url: https://www.catholictimes.org/article/200411070108408
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2004-11-07
+    summary: 서울대교구 본당청년사목부가 주최한 청년 성가 경연대회 행사 보도.
+    tags: [청년, 경연대회, 서울대교구]
+
+  - title: 1000회 공연 앞둔 생활성가그룹 '이노주사'
+    url: https://www.catholictimes.org/article/200709160174014
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2007-09-16
+    summary: 본당 순회 공연을 이어 온 생활성가 그룹 '이노주사'의 1000회 공연을 앞두고 활동을 정리한 기사.
+    tags: [생활성가, 그룹, 이노주사, 공연]
+
+  - title: 내 손 안에 생활성가 (1) 주님 제 소리를 들으소서 — 생활성가 그룹 OnE
+    url: https://www.catholictimes.org/article/201206120245934
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2012-06-12
+    summary: 생활성가 그룹 OnE의 활동과 작곡가 최태형 안셀모의 인터뷰. '생활성가 다시 듣기' 연재 1회.
+    tags: [생활성가, OnE, 최태형, 인터뷰]
+
+  - title: 「생활성가 찬미회」 — 성가의 대중화에 앞장
+    url: https://www.catholictimes.org/article/201803160253349
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2018-03-16
+    summary: 본당 단위 생활성가 보급을 목표로 출범한 '생활성가 찬미회'의 활동 소개.
+    tags: [생활성가, 단체, 찬미회]
+
+  - title: "[생활성가의 기쁨] 이형진 (상)"
+    url: https://www.catholictimes.org/article/201809040271536
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2018-09-04
+    summary: 작곡가 이형진 가브리엘의 생활성가 작곡 여정과 신앙 체험을 다룬 인터뷰 시리즈 1편.
+    tags: [생활성가, 이형진, 인터뷰, 작곡가]
+
+  - title: 가톨릭 청년 창작생활성가 그룹 '위로 프로젝트'
+    url: https://www.catholictimes.org/article/202012210036079
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2020-12-21
+    summary: 클래시컬 크로스오버 그룹 'Layers' 멤버 강대명 바오로가 주축이 된 청년 창작생활성가 프로젝트 소개.
+    tags: [생활성가, 청년, 위로 프로젝트, 강대명]
+
+  - title: "[문화단신] 생활성가 찬미회 「평화의 노래」 출반"
+    url: https://www.catholictimes.org/article/202011250004854
+    source: 가톨릭신문
+    source_type: catholic_press
+    date: 2020-11-25
+    summary: 생활성가 찬미회의 신보 「평화의 노래」 발매 소식.
+    tags: [생활성가, 음반, 찬미회]
+
+  - title: 김선호 신부, 생활성가 「사랑의 늘푸름」 펴내
+    url: https://m.catholictimes.org/238734
+    source: 가톨릭신문
+    source_type: catholic_press
+    summary: 김선호 신부의 생활성가 곡집 「사랑의 늘푸름」 출간 소식. 누구나 쉽게 따라 부를 수 있는 곡들로 구성.
+    tags: [생활성가, 김선호, 곡집]
+
+  - title: 제15회 PBC 창작생활성가제 — 창작생활성가로 신앙에 흥을 더하다
+    url: http://www.cpbc.co.kr/CMS/newspaper/view_body.php?cid=600489&path=201510
+    source: 가톨릭평화신문
+    source_type: catholic_press
+    date: 2015-10
+    summary: 서강대 메리홀에서 열린 제15회 PBC 창작생활성가제. 전국 7개 교구 10개 팀이 참가.
+    tags: [CPBC 창작성가제, 행사]
+
+  - title: cpbc 창작성가제 참여자는 6·7월 접수
+    url: https://news.cpbc.co.kr/article/1109823
+    source: 가톨릭평화신문
+    source_type: catholic_press
+    summary: CPBC 창작성가제 참가자 접수 안내 기사.
+    tags: [CPBC 창작성가제, 공지]
+
+  # ---------- 일반 언론 (general_press) ----------
+  # (현재 시드 없음 — 사용자 보강 필요)
+
+  # ---------- 회지·웹진·블로그 (webzine_blog) ----------
+
+  - title: "'생활성가, 노래와 음악의 옷을 입은 복음'"
+    url: https://www.catholicnews.co.kr/news/articleView.html?idxno=4428
+    source: 가톨릭뉴스 지금여기
+    source_type: webzine_blog
+    summary: 생활성가를 '복음을 입은 노래'로 규정하며 그 신학적·사목적 의의를 짚은 칼럼.
+    tags: [생활성가, 평론, 신학]
+
+  - title: "[생활성가 토론] 생활성가 작법, 그리고 음악의 장르"
+    url: https://home.catholic.or.kr/pdsm/bbs_view.asp?num=131&id=12196&SORT=C&menu=4807
+    source: 가톨릭 굿뉴스 자료실
+    source_type: webzine_blog
+    summary: 생활성가의 작곡 기법과 다양한 대중음악 장르 차용을 둘러싼 토론 자료.
+    tags: [생활성가, 작법, 장르]
+
+  - title: 조금 특이한 천주교 CCM(생활성가) 모음 / 갓홀릭
+    url: https://music.bugs.co.kr/musicpd/albumview/45094?wl_ref=list_mab_03
+    source: 벅스 뮤직PD (갓홀릭)
+    source_type: webzine_blog
+    summary: 음악PD '갓홀릭'이 큐레이션한 천주교 CCM·생활성가 추천 모음.
+    tags: [생활성가, 큐레이션, 추천]
+
+  - title: 가톨릭 생활성가 명곡들 / 갓홀릭
+    url: https://music.bugs.co.kr/musicpd/albumview/46266
+    source: 벅스 뮤직PD (갓홀릭)
+    source_type: webzine_blog
+    summary: 가톨릭 생활성가 대표곡 추천 큐레이션.
+    tags: [생활성가, 큐레이션, 추천]
+
+  - title: 가톨릭 생활성가 명곡들 #3 / 갓홀릭
+    url: https://music.bugs.co.kr/musicpd/albumview/50665
+    source: 벅스 뮤직PD (갓홀릭)
+    source_type: webzine_blog
+    summary: 가톨릭 생활성가 명곡 추천 큐레이션 시리즈 3편.
+    tags: [생활성가, 큐레이션, 추천]
+
+  # ---------- 학술·평론 (academic) ----------
+
+  - title: 제1회 생활성가포럼 — '우리시대 생활성가를 말한다'
+    url: https://www.catholictimes.org/article/200201270009929
+    source: 가톨릭대 교회음악대학원·CPBC 공동 주최 / 가톨릭신문 보도
+    source_type: academic
+    date: 2010-11-26
+    summary: 중림동 가톨릭대 교회음악대학원 최양업홀에서 열린 첫 학술 포럼. 한국 가톨릭 생활성가의 역사와 위상, 사목적 가능성을 검토.
+    tags: [생활성가, 포럼, 학술, 가톨릭대]

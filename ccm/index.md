@@ -53,6 +53,7 @@
 - **[아티스트 (Artists)](artists/index.md)**: 자크 베르티에, 젠 로쏘, 시드니 카터 등
 - **[성가집 비교 (Songbooks)](Songbooks.md)**: 어린이·청소년·청년 성가집 및 해외 미사 경본 비교
 - **[크로스 레퍼런스 (Cross Reference)](CrossReference.md)**: 작곡가·수록곡·성가집 간 관계 그래프
+- **[기사 모음 (Articles)](Articles.md)**: 생활성가·가톨릭 CCM·찬양사도 관련 기사·평론·논문
 
 ---
 
