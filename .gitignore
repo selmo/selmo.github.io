@@ -6,3 +6,7 @@ refs/
 
 # AI instructions
 GEMINI.md
+
+# Local-only article archive (third-party press full text — NOT for publication)
+# Repo is PUBLIC, so this stays out of git history entirely.
+article-archive/
