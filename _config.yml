@@ -13,12 +13,6 @@ defaults:
       path: ""
     values:
       layout: default
-  # 다운로드 악보 PDF는 검색 색인(sitemap)에서 제외
-  - scope:
-      path: "resources/OnE-Scores"
-      type: static_files
-    values:
-      sitemap: false
 
 exclude:
   - _archive/
@@ -36,8 +30,10 @@ exclude:
 # Plugins available on GitHub Pages
 plugins:
   - jekyll-relative-links
-  - jekyll-sitemap
   - jekyll-seo-tag
+# jekyll-sitemap 은 사용하지 않는다.
+# 플러그인이 defaults 의 static_files sitemap:false 를 무시해 악보 PDF가 색인되었다.
+# 대신 루트의 sitemap.xml 템플릿에서 HTML 페이지만 직접 담는다.
 
 # Process .md links as if they were rendered HTML links
 relative_links:

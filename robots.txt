@@ -1,0 +1,9 @@
+---
+layout: null
+sitemap: false
+---
+User-agent: *
+Disallow: /resources/OnE-Scores.html
+Disallow: /resources/OnE-Scores/
+
+Sitemap: {{ '/sitemap.xml' | absolute_url }}
