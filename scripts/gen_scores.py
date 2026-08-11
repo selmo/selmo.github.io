@@ -31,6 +31,33 @@ MASS_PART_RULES = [
     (r"아멘", "amen"),
 ]
 
+# Missa/ 아래 하위 폴더명 -> mass_part (파일명 키워드보다 우선)
+# 새 폴더를 만들면 여기에 한 줄 추가하면 된다. 미등록 폴더는 파일명 규칙으로 넘어간다.
+FOLDER_PART_MAP = {
+    "자비송": "kyrie",
+    "대영광송": "gloria",
+    "화답송": "responsorial_psalm",
+    "복음환호송": "gospel_acclamation",
+    "보편지향기도": "prayer_of_faithful",
+    "거룩하시도다": "sanctus",
+    "신앙의 신비여": "mystery",
+    "신앙의신비여": "mystery",
+    "아멘": "amen",
+    "주님의 기도": "lords_prayer",
+    "주님의기도": "lords_prayer",
+    "하느님의 어린양": "agnus",
+    "하느님의어린양": "agnus",
+    "주님께 나라와": "doxology",
+    "주님께나라와": "doxology",
+    "마침영광송": "doxology",
+    "영광송": "doxology",
+    "성호경": "sign_of_cross",
+    "사도신경": "creed",
+    "평화의 인사": "peace",
+    "평화의인사": "peace",
+    "거양성체": "elevation",
+}
+
 # --- 하드코딩 보정 (basename NFC -> {title, composer, mass_part, note, yahure}) ---
 # 자동 추출로 부정확한 케이스만. key 는 NFC basename.
 CORRECTIONS = {
@@ -133,13 +160,36 @@ def category_of(rel):
     if "/CCM/" in rel: return "ccm"
     return "root"
 
+def subdir_of(rel):
+    """카테고리 폴더(Missa/OnE/CCM) 바로 아래의 하위 폴더명. 없으면 "".
+
+    resources/OnE-Scores/Missa/화답송/foo.pdf -> "화답송"
+    resources/OnE-Scores/Missa/foo.pdf        -> ""
+    """
+    parts = rel.replace(os.sep, "/").split("/")
+    try:
+        i = parts.index("OnE-Scores")
+    except ValueError:
+        return ""
+    rest = parts[i + 1:-1]          # 카테고리 폴더부터 파일 직전까지
+    return rest[1] if len(rest) >= 2 else ""
+
 def type_of(bn):
     if bn.startswith("[Score]"): return "score"
     if bn.startswith("[ChordChart]"): return "chordchart"
     if bn.startswith("[Chorus]"): return "chorus"
     return "score"
 
-def mass_part_of(nfc_bn):
+def mass_part_of(nfc_bn, subdir=""):
+    """미사 파트 판정. 폴더명(subdir)이 파트를 지정하면 그것이 우선.
+
+    Missa/ 아래 하위 폴더명은 작성자가 명시한 분류이므로 파일명 키워드보다 신뢰도가 높다
+    (예: 화답송/[Score] 내 영혼아 주님을.pdf — 파일명에 파트 키워드가 없음).
+    """
+    if subdir:
+        part = FOLDER_PART_MAP.get(unicodedata.normalize("NFC", subdir).strip())
+        if part:
+            return part
     for pat, part in MASS_PART_RULES:
         if re.search(pat, nfc_bn):
             return part
@@ -235,12 +285,15 @@ for root, dirs, files in os.walk(ROOT):
         nfc_bn = unicodedata.normalize("NFC", bn)
         cat = category_of(rel)
         typ = type_of(bn)
+        # Missa/ 아래 하위 폴더명 (예: "화답송") — 파트 분류의 1순위 근거
+        subdir = subdir_of(rel)
+        folder_part = FOLDER_PART_MAP.get(unicodedata.normalize("NFC", subdir)) if subdir else None
         # 기본 자동 추출
         title = clean_title(bn)
         composer = extract_composer(bn)
         yahure = extract_yahure(bn)
         key = extract_key(bn)
-        mass_part = mass_part_of(nfc_bn) if cat == "missa" else ""
+        mass_part = mass_part_of(nfc_bn, subdir) if cat == "missa" else ""
         note = extract_note(bn)
         # 하드코딩 보정 (키 = 접두사 제거한 NFC basename)
         corr = CORRECTIONS.get(strip_prefix(nfc_bn))
@@ -250,6 +303,9 @@ for root, dirs, files in os.walk(ROOT):
             mass_part = corr.get("mass_part", mass_part)
             if "yahure" in corr: yahure = corr["yahure"]
             if "note" in corr: note = corr["note"]
+        # 폴더 분류는 파일명 규칙·CORRECTIONS 어느 쪽보다 우선 (작성자가 직접 지정한 것)
+        if folder_part:
+            mass_part = folder_part
         # 그룹: 같은 카테고리 내 같은 곡(제목+작곡가) -> 같은 group
         group_key = re.sub(r"\s+", "", title)
         group = f"{cat}-{group_key}-{composer}"

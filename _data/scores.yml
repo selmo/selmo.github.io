@@ -55,10 +55,10 @@ items:
     note: ""
     group: "missa-대영광송-최태형"
     label: "Score"
-  - path: "resources/OnE-Scores/Missa/[Score][미사곡] 주님저희에게자비를.pdf"
-    url: "/resources/OnE-Scores/Missa/%5BScore%5D%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EC%A3%BC%EB%8B%98%EC%A0%80%ED%9D%AC%EC%97%90%EA%B2%8C%EC%9E%90%EB%B9%84%EB%A5%BC.pdf"
-    title: "주님 저희에게 자비를"
-    composer: ""
+  - path: "resources/OnE-Scores/Missa/화답송/[Score] 내 영혼아 주님을.pdf"
+    url: "/resources/OnE-Scores/Missa/%E1%84%92%E1%85%AA%E1%84%83%E1%85%A1%E1%86%B8%E1%84%89%E1%85%A9%E1%86%BC/%5BScore%5D%20%EB%82%B4%20%EC%98%81%ED%98%BC%EC%95%84%20%EC%A3%BC%EB%8B%98%EC%9D%84.pdf"
+    title: "내 영혼아 주님을"
+    composer: "최태형"
     category: missa
     mass_part: "responsorial_psalm"
     type: score
@@ -66,10 +66,10 @@ items:
     haneulbada: null
     key: ""
     note: ""
-    group: "missa-주님저희에게자비를-"
+    group: "missa-내영혼아주님을-최태형"
     label: "Score"
-  - path: "resources/OnE-Scores/Missa/[Score] 화답송 - 주님저희에게자비를.pdf"
-    url: "/resources/OnE-Scores/Missa/%5BScore%5D%20%ED%99%94%EB%8B%B5%EC%86%A1%20-%20%EC%A3%BC%EB%8B%98%EC%A0%80%ED%9D%AC%EC%97%90%EA%B2%8C%EC%9E%90%EB%B9%84%EB%A5%BC.pdf"
+  - path: "resources/OnE-Scores/Missa/화답송/[Score] 화답송 - 주님저희에게자비를.pdf"
+    url: "/resources/OnE-Scores/Missa/%E1%84%92%E1%85%AA%E1%84%83%E1%85%A1%E1%86%B8%E1%84%89%E1%85%A9%E1%86%BC/%5BScore%5D%20%ED%99%94%EB%8B%B5%EC%86%A1%20-%20%EC%A3%BC%EB%8B%98%EC%A0%80%ED%9D%AC%EC%97%90%EA%B2%8C%EC%9E%90%EB%B9%84%EB%A5%BC.pdf"
     title: "화답송 '주님 저희에게 자비를'"
     composer: ""
     category: missa
@@ -94,8 +94,8 @@ items:
     note: ""
     group: "missa-복음환호송-현정수"
     label: "Score"
-  - path: "resources/OnE-Scores/Missa/[미사곡] 복음환호송 + 보편지향기도.pdf"
-    url: "/resources/OnE-Scores/Missa/%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EB%B3%B5%EC%9D%8C%ED%99%98%ED%98%B8%EC%86%A1%20%2B%20%EB%B3%B4%ED%8E%B8%EC%A7%80%ED%96%A5%EA%B8%B0%EB%8F%84.pdf"
+  - path: "resources/OnE-Scores/Missa/복음환호송/[미사곡] 복음환호송 + 보편지향기도.pdf"
+    url: "/resources/OnE-Scores/Missa/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%B7%E1%84%92%E1%85%AA%E1%86%AB%E1%84%92%E1%85%A9%E1%84%89%E1%85%A9%E1%86%BC/%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EB%B3%B5%EC%9D%8C%ED%99%98%ED%98%B8%EC%86%A1%20%2B%20%EB%B3%B4%ED%8E%B8%EC%A7%80%ED%96%A5%EA%B8%B0%EB%8F%84.pdf"
     title: "복음환호송 + 보편지향기도"
     composer: ""
     category: missa
@@ -107,8 +107,8 @@ items:
     note: "보편지향기도 포함"
     group: "missa-복음환호송+보편지향기도-"
     label: "Score · 보편지향기도 포함"
-  - path: "resources/OnE-Scores/Missa/복음환호송(9월18일).pdf"
-    url: "/resources/OnE-Scores/Missa/%EB%B3%B5%EC%9D%8C%ED%99%98%ED%98%B8%EC%86%A1%289%EC%9B%9418%EC%9D%BC%29.pdf"
+  - path: "resources/OnE-Scores/Missa/복음환호송/복음환호송(9월18일).pdf"
+    url: "/resources/OnE-Scores/Missa/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%B7%E1%84%92%E1%85%AA%E1%86%AB%E1%84%92%E1%85%A9%E1%84%89%E1%85%A9%E1%86%BC/%EB%B3%B5%EC%9D%8C%ED%99%98%ED%98%B8%EC%86%A1%289%EC%9B%9418%EC%9D%BC%29.pdf"
     title: "복음환호송"
     composer: ""
     category: missa
@@ -120,8 +120,8 @@ items:
     note: "9월 18일"
     group: "missa-복음환호송-"
     label: "Score · 9월 18일"
-  - path: "resources/OnE-Scores/Missa/복음환호송-20240704.pdf"
-    url: "/resources/OnE-Scores/Missa/%EB%B3%B5%EC%9D%8C%ED%99%98%ED%98%B8%EC%86%A1-20240704.pdf"
+  - path: "resources/OnE-Scores/Missa/복음환호송/복음환호송-20240704.pdf"
+    url: "/resources/OnE-Scores/Missa/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%B7%E1%84%92%E1%85%AA%E1%86%AB%E1%84%92%E1%85%A9%E1%84%89%E1%85%A9%E1%86%BC/%EB%B3%B5%EC%9D%8C%ED%99%98%ED%98%B8%EC%86%A1-20240704.pdf"
     title: "복음환호송"
     composer: ""
     category: missa
@@ -133,6 +133,19 @@ items:
     note: "2024-07-04"
     group: "missa-복음환호송-"
     label: "Score · 2024-07-04"
+  - path: "resources/OnE-Scores/Missa/복음환호송/오소서성령님저희마음을가득채우시어저희안에사랑의불이타오르게하소서.pdf"
+    url: "/resources/OnE-Scores/Missa/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%B7%E1%84%92%E1%85%AA%E1%86%AB%E1%84%92%E1%85%A9%E1%84%89%E1%85%A9%E1%86%BC/%EC%98%A4%EC%86%8C%EC%84%9C%EC%84%B1%EB%A0%B9%EB%8B%98%EC%A0%80%ED%9D%AC%EB%A7%88%EC%9D%8C%EC%9D%84%EA%B0%80%EB%93%9D%EC%B1%84%EC%9A%B0%EC%8B%9C%EC%96%B4%EC%A0%80%ED%9D%AC%EC%95%88%EC%97%90%EC%82%AC%EB%9E%91%EC%9D%98%EB%B6%88%EC%9D%B4%ED%83%80%EC%98%A4%EB%A5%B4%EA%B2%8C%ED%95%98%EC%86%8C%EC%84%9C.pdf"
+    title: "오소서 성령님"
+    composer: ""
+    category: missa
+    mass_part: "gospel_acclamation"
+    type: score
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "missa-오소서성령님-"
+    label: "Score"
   - path: "resources/OnE-Scores/Missa/[Score][미사곡] 보편지향기도 (어린이미사).pdf"
     url: "/resources/OnE-Scores/Missa/%5BScore%5D%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EB%B3%B4%ED%8E%B8%EC%A7%80%ED%96%A5%EA%B8%B0%EB%8F%84%20%28%EC%96%B4%EB%A6%B0%EC%9D%B4%EB%AF%B8%EC%82%AC%29.pdf"
     title: "보편지향기도"
@@ -393,19 +406,6 @@ items:
     note: ""
     group: "missa-삼위일체-"
     label: "Score"
-  - path: "resources/OnE-Scores/Missa/오소서성령님저희마음을가득채우시어저희안에사랑의불이타오르게하소서.pdf"
-    url: "/resources/OnE-Scores/Missa/%EC%98%A4%EC%86%8C%EC%84%9C%EC%84%B1%EB%A0%B9%EB%8B%98%EC%A0%80%ED%9D%AC%EB%A7%88%EC%9D%8C%EC%9D%84%EA%B0%80%EB%93%9D%EC%B1%84%EC%9A%B0%EC%8B%9C%EC%96%B4%EC%A0%80%ED%9D%AC%EC%95%88%EC%97%90%EC%82%AC%EB%9E%91%EC%9D%98%EB%B6%88%EC%9D%B4%ED%83%80%EC%98%A4%EB%A5%B4%EA%B2%8C%ED%95%98%EC%86%8C%EC%84%9C.pdf"
-    title: "오소서 성령님"
-    composer: ""
-    category: missa
-    mass_part: "other"
-    type: score
-    yahure: null
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "missa-오소서성령님-"
-    label: "Score"
   - path: "resources/OnE-Scores/OnE/기적.pdf"
     url: "/resources/OnE-Scores/OnE/%EA%B8%B0%EC%A0%81.pdf"
     title: "기적"
@@ -432,19 +432,6 @@ items:
     note: ""
     group: "one-처음과같이-김용휘"
     label: "Score"
-  - path: "resources/OnE-Scores/OnE/처음과 같이.pdf"
-    url: "/resources/OnE-Scores/OnE/%EC%B2%98%EC%9D%8C%EA%B3%BC%20%EA%B0%99%EC%9D%B4.pdf"
-    title: "처음과 같이"
-    composer: "김용휘"
-    category: one
-    mass_part: ""
-    type: score
-    yahure: null
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "one-처음과같이-김용휘"
-    label: "Score 2"
   - path: "resources/OnE-Scores/OnE/[Score] 나의 하루.pdf"
     url: "/resources/OnE-Scores/OnE/%5BScore%5D%20%EB%82%98%EC%9D%98%20%ED%95%98%EB%A3%A8.pdf"
     title: "나의 하루"
@@ -496,19 +483,6 @@ items:
     key: ""
     note: ""
     group: "one-나의기도가이루어질때-최태형"
-    label: "Score"
-  - path: "resources/OnE-Scores/OnE/[Score] 내 영혼아 주님을.pdf"
-    url: "/resources/OnE-Scores/OnE/%5BScore%5D%20%EB%82%B4%20%EC%98%81%ED%98%BC%EC%95%84%20%EC%A3%BC%EB%8B%98%EC%9D%84.pdf"
-    title: "내 영혼아 주님을"
-    composer: "최태형"
-    category: one
-    mass_part: ""
-    type: score
-    yahure: null
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "one-내영혼아주님을-최태형"
     label: "Score"
   - path: "resources/OnE-Scores/OnE/[Score] 봉헌합니다.pdf"
     url: "/resources/OnE-Scores/OnE/%5BScore%5D%20%EB%B4%89%ED%97%8C%ED%95%A9%EB%8B%88%EB%8B%A4.pdf"
@@ -640,19 +614,6 @@ items:
     note: ""
     group: "one-하나되어-최태형"
     label: "Score"
-  - path: "resources/OnE-Scores/OnE/나일어나.pdf"
-    url: "/resources/OnE-Scores/OnE/%EB%82%98%EC%9D%BC%EC%96%B4%EB%82%98.pdf"
-    title: "나 일어나"
-    composer: ""
-    category: one
-    mass_part: ""
-    type: score
-    yahure: null
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "one-나일어나-"
-    label: "Score"
   - path: "resources/OnE-Scores/CCM/The Other Side.pdf"
     url: "/resources/OnE-Scores/CCM/The%20Other%20Side.pdf"
     title: "The Other Side"
@@ -770,6 +731,19 @@ items:
     note: ""
     group: "ccm-나의슬픔을-"
     label: "ChordChart"
+  - path: "resources/OnE-Scores/CCM/나일어나.pdf"
+    url: "/resources/OnE-Scores/CCM/%EB%82%98%EC%9D%BC%EC%96%B4%EB%82%98.pdf"
+    title: "나 일어나"
+    composer: ""
+    category: ccm
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "ccm-나일어나-"
+    label: "Score"
   - path: "resources/OnE-Scores/CCM/[ChordChart] 나 일어나.pdf"
     url: "/resources/OnE-Scores/CCM/%5BChordChart%5D%20%EB%82%98%20%EC%9D%BC%EC%96%B4%EB%82%98.pdf"
     title: "나 일어나"
