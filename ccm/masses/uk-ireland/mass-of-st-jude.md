@@ -1,3 +1,7 @@
+---
+title: "Mass of St. Jude"
+---
+
 # Mass of St. Jude
 
 ![Region](https://img.shields.io/badge/Region-UK_&_Ireland-blue)

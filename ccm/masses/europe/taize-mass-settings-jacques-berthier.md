@@ -1,3 +1,7 @@
+---
+title: "Jacques Berthier - Taizé Mass Settings"
+---
+
 # Jacques Berthier - Taizé Mass Settings
 
 ![Region](https://img.shields.io/badge/Region-Europe_(Taize,_France)-blue)

@@ -1,3 +1,7 @@
+---
+title: "우리는 하나 (We Are One)"
+---
+
 # 우리는 하나 (We Are One)
 
 - **원곡**: The Last Farewell (1971)

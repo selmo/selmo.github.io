@@ -1,3 +1,7 @@
+---
+title: "시드니 카터 (Sydney Carter)"
+---
+
 # 시드니 카터 (Sydney Carter)
 
 **Sydney Bertram Carter** (1915년 5월 6일 – 2004년 3월 13일)

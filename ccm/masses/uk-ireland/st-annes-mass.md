@@ -1,3 +1,7 @@
+---
+title: "St. Anne's Mass"
+---
+
 # St. Anne's Mass
 
 ![Region](https://img.shields.io/badge/Region-UK_&_Ireland-blue)

@@ -1,3 +1,7 @@
+---
+title: "주를 높이기 원합니다 (I Give You My Heart)"
+---
+
 # 주를 높이기 원합니다 (I Give You My Heart)
 
 - **원곡**: I Give You My Heart

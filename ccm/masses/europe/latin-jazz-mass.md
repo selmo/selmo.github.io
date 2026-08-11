@@ -1,3 +1,7 @@
+---
+title: "The Latin Jazz Mass"
+---
+
 # The Latin Jazz Mass
 
 ![Region](https://img.shields.io/badge/Region-Europe_(Germany_Switzerland)-blue)

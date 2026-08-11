@@ -1,3 +1,7 @@
+---
+title: "Catholic Music"
+---
+
 # Catholic Music
 
 가톨릭 전례 음악과 생활성가(CCM), 그리고 관련 교회 문헌과 정보를 다루는 공간입니다.
@@ -61,6 +65,9 @@
 
 ### [리소스 자료실 (Resources)](Resources.md)
 악보 자료(PDF) 및 유용한 웹사이트 링크 모음입니다.
+
+### [OnE 악보 다운로드 (Scores)](../resources/OnE-Scores.md)
+미사곡 · OnE 밴드 · CCM 번역곡 등 `resources/OnE-Scores/`의 PDF 악보를 폴더별로 바로 다운로드합니다.
 
 ### 가톨릭 성가 유튜브 채널
 

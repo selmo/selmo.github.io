@@ -1,3 +1,7 @@
+---
+title: "Messe du Frat 2017"
+---
+
 # Messe du Frat 2017
 
 ![Region](https://img.shields.io/badge/Region-Europe_(France)-blue)

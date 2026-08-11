@@ -1,3 +1,7 @@
+---
+title: "비추소서 (Shine Jesus Shine)"
+---
+
 # 비추소서 (Shine Jesus Shine)
 
 - **원곡**: Shine Jesus Shine

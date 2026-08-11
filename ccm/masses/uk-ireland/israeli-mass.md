@@ -1,3 +1,7 @@
+---
+title: "Israeli Mass"
+---
+
 # Israeli Mass
 
 ![Region](https://img.shields.io/badge/Region-Europe_(UK/Ireland)-blue)

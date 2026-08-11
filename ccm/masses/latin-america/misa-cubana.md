@@ -1,3 +1,7 @@
+---
+title: "Misa Cubana"
+---
+
 # Misa Cubana
 
 ![Region](https://img.shields.io/badge/Region-Latin_America_(Cuba)-blue)

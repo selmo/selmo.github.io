@@ -1,3 +1,7 @@
+---
+title: "나 기뻐하리 (I Will Rejoice)"
+---
+
 # 나 기뻐하리 (I Will Rejoice)
 
 - **원곡**: I Will Rejoice

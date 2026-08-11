@@ -1,3 +1,7 @@
+---
+title: "Tae-Hyoung Choi"
+---
+
 # Tae-Hyoung Choi
 
 ## 🎵 [Catholic Liturgical CCM](ccm/index.md)

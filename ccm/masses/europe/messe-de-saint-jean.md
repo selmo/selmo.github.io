@@ -1,3 +1,7 @@
+---
+title: "Messe de Saint Jean"
+---
+
 # Messe de Saint Jean
 
 ![Region](https://img.shields.io/badge/Region-Europe_(France)-blue)

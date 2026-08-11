@@ -1,0 +1,362 @@
+# 아티스트 메타데이터 — ccm/artists/ 개별 페이지 인덱스용
+#
+# Schema:
+#   - file:        ccm/artists/<file>.md (확장자 제외, null이면 링크 없는 이름만 표시)
+#     name_ko:     한국어 이름
+#     name_en:     영문 이름
+#     category:    korean | mass_composer | representative | taize_focolare | ecumenical | folk
+#     description: 한두 줄 설명 (선택)
+#     works:       대표곡/수록현황 (선택)
+#
+# 카테고리:
+#   korean       : 한국 가톨릭 작곡가
+#   mass_composer: 해외 미사곡(Mass Setting) 작곡가
+#   representative: 대표곡 중심 아티스트
+#   taize_focolare: 떼제 & 포콜라레
+#   ecumenical   : 에큐메니칼 & 현대 워십 (개신교/에큐메니칼)
+#   folk         : 포크 & 기타
+
+items:
+  # ===== 한국 가톨릭 작곡가 (korean) =====
+  - file: KimJeongSik
+    name_ko: 김정식 로제리오
+    name_en: Kim Jeong-sik
+    category: korean
+    description: 한국 생활성가 초기 흐름을 보여 주는 작곡가.
+    works: 자비송, 평화의 노래
+
+  - file: ShinSangOk
+    name_ko: 신상옥 안드레아
+    name_en: Shin Sang-ok
+    category: korean
+    works: 내 발을 씻기신 예수, 주님의 기도, 너는 내 것이라
+
+  - file: LeeHyungJin
+    name_ko: 이형진 가브리엘
+    name_en: Lee Hyung-jin
+    category: korean
+    works: 자비송, 그 이름 예수, 별이 되리라
+
+  - file: KimTaeJin
+    name_ko: 김태진 베난시오
+    name_en: Fr. Kim Tae-jin
+    category: korean
+    works: 베난시오 미사곡, 그리스도 향기 가득한 날이면
+
+  - file: LeeYongHyun
+    name_ko: 이용현 알베르또
+    name_en: Fr. Lee Yong-hyun
+    category: korean
+    works: 알베르또 미사곡, 그 분께로 한 걸음씩
+
+  - file: HyunJeongSu
+    name_ko: 현정수 요한사도
+    name_en: Fr. Hyun Jeong-su
+    category: korean
+    works: 현정수 미사곡, 아버지 뜻대로, 주님을 향하여
+
+  - file: KimJongSung
+    name_ko: 김종성 요한사도
+    name_en: Kim Jong-sung
+    category: korean
+    description: 야훼이레·하늘바다 23곡. 미사 통상문 전 파트. 양대 성가집 공통 작곡가.
+
+  - file: KimYoungGu
+    name_ko: 김영구 요한사도
+    name_en: Kim Young-gu
+    category: korean
+    description: 야훼이레 14곡. 시편 기반 생활성가.
+    works: 야훼는 나의 목자
+
+  - file: SongSiUng
+    name_ko: 송시웅 필립보
+    name_en: Song Si-ung
+    category: korean
+    description: 야훼이레 미사 통상문 9곡. 완전한 미사 세트.
+
+  - file: LeeJongChul
+    name_ko: 이종철
+    name_en: Lee Jong-chul
+    category: korean
+    description: 하늘바다 8곡 + 야훼이레 1곡.
+    works: 하느님 말씀 잘 들었어요
+
+  - file: ShinJiEunLeeJiHye
+    name_ko: 신지은·이지혜
+    name_en: Shin Ji-eun · Lee Ji-hye
+    category: korean
+    description: 하늘바다 13곡. 어린이 미사 전 파트 여성 듀오.
+
+  - file: OhKwangSul
+    name_ko: 오광설
+    name_en: Oh Kwang-sul
+    category: korean
+    description: 하늘바다 5곡. 작곡 및 전례문 가사 정리.
+
+  - file: KimAnna
+    name_ko: 김안나
+    name_en: Kim Anna
+    category: korean
+    description: 하늘바다 5곡. 성호경·거룩하시도다·아멘 등.
+
+  - file: ParkYoonYoung
+    name_ko: 박윤영 헬레나
+    name_en: Park Yoon-young
+    category: korean
+    description: 야훼이레 미사 통상문 6곡.
+
+  - file: HyunDuk
+    name_ko: 현덕 프란치스코
+    name_en: Hyun Duk
+    category: korean
+    description: 야훼이레 5곡.
+    works: 자비송·대영광송·거룩하시도다·하느님의 어린양
+
+  - file: KwonSungIl
+    name_ko: 권성일 미카엘
+    name_en: Kwon Sung-il
+    category: korean
+    description: 야훼이레 5곡.
+    works: 가자 갈릴래아로, 너 나를 사랑하느냐
+
+  - file: KoHyungWon
+    name_ko: 고형원
+    name_en: Ko Hyung-won
+    category: korean
+    description: 야훼이레 9곡.
+    works: 땅끝에서, 부흥, 파송의 노래
+
+  - file: ChoiDukShin
+    name_ko: 최덕신
+    name_en: Choi Duk-shin
+    category: korean
+    description: 야훼이레 9곡.
+    works: 그 이름, 나를 받으옵소서
+
+  - file: StephenHah
+    name_ko: Stephen Hah
+    name_en: Stephen Hah
+    category: korean
+    description: 야훼이레 14곡. 한인 디아스포라 작곡가.
+    works: 그 날에 이르러
+
+  # ===== 미사곡 작곡가 (mass_composer) =====
+  - file: DanSchutte
+    name_ko: 댄 슈테
+    name_en: Dan Schutte
+    category: mass_composer
+    description: St. Louis Jesuits 멤버. Mass of Christ the Savior, Here I Am, Lord.
+
+  - file: MartyHaugen
+    name_ko: 마티 호건
+    name_en: Marty Haugen
+    category: mass_composer
+    description: Mass of Creation. GIA 대표 작곡가.
+
+  - file: BobHurd
+    name_ko: 밥 허드
+    name_en: Bob Hurd
+    category: mass_composer
+    description: Misa del Pueblo Inmigrante, Mass of the Compassionate Christ. 이중언어 전례 음악 선구자.
+
+  - file: KenCanedo
+    name_ko: 켄 카네도
+    name_en: Ken Canedo
+    category: mass_composer
+    description: Mass of Glory. 복음·재즈·블루스 스타일.
+
+  - file: CurtisStephan
+    name_ko: 커티스 스테판
+    name_en: Curtis Stephan
+    category: mass_composer
+    description: Mass of Renewal, Mass of St. Kilian.
+
+  - file: EdBolduc
+    name_ko: 에드 볼덕
+    name_en: Ed Bolduc
+    category: mass_composer
+    description: Mass of St. Ann. Life Teen 네트워크.
+
+  - file: TonyAlonso
+    name_ko: 토니 알론소
+    name_en: Tony Alonso
+    category: mass_composer
+    description: Mass of Joy and Peace. GIA/OCP.
+
+  - file: RickyManalo
+    name_ko: 리키 마날로
+    name_en: Ricky Manalo, CSP
+    category: mass_composer
+    description: Mass of Spirit and Grace. 다문화 전례 음악.
+
+  # ===== 대표곡 중심 아티스트 (representative) =====
+  - file: StLouisJesuits
+    name_ko: 세인트 루이스 예수회
+    name_en: St. Louis Jesuits
+    category: representative
+    description: 미국 가톨릭 성가 갱신 흐름에서 중요한 그룹.
+    works: Here I am, Lord, Be Not Afraid
+
+  - file: MarcoFrisina
+    name_ko: 마르코 프리시나
+    name_en: Marco Frisina
+    category: representative
+    description: 이탈리아의 전례 및 영화 음악 작곡가. 세계청년대회(WYD) 주제가 작곡.
+
+  - file: MattMaher
+    name_ko: 맷 마허
+    name_en: Matt Maher
+    category: representative
+    description: 현대 CCM 씬에서 활동하는 가톨릭 아티스트.
+    works: Lord, I Need You
+
+  - file: JohnMichaelTalbot
+    name_ko: 존 마이클 탈봇
+    name_en: John Michael Talbot
+    category: representative
+    description: 묵상 음악으로 잘 알려진 아티스트.
+    works: Holy Is His Name
+
+  - file: SebastianTemple
+    name_ko: 세바스티안 템플
+    name_en: Sebastian Temple
+    category: representative
+    works: 평화의 기도 (Prayer of St. Francis)
+
+  - file: CesareoGabarain
+    name_ko: 체사레오 가바라인
+    name_en: Cesáreo Gabaráin
+    category: representative
+    works: 주여 나를 받으소서 (Pescador de Hombres)
+
+  - file: CareyLandry
+    name_ko: 카리 랜드리
+    name_en: Carey Landry
+    category: representative
+    works: 이사야 49
+
+  - file: AudreyAssad
+    name_ko: 오드리 아사드
+    name_en: Audrey Assad
+    category: representative
+    works: Restless
+
+  # ===== 떼제 & 포콜라레 (taize_focolare) =====
+  - file: JacquesBerthier
+    name_ko: 자크 베르티에 & 떼제
+    name_en: Jacques Berthier & Taizé
+    category: taize_focolare
+    description: 프랑스 떼제 공동체의 묵상 노래.
+    works: 거룩 거룩, 두려워 말라
+
+  - file: GenRossoVerde
+    name_ko: 젠 로쏘 & 젠 베르데
+    name_en: Gen Rosso & Gen Verde
+    category: taize_focolare
+    description: 포콜라레 운동의 국제 공연 단체.
+    works: 예수님 우리의 미사, 하느님은 사랑이니
+
+  # ===== 에큐메니칼 & 현대 워십 (ecumenical) =====
+  - file: ChrisBowater
+    name_ko: 크리스 보워터
+    name_en: Chris Bowater
+    category: ecumenical
+    works: 거룩하신 성령이여
+
+  - file: DavidFellingham
+    name_ko: 데이비드 펠링햄
+    name_en: David Fellingham
+    category: ecumenical
+    works: 기뻐하며 승리의 노래
+
+  - file: GeoffBullock
+    name_ko: 제프 불록
+    name_en: Geoff Bullock
+    category: ecumenical
+    works: 주께 가오니
+
+  - file: BobFitts
+    name_ko: 밥 피츠
+    name_en: Bob Fitts
+    category: ecumenical
+    works: 사랑하는 나의 아버지
+
+  - file: MartinNystrom
+    name_ko: 마틴 니스톰
+    name_en: Martin Nystrom
+    category: ecumenical
+    works: 목마른 사슴
+
+  - file: DonMoen
+    name_ko: 돈 모엔
+    name_en: Don Moen
+    category: ecumenical
+    works: 나의 모습 나의 소유
+
+  - file: LennyLeBlanc
+    name_ko: 레니 르블랑
+    name_en: Lenny LeBlanc
+    category: ecumenical
+    works: 모든 능력과 모든 권세
+
+  - file: BrentChambers
+    name_ko: 브렌트 챔버스
+    name_en: Brent Chambers
+    category: ecumenical
+    works: 오 하느님 받으소서
+
+  - file: DavidRuis
+    name_ko: 데이비드 루이스
+    name_en: David Ruis
+    category: ecumenical
+    works: 경배하리, 주의 자비
+
+  - file: TommyWalker
+    name_ko: 토미 워커
+    name_en: Tommy Walker
+    category: ecumenical
+    works: 내 이름 아시죠
+
+  - file: DarleneZschech
+    name_ko: 달린 체크
+    name_en: Darlene Zschech
+    category: ecumenical
+    works: 내 구주 예수님
+
+  - file: ScottBrenner
+    name_ko: 스캇 브레너
+    name_en: Scott Brenner
+    category: ecumenical
+    works: 성령의 불로
+
+  - file: EddieEspinosa
+    name_ko: 에디 에스피노사
+    name_en: Eddie Espinosa
+    category: ecumenical
+    works: 사랑합니다
+
+  - file: ReubenMorgan
+    name_ko: 루벤 모건
+    name_en: Reuben Morgan
+    category: ecumenical
+    works: 주를 높이기 원합니다, 주 품에 품으소서
+
+  # 파일 없는 추가 아티스트 (링크 없이 이름만 표시)
+  - file: null
+    name_ko: Graham Kendrick
+    name_en: Graham Kendrick
+    category: ecumenical
+    works: 빛의 노래 (Shine Jesus Shine)
+
+  - file: null
+    name_ko: Paul Baloche
+    name_en: Paul Baloche
+    category: ecumenical
+    works: 모든 능력과 모든 권세 (공동 작곡), 나의 맘 속에 (Open the eyes of my heart)
+
+  # ===== 포크 & 기타 (folk) =====
+  - file: SydneyCarter
+    name_ko: 시드니 카터
+    name_en: Sydney Carter
+    category: folk
+    works: 춤의 왕 (Lord of the Dance)

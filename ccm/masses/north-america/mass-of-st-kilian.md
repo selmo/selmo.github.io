@@ -1,3 +1,7 @@
+---
+title: "The Mass of St. Kilian"
+---
+
 # The Mass of St. Kilian
 
 ![Region](https://img.shields.io/badge/Region-North_America-blue)

@@ -1,3 +1,7 @@
+---
+title: "Missa Orientalis (WYD 2016 - Krakow)"
+---
+
 # Missa Orientalis (WYD 2016 - Krakow)
 
 ![Region](https://img.shields.io/badge/Region-WYD_(Krakow_2016)-blue)

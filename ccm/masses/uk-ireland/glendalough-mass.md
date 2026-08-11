@@ -1,3 +1,7 @@
+---
+title: "The Glendalough Mass"
+---
+
 # The Glendalough Mass
 
 ![Region](https://img.shields.io/badge/Region-UK_&_Ireland-blue)

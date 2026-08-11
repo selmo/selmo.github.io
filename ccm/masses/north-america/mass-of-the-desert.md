@@ -1,3 +1,7 @@
+---
+title: "Mass of the Desert"
+---
+
 # Mass of the Desert
 
 ![Region](https://img.shields.io/badge/Region-North_America-blue)

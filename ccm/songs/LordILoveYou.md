@@ -1,3 +1,7 @@
+---
+title: "사랑합니다 (Lord I Love You)"
+---
+
 # 사랑합니다 (Lord I Love You)
 
 - **원곡**: Lord I Love You (I Love You Lord 별개 곡 — Eddie Espinosa)

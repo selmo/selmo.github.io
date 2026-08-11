@@ -1,3 +1,7 @@
+---
+title: "Mass of Glory"
+---
+
 # Mass of Glory
 
 ![Region](https://img.shields.io/badge/Region-North_America-blue)

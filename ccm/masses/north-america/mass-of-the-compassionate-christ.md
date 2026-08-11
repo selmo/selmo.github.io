@@ -1,3 +1,7 @@
+---
+title: "Mass of the Compassionate Christ"
+---
+
 # Mass of the Compassionate Christ
 
 ![Region](https://img.shields.io/badge/Region-North_America-blue)

@@ -1,3 +1,7 @@
+---
+title: "Missa Magis (WYD 2008 - Sydney)"
+---
+
 # Missa Magis (WYD 2008 - Sydney)
 
 ![Region](https://img.shields.io/badge/Region-WYD_(Sydney_2008)-blue)

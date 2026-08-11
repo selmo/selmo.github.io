@@ -1,3 +1,7 @@
+---
+title: "The Mass of St. Patrick"
+---
+
 # The Mass of St. Patrick
 
 ![Region](https://img.shields.io/badge/Region-UK_&_Ireland_(Ireland)-blue)

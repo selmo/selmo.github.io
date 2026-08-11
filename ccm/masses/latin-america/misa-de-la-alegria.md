@@ -1,3 +1,7 @@
+---
+title: "Misa de la Alegría"
+---
+
 # Misa de la Alegría
 
 ![Region](https://img.shields.io/badge/Region-Europe_(Spain)-blue)

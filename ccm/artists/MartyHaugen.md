@@ -1,3 +1,7 @@
+---
+title: "마티 호건 (Marty Haugen)"
+---
+
 # 마티 호건 (Marty Haugen)
 
 **Marty Haugen**은 미국의 전례 음악 작곡가입니다(루터교 ELCA 소속). GIA Publications와의 긴밀한 협력으로, 1980년대 이후 영어권 가톨릭 본당에서도 가장 널리 사용되는 전례 음악 작곡가 중 한 명입니다.

@@ -1,3 +1,7 @@
+---
+title: "루벤 모건 (Reuben Morgan)"
+---
+
 # 루벤 모건 (Reuben Morgan)
 
 **Reuben Morgan**은 호주 출신의 워십 리더이자 작곡가로, Hillsong Worship의 핵심 작곡가 중 한 명입니다. 'Still', 'I Give You My Heart'를 비롯한 다수의 글로벌 워십 히트곡을 썼습니다.

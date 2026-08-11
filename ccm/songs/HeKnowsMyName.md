@@ -1,3 +1,7 @@
+---
+title: "내 이름 아시죠 (He Knows My Name)"
+---
+
 # 내 이름 아시죠 (He Knows My Name)
 
 - **원곡**: He Knows My Name

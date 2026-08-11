@@ -1,3 +1,7 @@
+---
+title: "Mass of Communion"
+---
+
 # Mass of Communion
 
 ![Region](https://img.shields.io/badge/Region-North_America-blue)

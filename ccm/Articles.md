@@ -1,3 +1,7 @@
+---
+title: "생활성가·가톨릭 CCM·찬양사도 기사 모음 (Articles)"
+---
+
 # 생활성가·가톨릭 CCM·찬양사도 기사 모음 (Articles)
 
 가톨릭 생활성가와 CCM, 그리고 찬양사도 운동에 관한 언론 기사·평론·논문을 한곳에 모은 페이지입니다. 분류는 출처 성격(매체 종류)에 따랐고, 각 섹션 안에서는 최신순으로 정렬됩니다.
@@ -13,6 +17,13 @@
 
 {% else %}
 
+<div class="articles-filter" id="articles-filter">
+  <input type="search" id="af-search" placeholder="제목 · 매체 · 태그 검색…" aria-label="기사 검색">
+  <select id="af-year" aria-label="연도 필터"><option value="">전체 연도</option></select>
+  <select id="af-tag" aria-label="태그 필터"><option value="">전체 태그</option></select>
+  <span class="af-count" id="af-count" aria-live="polite"></span>
+</div>
+
 {% assign types = "catholic_press,general_press,webzine_blog,academic" | split: "," %}
 {% assign type_labels = "가톨릭 언론,일반 언론,회지·웹진·블로그,논문·평론" | split: "," %}
 
@@ -26,13 +37,15 @@
 | 제목 | 매체 | 날짜 | 태그 |
 |:---|:---|:---:|:---|
 {% for a in group -%}
-| {% if a.url %}[{{ a.title }}]({{ a.url }}){% else %}{{ a.title }}{% endif %}{% if a.author %}<br><sub>— {{ a.author }}</sub>{% endif %}{% if a.summary %}<br><sub>{{ a.summary }}</sub>{% endif %}{% unless a.verified %}{% if a.url %} <sub>·날짜 근사</sub>{% endif %}{% endunless %} | {{ a.source }} | {{ a.date }} | {% if a.tags %}{% for tag in a.tags %}`{{ tag }}`{% unless forloop.last %} {% endunless %}{% endfor %}{% endif %} |
+| <span class="row-meta" data-year="{{ a.date | slice: 0, 4 }}" data-tags="{{ a.tags | join: ',' | downcase }}" data-search="{{ a.title | downcase }} {{ a.source | downcase }} {% if a.author %}{{ a.author | downcase }} {% endif %}{% if a.summary %}{{ a.summary | downcase }}{% endif %} {% if a.tags %}{{ a.tags | join: ' ' | downcase }}{% endif %}"></span>{% if a.url %}[{{ a.title }}]({{ a.url }}){% else %}{{ a.title }}{% endif %}{% if a.author %}<br><sub>— {{ a.author }}</sub>{% endif %}{% if a.summary %}<br><sub>{{ a.summary }}</sub>{% endif %}{% unless a.verified %}{% if a.url %} <sub>·날짜 근사</sub>{% endif %}{% endunless %} | {{ a.source }} | {{ a.date }} | {% if a.tags %}{% for tag in a.tags %}`{{ tag }}`{% unless forloop.last %} {% endunless %}{% endfor %}{% endif %} |
 {% endfor %}
 
   {% endif %}
 {% endfor %}
 
 {% endif %}
+
+<script src="{{ '/assets/js/articles-filter.js' | relative_url }}" defer></script>
 
 ---
 

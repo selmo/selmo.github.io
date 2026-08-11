@@ -1,3 +1,7 @@
+---
+title: "거룩한 전례에 관한 헌장 (Sacrosanctum Concilium)"
+---
+
 # 거룩한 전례에 관한 헌장 (Sacrosanctum Concilium)
 **제2차 바티칸 공의회 헌장**
 (1963년 12월 4일)

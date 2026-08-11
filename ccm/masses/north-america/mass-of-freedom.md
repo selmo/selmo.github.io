@@ -1,3 +1,7 @@
+---
+title: "Mass of Freedom"
+---
+
 # Mass of Freedom
 
 ![Region](https://img.shields.io/badge/Region-North_America-blue)

@@ -1,3 +1,7 @@
+---
+title: "브렌트 챔버스 (Brent Chambers)"
+---
+
 # 브렌트 챔버스 (Brent Chambers)
 
 **Brent Chambers**는 뉴질랜드 출신의 작곡가이자 워십 리더입니다. 1970년대부터 활동하며 'Scripture in Song' 운동에 기여했습니다.

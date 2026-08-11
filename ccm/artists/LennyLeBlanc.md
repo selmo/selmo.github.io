@@ -1,3 +1,7 @@
+---
+title: "레니 르블랑 (Lenny LeBlanc)"
+---
+
 # 레니 르블랑 (Lenny LeBlanc)
 
 **Lenny LeBlanc**은 미국의 음악가이자 작곡가입니다. 1970년대 후반에는 팝 듀오 'LeBlanc & Carr'의 멤버로 활동하며 빌보드 차트에 오르기도 했으나, 이후 회심하여 CCM 아티스트로 전향했습니다.

@@ -1,3 +1,7 @@
+---
+title: "Gathering Mass / Revised Gathering Mass"
+---
+
 # Gathering Mass / Revised Gathering Mass
 
 ![Region](https://img.shields.io/badge/Region-UK_&_Ireland-blue)

@@ -1,3 +1,7 @@
+---
+title: "로마 미사 경본 총지침 (GIRM)"
+---
+
 # 로마 미사 경본 총지침 (GIRM)
 **Institutio Generalis Missalis Romani**
 **General Instruction of the Roman Missal**

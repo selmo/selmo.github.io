@@ -1,3 +1,7 @@
+---
+title: "나의 모습 나의 소유 (I Offer My Life)"
+---
+
 # 나의 모습 나의 소유 (I Offer My Life)
 
 - **원곡**: I Offer My Life

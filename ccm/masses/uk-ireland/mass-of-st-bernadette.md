@@ -1,3 +1,7 @@
+---
+title: "Mass of St. Bernadette"
+---
+
 # Mass of St. Bernadette
 
 ![Region](https://img.shields.io/badge/Region-UK_&_Ireland-blue)

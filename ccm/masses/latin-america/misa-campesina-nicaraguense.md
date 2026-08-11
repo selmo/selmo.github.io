@@ -1,3 +1,7 @@
+---
+title: "Misa Campesina Nicaragüense"
+---
+
 # Misa Campesina Nicaragüense
 
 ![Region](https://img.shields.io/badge/Region-Latin_America_(Nicaragua)-blue)

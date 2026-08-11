@@ -1,3 +1,7 @@
+---
+title: "Mass of St. Mary Magdalene"
+---
+
 # Mass of St. Mary Magdalene
 
 ![Region](https://img.shields.io/badge/Region-North_America-blue)

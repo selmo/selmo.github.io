@@ -1,3 +1,7 @@
+---
+title: "Mass of Hope"
+---
+
 # Mass of Hope
 
 ![Region](https://img.shields.io/badge/Region-UK_&_Ireland-blue)

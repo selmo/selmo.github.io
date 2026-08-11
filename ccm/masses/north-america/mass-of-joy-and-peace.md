@@ -1,3 +1,7 @@
+---
+title: "Mass of Joy and Peace"
+---
+
 # Mass of Joy and Peace
 
 ![Region](https://img.shields.io/badge/Region-North_America-blue)

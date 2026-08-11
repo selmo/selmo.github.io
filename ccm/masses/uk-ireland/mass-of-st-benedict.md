@@ -1,3 +1,7 @@
+---
+title: "Mass of St. Benedict"
+---
+
 # Mass of St. Benedict
 
 ![Region](https://img.shields.io/badge/Region-UK_&_Ireland-blue)

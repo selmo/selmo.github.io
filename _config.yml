@@ -1,5 +1,6 @@
 title: Tae-Hyoung Choi
 description: Catholic music, liturgy, and computer science notes
+url: https://selmo.github.io
 
 markdown: kramdown
 kramdown:
@@ -12,6 +13,12 @@ defaults:
       path: ""
     values:
       layout: default
+  # 다운로드 악보 PDF는 검색 색인(sitemap)에서 제외
+  - scope:
+      path: "resources/OnE-Scores"
+      type: static_files
+    values:
+      sitemap: false
 
 exclude:
   - _archive/
@@ -20,13 +27,16 @@ exclude:
   - GEMINI.md
   - "*.xlsx"
   - "*.xls"
-  - "*.pdf"
   - README.md
-  - config.yml
+  - resources/Journeysongs-3ed.pdf
+  - .DS_Store
+  - "**/.DS_Store"
 
 # Plugins available on GitHub Pages
 plugins:
   - jekyll-relative-links
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Process .md links as if they were rendered HTML links
 relative_links:

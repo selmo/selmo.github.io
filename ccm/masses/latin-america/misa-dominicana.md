@@ -1,3 +1,7 @@
+---
+title: "Misa Dominicana"
+---
+
 # Misa Dominicana
 
 ![Region](https://img.shields.io/badge/Region-Latin_America_(Dominican_Republic)-blue)

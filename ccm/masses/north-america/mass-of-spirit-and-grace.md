@@ -1,3 +1,7 @@
+---
+title: "Mass of Spirit and Grace"
+---
+
 # Mass of Spirit and Grace
 
 ![Region](https://img.shields.io/badge/Region-North_America-blue)

@@ -1,3 +1,7 @@
+---
+title: "Celtic Mass (New Celtic Liturgy)"
+---
+
 # Celtic Mass (New Celtic Liturgy)
 
 ![Region](https://img.shields.io/badge/Region-UK_&_Ireland-blue)

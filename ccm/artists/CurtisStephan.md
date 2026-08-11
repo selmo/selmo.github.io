@@ -1,3 +1,7 @@
+---
+title: "커티스 스테판 (Curtis Stephan)"
+---
+
 # 커티스 스테판 (Curtis Stephan)
 
 **Curtis Stephan**은 미국 텍사스주에 거주하는 가톨릭 작곡가이자 사목 음악가입니다. OCP 출판의 대표적 contemporary 미사곡 세트 두 편을 작곡했으며, 현대 가톨릭 워십의 중심 작곡가 중 한 명입니다.

@@ -1,3 +1,7 @@
+---
+title: "Journeysongs (3rd Edition) — OCP 종합 성가집"
+---
+
 # Journeysongs (3rd Edition) — OCP 종합 성가집
 
 OCP의 대표적인 종합 성가집으로, 전례 독서와 성가를 함께 수록한 연간·고정 합본판입니다. 미사 통상문, 고유문, 전례 시기별 성가, 성사 예식곡을 포괄합니다.

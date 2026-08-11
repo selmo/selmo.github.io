@@ -1,0 +1,257 @@
+# 곡 메타데이터 — ccm/songs/ 개별 페이지 인덱스용
+#
+# Schema:
+#   - file:          ccm/songs/<file>.md (확장자 제외)
+#     title_ko:       한국어 제목
+#     title_en:       원곡(영문) 제목
+#     composer:       작곡가
+#     yahure_number:  야훼이레(3판) 번호 (없으면 null)
+#     type:           translation | adaptation | original
+#     artist_file:    ccm/artists/<file>.md (없으면 null)
+#     copyright:      저작권 (선택)
+#
+# 분류:
+#   translation : 번역곡 (원곡 작곡가 있음)
+#   adaptation  : 번안곡 (원곡을 새 가사로 번안)
+#   original    : 창작곡 (원곡 없는 자작)
+
+items:
+  # ===== 번역곡 (translation) =====
+  - file: HolySpiritWeWelcomeYou
+    title_ko: 거룩하신 성령이여
+    title_en: Holy Spirit, We Welcome You
+    composer: Chris Bowater
+    yahure_number: 321
+    type: translation
+    artist_file: ChrisBowater
+    copyright: CopyCare
+
+  - file: IWillRejoice
+    title_ko: 나 기뻐하리
+    title_en: I Will Rejoice
+    composer: Brent Chambers
+    yahure_number: 402
+    type: translation
+    artist_file: BrentChambers
+    copyright: CopyCare
+
+  - file: ShoutForJoy
+    title_ko: 기뻐하며 왕께 노래 부르리
+    title_en: Shout for Joy and Sing
+    composer: David Fellingham
+    yahure_number: 385
+    type: translation
+    artist_file: DavidFellingham
+    copyright: CopyCare
+
+  - file: BlessedBeTheLord
+    title_ko: 사랑하는 나의 아버지
+    title_en: Blessed Be the Lord God Almighty
+    composer: Bob Fitts
+    yahure_number: 578
+    type: translation
+    artist_file: BobFitts
+    copyright: CopyCare
+
+  - file: OneGod
+    title_ko: 들으라 이스라엘
+    title_en: One God
+    composer: Bob Fitts
+    yahure_number: 491
+    type: translation
+    artist_file: BobFitts
+    copyright: CopyCare
+
+  - file: GodWillMakeAWay
+    title_ko: 주님 내 길을
+    title_en: God Will Make a Way
+    composer: Don Moen
+    yahure_number: 759
+    type: translation
+    artist_file: DonMoen
+    copyright: CopyCare
+
+  - file: ShineJesusShine
+    title_ko: 비추소서
+    title_en: Shine Jesus Shine
+    composer: Graham Kendrick
+    yahure_number: 553
+    type: translation
+    artist_file: null
+    copyright: CopyCare
+
+  - file: ThePowerOfYourLove
+    title_ko: 주께 가오니
+    title_en: The Power of Your Love
+    composer: Geoff Bullock
+    yahure_number: 742
+    type: translation
+    artist_file: GeoffBullock
+    copyright: CopyCare
+
+  - file: AsTheDeer
+    title_ko: 목마른 사슴
+    title_en: As the Deer
+    composer: Martin Nystrom
+    yahure_number: 521
+    type: translation
+    artist_file: MartinNystrom
+    copyright: Maranatha! Music / CCLI
+
+  - file: LordOfTheDance
+    title_ko: 춤의 왕
+    title_en: Lord of the Dance
+    composer: Sydney Carter
+    yahure_number: 859
+    type: translation
+    artist_file: SydneyCarter
+    copyright: CopyCare
+
+  - file: YoureWorthy
+    title_ko: 경배하리 내 온 맘 다해
+    title_en: You're Worthy of My Praise
+    composer: David Ruis
+    yahure_number: 418
+    type: translation
+    artist_file: DavidRuis
+    copyright: CopyCare
+
+  - file: MercyIsFalling
+    title_ko: 주의 자비가 내려와
+    title_en: Mercy Is Falling
+    composer: David Ruis
+    yahure_number: 550
+    type: translation
+    artist_file: DavidRuis
+    copyright: CopyCare
+
+  - file: HeKnowsMyName
+    title_ko: 내 이름 아시죠
+    title_en: He Knows My Name
+    composer: Tommy Walker
+    yahure_number: 499
+    type: translation
+    artist_file: TommyWalker
+    copyright: CopyCare
+
+  - file: MyJesusMySaviour
+    title_ko: 내 구주 예수님
+    title_en: My Jesus, My Saviour
+    composer: Darlene Zschech
+    yahure_number: 391
+    type: translation
+    artist_file: DarleneZschech
+    copyright: CopyCare
+
+  - file: LordILoveYou
+    title_ko: 사랑합니다
+    title_en: Lord I Love You
+    composer: Eddie Espinosa
+    yahure_number: 582
+    type: translation
+    artist_file: EddieEspinosa
+    copyright: CopyCare
+
+  - file: IGiveYouMyHeart
+    title_ko: 주를 높이기 원합니다
+    title_en: I Give You My Heart
+    composer: Reuben Morgan
+    yahure_number: 394
+    type: translation
+    artist_file: ReubenMorgan
+    copyright: Hillsong Publishing
+
+  - file: Still
+    title_ko: 주 품에 품으소서
+    title_en: Still
+    composer: Reuben Morgan
+    yahure_number: 816
+    type: translation
+    artist_file: ReubenMorgan
+    copyright: Hillsong Publishing
+
+  - file: AboveAll
+    title_ko: 모든 능력과 모든 권세
+    title_en: Above All
+    composer: Lenny LeBlanc
+    co_composer: Paul Baloche
+    yahure_number: 590
+    type: translation
+    artist_file: LennyLeBlanc
+    copyright: CopyCare
+
+  - file: ThereIsNoneLikeYou
+    title_ko: 주님과 같이
+    title_en: There Is None Like You
+    composer: Lenny LeBlanc
+    yahure_number: 752
+    type: translation
+    artist_file: LennyLeBlanc
+    copyright: CopyCare
+
+  - file: IOfferMyLife
+    title_ko: 나의 모습 나의 소유
+    title_en: I Offer My Life
+    composer: Don Moen
+    co_composer: null
+    yahure_number: 757
+    type: translation
+    artist_file: DonMoen
+    copyright: CopyCare
+
+  - file: PescadorDeHombres
+    title_ko: 주여 당신은
+    title_en: Pescador de Hombres
+    composer: Cesáreo Gabaráin
+    yahure_number: 799
+    type: translation
+    artist_file: CesareoGabarain
+    copyright: CopyCare
+
+  - file: BeNotAfraid
+    title_ko: 두려워 말라
+    title_en: Be Not Afraid
+    composer: Bob Dufford, SJ / St. Louis Jesuits
+    yahure_number: null
+    type: translation
+    artist_file: StLouisJesuits
+    copyright: OCP / New Dawn Music
+
+  - file: HereIAmLord
+    title_ko: 주님 제가 여기 있나이다
+    title_en: Here I Am, Lord
+    composer: Dan Schutte / St. Louis Jesuits
+    yahure_number: null
+    type: translation
+    artist_file: DanSchutte
+    copyright: OCP / New Dawn Music
+
+  - file: JesusChristYouAreMyLife
+    title_ko: 예수 그리스도 당신은 나의 생명
+    title_en: Jesus Christ, You Are My Life
+    composer: Marco Frisina
+    yahure_number: null
+    type: translation
+    artist_file: MarcoFrisina
+    copyright: Marco Frisina (Diocesi di Roma)
+
+  # ===== 번안곡 (adaptation) =====
+  - file: WeAreOne
+    title_ko: 우리는 하나
+    title_en: The Last Farewell
+    composer: 윤복희 (번안)
+    yahure_number: null
+    type: adaptation
+    artist_file: null
+    copyright: null
+
+  # ===== 창작곡 (original) =====
+  - file: TaeHyoungChoi
+    title_ko: 최태형 안셀모 작품 목록
+    title_en: null
+    composer: 최태형 안셀모
+    yahure_number: null
+    type: original
+    artist_file: null
+    copyright: null
+    note: 미사곡 + 생활성가 40곡 (야훼이레 수록)

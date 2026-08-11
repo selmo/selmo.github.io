@@ -1,3 +1,7 @@
+---
+title: "Misa de la Aurora"
+---
+
 # Misa de la Aurora
 
 ![Region](https://img.shields.io/badge/Region-Latin_America_(Cuba)-blue)

@@ -1,3 +1,7 @@
+---
+title: "Missa de Angelis (Missa VIII) + Credo III"
+---
+
 # Missa de Angelis (Missa VIII) + Credo III
 
 ![Region](https://img.shields.io/badge/Region-WYD_(Various)-blue)

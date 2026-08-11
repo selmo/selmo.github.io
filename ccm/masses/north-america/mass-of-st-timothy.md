@@ -1,3 +1,7 @@
+---
+title: "Mass of St. Timothy"
+---
+
 # Mass of St. Timothy
 
 ![Region](https://img.shields.io/badge/Region-North_America-blue)

@@ -1,3 +1,7 @@
+---
+title: "Misa del Sagrado Corazón (Mass of the Sacred Heart)"
+---
+
 # Misa del Sagrado Corazón (Mass of the Sacred Heart)
 
 ![Region](https://img.shields.io/badge/Region-Latin_America_(Mexico)-blue)

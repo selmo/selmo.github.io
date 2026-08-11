@@ -1,3 +1,7 @@
+---
+title: "들으라 이스라엘 (One God)"
+---
+
 # 들으라 이스라엘 (One God)
 
 - **원곡**: One God

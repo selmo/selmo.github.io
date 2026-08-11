@@ -1,3 +1,7 @@
+---
+title: "주여 당신은 / 주여 우리는 지금 (Pescador de Hombres)"
+---
+
 # 주여 당신은 / 주여 우리는 지금 (Pescador de Hombres)
 
 - **원곡**: Pescador de Hombres (1979)

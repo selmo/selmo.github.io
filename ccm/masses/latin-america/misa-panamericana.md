@@ -1,3 +1,7 @@
+---
+title: "Misa Panamericana"
+---
+
 # Misa Panamericana
 
 ![Region](https://img.shields.io/badge/Region-Latin_America_(Mexico)-blue)

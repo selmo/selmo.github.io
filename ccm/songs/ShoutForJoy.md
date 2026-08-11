@@ -1,3 +1,7 @@
+---
+title: "기뻐하며 왕께 노래 부르리 (Shout for Joy and Sing)"
+---
+
 # 기뻐하며 왕께 노래 부르리 (Shout for Joy and Sing)
 
 - **원곡**: Shout for Joy and Sing
