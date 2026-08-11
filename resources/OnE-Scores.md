@@ -1,5 +1,8 @@
 ---
 title: "OnE 악보 다운로드 (Scores)"
+# 비공개 페이지 — 사이트 내 링크 없이 URL 직접 접근만 허용
+sitemap: false
+noindex: true
 ---
 
 # OnE 악보 다운로드 (Scores)

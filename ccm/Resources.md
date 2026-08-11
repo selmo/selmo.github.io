@@ -6,10 +6,6 @@ title: "리소스 (Resources)"
 
 악보 자료 및 유용한 웹사이트 링크 모음입니다. 출판사 카탈로그, 공동체 공식 사이트, 교회 문헌, 학술 자료를 우선합니다.
 
-## OnE 악보 다운로드
-
-*   **[OnE 악보 다운로드 (Scores)](../resources/OnE-Scores.md)**: 미사곡 · OnE 밴드 · CCM 번역곡 등 `resources/OnE-Scores/`의 PDF 악보를 폴더별로 바로 다운로드
-
 ## 웹사이트 (Websites)
 
 ### 출판사 카탈로그
