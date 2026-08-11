@@ -8,7 +8,8 @@ title: "OnE 악보 다운로드 (Scores)"
 
 - **미사곡**은 전례 순서(자비송 → 대영광송 → … → 마침영광송)대로, 작곡가별로 구분했습니다.
 - **그 외 곡**은 곡명 기준으로 정리했으며, 작곡가가 파일에 명시된 경우에만 표기했습니다.
-- 목록은 `_data/scores.yml`에서 자동 생성됩니다(`scripts/gen_scores.py`로 재생성).
+- **성가집 번호**는 [야훼이레 3판](../ccm/Songbooks.md)과 [하늘바다](하늘바다.md)(가톨릭 어린이 찬양집) 수록 번호입니다. 해당 성가집에 실리지 않은 곡은 `—`로 표시됩니다.
+- 목록은 `_data/scores.yml`에서 자동 생성됩니다(`scripts/gen_scores.py` → `scripts/match_songbooks.py`).
 
 > ⚠️ **저작권 안내**: 본 페이지에는 본인 작곡분(미사곡 · OnE 밴드 곡) 외에 타인 작곡 곡의 코드 차트(ChordChart)/스코어도 포함되어 있습니다. 타인 곡 악보는 **개인 학습·반주용**으로만 사용하시고, 상업적 재배포는 삼가 주세요.
 
@@ -36,12 +37,12 @@ title: "OnE 악보 다운로드 (Scores)"
 
 ### {{ part_name }}
 
-| 곡명 | 작곡 | 야훼이레 | 악보 |
-|:---|:---|:---:|:---|
+| 곡명 | 작곡 | 야훼이레 | 하늘바다 | 악보 |
+|:---|:---|:---:|:---:|:---|
 {% for g in part_groups -%}
 {% assign gi = part_items | where: "group", g -%}
 {% assign first = gi[0] -%}
-| {{ first.title }} | {% if first.composer %}{{ first.composer }}{% else %}—{% endif %} | {% if first.yahure %}{{ first.yahure }}{% else %}—{% endif %} | {% for s in gi %}[⬇ {{ s.label }}]({{ s.url | relative_url }}){: download="" }{% unless forloop.last %}<br>{% endunless %}{% endfor %} |
+| {{ first.title }} | {% if first.composer %}{{ first.composer }}{% else %}—{% endif %} | {% if first.yahure %}{{ first.yahure }}{% else %}—{% endif %} | {% if first.haneulbada %}{{ first.haneulbada }}{% else %}—{% endif %} | {% for s in gi %}[⬇ {{ s.label }}]({{ s.url | relative_url }}){: download="" }{% unless forloop.last %}<br>{% endunless %}{% endfor %} |
 {% endfor %}
 
   {% endif %}
@@ -53,12 +54,12 @@ title: "OnE 악보 다운로드 (Scores)"
 
 {% assign one_groups = one | map: "group" | uniq %}
 
-| 곡명 | 작곡 | 악보 |
-|:---|:---|:---|
+| 곡명 | 작곡 | 야훼이레 | 하늘바다 | 악보 |
+|:---|:---|:---:|:---:|:---|
 {% for g in one_groups -%}
 {% assign gi = one | where: "group", g -%}
 {% assign first = gi[0] -%}
-| {{ first.title }} | {% if first.composer %}{{ first.composer }}{% else %}—{% endif %} | {% for s in gi %}[⬇ {{ s.label }}]({{ s.url | relative_url }}){: download="" }{% unless forloop.last %}<br>{% endunless %}{% endfor %} |
+| {{ first.title }} | {% if first.composer %}{{ first.composer }}{% else %}—{% endif %} | {% if first.yahure %}{{ first.yahure }}{% else %}—{% endif %} | {% if first.haneulbada %}{{ first.haneulbada }}{% else %}—{% endif %} | {% for s in gi %}[⬇ {{ s.label }}]({{ s.url | relative_url }}){: download="" }{% unless forloop.last %}<br>{% endunless %}{% endfor %} |
 {% endfor %}
 
 ---
@@ -67,13 +68,12 @@ title: "OnE 악보 다운로드 (Scores)"
 
 {% assign ccm_groups = ccm | map: "group" | uniq %}
 
-| 곡명 | 작곡 | 야훼이레 | 악보 |
-|:---|:---|:---:|:---|
+| 곡명 | 작곡 | 야훼이레 | 하늘바다 | 악보 |
+|:---|:---|:---:|:---:|:---|
 {% for g in ccm_groups -%}
 {% assign gi = ccm | where: "group", g -%}
 {% assign first = gi[0] -%}
-{% assign numbered = gi | where_exp: "s", "s.yahure" -%}
-| {{ first.title }} | {% if first.composer %}{{ first.composer }}{% else %}—{% endif %} | {% if numbered.size > 0 %}{{ numbered[0].yahure }}{% else %}—{% endif %} | {% for s in gi %}[⬇ {{ s.label }}]({{ s.url | relative_url }}){: download="" }{% unless forloop.last %}<br>{% endunless %}{% endfor %} |
+| {{ first.title }} | {% if first.composer %}{{ first.composer }}{% else %}—{% endif %} | {% if first.yahure %}{{ first.yahure }}{% else %}—{% endif %} | {% if first.haneulbada %}{{ first.haneulbada }}{% else %}—{% endif %} | {% for s in gi %}[⬇ {{ s.label }}]({{ s.url | relative_url }}){: download="" }{% unless forloop.last %}<br>{% endunless %}{% endfor %} |
 {% endfor %}
 
 ---
@@ -82,13 +82,12 @@ title: "OnE 악보 다운로드 (Scores)"
 
 {% assign root_groups = root | map: "group" | uniq %}
 
-| 곡명 | 작곡 | 야훼이레 | 악보 |
-|:---|:---|:---:|:---|
+| 곡명 | 작곡 | 야훼이레 | 하늘바다 | 악보 |
+|:---|:---|:---:|:---:|:---|
 {% for g in root_groups -%}
 {% assign gi = root | where: "group", g -%}
 {% assign first = gi[0] -%}
-{% assign numbered = gi | where_exp: "s", "s.yahure" -%}
-| {{ first.title }} | {% if first.composer %}{{ first.composer }}{% else %}—{% endif %} | {% if numbered.size > 0 %}{{ numbered[0].yahure }}{% else %}—{% endif %} | {% for s in gi %}[⬇ {{ s.label }}]({{ s.url | relative_url }}){: download="" }{% unless forloop.last %}<br>{% endunless %}{% endfor %} |
+| {{ first.title }} | {% if first.composer %}{{ first.composer }}{% else %}—{% endif %} | {% if first.yahure %}{{ first.yahure }}{% else %}—{% endif %} | {% if first.haneulbada %}{{ first.haneulbada }}{% else %}—{% endif %} | {% for s in gi %}[⬇ {{ s.label }}]({{ s.url | relative_url }}){: download="" }{% unless forloop.last %}<br>{% endunless %}{% endfor %} |
 {% endfor %}
 
 ---

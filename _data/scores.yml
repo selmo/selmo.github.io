@@ -1,6 +1,7 @@
 # OnE-Scores PDF 메타데이터
-# path = 파일 시스템 원본(NFD 포함 그대로). title/composer/mass_part/group/note 정제됨.
+# path = 파일 시스템 원본(NFD 포함 그대로). url = 퍼센트 인코딩 링크.
 # group 이 같으면 같은 곡의 변형(Score/ChordChart/Chorus/키) -> 한 줄에 여러 링크.
+# yahure = 야훼이레 3판 번호, haneulbada = 하늘바다(어린이 찬양집) 번호.
 items:
   - path: "resources/OnE-Scores/Missa/[Score][미사곡] 자비송 [신상옥].pdf"
     url: "/resources/OnE-Scores/Missa/%5BScore%5D%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EC%9E%90%EB%B9%84%EC%86%A1%20%5B%EC%8B%A0%EC%83%81%EC%98%A5%5D.pdf"
@@ -9,7 +10,8 @@ items:
     category: missa
     mass_part: "kyrie"
     type: score
-    yahure: null
+    yahure: 6
+    haneulbada: 7
     key: ""
     note: ""
     group: "missa-자비송-신상옥"
@@ -22,21 +24,10 @@ items:
     mass_part: "kyrie"
     type: score
     yahure: 9
+    haneulbada: null
     key: ""
     note: ""
     group: "missa-자비송-최태형"
-    label: "Score"
-  - path: "resources/OnE-Scores/Missa/[Score][미사곡] 주님저희에게자비를.pdf"
-    url: "/resources/OnE-Scores/Missa/%5BScore%5D%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EC%A3%BC%EB%8B%98%EC%A0%80%ED%9D%AC%EC%97%90%EA%B2%8C%EC%9E%90%EB%B9%84%EB%A5%BC.pdf"
-    title: "주님 저희에게 자비를"
-    composer: ""
-    category: missa
-    mass_part: "kyrie"
-    type: score
-    yahure: null
-    key: ""
-    note: ""
-    group: "missa-주님저희에게자비를-"
     label: "Score"
   - path: "resources/OnE-Scores/Missa/[Score][미사곡] 대영광송 - 신상옥.pdf"
     url: "/resources/OnE-Scores/Missa/%5BScore%5D%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EB%8C%80%EC%98%81%EA%B4%91%EC%86%A1%20-%20%EC%8B%A0%EC%83%81%EC%98%A5.pdf"
@@ -45,7 +36,8 @@ items:
     category: missa
     mass_part: "gloria"
     type: score
-    yahure: null
+    yahure: 26
+    haneulbada: 12
     key: ""
     note: ""
     group: "missa-대영광송-신상옥"
@@ -58,9 +50,23 @@ items:
     mass_part: "gloria"
     type: score
     yahure: 31
+    haneulbada: null
     key: ""
     note: ""
     group: "missa-대영광송-최태형"
+    label: "Score"
+  - path: "resources/OnE-Scores/Missa/[Score][미사곡] 주님저희에게자비를.pdf"
+    url: "/resources/OnE-Scores/Missa/%5BScore%5D%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EC%A3%BC%EB%8B%98%EC%A0%80%ED%9D%AC%EC%97%90%EA%B2%8C%EC%9E%90%EB%B9%84%EB%A5%BC.pdf"
+    title: "주님 저희에게 자비를"
+    composer: ""
+    category: missa
+    mass_part: "responsorial_psalm"
+    type: score
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "missa-주님저희에게자비를-"
     label: "Score"
   - path: "resources/OnE-Scores/Missa/[Score] 화답송 - 주님저희에게자비를.pdf"
     url: "/resources/OnE-Scores/Missa/%5BScore%5D%20%ED%99%94%EB%8B%B5%EC%86%A1%20-%20%EC%A3%BC%EB%8B%98%EC%A0%80%ED%9D%AC%EC%97%90%EA%B2%8C%EC%9E%90%EB%B9%84%EB%A5%BC.pdf"
@@ -70,6 +76,7 @@ items:
     mass_part: "responsorial_psalm"
     type: score
     yahure: null
+    haneulbada: null
     key: ""
     note: ""
     group: "missa-화답송'주님저희에게자비를'-"
@@ -82,6 +89,7 @@ items:
     mass_part: "gospel_acclamation"
     type: score
     yahure: 46
+    haneulbada: 26
     key: ""
     note: ""
     group: "missa-복음환호송-현정수"
@@ -94,6 +102,7 @@ items:
     mass_part: "gospel_acclamation"
     type: score
     yahure: null
+    haneulbada: null
     key: ""
     note: "보편지향기도 포함"
     group: "missa-복음환호송+보편지향기도-"
@@ -106,6 +115,7 @@ items:
     mass_part: "gospel_acclamation"
     type: score
     yahure: null
+    haneulbada: null
     key: ""
     note: "9월 18일"
     group: "missa-복음환호송-"
@@ -118,6 +128,7 @@ items:
     mass_part: "gospel_acclamation"
     type: score
     yahure: null
+    haneulbada: null
     key: ""
     note: "2024-07-04"
     group: "missa-복음환호송-"
@@ -130,6 +141,7 @@ items:
     mass_part: "prayer_of_faithful"
     type: score
     yahure: null
+    haneulbada: null
     key: ""
     note: "어린이미사"
     group: "missa-보편지향기도-"
@@ -142,6 +154,7 @@ items:
     mass_part: "sanctus"
     type: score
     yahure: 75
+    haneulbada: 43
     key: ""
     note: ""
     group: "missa-거룩하시도다-신상옥"
@@ -154,6 +167,7 @@ items:
     mass_part: "sanctus"
     type: score
     yahure: 81
+    haneulbada: null
     key: ""
     note: ""
     group: "missa-거룩하시도다-최태형"
@@ -165,7 +179,8 @@ items:
     category: missa
     mass_part: "mystery"
     type: score
-    yahure: null
+    yahure: 103
+    haneulbada: 52
     key: ""
     note: ""
     group: "missa-신앙의신비여-신상옥"
@@ -178,6 +193,7 @@ items:
     mass_part: "mystery"
     type: score
     yahure: 107
+    haneulbada: null
     key: ""
     note: ""
     group: "missa-신앙의신비여-최태형"
@@ -189,7 +205,8 @@ items:
     category: missa
     mass_part: "mystery"
     type: score
-    yahure: null
+    yahure: 107
+    haneulbada: null
     key: ""
     note: ""
     group: "missa-신앙의신비여-최태형"
@@ -201,7 +218,8 @@ items:
     category: missa
     mass_part: "mystery"
     type: score
-    yahure: null
+    yahure: 107
+    haneulbada: null
     key: ""
     note: "아멘 포함"
     group: "missa-신앙의신비여-최태형"
@@ -213,7 +231,8 @@ items:
     category: missa
     mass_part: "mystery"
     type: score
-    yahure: null
+    yahure: 106
+    haneulbada: 51
     key: ""
     note: ""
     group: "missa-신앙의신비여-현정수"
@@ -226,6 +245,7 @@ items:
     mass_part: "amen"
     type: score
     yahure: null
+    haneulbada: null
     key: ""
     note: ""
     group: "missa-아멘-"
@@ -238,6 +258,7 @@ items:
     mass_part: "lords_prayer"
     type: score
     yahure: null
+    haneulbada: 68
     key: ""
     note: ""
     group: "missa-주님의기도-신지은·이지혜"
@@ -249,7 +270,8 @@ items:
     category: missa
     mass_part: "lords_prayer"
     type: score
-    yahure: null
+    yahure: 130
+    haneulbada: 63
     key: ""
     note: "어린이미사"
     group: "missa-주님의기도-이종철"
@@ -262,6 +284,7 @@ items:
     mass_part: "lords_prayer"
     type: score
     yahure: 131
+    haneulbada: null
     key: ""
     note: "주님께 나라와"
     group: "missa-주님의기도-최태형"
@@ -273,7 +296,8 @@ items:
     category: missa
     mass_part: "lords_prayer"
     type: score
-    yahure: null
+    yahure: 131
+    haneulbada: null
     key: ""
     note: "주님께 나라와"
     group: "missa-주님의기도-최태형"
@@ -286,6 +310,7 @@ items:
     mass_part: "agnus"
     type: score
     yahure: 165
+    haneulbada: 79
     key: ""
     note: ""
     group: "missa-하느님의어린양-신상옥"
@@ -298,6 +323,7 @@ items:
     mass_part: "agnus"
     type: score
     yahure: 170
+    haneulbada: null
     key: ""
     note: ""
     group: "missa-하느님의어린양-최태형"
@@ -310,6 +336,7 @@ items:
     mass_part: "agnus"
     type: score
     yahure: 170
+    haneulbada: null
     key: ""
     note: ""
     group: "missa-하느님의어린양-최태형"
@@ -321,7 +348,8 @@ items:
     category: missa
     mass_part: "doxology"
     type: score
-    yahure: null
+    yahure: 143
+    haneulbada: 72
     key: ""
     note: ""
     group: "missa-주님께나라와-신상옥"
@@ -333,7 +361,8 @@ items:
     category: missa
     mass_part: "doxology"
     type: score
-    yahure: null
+    yahure: 143
+    haneulbada: 72
     key: ""
     note: "하느님의 어린양 포함"
     group: "missa-주님께나라와-신상옥"
@@ -346,6 +375,7 @@ items:
     mass_part: "doxology"
     type: score
     yahure: 118
+    haneulbada: null
     key: ""
     note: "아멘 포함"
     group: "missa-마침영광송-최태형"
@@ -357,7 +387,8 @@ items:
     category: missa
     mass_part: "other"
     type: score
-    yahure: null
+    yahure: 585
+    haneulbada: null
     key: ""
     note: ""
     group: "missa-삼위일체-"
@@ -370,6 +401,7 @@ items:
     mass_part: "other"
     type: score
     yahure: null
+    haneulbada: null
     key: ""
     note: ""
     group: "missa-오소서성령님-"
@@ -381,7 +413,8 @@ items:
     category: one
     mass_part: ""
     type: score
-    yahure: null
+    yahure: 805
+    haneulbada: null
     key: ""
     note: ""
     group: "one-주의사랑과권능으로-윤남근"
@@ -394,6 +427,7 @@ items:
     mass_part: ""
     type: score
     yahure: null
+    haneulbada: null
     key: ""
     note: ""
     group: "one-Someday!-"
@@ -406,6 +440,7 @@ items:
     mass_part: ""
     type: score
     yahure: null
+    haneulbada: null
     key: ""
     note: ""
     group: "one-기적-"
@@ -417,7 +452,8 @@ items:
     category: one
     mass_part: ""
     type: score
-    yahure: null
+    yahure: 414
+    haneulbada: null
     key: ""
     note: ""
     group: "one-나의기도가이루어질때-"
@@ -430,6 +466,7 @@ items:
     mass_part: ""
     type: score
     yahure: null
+    haneulbada: null
     key: ""
     note: ""
     group: "one-나의하루-"
@@ -442,6 +479,7 @@ items:
     mass_part: ""
     type: score
     yahure: null
+    haneulbada: null
     key: ""
     note: ""
     group: "one-나의하루-"
@@ -454,6 +492,7 @@ items:
     mass_part: ""
     type: score
     yahure: null
+    haneulbada: null
     key: ""
     note: ""
     group: "one-나일어나-"
@@ -466,6 +505,7 @@ items:
     mass_part: ""
     type: score
     yahure: null
+    haneulbada: null
     key: ""
     note: ""
     group: "one-내영혼아주님을-"
@@ -477,7 +517,8 @@ items:
     category: one
     mass_part: ""
     type: score
-    yahure: null
+    yahure: 549
+    haneulbada: null
     key: ""
     note: ""
     group: "one-봉헌합니다-"
@@ -490,6 +531,7 @@ items:
     mass_part: ""
     type: score
     yahure: null
+    haneulbada: null
     key: ""
     note: ""
     group: "one-섬-DAY!-"
@@ -502,6 +544,7 @@ items:
     mass_part: ""
     type: score
     yahure: null
+    haneulbada: null
     key: ""
     note: ""
     group: "one-일상-"
@@ -513,7 +556,8 @@ items:
     category: one
     mass_part: ""
     type: score
-    yahure: null
+    yahure: 761
+    haneulbada: null
     key: ""
     note: ""
     group: "one-주님당신께맡기나이다-"
@@ -526,6 +570,7 @@ items:
     mass_part: ""
     type: score
     yahure: null
+    haneulbada: null
     key: ""
     note: ""
     group: "one-주님제소리를들으소서-"
@@ -538,6 +583,7 @@ items:
     mass_part: ""
     type: score
     yahure: null
+    haneulbada: null
     key: ""
     note: ""
     group: "one-주님제소리를들으소서-"
@@ -550,6 +596,7 @@ items:
     mass_part: ""
     type: chorus
     yahure: null
+    haneulbada: null
     key: ""
     note: ""
     group: "one-주님제소리를들으소서-"
@@ -561,7 +608,8 @@ items:
     category: one
     mass_part: ""
     type: score
-    yahure: null
+    yahure: 785
+    haneulbada: null
     key: ""
     note: ""
     group: "one-주님평화안에서-"
@@ -574,6 +622,7 @@ items:
     mass_part: ""
     type: score
     yahure: null
+    haneulbada: null
     key: ""
     note: ""
     group: "one-처음과같이-"
@@ -586,6 +635,7 @@ items:
     mass_part: ""
     type: score
     yahure: null
+    haneulbada: null
     key: ""
     note: ""
     group: "one-처음과같이-"
@@ -598,6 +648,7 @@ items:
     mass_part: ""
     type: score
     yahure: null
+    haneulbada: null
     key: ""
     note: ""
     group: "one-하나되게하소서-"
@@ -609,7 +660,8 @@ items:
     category: one
     mass_part: ""
     type: score
-    yahure: null
+    yahure: 901
+    haneulbada: null
     key: ""
     note: ""
     group: "one-하나되어-"
@@ -622,6 +674,7 @@ items:
     mass_part: ""
     type: score
     yahure: null
+    haneulbada: null
     key: ""
     note: ""
     group: "ccm-TheOtherSide-"
@@ -634,6 +687,7 @@ items:
     mass_part: ""
     type: score
     yahure: null
+    haneulbada: null
     key: "D-Key"
     note: ""
     group: "ccm-TheOtherSide-"
@@ -646,6 +700,7 @@ items:
     mass_part: ""
     type: score
     yahure: null
+    haneulbada: null
     key: "Eb-Key"
     note: ""
     group: "ccm-TheOtherSide-"
@@ -658,6 +713,7 @@ items:
     mass_part: ""
     type: chordchart
     yahure: null
+    haneulbada: null
     key: ""
     note: ""
     group: "ccm-TheOtherSide-"
@@ -670,6 +726,7 @@ items:
     mass_part: ""
     type: chordchart
     yahure: null
+    haneulbada: null
     key: ""
     note: ""
     group: "ccm-WeSayYes-"
@@ -682,6 +739,7 @@ items:
     mass_part: ""
     type: score
     yahure: 412
+    haneulbada: null
     key: ""
     note: ""
     group: "ccm-나의가장낮은마음-"
@@ -694,6 +752,7 @@ items:
     mass_part: ""
     type: score
     yahure: 412
+    haneulbada: null
     key: ""
     note: ""
     group: "ccm-나의가장낮은마음-"
@@ -706,6 +765,7 @@ items:
     mass_part: ""
     type: score
     yahure: 416
+    haneulbada: null
     key: ""
     note: ""
     group: "ccm-나의모습나의소유-"
@@ -717,7 +777,8 @@ items:
     category: ccm
     mass_part: ""
     type: chordchart
-    yahure: null
+    yahure: 422
+    haneulbada: null
     key: ""
     note: ""
     group: "ccm-나의슬픔을-"
@@ -730,6 +791,7 @@ items:
     mass_part: ""
     type: chordchart
     yahure: null
+    haneulbada: null
     key: ""
     note: ""
     group: "ccm-나일어나-"
@@ -742,6 +804,7 @@ items:
     mass_part: ""
     type: score
     yahure: null
+    haneulbada: null
     key: ""
     note: "with Piano"
     group: "ccm-내가천사의말한다해도-"
@@ -753,7 +816,8 @@ items:
     category: ccm
     mass_part: ""
     type: score
-    yahure: null
+    yahure: 441
+    haneulbada: null
     key: ""
     note: ""
     group: "ccm-내맘에오시는주-"
@@ -766,6 +830,7 @@ items:
     mass_part: ""
     type: score
     yahure: 450
+    haneulbada: null
     key: ""
     note: ""
     group: "ccm-내이름아시죠-"
@@ -778,6 +843,7 @@ items:
     mass_part: ""
     type: chordchart
     yahure: null
+    haneulbada: null
     key: ""
     note: ""
     group: "ccm-돌아가리라-"
@@ -790,6 +856,7 @@ items:
     mass_part: ""
     type: score
     yahure: 514
+    haneulbada: null
     key: ""
     note: ""
     group: "ccm-말씀하시면-"
@@ -802,6 +869,7 @@ items:
     mass_part: ""
     type: score
     yahure: null
+    haneulbada: null
     key: ""
     note: ""
     group: "ccm-사랑은하느님에게서오는것이니-"
@@ -814,6 +882,7 @@ items:
     mass_part: ""
     type: score
     yahure: null
+    haneulbada: null
     key: ""
     note: ""
     group: "ccm-사랑은하느님에게서오는것이니-"
@@ -825,7 +894,8 @@ items:
     category: ccm
     mass_part: ""
     type: score
-    yahure: null
+    yahure: 581
+    haneulbada: 226
     key: ""
     note: "1page"
     group: "ccm-사랑한다는말은-"
@@ -837,7 +907,8 @@ items:
     category: ccm
     mass_part: ""
     type: score
-    yahure: null
+    yahure: 581
+    haneulbada: 226
     key: ""
     note: ""
     group: "ccm-사랑한다는말은-"
@@ -850,6 +921,7 @@ items:
     mass_part: ""
     type: score
     yahure: 633
+    haneulbada: 276
     key: ""
     note: ""
     group: "ccm-아버지뜻대로-"
@@ -862,6 +934,7 @@ items:
     mass_part: ""
     type: score
     yahure: 640
+    haneulbada: 284
     key: ""
     note: ""
     group: "ccm-야곱의축복-"
@@ -873,7 +946,8 @@ items:
     category: ccm
     mass_part: ""
     type: score
-    yahure: null
+    yahure: 640
+    haneulbada: 284
     key: ""
     note: ""
     group: "ccm-야곱의축복-"
@@ -886,6 +960,7 @@ items:
     mass_part: ""
     type: score
     yahure: 648
+    haneulbada: 285
     key: ""
     note: ""
     group: "ccm-약할때강함되시네-"
@@ -898,6 +973,7 @@ items:
     mass_part: ""
     type: chordchart
     yahure: null
+    haneulbada: null
     key: ""
     note: ""
     group: "ccm-오셔서다스리소서-"
@@ -910,6 +986,7 @@ items:
     mass_part: ""
     type: score
     yahure: null
+    haneulbada: 317
     key: ""
     note: "1page"
     group: "ccm-오주여나의마음이-"
@@ -922,6 +999,7 @@ items:
     mass_part: ""
     type: score
     yahure: null
+    haneulbada: 317
     key: ""
     note: ""
     group: "ccm-오주여나의마음이-"
@@ -934,6 +1012,7 @@ items:
     mass_part: ""
     type: score
     yahure: null
+    haneulbada: null
     key: ""
     note: "We are the reason"
     group: "ccm-우리를위해-"
@@ -946,6 +1025,7 @@ items:
     mass_part: ""
     type: chordchart
     yahure: null
+    haneulbada: null
     key: ""
     note: ""
     group: "ccm-우리를위해-"
@@ -958,6 +1038,7 @@ items:
     mass_part: ""
     type: score
     yahure: 710
+    haneulbada: 336
     key: ""
     note: ""
     group: "ccm-이시간너의맘속에-"
@@ -969,7 +1050,8 @@ items:
     category: ccm
     mass_part: ""
     type: score
-    yahure: null
+    yahure: 710
+    haneulbada: 336
     key: ""
     note: ""
     group: "ccm-이시간너의맘속에-"
@@ -982,6 +1064,7 @@ items:
     mass_part: ""
     type: score
     yahure: null
+    haneulbada: null
     key: ""
     note: "Testify to love"
     group: "ccm-주님사랑노래해-"
@@ -994,6 +1077,7 @@ items:
     mass_part: ""
     type: chordchart
     yahure: null
+    haneulbada: null
     key: ""
     note: ""
     group: "ccm-주님사랑노래해-"
@@ -1006,6 +1090,7 @@ items:
     mass_part: ""
     type: chorus
     yahure: null
+    haneulbada: null
     key: ""
     note: ""
     group: "ccm-주님사랑노래해-"
@@ -1018,6 +1103,7 @@ items:
     mass_part: ""
     type: score
     yahure: 768
+    haneulbada: null
     key: ""
     note: ""
     group: "ccm-주님은나의목자-"
@@ -1029,7 +1115,8 @@ items:
     category: ccm
     mass_part: ""
     type: chordchart
-    yahure: null
+    yahure: 796
+    haneulbada: null
     key: ""
     note: "Can't live a day"
     group: "ccm-주없이살수없네-"
@@ -1042,6 +1129,7 @@ items:
     mass_part: ""
     type: score
     yahure: 797
+    haneulbada: null
     key: ""
     note: ""
     group: "ccm-주여나를받으소서-"
@@ -1054,6 +1142,7 @@ items:
     mass_part: ""
     type: score
     yahure: null
+    haneulbada: null
     key: ""
     note: ""
     group: "ccm-주의사랑노래해-"
@@ -1065,7 +1154,8 @@ items:
     category: ccm
     mass_part: ""
     type: score
-    yahure: null
+    yahure: 816
+    haneulbada: null
     key: ""
     note: ""
     group: "ccm-주품에품으소서-"
@@ -1078,6 +1168,7 @@ items:
     mass_part: ""
     type: score
     yahure: 816
+    haneulbada: null
     key: ""
     note: ""
     group: "ccm-주품에품으소서-"
@@ -1090,6 +1181,7 @@ items:
     mass_part: ""
     type: chordchart
     yahure: null
+    haneulbada: null
     key: ""
     note: ""
     group: "ccm-캐롤메들리-"
@@ -1102,6 +1194,7 @@ items:
     mass_part: ""
     type: score
     yahure: null
+    haneulbada: null
     key: "Bass"
     note: ""
     group: "root-EresTu-"
@@ -1114,6 +1207,7 @@ items:
     mass_part: ""
     type: chordchart
     yahure: null
+    haneulbada: null
     key: ""
     note: ""
     group: "root-EresTu-"
@@ -1125,7 +1219,8 @@ items:
     category: root
     mass_part: ""
     type: score
-    yahure: null
+    yahure: 371
+    haneulbada: 108
     key: ""
     note: ""
     group: "root-그분께로한걸음씩-"
@@ -1137,7 +1232,8 @@ items:
     category: root
     mass_part: ""
     type: score
-    yahure: null
+    yahure: 269
+    haneulbada: 111
     key: ""
     note: ""
     group: "root-글로리아높으신이의탄생-"
@@ -1149,7 +1245,8 @@ items:
     category: root
     mass_part: ""
     type: score
-    yahure: null
+    yahure: 387
+    haneulbada: 122
     key: ""
     note: ""
     group: "root-꽃-"
@@ -1162,6 +1259,7 @@ items:
     mass_part: ""
     type: score
     yahure: null
+    haneulbada: null
     key: ""
     note: ""
     group: "root-아름다운세상-"
@@ -1174,6 +1272,7 @@ items:
     mass_part: ""
     type: score
     yahure: null
+    haneulbada: null
     key: "E"
     note: ""
     group: "root-좋을시고-"
@@ -1186,6 +1285,7 @@ items:
     mass_part: ""
     type: score
     yahure: null
+    haneulbada: null
     key: "G"
     note: ""
     group: "root-좋을시고-"
@@ -1198,6 +1298,7 @@ items:
     mass_part: ""
     type: score
     yahure: null
+    haneulbada: 366
     key: ""
     note: ""
     group: "root-주님달링주님허니-"
@@ -1210,6 +1311,7 @@ items:
     mass_part: ""
     type: score
     yahure: 797
+    haneulbada: null
     key: ""
     note: ""
     group: "root-주여나를받으소서-"
@@ -1222,6 +1324,7 @@ items:
     mass_part: ""
     type: score
     yahure: null
+    haneulbada: null
     key: ""
     note: ""
     group: "root-하느님의말씀은-"
@@ -1233,7 +1336,8 @@ items:
     category: root
     mass_part: ""
     type: score
-    yahure: null
+    yahure: 927
+    haneulbada: null
     key: ""
     note: "Hosanna"
     group: "root-호산나-"

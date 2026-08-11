@@ -15,7 +15,8 @@ COMPOSERS = ["신상옥", "현정수", "최태형", "이종철", "윤남근", "�
 
 # 미사 파트 키워드 -> mass_part
 MASS_PART_RULES = [
-    (r"자비송|주님저희에게자비를|주님 저희에게 자비를", "kyrie"),
+    (r"주님저희에게자비를|주님 저희에게 자비를", "responsorial_psalm"),
+    (r"자비송", "kyrie"),
     (r"대영광송", "gloria"),
     (r"복음환호송", "gospel_acclamation"),
     (r"화답송", "responsorial_psalm"),
@@ -47,7 +48,7 @@ CORRECTIONS = {
     "마침영광송-아멘 [최태형,야훼이레118].pdf": dict(title="마침영광송", composer="최태형", mass_part="doxology", yahure=118, note="아멘 포함"),
     "보편지향기도 (어린이미사).pdf": dict(title="보편지향기도", composer="", mass_part="prayer_of_faithful", note="어린이미사"),
     "화답송 - 주님저희에게자비를.pdf": dict(title="화답송 '주님 저희에게 자비를'", composer="", mass_part="responsorial_psalm"),
-    "주님저희에게자비를.pdf": dict(title="주님 저희에게 자비를", composer="", mass_part="kyrie"),
+    "주님저희에게자비를.pdf": dict(title="주님 저희에게 자비를", composer="", mass_part="responsorial_psalm"),
     "삼위일체.pdf": dict(title="삼위일체", composer="", mass_part="other"),
     "오소서성령님저희마음을가득채우시어저희안에사랑의불이타오르게하소서.pdf": dict(title="오소서 성령님", composer="", mass_part="other"),
     "아멘.pdf": dict(title="아멘", composer="", mass_part="amen"),
@@ -315,3 +316,6 @@ print("composer(명시):", dict(Counter(i["composer"] for i in items if i["compo
 print("group 수(고유 곡):", len(set(i["group"] for i in items)))
 print("---작곡가 비어있는(미상) 파일 수:", sum(1 for i in items if not i["composer"]))
 print("---title 비어있는(정제 실패):", [it["path"] for it in items if not it["title"]])
+print()
+print("※ 성가집 번호(yahure/haneulbada)는 이 스크립트가 채우지 않습니다.")
+print("  이어서 반드시 실행: python3 scripts/match_songbooks.py --write")
