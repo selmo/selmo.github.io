@@ -24,6 +24,7 @@ exclude:
   - _archive/
   - refs/
   - cards/
+  - scripts/
   - GEMINI.md
   - "*.xlsx"
   - "*.xls"
