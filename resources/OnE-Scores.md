@@ -41,7 +41,7 @@ title: "OnE 악보 다운로드 (Scores)"
 {% for g in part_groups -%}
 {% assign gi = part_items | where: "group", g -%}
 {% assign first = gi[0] -%}
-| {{ first.title }} | {% if first.composer %}{{ first.composer }}{% else %}—{% endif %} | {% if first.yahure %}{{ first.yahure }}{% else %}—{% endif %} | {% for s in gi %}[⬇ {{ s.label }}]({{ s.url | relative_url }}){: download="" }{% unless forloop.last %} · {% endunless %}{% endfor %} |
+| {{ first.title }} | {% if first.composer %}{{ first.composer }}{% else %}—{% endif %} | {% if first.yahure %}{{ first.yahure }}{% else %}—{% endif %} | {% for s in gi %}[⬇ {{ s.label }}]({{ s.url | relative_url }}){: download="" }{% unless forloop.last %}<br>{% endunless %}{% endfor %} |
 {% endfor %}
 
   {% endif %}
@@ -58,7 +58,7 @@ title: "OnE 악보 다운로드 (Scores)"
 {% for g in one_groups -%}
 {% assign gi = one | where: "group", g -%}
 {% assign first = gi[0] -%}
-| {{ first.title }} | {% if first.composer %}{{ first.composer }}{% else %}—{% endif %} | {% for s in gi %}[⬇ {{ s.label }}]({{ s.url | relative_url }}){: download="" }{% unless forloop.last %} · {% endunless %}{% endfor %} |
+| {{ first.title }} | {% if first.composer %}{{ first.composer }}{% else %}—{% endif %} | {% for s in gi %}[⬇ {{ s.label }}]({{ s.url | relative_url }}){: download="" }{% unless forloop.last %}<br>{% endunless %}{% endfor %} |
 {% endfor %}
 
 ---
@@ -73,7 +73,7 @@ title: "OnE 악보 다운로드 (Scores)"
 {% assign gi = ccm | where: "group", g -%}
 {% assign first = gi[0] -%}
 {% assign numbered = gi | where_exp: "s", "s.yahure" -%}
-| {{ first.title }} | {% if first.composer %}{{ first.composer }}{% else %}—{% endif %} | {% if numbered.size > 0 %}{{ numbered[0].yahure }}{% else %}—{% endif %} | {% for s in gi %}[⬇ {{ s.label }}]({{ s.url | relative_url }}){: download="" }{% unless forloop.last %} · {% endunless %}{% endfor %} |
+| {{ first.title }} | {% if first.composer %}{{ first.composer }}{% else %}—{% endif %} | {% if numbered.size > 0 %}{{ numbered[0].yahure }}{% else %}—{% endif %} | {% for s in gi %}[⬇ {{ s.label }}]({{ s.url | relative_url }}){: download="" }{% unless forloop.last %}<br>{% endunless %}{% endfor %} |
 {% endfor %}
 
 ---
@@ -88,7 +88,7 @@ title: "OnE 악보 다운로드 (Scores)"
 {% assign gi = root | where: "group", g -%}
 {% assign first = gi[0] -%}
 {% assign numbered = gi | where_exp: "s", "s.yahure" -%}
-| {{ first.title }} | {% if first.composer %}{{ first.composer }}{% else %}—{% endif %} | {% if numbered.size > 0 %}{{ numbered[0].yahure }}{% else %}—{% endif %} | {% for s in gi %}[⬇ {{ s.label }}]({{ s.url | relative_url }}){: download="" }{% unless forloop.last %} · {% endunless %}{% endfor %} |
+| {{ first.title }} | {% if first.composer %}{{ first.composer }}{% else %}—{% endif %} | {% if numbered.size > 0 %}{{ numbered[0].yahure }}{% else %}—{% endif %} | {% for s in gi %}[⬇ {{ s.label }}]({{ s.url | relative_url }}){: download="" }{% unless forloop.last %}<br>{% endunless %}{% endfor %} |
 {% endfor %}
 
 ---
