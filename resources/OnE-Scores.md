@@ -4,71 +4,109 @@ title: "OnE 악보 다운로드 (Scores)"
 
 # OnE 악보 다운로드 (Scores)
 
-OnE 및 관련 작품의 악보(Score · ChordChart · Chorus)를 폴더별로 제공합니다. 각 항목을 클릭하면 PDF가 다운로드됩니다. 아래 목록은 `resources/OnE-Scores/`의 PDF 파일에서 자동 생성됩니다 — 새 악보를 해당 폴더에 추가하면 이 표에 자동으로 표시됩니다.
+미사곡 · OnE 밴드 · CCM 번역곡 등의 악보(PDF)를 곡 단위로 제공합니다. 같은 곡의 여러 버전(Score · ChordChart · Chorus · 조성별)은 **한 줄에 모아** 표시되며, 각 링크를 클릭하면 해당 PDF가 다운로드됩니다.
 
-> ⚠️ **저작권 안내**: 본 페이지에는 본인 작곡분(미사곡 · OnE 밴드 곡) 외에 타인 작곡 곡의 코드 차트(ChordChart)/스코어도 함께 포함되어 있습니다. 타인 곡 악보는 **개인 학습·반주용**으로만 다운로드·사용하시고, 상업적 재배포는 삼가 주세요.
+- **미사곡**은 전례 순서(자비송 → 대영광송 → … → 마침영광송)대로, 작곡가별로 구분했습니다.
+- **그 외 곡**은 곡명 기준으로 정리했으며, 작곡가가 파일에 명시된 경우에만 표기했습니다.
+- 목록은 `_data/scores.yml`에서 자동 생성됩니다(`scripts/gen_scores.py`로 재생성).
 
-{% comment %} OnE-Scores 경로의 PDF만 추출하여 폴더별로 분류 {% endcomment %}
-{% assign all_pdfs = site.static_files | where_exp: "f", "f.extname == '.pdf'" | where_exp: "f", "f.path contains 'OnE-Scores'" %}
+> ⚠️ **저작권 안내**: 본 페이지에는 본인 작곡분(미사곡 · OnE 밴드 곡) 외에 타인 작곡 곡의 코드 차트(ChordChart)/스코어도 포함되어 있습니다. 타인 곡 악보는 **개인 학습·반주용**으로만 사용하시고, 상업적 재배포는 삼가 주세요.
 
-{% assign missa = "" | split: "" %}
-{% assign one = "" | split: "" %}
-{% assign ccm = "" | split: "" %}
-{% assign root = "" | split: "" %}
-{% for f in all_pdfs %}
-  {% if f.path contains '/OnE-Scores/Missa/' %}{% assign missa = missa | push: f %}
-  {% elsif f.path contains '/OnE-Scores/OnE/' %}{% assign one = one | push: f %}
-  {% elsif f.path contains '/OnE-Scores/CCM/' %}{% assign ccm = ccm | push: f %}
-  {% else %}{% assign root = root | push: f %}
+{% assign all = site.data.scores.items %}
+{% assign missa = all | where: "category", "missa" %}
+{% assign one = all | where: "category", "one" %}
+{% assign ccm = all | where: "category", "ccm" %}
+{% assign root = all | where: "category", "root" %}
+{% assign groups = all | map: "group" | uniq %}
+
+**전체 {{ groups.size }}곡 · {{ all.size }}개 파일** — 미사곡 {{ missa.size }} · OnE {{ one.size }} · CCM {{ ccm.size }} · 기타 {{ root.size }}
+
+---
+
+## 미사곡 (Missa) — 전례 순서별
+
+{% assign part_keys = "kyrie,gloria,responsorial_psalm,gospel_acclamation,prayer_of_faithful,sanctus,mystery,amen,lords_prayer,agnus,doxology,other" | split: "," %}
+{% assign part_names = "자비송 (Kyrie),대영광송 (Gloria),화답송 (Responsorial Psalm),복음환호송 (Gospel Acclamation),보편지향기도 (Prayer of the Faithful),거룩하시도다 (Sanctus),신앙의 신비여 (Mystery of Faith),아멘 (Amen),주님의 기도 (Lord's Prayer),하느님의 어린양 (Agnus Dei),마침영광송·주님께 나라와 (Doxology),그 외 전례곡" | split: "," %}
+
+{% for pk in part_keys %}
+  {% assign part_name = part_names[forloop.index0] %}
+  {% assign part_items = missa | where: "mass_part", pk %}
+  {% if part_items.size > 0 %}
+    {% assign part_groups = part_items | map: "group" | uniq %}
+
+### {{ part_name }}
+
+| 곡명 | 작곡 | 야훼이레 | 악보 |
+|:---|:---|:---:|:---|
+{% for g in part_groups -%}
+{% assign gi = part_items | where: "group", g -%}
+{% assign first = gi[0] -%}
+| {{ first.title }} | {% if first.composer %}{{ first.composer }}{% else %}—{% endif %} | {% if first.yahure %}{{ first.yahure }}{% else %}—{% endif %} | {% for s in gi %}[⬇ {{ s.label }}]({{ s.url | relative_url }}){: download="" }{% unless forloop.last %} · {% endunless %}{% endfor %} |
+{% endfor %}
+
   {% endif %}
 {% endfor %}
 
-{% assign missa = missa | sort: "name" %}
-{% assign one = one | sort: "name" %}
-{% assign ccm = ccm | sort: "name" %}
-{% assign root = root | sort: "name" %}
-
-**전체 {{ all_pdfs.size }}곡** · 미사곡 {{ missa.size }} · OnE {{ one.size }} · CCM {{ ccm.size }} · 기타 {{ root.size }}
-
-## 미사곡 (Missa)
-
-{% if missa.size > 0 %}
-| 악보 | 다운로드 |
-|:---|:---:|
-{% for f in missa -%}
-| {{ f.basename }} | [⬇ PDF]({{ f.path | relative_url }}){: download="" } |
-{% endfor %}
-{% else %}_등록된 악보가 없습니다._{% endif %}
+---
 
 ## OnE 밴드 (OnE)
 
-{% if one.size > 0 %}
-| 악보 | 다운로드 |
-|:---|:---:|
-{% for f in one -%}
-| {{ f.basename }} | [⬇ PDF]({{ f.path | relative_url }}){: download="" } |
+{% assign one_groups = one | map: "group" | uniq %}
+
+| 곡명 | 작곡 | 악보 |
+|:---|:---|:---|
+{% for g in one_groups -%}
+{% assign gi = one | where: "group", g -%}
+{% assign first = gi[0] -%}
+| {{ first.title }} | {% if first.composer %}{{ first.composer }}{% else %}—{% endif %} | {% for s in gi %}[⬇ {{ s.label }}]({{ s.url | relative_url }}){: download="" }{% unless forloop.last %} · {% endunless %}{% endfor %} |
 {% endfor %}
-{% else %}_등록된 악보가 없습니다._{% endif %}
+
+---
 
 ## CCM · 번역곡 (CCM)
 
-{% if ccm.size > 0 %}
-| 악보 | 다운로드 |
-|:---|:---:|
-{% for f in ccm -%}
-| {{ f.basename }} | [⬇ PDF]({{ f.path | relative_url }}){: download="" } |
-{% endfor %}
-{% else %}_등록된 악보가 없습니다._{% endif %}
+{% assign ccm_groups = ccm | map: "group" | uniq %}
 
-## 일반 악보 (기타)
-
-{% if root.size > 0 %}
-| 악보 | 다운로드 |
-|:---|:---:|
-{% for f in root -%}
-| {{ f.basename }} | [⬇ PDF]({{ f.path | relative_url }}){: download="" } |
+| 곡명 | 작곡 | 야훼이레 | 악보 |
+|:---|:---|:---:|:---|
+{% for g in ccm_groups -%}
+{% assign gi = ccm | where: "group", g -%}
+{% assign first = gi[0] -%}
+{% assign numbered = gi | where_exp: "s", "s.yahure" -%}
+| {{ first.title }} | {% if first.composer %}{{ first.composer }}{% else %}—{% endif %} | {% if numbered.size > 0 %}{{ numbered[0].yahure }}{% else %}—{% endif %} | {% for s in gi %}[⬇ {{ s.label }}]({{ s.url | relative_url }}){: download="" }{% unless forloop.last %} · {% endunless %}{% endfor %} |
 {% endfor %}
-{% else %}_등록된 악보가 없습니다._{% endif %}
+
+---
+
+## 그 외 악보 (기타)
+
+{% assign root_groups = root | map: "group" | uniq %}
+
+| 곡명 | 작곡 | 야훼이레 | 악보 |
+|:---|:---|:---:|:---|
+{% for g in root_groups -%}
+{% assign gi = root | where: "group", g -%}
+{% assign first = gi[0] -%}
+{% assign numbered = gi | where_exp: "s", "s.yahure" -%}
+| {{ first.title }} | {% if first.composer %}{{ first.composer }}{% else %}—{% endif %} | {% if numbered.size > 0 %}{{ numbered[0].yahure }}{% else %}—{% endif %} | {% for s in gi %}[⬇ {{ s.label }}]({{ s.url | relative_url }}){: download="" }{% unless forloop.last %} · {% endunless %}{% endfor %} |
+{% endfor %}
+
+---
+
+## 작곡가별 색인
+
+파일명에 작곡가가 명시된 곡만 표기합니다.
+
+{% assign named = all | where_exp: "s", "s.composer != ''" %}
+{% assign composers = named | map: "composer" | uniq | sort %}
+
+| 작곡가 | 수록곡 |
+|:---|:---|
+{% for c in composers -%}
+{% assign cs = named | where: "composer", c -%}
+{% assign cg = cs | map: "group" | uniq -%}
+| **{{ c }}** ({{ cg.size }}곡) | {% for g in cg %}{% assign gi = cs | where: "group", g %}{{ gi[0].title }}{% unless forloop.last %} · {% endunless %}{% endfor %} |
+{% endfor %}
 
 ---
 
