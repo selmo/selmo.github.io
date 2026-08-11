@@ -406,6 +406,71 @@ items:
     note: ""
     group: "missa-오소서성령님-"
     label: "Score"
+  - path: "resources/OnE-Scores/OnE/기적.pdf"
+    url: "/resources/OnE-Scores/OnE/%EA%B8%B0%EC%A0%81.pdf"
+    title: "기적"
+    composer: "김용휘"
+    category: one
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "one-기적-김용휘"
+    label: "Score"
+  - path: "resources/OnE-Scores/OnE/[Score] 처음과같이.pdf"
+    url: "/resources/OnE-Scores/OnE/%5BScore%5D%20%EC%B2%98%EC%9D%8C%EA%B3%BC%EA%B0%99%EC%9D%B4.pdf"
+    title: "처음과 같이"
+    composer: "김용휘"
+    category: one
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "one-처음과같이-김용휘"
+    label: "Score"
+  - path: "resources/OnE-Scores/OnE/처음과 같이.pdf"
+    url: "/resources/OnE-Scores/OnE/%EC%B2%98%EC%9D%8C%EA%B3%BC%20%EA%B0%99%EC%9D%B4.pdf"
+    title: "처음과 같이"
+    composer: "김용휘"
+    category: one
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "one-처음과같이-김용휘"
+    label: "Score 2"
+  - path: "resources/OnE-Scores/OnE/[Score] 나의 하루.pdf"
+    url: "/resources/OnE-Scores/OnE/%5BScore%5D%20%EB%82%98%EC%9D%98%20%ED%95%98%EB%A3%A8.pdf"
+    title: "나의 하루"
+    composer: "박정선"
+    category: one
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "one-나의하루-박정선"
+    label: "Score"
+  - path: "resources/OnE-Scores/OnE/나의하루.pdf"
+    url: "/resources/OnE-Scores/OnE/%EB%82%98%EC%9D%98%ED%95%98%EB%A3%A8.pdf"
+    title: "나의 하루"
+    composer: "박정선"
+    category: one
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "one-나의하루-박정선"
+    label: "Score 2"
   - path: "resources/OnE-Scores/OnE/[Score] 주의사랑과권능으로.pdf"
     url: "/resources/OnE-Scores/OnE/%5BScore%5D%20%EC%A3%BC%EC%9D%98%EC%82%AC%EB%9E%91%EA%B3%BC%EA%B6%8C%EB%8A%A5%EC%9C%BC%EB%A1%9C.pdf"
     title: "주의 사랑과 권능으로"
@@ -575,58 +640,6 @@ items:
     note: ""
     group: "one-하나되어-최태형"
     label: "Score"
-  - path: "resources/OnE-Scores/OnE/Someday!.pdf"
-    url: "/resources/OnE-Scores/OnE/Someday%21.pdf"
-    title: "Someday!"
-    composer: ""
-    category: one
-    mass_part: ""
-    type: score
-    yahure: null
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "one-Someday!-"
-    label: "Score"
-  - path: "resources/OnE-Scores/OnE/기적.pdf"
-    url: "/resources/OnE-Scores/OnE/%EA%B8%B0%EC%A0%81.pdf"
-    title: "기적"
-    composer: ""
-    category: one
-    mass_part: ""
-    type: score
-    yahure: null
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "one-기적-"
-    label: "Score"
-  - path: "resources/OnE-Scores/OnE/[Score] 나의 하루.pdf"
-    url: "/resources/OnE-Scores/OnE/%5BScore%5D%20%EB%82%98%EC%9D%98%20%ED%95%98%EB%A3%A8.pdf"
-    title: "나의 하루"
-    composer: ""
-    category: one
-    mass_part: ""
-    type: score
-    yahure: null
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "one-나의하루-"
-    label: "Score"
-  - path: "resources/OnE-Scores/OnE/나의하루.pdf"
-    url: "/resources/OnE-Scores/OnE/%EB%82%98%EC%9D%98%ED%95%98%EB%A3%A8.pdf"
-    title: "나의 하루"
-    composer: ""
-    category: one
-    mass_part: ""
-    type: score
-    yahure: null
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "one-나의하루-"
-    label: "Score 2"
   - path: "resources/OnE-Scores/OnE/나일어나.pdf"
     url: "/resources/OnE-Scores/OnE/%EB%82%98%EC%9D%BC%EC%96%B4%EB%82%98.pdf"
     title: "나 일어나"
@@ -640,32 +653,6 @@ items:
     note: ""
     group: "one-나일어나-"
     label: "Score"
-  - path: "resources/OnE-Scores/OnE/[Score] 처음과같이.pdf"
-    url: "/resources/OnE-Scores/OnE/%5BScore%5D%20%EC%B2%98%EC%9D%8C%EA%B3%BC%EA%B0%99%EC%9D%B4.pdf"
-    title: "처음과 같이"
-    composer: ""
-    category: one
-    mass_part: ""
-    type: score
-    yahure: null
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "one-처음과같이-"
-    label: "Score"
-  - path: "resources/OnE-Scores/OnE/처음과 같이.pdf"
-    url: "/resources/OnE-Scores/OnE/%EC%B2%98%EC%9D%8C%EA%B3%BC%20%EA%B0%99%EC%9D%B4.pdf"
-    title: "처음과 같이"
-    composer: ""
-    category: one
-    mass_part: ""
-    type: score
-    yahure: null
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "one-처음과같이-"
-    label: "Score 2"
   - path: "resources/OnE-Scores/CCM/The Other Side.pdf"
     url: "/resources/OnE-Scores/CCM/The%20Other%20Side.pdf"
     title: "The Other Side"

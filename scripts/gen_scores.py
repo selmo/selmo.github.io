@@ -11,7 +11,8 @@ from urllib.parse import quote
 ROOT = "resources/OnE-Scores"
 
 # 작곡가 후보 (파일명에 명시되는 이름)
-COMPOSERS = ["신상옥", "현정수", "최태형", "이종철", "윤남근", "신지은", "이지혜"]
+COMPOSERS = ["신상옥", "현정수", "최태형", "이종철", "윤남근", "신지은", "이지혜",
+             "김용휘", "박정선"]
 
 # 미사 파트 키워드 -> mass_part
 MASS_PART_RULES = [
@@ -68,8 +69,13 @@ CORRECTIONS = {
     # OnE
     "주의사랑과권능으로.pdf": dict(title="주의 사랑과 권능으로", composer="윤남근"),
     "나일어나.pdf": dict(title="나 일어나"),
-    "처음과 같이.pdf": dict(title="처음과 같이"),
-    "나의하루.pdf": dict(title="나의 하루"),
+    # OnE — 김용휘 작곡
+    "기적.pdf": dict(title="기적", composer="김용휘"),
+    "처음과 같이.pdf": dict(title="처음과 같이", composer="김용휘"),
+    "처음과같이.pdf": dict(title="처음과 같이", composer="김용휘"),
+    # OnE — 박정선 작곡
+    "나의하루.pdf": dict(title="나의 하루", composer="박정선"),
+    "나의 하루.pdf": dict(title="나의 하루", composer="박정선"),
     # OnE — 최태형 작곡 (파일명에 작곡가 미표기, 작곡자 확인분)
     "섬-DAY!.pdf": dict(title="섬-DAY!", composer="최태형"),
     "나의 기도가 이루어질 때.pdf": dict(title="나의 기도가 이루어질 때", composer="최태형"),
@@ -111,8 +117,7 @@ CORRECTIONS = {
     "주품에품으소서.pdf": dict(title="주품에 품으소서"),
     "주여 나를 받으소서 [야훼이레, 797] - Full Score.pdf": dict(title="주여 나를 받으소서", yahure=797),
     "오셔서다스리소서.pdf": dict(title="오셔서 다스리소서"),
-    # OnE 나머지 띄어쓰기 (작곡가 지정분은 위 OnE 블록 참조 — 여기서 중복 지정 금지)
-    "처음과같이.pdf": dict(title="처음과 같이"),
+    # (OnE 곡의 제목 정제·작곡가 지정은 모두 위 OnE 블록에 모아둠 — 여기서 중복 지정 금지)
     # 루트
     "주여나를받으소서 [야훼이레, 797].pdf": dict(title="주여 나를 받으소서", yahure=797),
     "글로리아높으신이의탄생.pdf": dict(title="글로리아 높으신 이의 탄생"),
