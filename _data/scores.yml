@@ -419,6 +419,162 @@ items:
     note: ""
     group: "one-주의사랑과권능으로-윤남근"
     label: "Score"
+  - path: "resources/OnE-Scores/OnE/[Score] 나의 기도가 이루어질 때.pdf"
+    url: "/resources/OnE-Scores/OnE/%5BScore%5D%20%EB%82%98%EC%9D%98%20%EA%B8%B0%EB%8F%84%EA%B0%80%20%EC%9D%B4%EB%A3%A8%EC%96%B4%EC%A7%88%20%EB%95%8C.pdf"
+    title: "나의 기도가 이루어질 때"
+    composer: "최태형"
+    category: one
+    mass_part: ""
+    type: score
+    yahure: 414
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "one-나의기도가이루어질때-최태형"
+    label: "Score"
+  - path: "resources/OnE-Scores/OnE/[Score] 내 영혼아 주님을.pdf"
+    url: "/resources/OnE-Scores/OnE/%5BScore%5D%20%EB%82%B4%20%EC%98%81%ED%98%BC%EC%95%84%20%EC%A3%BC%EB%8B%98%EC%9D%84.pdf"
+    title: "내 영혼아 주님을"
+    composer: "최태형"
+    category: one
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "one-내영혼아주님을-최태형"
+    label: "Score"
+  - path: "resources/OnE-Scores/OnE/[Score] 봉헌합니다.pdf"
+    url: "/resources/OnE-Scores/OnE/%5BScore%5D%20%EB%B4%89%ED%97%8C%ED%95%A9%EB%8B%88%EB%8B%A4.pdf"
+    title: "봉헌합니다"
+    composer: "최태형"
+    category: one
+    mass_part: ""
+    type: score
+    yahure: 549
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "one-봉헌합니다-최태형"
+    label: "Score"
+  - path: "resources/OnE-Scores/OnE/섬-DAY!.pdf"
+    url: "/resources/OnE-Scores/OnE/%EC%84%AC-DAY%21.pdf"
+    title: "섬-DAY!"
+    composer: "최태형"
+    category: one
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "one-섬-DAY!-최태형"
+    label: "Score"
+  - path: "resources/OnE-Scores/OnE/일상.pdf"
+    url: "/resources/OnE-Scores/OnE/%EC%9D%BC%EC%83%81.pdf"
+    title: "일상"
+    composer: "최태형"
+    category: one
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "one-일상-최태형"
+    label: "Score"
+  - path: "resources/OnE-Scores/OnE/[Score] 주님당신께맡기나이다.pdf"
+    url: "/resources/OnE-Scores/OnE/%5BScore%5D%20%EC%A3%BC%EB%8B%98%EB%8B%B9%EC%8B%A0%EA%BB%98%EB%A7%A1%EA%B8%B0%EB%82%98%EC%9D%B4%EB%8B%A4.pdf"
+    title: "주님 당신께 맡기나이다"
+    composer: "최태형"
+    category: one
+    mass_part: ""
+    type: score
+    yahure: 761
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "one-주님당신께맡기나이다-최태형"
+    label: "Score"
+  - path: "resources/OnE-Scores/OnE/[Score] 주님제소리를들으소서.pdf"
+    url: "/resources/OnE-Scores/OnE/%5BScore%5D%20%EC%A3%BC%EB%8B%98%EC%A0%9C%EC%86%8C%EB%A6%AC%EB%A5%BC%EB%93%A4%EC%9C%BC%EC%86%8C%EC%84%9C.pdf"
+    title: "주님 제 소리를 들으소서"
+    composer: "최태형"
+    category: one
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "one-주님제소리를들으소서-최태형"
+    label: "Score"
+  - path: "resources/OnE-Scores/OnE/주님제소리를들으소서.pdf"
+    url: "/resources/OnE-Scores/OnE/%EC%A3%BC%EB%8B%98%EC%A0%9C%EC%86%8C%EB%A6%AC%EB%A5%BC%EB%93%A4%EC%9C%BC%EC%86%8C%EC%84%9C.pdf"
+    title: "주님 제 소리를 들으소서"
+    composer: "최태형"
+    category: one
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "one-주님제소리를들으소서-최태형"
+    label: "Score 2"
+  - path: "resources/OnE-Scores/OnE/[Chorus] 주님 제 소리를 들으소서.pdf"
+    url: "/resources/OnE-Scores/OnE/%5BChorus%5D%20%EC%A3%BC%EB%8B%98%20%EC%A0%9C%20%EC%86%8C%EB%A6%AC%EB%A5%BC%20%EB%93%A4%EC%9C%BC%EC%86%8C%EC%84%9C.pdf"
+    title: "주님 제 소리를 들으소서"
+    composer: "최태형"
+    category: one
+    mass_part: ""
+    type: chorus
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "one-주님제소리를들으소서-최태형"
+    label: "Chorus"
+  - path: "resources/OnE-Scores/OnE/[Score] 주님평화안에서.pdf"
+    url: "/resources/OnE-Scores/OnE/%5BScore%5D%20%EC%A3%BC%EB%8B%98%ED%8F%89%ED%99%94%EC%95%88%EC%97%90%EC%84%9C.pdf"
+    title: "주님 평화 안에서"
+    composer: "최태형"
+    category: one
+    mass_part: ""
+    type: score
+    yahure: 785
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "one-주님평화안에서-최태형"
+    label: "Score"
+  - path: "resources/OnE-Scores/OnE/하나되게 하소서.pdf"
+    url: "/resources/OnE-Scores/OnE/%ED%95%98%EB%82%98%EB%90%98%EA%B2%8C%20%ED%95%98%EC%86%8C%EC%84%9C.pdf"
+    title: "하나되게 하소서"
+    composer: "최태형"
+    category: one
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "one-하나되게하소서-최태형"
+    label: "Score"
+  - path: "resources/OnE-Scores/OnE/하나되어.pdf"
+    url: "/resources/OnE-Scores/OnE/%ED%95%98%EB%82%98%EB%90%98%EC%96%B4.pdf"
+    title: "하나되어"
+    composer: "최태형"
+    category: one
+    mass_part: ""
+    type: score
+    yahure: 901
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "one-하나되어-최태형"
+    label: "Score"
   - path: "resources/OnE-Scores/OnE/Someday!.pdf"
     url: "/resources/OnE-Scores/OnE/Someday%21.pdf"
     title: "Someday!"
@@ -444,19 +600,6 @@ items:
     key: ""
     note: ""
     group: "one-기적-"
-    label: "Score"
-  - path: "resources/OnE-Scores/OnE/[Score] 나의 기도가 이루어질 때.pdf"
-    url: "/resources/OnE-Scores/OnE/%5BScore%5D%20%EB%82%98%EC%9D%98%20%EA%B8%B0%EB%8F%84%EA%B0%80%20%EC%9D%B4%EB%A3%A8%EC%96%B4%EC%A7%88%20%EB%95%8C.pdf"
-    title: "나의 기도가 이루어질 때"
-    composer: ""
-    category: one
-    mass_part: ""
-    type: score
-    yahure: 414
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "one-나의기도가이루어질때-"
     label: "Score"
   - path: "resources/OnE-Scores/OnE/[Score] 나의 하루.pdf"
     url: "/resources/OnE-Scores/OnE/%5BScore%5D%20%EB%82%98%EC%9D%98%20%ED%95%98%EB%A3%A8.pdf"
@@ -497,123 +640,6 @@ items:
     note: ""
     group: "one-나일어나-"
     label: "Score"
-  - path: "resources/OnE-Scores/OnE/[Score] 내 영혼아 주님을.pdf"
-    url: "/resources/OnE-Scores/OnE/%5BScore%5D%20%EB%82%B4%20%EC%98%81%ED%98%BC%EC%95%84%20%EC%A3%BC%EB%8B%98%EC%9D%84.pdf"
-    title: "내 영혼아 주님을"
-    composer: ""
-    category: one
-    mass_part: ""
-    type: score
-    yahure: null
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "one-내영혼아주님을-"
-    label: "Score"
-  - path: "resources/OnE-Scores/OnE/[Score] 봉헌합니다.pdf"
-    url: "/resources/OnE-Scores/OnE/%5BScore%5D%20%EB%B4%89%ED%97%8C%ED%95%A9%EB%8B%88%EB%8B%A4.pdf"
-    title: "봉헌합니다"
-    composer: ""
-    category: one
-    mass_part: ""
-    type: score
-    yahure: 549
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "one-봉헌합니다-"
-    label: "Score"
-  - path: "resources/OnE-Scores/OnE/섬-DAY!.pdf"
-    url: "/resources/OnE-Scores/OnE/%EC%84%AC-DAY%21.pdf"
-    title: "섬-DAY!"
-    composer: ""
-    category: one
-    mass_part: ""
-    type: score
-    yahure: null
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "one-섬-DAY!-"
-    label: "Score"
-  - path: "resources/OnE-Scores/OnE/일상.pdf"
-    url: "/resources/OnE-Scores/OnE/%EC%9D%BC%EC%83%81.pdf"
-    title: "일상"
-    composer: ""
-    category: one
-    mass_part: ""
-    type: score
-    yahure: null
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "one-일상-"
-    label: "Score"
-  - path: "resources/OnE-Scores/OnE/[Score] 주님당신께맡기나이다.pdf"
-    url: "/resources/OnE-Scores/OnE/%5BScore%5D%20%EC%A3%BC%EB%8B%98%EB%8B%B9%EC%8B%A0%EA%BB%98%EB%A7%A1%EA%B8%B0%EB%82%98%EC%9D%B4%EB%8B%A4.pdf"
-    title: "주님 당신께 맡기나이다"
-    composer: ""
-    category: one
-    mass_part: ""
-    type: score
-    yahure: 761
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "one-주님당신께맡기나이다-"
-    label: "Score"
-  - path: "resources/OnE-Scores/OnE/[Score] 주님제소리를들으소서.pdf"
-    url: "/resources/OnE-Scores/OnE/%5BScore%5D%20%EC%A3%BC%EB%8B%98%EC%A0%9C%EC%86%8C%EB%A6%AC%EB%A5%BC%EB%93%A4%EC%9C%BC%EC%86%8C%EC%84%9C.pdf"
-    title: "주님 제 소리를 들으소서"
-    composer: ""
-    category: one
-    mass_part: ""
-    type: score
-    yahure: null
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "one-주님제소리를들으소서-"
-    label: "Score"
-  - path: "resources/OnE-Scores/OnE/주님제소리를들으소서.pdf"
-    url: "/resources/OnE-Scores/OnE/%EC%A3%BC%EB%8B%98%EC%A0%9C%EC%86%8C%EB%A6%AC%EB%A5%BC%EB%93%A4%EC%9C%BC%EC%86%8C%EC%84%9C.pdf"
-    title: "주님 제 소리를 들으소서"
-    composer: ""
-    category: one
-    mass_part: ""
-    type: score
-    yahure: null
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "one-주님제소리를들으소서-"
-    label: "Score 2"
-  - path: "resources/OnE-Scores/OnE/[Chorus] 주님 제 소리를 들으소서.pdf"
-    url: "/resources/OnE-Scores/OnE/%5BChorus%5D%20%EC%A3%BC%EB%8B%98%20%EC%A0%9C%20%EC%86%8C%EB%A6%AC%EB%A5%BC%20%EB%93%A4%EC%9C%BC%EC%86%8C%EC%84%9C.pdf"
-    title: "주님 제 소리를 들으소서"
-    composer: ""
-    category: one
-    mass_part: ""
-    type: chorus
-    yahure: null
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "one-주님제소리를들으소서-"
-    label: "Chorus"
-  - path: "resources/OnE-Scores/OnE/[Score] 주님평화안에서.pdf"
-    url: "/resources/OnE-Scores/OnE/%5BScore%5D%20%EC%A3%BC%EB%8B%98%ED%8F%89%ED%99%94%EC%95%88%EC%97%90%EC%84%9C.pdf"
-    title: "주님 평화 안에서"
-    composer: ""
-    category: one
-    mass_part: ""
-    type: score
-    yahure: 785
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "one-주님평화안에서-"
-    label: "Score"
   - path: "resources/OnE-Scores/OnE/[Score] 처음과같이.pdf"
     url: "/resources/OnE-Scores/OnE/%5BScore%5D%20%EC%B2%98%EC%9D%8C%EA%B3%BC%EA%B0%99%EC%9D%B4.pdf"
     title: "처음과 같이"
@@ -640,32 +666,6 @@ items:
     note: ""
     group: "one-처음과같이-"
     label: "Score 2"
-  - path: "resources/OnE-Scores/OnE/하나되게 하소서.pdf"
-    url: "/resources/OnE-Scores/OnE/%ED%95%98%EB%82%98%EB%90%98%EA%B2%8C%20%ED%95%98%EC%86%8C%EC%84%9C.pdf"
-    title: "하나되게 하소서"
-    composer: ""
-    category: one
-    mass_part: ""
-    type: score
-    yahure: null
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "one-하나되게하소서-"
-    label: "Score"
-  - path: "resources/OnE-Scores/OnE/하나되어.pdf"
-    url: "/resources/OnE-Scores/OnE/%ED%95%98%EB%82%98%EB%90%98%EC%96%B4.pdf"
-    title: "하나되어"
-    composer: ""
-    category: one
-    mass_part: ""
-    type: score
-    yahure: 901
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "one-하나되어-"
-    label: "Score"
   - path: "resources/OnE-Scores/CCM/The Other Side.pdf"
     url: "/resources/OnE-Scores/CCM/The%20Other%20Side.pdf"
     title: "The Other Side"

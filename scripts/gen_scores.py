@@ -67,10 +67,21 @@ CORRECTIONS = {
     "하느님의어린양 [최태형][170].pdf": dict(title="하느님의 어린양", composer="최태형", mass_part="agnus", yahure=170),
     # OnE
     "주의사랑과권능으로.pdf": dict(title="주의 사랑과 권능으로", composer="윤남근"),
-    "주님제소리를들으소서.pdf": dict(title="주님 제 소리를 들으소서"),
     "나일어나.pdf": dict(title="나 일어나"),
     "처음과 같이.pdf": dict(title="처음과 같이"),
     "나의하루.pdf": dict(title="나의 하루"),
+    # OnE — 최태형 작곡 (파일명에 작곡가 미표기, 작곡자 확인분)
+    "섬-DAY!.pdf": dict(title="섬-DAY!", composer="최태형"),
+    "나의 기도가 이루어질 때.pdf": dict(title="나의 기도가 이루어질 때", composer="최태형"),
+    "내 영혼아 주님을.pdf": dict(title="내 영혼아 주님을", composer="최태형"),
+    "봉헌합니다.pdf": dict(title="봉헌합니다", composer="최태형"),
+    "일상.pdf": dict(title="일상", composer="최태형"),
+    "주님당신께맡기나이다.pdf": dict(title="주님 당신께 맡기나이다", composer="최태형"),
+    "주님제소리를들으소서.pdf": dict(title="주님 제 소리를 들으소서", composer="최태형"),
+    "주님 제 소리를 들으소서.pdf": dict(title="주님 제 소리를 들으소서", composer="최태형"),
+    "주님평화안에서.pdf": dict(title="주님 평화 안에서", composer="최태형"),
+    "하나되게 하소서.pdf": dict(title="하나되게 하소서", composer="최태형"),
+    "하나되어.pdf": dict(title="하나되어", composer="최태형"),
     # CCM — title 띄어쓰기 / note
     "주품에 816 - Full Score.pdf": dict(title="주품에 품으소서", yahure=816),
     "우리를 위해 [We are the reason].pdf": dict(title="우리를 위해", note="We are the reason"),
@@ -100,12 +111,8 @@ CORRECTIONS = {
     "주품에품으소서.pdf": dict(title="주품에 품으소서"),
     "주여 나를 받으소서 [야훼이레, 797] - Full Score.pdf": dict(title="주여 나를 받으소서", yahure=797),
     "오셔서다스리소서.pdf": dict(title="오셔서 다스리소서"),
-    # OnE 나머지 띄어쓰기
-    "주님당신께맡기나이다.pdf": dict(title="주님 당신께 맡기나이다"),
-    "주님평화안에서.pdf": dict(title="주님 평화 안에서"),
+    # OnE 나머지 띄어쓰기 (작곡가 지정분은 위 OnE 블록 참조 — 여기서 중복 지정 금지)
     "처음과같이.pdf": dict(title="처음과 같이"),
-    "내 영혼아 주님을.pdf": dict(title="내 영혼아 주님을"),
-    "나의 기도가 이루어질 때.pdf": dict(title="나의 기도가 이루어질 때"),
     # 루트
     "주여나를받으소서 [야훼이레, 797].pdf": dict(title="주여 나를 받으소서", yahure=797),
     "글로리아높으신이의탄생.pdf": dict(title="글로리아 높으신 이의 탄생"),
