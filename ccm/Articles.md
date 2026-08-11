@@ -29,7 +29,11 @@ title: "생활성가·가톨릭 CCM·찬양사도 기사 모음 (Articles)"
 
 {% for t in types %}
   {% assign type_label = type_labels[forloop.index0] %}
-  {% assign group = items | where: "source_type", t | sort: "date" | reverse %}
+  {% assign group = items | where: "source_type", t %}
+  {% assign with_date = group | where_exp: "a", "a.date" %}
+  {% assign no_date = group | where_exp: "a", "a.date == nil" %}
+  {% assign sorted = with_date | sort: "date" | reverse %}
+  {% assign group = sorted | concat: no_date %}
   {% if group.size > 0 %}
 
 ## {{ type_label }} ({{ group.size }})
