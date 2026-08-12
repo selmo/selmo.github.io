@@ -406,6 +406,32 @@ items:
     note: ""
     group: "missa-삼위일체-"
     label: "Score"
+  - path: "resources/OnE-Scores/Missa/Eres Tu [Bass].pdf"
+    url: "/resources/OnE-Scores/Missa/Eres%20Tu%20%5BBass%5D.pdf"
+    title: "Eres Tu"
+    composer: ""
+    category: missa
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: null
+    key: "Bass"
+    note: ""
+    group: "missa-EresTu-"
+    label: "Score · Bass"
+  - path: "resources/OnE-Scores/Missa/[ChordChart] Eres Tu.pdf"
+    url: "/resources/OnE-Scores/Missa/%5BChordChart%5D%20Eres%20Tu.pdf"
+    title: "Eres Tu"
+    composer: ""
+    category: missa
+    mass_part: ""
+    type: chordchart
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "missa-EresTu-"
+    label: "ChordChart"
   - path: "resources/OnE-Scores/OnE/기적.pdf"
     url: "/resources/OnE-Scores/OnE/%EA%B8%B0%EC%A0%81.pdf"
     title: "기적"
@@ -679,9 +705,9 @@ items:
     note: ""
     group: "ccm-WeSayYes-"
     label: "ChordChart"
-  - path: "resources/OnE-Scores/CCM/[Score] 나의가장낮은마음 [야훼이레412] - Full Score.pdf"
-    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%E1%84%82%E1%85%A1%E1%84%8B%E1%85%B4%E1%84%80%E1%85%A1%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%82%E1%85%A1%E1%86%BD%E1%84%8B%E1%85%B3%E1%86%AB%E1%84%86%E1%85%A1%E1%84%8B%E1%85%B3%E1%86%B7%20%5B%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6412%5D%20-%20Full%20Score.pdf"
-    title: "나의 가장 낮은 마음"
+  - path: "resources/OnE-Scores/CCM/[Score] 나의가장낮은마음 [야훼이레412].pdf"
+    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%E1%84%82%E1%85%A1%E1%84%8B%E1%85%B4%E1%84%80%E1%85%A1%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%82%E1%85%A1%E1%86%BD%E1%84%8B%E1%85%B3%E1%86%AB%E1%84%86%E1%85%A1%E1%84%8B%E1%85%B3%E1%86%B7%20%5B%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6412%5D.pdf"
+    title: "나의가장낮은마음"
     composer: ""
     category: ccm
     mass_part: ""
@@ -690,8 +716,138 @@ items:
     haneulbada: null
     key: ""
     note: ""
-    group: "ccm-나의가장낮은마음-"
-    label: "Score · Full"
+    group: "ccm-나의가장낮은마음-"
+    label: "Score"
+  - path: "resources/OnE-Scores/CCM/[Score] 나의모습나의소유 [야훼이레416].pdf"
+    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%E1%84%82%E1%85%A1%E1%84%8B%E1%85%B4%E1%84%86%E1%85%A9%E1%84%89%E1%85%B3%E1%86%B8%E1%84%82%E1%85%A1%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A9%E1%84%8B%E1%85%B2%20%5B%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6416%5D.pdf"
+    title: "나의모습나의소유"
+    composer: ""
+    category: ccm
+    mass_part: ""
+    type: score
+    yahure: 416
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "ccm-나의모습나의소유-"
+    label: "Score"
+  - path: "resources/OnE-Scores/CCM/[Score] 사랑한다는말은(1page).pdf"
+    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%E1%84%86%E1%85%A1%E1%86%AF%E1%84%8B%E1%85%B3%E1%86%AB%281page%29.pdf"
+    title: "사랑한다는말은"
+    composer: ""
+    category: ccm
+    mass_part: ""
+    type: score
+    yahure: 581
+    haneulbada: 226
+    key: ""
+    note: "1page"
+    group: "ccm-사랑한다는말은-"
+    label: "Score · 1page"
+  - path: "resources/OnE-Scores/CCM/[Score] 야곱의축복 [야훼이레640].pdf"
+    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%E1%84%8B%E1%85%A3%E1%84%80%E1%85%A9%E1%86%B8%E1%84%8B%E1%85%B4%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%87%E1%85%A9%E1%86%A8%20%5B%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6640%5D.pdf"
+    title: "야곱의축복"
+    composer: ""
+    category: ccm
+    mass_part: ""
+    type: score
+    yahure: 640
+    haneulbada: 284
+    key: ""
+    note: ""
+    group: "ccm-야곱의축복-"
+    label: "Score"
+  - path: "resources/OnE-Scores/CCM/[Score] 오주여나의마음이(1page).pdf"
+    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%A7%E1%84%82%E1%85%A1%E1%84%8B%E1%85%B4%E1%84%86%E1%85%A1%E1%84%8B%E1%85%B3%E1%86%B7%E1%84%8B%E1%85%B5%281page%29.pdf"
+    title: "오주여나의마음이"
+    composer: ""
+    category: ccm
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: 317
+    key: ""
+    note: "1page"
+    group: "ccm-오주여나의마음이-"
+    label: "Score · 1page"
+  - path: "resources/OnE-Scores/CCM/[Score] 이시간너의맘속에 [야훼이레710].pdf"
+    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%E1%84%8B%E1%85%B5%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%82%E1%85%A5%E1%84%8B%E1%85%B4%E1%84%86%E1%85%A1%E1%86%B7%E1%84%89%E1%85%A9%E1%86%A8%E1%84%8B%E1%85%A6%20%5B%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6710%5D.pdf"
+    title: "이시간너의맘속에"
+    composer: ""
+    category: ccm
+    mass_part: ""
+    type: score
+    yahure: 710
+    haneulbada: 336
+    key: ""
+    note: ""
+    group: "ccm-이시간너의맘속에-"
+    label: "Score"
+  - path: "resources/OnE-Scores/CCM/[Score] 주님은나의목자[야훼이레768].pdf"
+    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%E1%84%8C%E1%85%AE%E1%84%82%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%B3%E1%86%AB%E1%84%82%E1%85%A1%E1%84%8B%E1%85%B4%E1%84%86%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%A1%5B%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6768%5D.pdf"
+    title: "주님은나의목자"
+    composer: ""
+    category: ccm
+    mass_part: ""
+    type: score
+    yahure: 768
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "ccm-주님은나의목자-"
+    label: "Score"
+  - path: "resources/OnE-Scores/CCM/[Score] 주여 나를 받으소서 [야훼이레797].pdf"
+    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%A7%20%E1%84%82%E1%85%A1%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%87%E1%85%A1%E1%86%AE%E1%84%8B%E1%85%B3%E1%84%89%E1%85%A9%E1%84%89%E1%85%A5%20%5B%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6797%5D.pdf"
+    title: "주여 나를 받으소서"
+    composer: ""
+    category: ccm
+    mass_part: ""
+    type: score
+    yahure: 797
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "ccm-주여나를받으소서-"
+    label: "Score"
+  - path: "resources/OnE-Scores/CCM/[Score] 그분께로한걸음씩.pdf"
+    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%EA%B7%B8%EB%B6%84%EA%BB%98%EB%A1%9C%ED%95%9C%EA%B1%B8%EC%9D%8C%EC%94%A9.pdf"
+    title: "그분께로 한 걸음씩"
+    composer: ""
+    category: ccm
+    mass_part: ""
+    type: score
+    yahure: 371
+    haneulbada: 108
+    key: ""
+    note: ""
+    group: "ccm-그분께로한걸음씩-"
+    label: "Score"
+  - path: "resources/OnE-Scores/CCM/글로리아높으신이의탄생.pdf"
+    url: "/resources/OnE-Scores/CCM/%EA%B8%80%EB%A1%9C%EB%A6%AC%EC%95%84%EB%86%92%EC%9C%BC%EC%8B%A0%EC%9D%B4%EC%9D%98%ED%83%84%EC%83%9D.pdf"
+    title: "글로리아 높으신 이의 탄생"
+    composer: ""
+    category: ccm
+    mass_part: ""
+    type: score
+    yahure: 269
+    haneulbada: 111
+    key: ""
+    note: ""
+    group: "ccm-글로리아높으신이의탄생-"
+    label: "Score"
+  - path: "resources/OnE-Scores/CCM/[Score] 꽃.pdf"
+    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%EA%BD%83.pdf"
+    title: "꽃"
+    composer: ""
+    category: ccm
+    mass_part: ""
+    type: score
+    yahure: 387
+    haneulbada: 122
+    key: ""
+    note: ""
+    group: "ccm-꽃-"
+    label: "Score"
   - path: "resources/OnE-Scores/CCM/[Score] 나의가장낮은마음 [412].pdf"
     url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%EB%82%98%EC%9D%98%EA%B0%80%EC%9E%A5%EB%82%AE%EC%9D%80%EB%A7%88%EC%9D%8C%20%5B412%5D.pdf"
     title: "나의 가장 낮은 마음"
@@ -704,19 +860,6 @@ items:
     key: ""
     note: ""
     group: "ccm-나의가장낮은마음-"
-    label: "Score"
-  - path: "resources/OnE-Scores/CCM/[Score] 나의모습나의소유 [야훼이레,416].pdf"
-    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%EB%82%98%EC%9D%98%EB%AA%A8%EC%8A%B5%EB%82%98%EC%9D%98%EC%86%8C%EC%9C%A0%20%5B%EC%95%BC%ED%9B%BC%EC%9D%B4%EB%A0%88%2C416%5D.pdf"
-    title: "나의 모습 나의 소유"
-    composer: ""
-    category: ccm
-    mass_part: ""
-    type: score
-    yahure: 416
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "ccm-나의모습나의소유-"
     label: "Score"
   - path: "resources/OnE-Scores/CCM/[ChordChart] 나의 슬픔을.pdf"
     url: "/resources/OnE-Scores/CCM/%5BChordChart%5D%20%EB%82%98%EC%9D%98%20%EC%8A%AC%ED%94%94%EC%9D%84.pdf"
@@ -822,19 +965,6 @@ items:
     note: ""
     group: "ccm-말씀하시면-"
     label: "Score"
-  - path: "resources/OnE-Scores/CCM/[Score] 사랑은하느님에게서오는것이니 - Full Score.pdf"
-    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%B3%E1%86%AB%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%84%82%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%80%E1%85%A6%E1%84%89%E1%85%A5%E1%84%8B%E1%85%A9%E1%84%82%E1%85%B3%E1%86%AB%E1%84%80%E1%85%A5%E1%86%BA%E1%84%8B%E1%85%B5%E1%84%82%E1%85%B5%20-%20Full%20Score.pdf"
-    title: "사랑은 하느님에게서 오는 것이니"
-    composer: ""
-    category: ccm
-    mass_part: ""
-    type: score
-    yahure: null
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "ccm-사랑은하느님에게서오는것이니-"
-    label: "Score · Full"
   - path: "resources/OnE-Scores/CCM/[Score] 사랑은하느님에게서오는것이니.pdf"
     url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%B3%E1%86%AB%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%84%82%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%80%E1%85%A6%E1%84%89%E1%85%A5%E1%84%8B%E1%85%A9%E1%84%82%E1%85%B3%E1%86%AB%E1%84%80%E1%85%A5%E1%86%BA%E1%84%8B%E1%85%B5%E1%84%82%E1%85%B5.pdf"
     title: "사랑은 하느님에게서 오는 것이니"
@@ -848,19 +978,6 @@ items:
     note: ""
     group: "ccm-사랑은하느님에게서오는것이니-"
     label: "Score"
-  - path: "resources/OnE-Scores/CCM/[Score] 사랑한다는말은(1page) - Full Score.pdf"
-    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%E1%84%86%E1%85%A1%E1%86%AF%E1%84%8B%E1%85%B3%E1%86%AB%281page%29%20-%20Full%20Score.pdf"
-    title: "사랑한다는 말은"
-    composer: ""
-    category: ccm
-    mass_part: ""
-    type: score
-    yahure: 581
-    haneulbada: 226
-    key: ""
-    note: "1page"
-    group: "ccm-사랑한다는말은-"
-    label: "Score · Full · 1page"
   - path: "resources/OnE-Scores/CCM/[Score] 사랑한다는말은.pdf"
     url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%E1%84%86%E1%85%A1%E1%86%AF%E1%84%8B%E1%85%B3%E1%86%AB.pdf"
     title: "사랑한다는 말은"
@@ -873,6 +990,19 @@ items:
     key: ""
     note: ""
     group: "ccm-사랑한다는말은-"
+    label: "Score"
+  - path: "resources/OnE-Scores/CCM/[Score] 아름다운세상.pdf"
+    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%EC%84%B8%EC%83%81.pdf"
+    title: "아름다운 세상"
+    composer: ""
+    category: ccm
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "ccm-아름다운세상-"
     label: "Score"
   - path: "resources/OnE-Scores/CCM/[Score] 아버지뜻대로 [야훼이레633] - Full Score.pdf"
     url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%E1%84%8B%E1%85%A1%E1%84%87%E1%85%A5%E1%84%8C%E1%85%B5%E1%84%84%E1%85%B3%E1%86%BA%E1%84%83%E1%85%A2%E1%84%85%E1%85%A9%20%5B%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6633%5D%20-%20Full%20Score.pdf"
@@ -887,32 +1017,6 @@ items:
     note: ""
     group: "ccm-아버지뜻대로-"
     label: "Score · Full"
-  - path: "resources/OnE-Scores/CCM/[Score] 야곱의축복 [야훼이레640] - Full Score.pdf"
-    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%E1%84%8B%E1%85%A3%E1%84%80%E1%85%A9%E1%86%B8%E1%84%8B%E1%85%B4%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%87%E1%85%A9%E1%86%A8%20%5B%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6640%5D%20-%20Full%20Score.pdf"
-    title: "야곱의 축복"
-    composer: ""
-    category: ccm
-    mass_part: ""
-    type: score
-    yahure: 640
-    haneulbada: 284
-    key: ""
-    note: ""
-    group: "ccm-야곱의축복-"
-    label: "Score · Full"
-  - path: "resources/OnE-Scores/CCM/[Score] 야곱의축복.pdf"
-    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%EC%95%BC%EA%B3%B1%EC%9D%98%EC%B6%95%EB%B3%B5.pdf"
-    title: "야곱의 축복"
-    composer: ""
-    category: ccm
-    mass_part: ""
-    type: score
-    yahure: 640
-    haneulbada: 284
-    key: ""
-    note: ""
-    group: "ccm-야곱의축복-"
-    label: "Score"
   - path: "resources/OnE-Scores/CCM/약할때강함되시네 648 - Full Score.pdf"
     url: "/resources/OnE-Scores/CCM/%EC%95%BD%ED%95%A0%EB%95%8C%EA%B0%95%ED%95%A8%EB%90%98%EC%8B%9C%EB%84%A4%20648%20-%20Full%20Score.pdf"
     title: "약할 때 강함 되시네"
@@ -939,19 +1043,6 @@ items:
     note: ""
     group: "ccm-오셔서다스리소서-"
     label: "ChordChart"
-  - path: "resources/OnE-Scores/CCM/[Score] 오주여나의마음이(1page) - Full Score.pdf"
-    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%A7%E1%84%82%E1%85%A1%E1%84%8B%E1%85%B4%E1%84%86%E1%85%A1%E1%84%8B%E1%85%B3%E1%86%B7%E1%84%8B%E1%85%B5%281page%29%20-%20Full%20Score.pdf"
-    title: "오 주여 나의 마음이"
-    composer: ""
-    category: ccm
-    mass_part: ""
-    type: score
-    yahure: null
-    haneulbada: 317
-    key: ""
-    note: "1page"
-    group: "ccm-오주여나의마음이-"
-    label: "Score · Full · 1page"
   - path: "resources/OnE-Scores/CCM/[Score] 오주여나의마음이.pdf"
     url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%A7%E1%84%82%E1%85%A1%E1%84%8B%E1%85%B4%E1%84%86%E1%85%A1%E1%84%8B%E1%85%B3%E1%86%B7%E1%84%8B%E1%85%B5.pdf"
     title: "오 주여 나의 마음이"
@@ -991,31 +1082,44 @@ items:
     note: ""
     group: "ccm-우리를위해-"
     label: "ChordChart"
-  - path: "resources/OnE-Scores/CCM/[Score] 이시간너의맘속에 [야훼이레710] - Full Score.pdf"
-    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%E1%84%8B%E1%85%B5%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%82%E1%85%A5%E1%84%8B%E1%85%B4%E1%84%86%E1%85%A1%E1%86%B7%E1%84%89%E1%85%A9%E1%86%A8%E1%84%8B%E1%85%A6%20%5B%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6710%5D%20-%20Full%20Score.pdf"
-    title: "이 시간 너의 맘속에"
+  - path: "resources/OnE-Scores/CCM/[Score] 좋을시고 - Full Score(E).pdf"
+    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%EC%A2%8B%EC%9D%84%EC%8B%9C%EA%B3%A0%20-%20Full%20Score%28E%29.pdf"
+    title: "좋을시고"
     composer: ""
     category: ccm
     mass_part: ""
     type: score
-    yahure: 710
-    haneulbada: 336
-    key: ""
+    yahure: null
+    haneulbada: null
+    key: "E"
     note: ""
-    group: "ccm-이시간너의맘속에-"
-    label: "Score · Full"
-  - path: "resources/OnE-Scores/CCM/[Score] 이시간너의맘속에.pdf"
-    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%EC%9D%B4%EC%8B%9C%EA%B0%84%EB%84%88%EC%9D%98%EB%A7%98%EC%86%8D%EC%97%90.pdf"
-    title: "이 시간 너의 맘속에"
+    group: "ccm-좋을시고-"
+    label: "Score · E · Full"
+  - path: "resources/OnE-Scores/CCM/[Score] 좋을시고 - Full Score(G).pdf"
+    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%EC%A2%8B%EC%9D%84%EC%8B%9C%EA%B3%A0%20-%20Full%20Score%28G%29.pdf"
+    title: "좋을시고"
     composer: ""
     category: ccm
     mass_part: ""
     type: score
-    yahure: 710
-    haneulbada: 336
+    yahure: null
+    haneulbada: null
+    key: "G"
+    note: ""
+    group: "ccm-좋을시고-"
+    label: "Score · G · Full"
+  - path: "resources/OnE-Scores/CCM/[Score] 주님달링주님허니.pdf"
+    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%EC%A3%BC%EB%8B%98%EB%8B%AC%EB%A7%81%EC%A3%BC%EB%8B%98%ED%97%88%EB%8B%88.pdf"
+    title: "주님 달링 주님 허니"
+    composer: ""
+    category: ccm
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: 366
     key: ""
     note: ""
-    group: "ccm-이시간너의맘속에-"
+    group: "ccm-주님달링주님허니-"
     label: "Score"
   - path: "resources/OnE-Scores/CCM/[Score] 주님사랑노래해(Testify to love).pdf"
     url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%EC%A3%BC%EB%8B%98%EC%82%AC%EB%9E%91%EB%85%B8%EB%9E%98%ED%95%B4%28Testify%20to%20love%29.pdf"
@@ -1056,19 +1160,6 @@ items:
     note: ""
     group: "ccm-주님사랑노래해-"
     label: "Chorus"
-  - path: "resources/OnE-Scores/CCM/[Score] 주님은나의목자[야훼이레768] - Full Score.pdf"
-    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%E1%84%8C%E1%85%AE%E1%84%82%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%B3%E1%86%AB%E1%84%82%E1%85%A1%E1%84%8B%E1%85%B4%E1%84%86%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%A1%5B%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6768%5D%20-%20Full%20Score.pdf"
-    title: "주님은 나의 목자"
-    composer: ""
-    category: ccm
-    mass_part: ""
-    type: score
-    yahure: 768
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "ccm-주님은나의목자-"
-    label: "Score · Full"
   - path: "resources/OnE-Scores/CCM/[ChordChart] 주없이살수없네(Can't live a day).pdf"
     url: "/resources/OnE-Scores/CCM/%5BChordChart%5D%20%EC%A3%BC%EC%97%86%EC%9D%B4%EC%82%B4%EC%88%98%EC%97%86%EB%84%A4%28Can%27t%20live%20a%20day%29.pdf"
     title: "주 없이 살 수 없네"
@@ -1082,8 +1173,8 @@ items:
     note: "Can't live a day"
     group: "ccm-주없이살수없네-"
     label: "ChordChart · Can't live a day"
-  - path: "resources/OnE-Scores/CCM/[Score] 주여 나를 받으소서 [야훼이레, 797] - Full Score.pdf"
-    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%A7%20%E1%84%82%E1%85%A1%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%87%E1%85%A1%E1%86%AE%E1%84%8B%E1%85%B3%E1%84%89%E1%85%A9%E1%84%89%E1%85%A5%20%5B%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6%2C%20797%5D%20-%20Full%20Score.pdf"
+  - path: "resources/OnE-Scores/CCM/[Score] 주여나를받으소서 [야훼이레, 797].pdf"
+    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%EC%A3%BC%EC%97%AC%EB%82%98%EB%A5%BC%EB%B0%9B%EC%9C%BC%EC%86%8C%EC%84%9C%20%5B%EC%95%BC%ED%9B%BC%EC%9D%B4%EB%A0%88%2C%20797%5D.pdf"
     title: "주여 나를 받으소서"
     composer: ""
     category: ccm
@@ -1094,7 +1185,7 @@ items:
     key: ""
     note: ""
     group: "ccm-주여나를받으소서-"
-    label: "Score · Full"
+    label: "Score"
   - path: "resources/OnE-Scores/CCM/주의 사랑 노래해.pdf"
     url: "/resources/OnE-Scores/CCM/%EC%A3%BC%EC%9D%98%20%EC%82%AC%EB%9E%91%20%EB%85%B8%EB%9E%98%ED%95%B4.pdf"
     title: "주의 사랑 노래해"
@@ -1147,159 +1238,29 @@ items:
     note: ""
     group: "ccm-캐롤메들리-"
     label: "ChordChart"
-  - path: "resources/OnE-Scores/Eres Tu [Bass].pdf"
-    url: "/resources/OnE-Scores/Eres%20Tu%20%5BBass%5D.pdf"
-    title: "Eres Tu"
-    composer: ""
-    category: root
-    mass_part: ""
-    type: score
-    yahure: null
-    haneulbada: null
-    key: "Bass"
-    note: ""
-    group: "root-EresTu-"
-    label: "Score · Bass"
-  - path: "resources/OnE-Scores/[ChordChart] Eres Tu.pdf"
-    url: "/resources/OnE-Scores/%5BChordChart%5D%20Eres%20Tu.pdf"
-    title: "Eres Tu"
-    composer: ""
-    category: root
-    mass_part: ""
-    type: chordchart
-    yahure: null
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "root-EresTu-"
-    label: "ChordChart"
-  - path: "resources/OnE-Scores/[Score] 그분께로한걸음씩.pdf"
-    url: "/resources/OnE-Scores/%5BScore%5D%20%EA%B7%B8%EB%B6%84%EA%BB%98%EB%A1%9C%ED%95%9C%EA%B1%B8%EC%9D%8C%EC%94%A9.pdf"
-    title: "그분께로 한 걸음씩"
-    composer: ""
-    category: root
-    mass_part: ""
-    type: score
-    yahure: 371
-    haneulbada: 108
-    key: ""
-    note: ""
-    group: "root-그분께로한걸음씩-"
-    label: "Score"
-  - path: "resources/OnE-Scores/글로리아높으신이의탄생.pdf"
-    url: "/resources/OnE-Scores/%EA%B8%80%EB%A1%9C%EB%A6%AC%EC%95%84%EB%86%92%EC%9C%BC%EC%8B%A0%EC%9D%B4%EC%9D%98%ED%83%84%EC%83%9D.pdf"
-    title: "글로리아 높으신 이의 탄생"
-    composer: ""
-    category: root
-    mass_part: ""
-    type: score
-    yahure: 269
-    haneulbada: 111
-    key: ""
-    note: ""
-    group: "root-글로리아높으신이의탄생-"
-    label: "Score"
-  - path: "resources/OnE-Scores/[Score] 꽃.pdf"
-    url: "/resources/OnE-Scores/%5BScore%5D%20%EA%BD%83.pdf"
-    title: "꽃"
-    composer: ""
-    category: root
-    mass_part: ""
-    type: score
-    yahure: 387
-    haneulbada: 122
-    key: ""
-    note: ""
-    group: "root-꽃-"
-    label: "Score"
-  - path: "resources/OnE-Scores/[Score] 아름다운세상.pdf"
-    url: "/resources/OnE-Scores/%5BScore%5D%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%EC%84%B8%EC%83%81.pdf"
-    title: "아름다운 세상"
-    composer: ""
-    category: root
-    mass_part: ""
-    type: score
-    yahure: null
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "root-아름다운세상-"
-    label: "Score"
-  - path: "resources/OnE-Scores/[Score] 좋을시고 - Full Score(E).pdf"
-    url: "/resources/OnE-Scores/%5BScore%5D%20%EC%A2%8B%EC%9D%84%EC%8B%9C%EA%B3%A0%20-%20Full%20Score%28E%29.pdf"
-    title: "좋을시고"
-    composer: ""
-    category: root
-    mass_part: ""
-    type: score
-    yahure: null
-    haneulbada: null
-    key: "E"
-    note: ""
-    group: "root-좋을시고-"
-    label: "Score · E · Full"
-  - path: "resources/OnE-Scores/[Score] 좋을시고 - Full Score(G).pdf"
-    url: "/resources/OnE-Scores/%5BScore%5D%20%EC%A2%8B%EC%9D%84%EC%8B%9C%EA%B3%A0%20-%20Full%20Score%28G%29.pdf"
-    title: "좋을시고"
-    composer: ""
-    category: root
-    mass_part: ""
-    type: score
-    yahure: null
-    haneulbada: null
-    key: "G"
-    note: ""
-    group: "root-좋을시고-"
-    label: "Score · G · Full"
-  - path: "resources/OnE-Scores/[Score] 주님달링주님허니.pdf"
-    url: "/resources/OnE-Scores/%5BScore%5D%20%EC%A3%BC%EB%8B%98%EB%8B%AC%EB%A7%81%EC%A3%BC%EB%8B%98%ED%97%88%EB%8B%88.pdf"
-    title: "주님 달링 주님 허니"
-    composer: ""
-    category: root
-    mass_part: ""
-    type: score
-    yahure: null
-    haneulbada: 366
-    key: ""
-    note: ""
-    group: "root-주님달링주님허니-"
-    label: "Score"
-  - path: "resources/OnE-Scores/[Score] 주여나를받으소서 [야훼이레, 797].pdf"
-    url: "/resources/OnE-Scores/%5BScore%5D%20%EC%A3%BC%EC%97%AC%EB%82%98%EB%A5%BC%EB%B0%9B%EC%9C%BC%EC%86%8C%EC%84%9C%20%5B%EC%95%BC%ED%9B%BC%EC%9D%B4%EB%A0%88%2C%20797%5D.pdf"
-    title: "주여 나를 받으소서"
-    composer: ""
-    category: root
-    mass_part: ""
-    type: score
-    yahure: 797
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "root-주여나를받으소서-"
-    label: "Score"
-  - path: "resources/OnE-Scores/[Score] 하느님의말씀은.pdf"
-    url: "/resources/OnE-Scores/%5BScore%5D%20%ED%95%98%EB%8A%90%EB%8B%98%EC%9D%98%EB%A7%90%EC%94%80%EC%9D%80.pdf"
+  - path: "resources/OnE-Scores/CCM/[Score] 하느님의말씀은.pdf"
+    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%ED%95%98%EB%8A%90%EB%8B%98%EC%9D%98%EB%A7%90%EC%94%80%EC%9D%80.pdf"
     title: "하느님의 말씀은"
     composer: ""
-    category: root
+    category: ccm
     mass_part: ""
     type: score
     yahure: null
     haneulbada: null
     key: ""
     note: ""
-    group: "root-하느님의말씀은-"
+    group: "ccm-하느님의말씀은-"
     label: "Score"
-  - path: "resources/OnE-Scores/[Score] 호산나 (Hosanna).pdf"
-    url: "/resources/OnE-Scores/%5BScore%5D%20%ED%98%B8%EC%82%B0%EB%82%98%20%28Hosanna%29.pdf"
+  - path: "resources/OnE-Scores/CCM/[Score] 호산나 (Hosanna).pdf"
+    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%ED%98%B8%EC%82%B0%EB%82%98%20%28Hosanna%29.pdf"
     title: "호산나"
     composer: ""
-    category: root
+    category: ccm
     mass_part: ""
     type: score
     yahure: 927
     haneulbada: null
     key: ""
     note: "Hosanna"
-    group: "root-호산나-"
+    group: "ccm-호산나-"
     label: "Score · Hosanna"

@@ -534,3 +534,40 @@ a.yt {
     max-width: 100%;
   }
 }
+
+/* ---------------------------------------------------------------
+   작곡가별 색인 — 곡당 한 행, 본문보다 넓게
+   --------------------------------------------------------------- */
+
+.composer-index {
+  /* 본문(960px)보다 넓게 펼치되 화면을 넘지 않도록 */
+  width: min(1200px, 100vw - 48px);
+  margin-left: calc(50% - min(600px, 50vw - 24px));
+  overflow-x: auto;
+}
+
+.composer-index table {
+  width: 100%;
+}
+
+/* 작곡가 셀: 그룹의 첫 행에만 이름이 있고 나머지는 비어 있다.
+   이름이 있는 행 위에 경계선을 그어 그룹이 눈에 들어오게 한다. */
+.composer-index td:first-child {
+  white-space: nowrap;
+  vertical-align: top;
+}
+
+.composer-index td:first-child:not(:empty) {
+  border-top: 2px solid var(--border-strong);
+}
+
+.composer-index tr:has(td:first-child:not(:empty)) td {
+  border-top: 2px solid var(--border-strong);
+}
+
+@media (max-width: 1248px) {
+  .composer-index {
+    width: 100%;
+    margin-left: 0;
+  }
+}

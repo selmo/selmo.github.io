@@ -3,39 +3,294 @@
 # scores.yml 의 곡과 (title, composer) 로 연결된다.
 #   title    : scores.yml 의 title 과 같은 표기. 공백은 무시하고 비교하므로
 #              "주님 제 소리를" 과 "주님제소리를" 은 같은 곡으로 취급된다.
-#   composer : 동명이곡 구분용. scores.yml 에 작곡가가 있으면 맞춰 적는다.
-#              생략하면 제목이 같은 모든 곡에 붙는다.
-#              (예: '자비송' 은 신상옥·최태형 두 곡이 있으므로 반드시 적을 것)
+#   composer : 동명이곡 구분용. 비워 두면 제목이 같은 모든 곡에 붙는다.
 #
-# videos 항목:
-#   id     : 유튜브 영상 ID — watch?v= 뒤의 11자만.
-#            https://www.youtube.com/watch?v=32Co73wBjxA  ->  32Co73wBjxA
-#            https://youtu.be/32Co73wBjxA                 ->  32Co73wBjxA
-#   title  : 표시할 이름 (필수)
-#   by     : 연주자·채널 (선택)
-#   note   : 부가 설명 (선택)
+# videos 에 아래 형식으로 채워 넣으면 악보 페이지 '영상' 열에 나타난다.
+#   videos:
+#     - id: 32Co73wBjxA      # 유튜브 영상 ID — watch?v= 뒤의 11자만
+#       title: 마침영광송 아멘 118번
+#       by: 캐톨릭 뮤직        # 연주자·채널 (선택)
+#       note: 2019년 실황      # 부가 설명 (선택)
 #
-# 악보가 없는 곡도 미리 적어둘 수 있다. 나중에 악보가 추가되면 자동으로 연결된다.
+# videos: [] 인 곡은 아직 영상이 없다는 뜻이며, 페이지에는 '—' 로 표시된다.
 #
-# ── 아래는 형식을 보여주는 예시 두 개. 실제 곡을 추가할 때 참고하세요. ──
+# 이 파일은 scripts/gen_links.py 로 곡 목록을 갱신할 수 있다.
+# (이미 입력된 videos 는 보존되고, 새 곡만 빈 자리로 추가된다)
 
 items:
-  # 예시 1) 영상이 여러 개인 곡
-  - title: 마침영광송
-    composer: 최태형
-    videos:
-      - id: 32Co73wBjxA
-        title: 마침영광송 아멘 118번
-        by: 캐톨릭 뮤직(캐뮤)
-      - id: hOzul0mdjJ8
-        title: 마침영광송
-        by: 권용석 아마데오
 
-  # 예시 2) 영상이 하나이고 설명을 덧붙인 곡
-  - title: 주의 사랑과 권능으로
-    composer: 윤남근
+  # ══════ 미사곡 ══════
+
+  # ── 자비송 ──
+  - title: "자비송"
+    composer: "신상옥"
+    videos: []
+  - title: "자비송"
+    composer: "최태형"
+    videos: []
+
+  # ── 대영광송 ──
+  - title: "대영광송"
+    composer: "신상옥"
+    videos: []
+  - title: "대영광송"
+    composer: "최태형"
+    videos: []
+
+  # ── 화답송 ──
+  - title: "내 영혼아 주님을"
+    composer: "최태형"
+    videos: []
+  - title: "화답송 '주님 저희에게 자비를'"
+    composer: ""
+    videos: []
+
+  # ── 복음환호송 ──
+  - title: "복음환호송"
+    composer: "현정수"
+    videos: []
+  - title: "복음환호송 + 보편지향기도"
+    composer: ""
+    videos: []
+  - title: "복음환호송"
+    composer: ""
+    videos: []
+  - title: "오소서 성령님"
+    composer: ""
+    videos: []
+
+  # ── 보편지향기도 ──
+  - title: "보편지향기도"
+    composer: ""
+    videos: []
+
+  # ── 거룩하시도다 ──
+  - title: "거룩하시도다"
+    composer: "신상옥"
+    videos: []
+  - title: "거룩하시도다"
+    composer: "최태형"
+    videos: []
+
+  # ── 신앙의 신비여 ──
+  - title: "신앙의 신비여"
+    composer: "신상옥"
+    videos: []
+  - title: "신앙의 신비여"
+    composer: "최태형"
+    videos: []
+  - title: "신앙의 신비여"
+    composer: "현정수"
+    videos: []
+
+  # ── 아멘 ──
+  - title: "아멘"
+    composer: ""
+    videos: []
+
+  # ── 주님의 기도 ──
+  - title: "주님의 기도"
+    composer: "신지은·이지혜"
+    videos: []
+  - title: "주님의 기도"
+    composer: "이종철"
+    videos: []
+  - title: "주님의 기도"
+    composer: "최태형"
+    videos: []
+
+  # ── 하느님의 어린양 ──
+  - title: "하느님의 어린양"
+    composer: "신상옥"
+    videos: []
+  - title: "하느님의 어린양"
+    composer: "최태형"
+    videos: []
+
+  # ── 마침영광송·주님께 나라와 ──
+  - title: "주님께 나라와"
+    composer: "신상옥"
+    videos: []
+  - title: "마침영광송"
+    composer: "최태형"
     videos:
-      - id: 4p6bCOXEfao
-        title: 주의 사랑과 권능으로
-        by: OnE
-        note: 1999년 제1회 CPBC 창작생활성가제
+      - id: "32Co73wBjxA"
+        title: "마침영광송 아멘 118번"
+        by: "캐톨릭 뮤직(캐뮤)"
+      - id: "hOzul0mdjJ8"
+        title: "마침영광송"
+        by: "권용석 아마데오"
+
+  # ── 그 외 전례곡 ──
+  - title: "삼위일체"
+    composer: ""
+    videos: []
+
+  # ──  ──
+  - title: "Eres Tu"
+    composer: ""
+    videos: []
+
+  # ══════ OnE 밴드 ══════
+  - title: "기적"
+    composer: "김용휘"
+    videos: []
+  - title: "처음과 같이"
+    composer: "김용휘"
+    videos: []
+  - title: "나의 하루"
+    composer: "박정선"
+    videos: []
+  - title: "주의 사랑과 권능으로"
+    composer: "윤남근"
+    videos:
+      - id: "4p6bCOXEfao"
+        title: "주의 사랑과 권능으로"
+        by: "OnE"
+        note: "1999년 제1회 CPBC 창작생활성가제"
+  - title: "나의 기도가 이루어질 때"
+    composer: "최태형"
+    videos: []
+  - title: "봉헌합니다"
+    composer: "최태형"
+    videos: []
+  - title: "섬-DAY!"
+    composer: "최태형"
+    videos: []
+  - title: "일상"
+    composer: "최태형"
+    videos: []
+  - title: "주님 당신께 맡기나이다"
+    composer: "최태형"
+    videos: []
+  - title: "주님 제 소리를 들으소서"
+    composer: "최태형"
+    videos: []
+  - title: "주님 평화 안에서"
+    composer: "최태형"
+    videos: []
+  - title: "하나되게 하소서"
+    composer: "최태형"
+    videos: []
+  - title: "하나되어"
+    composer: "최태형"
+    videos: []
+
+  # ══════ CCM · 번역곡 ══════
+  - title: "The Other Side"
+    composer: ""
+    videos: []
+  - title: "We Say Yes"
+    composer: ""
+    videos: []
+  - title: "나의가장낮은마음"
+    composer: ""
+    videos: []
+  - title: "나의모습나의소유"
+    composer: ""
+    videos: []
+  - title: "사랑한다는말은"
+    composer: ""
+    videos: []
+  - title: "야곱의축복"
+    composer: ""
+    videos: []
+  - title: "오주여나의마음이"
+    composer: ""
+    videos: []
+  - title: "이시간너의맘속에"
+    composer: ""
+    videos: []
+  - title: "주님은나의목자"
+    composer: ""
+    videos: []
+  - title: "주여 나를 받으소서"
+    composer: ""
+    videos: []
+  - title: "그분께로 한 걸음씩"
+    composer: ""
+    videos: []
+  - title: "글로리아 높으신 이의 탄생"
+    composer: ""
+    videos: []
+  - title: "꽃"
+    composer: ""
+    videos: []
+  - title: "나의 가장 낮은 마음"
+    composer: ""
+    videos: []
+  - title: "나의 슬픔을"
+    composer: ""
+    videos: []
+  - title: "나 일어나"
+    composer: ""
+    videos: []
+  - title: "내가 천사의 말한다 해도"
+    composer: ""
+    videos: []
+  - title: "내 맘에 오시는 주"
+    composer: ""
+    videos: []
+  - title: "내 이름 아시죠"
+    composer: ""
+    videos: []
+  - title: "돌아가리라"
+    composer: ""
+    videos: []
+  - title: "말씀하시면"
+    composer: ""
+    videos: []
+  - title: "사랑은 하느님에게서 오는 것이니"
+    composer: ""
+    videos: []
+  - title: "사랑한다는 말은"
+    composer: ""
+    videos: []
+  - title: "아름다운 세상"
+    composer: ""
+    videos: []
+  - title: "아버지 뜻대로"
+    composer: ""
+    videos: []
+  - title: "약할 때 강함 되시네"
+    composer: ""
+    videos: []
+  - title: "오셔서 다스리소서"
+    composer: ""
+    videos: []
+  - title: "오 주여 나의 마음이"
+    composer: ""
+    videos: []
+  - title: "우리를 위해"
+    composer: ""
+    videos: []
+  - title: "좋을시고"
+    composer: ""
+    videos: []
+  - title: "주님 달링 주님 허니"
+    composer: ""
+    videos: []
+  - title: "주님 사랑 노래해"
+    composer: ""
+    videos: []
+  - title: "주 없이 살 수 없네"
+    composer: ""
+    videos: []
+  - title: "주여 나를 받으소서"
+    composer: ""
+    videos: []
+  - title: "주의 사랑 노래해"
+    composer: ""
+    videos: []
+  - title: "주품에 품으소서"
+    composer: ""
+    videos: []
+  - title: "캐롤 메들리"
+    composer: ""
+    videos: []
+  - title: "하느님의 말씀은"
+    composer: ""
+    videos: []
+  - title: "호산나"
+    composer: ""
+    videos: []

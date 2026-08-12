@@ -103,13 +103,21 @@ noindex: true
 {% assign named = all | where_exp: "s", "s.composer != ''" %}
 {% assign composers = named | map: "composer" | uniq | sort %}
 
-| 작곡가 | 수록곡 |
-|:---|:---|
+<div class="composer-index" markdown="1">
+
+| 작사/작곡자 | 수록곡 | 분류 | 야훼이레 | 하늘바다 |
+|:---|:---|:---|:---:|:---:|
 {% for c in composers -%}
 {% assign cs = named | where: "composer", c -%}
 {% assign cg = cs | map: "group" | uniq -%}
-| **{{ c }}** ({{ cg.size }}곡) | {% for g in cg %}{% assign gi = cs | where: "group", g %}{{ gi[0].title }}{% unless forloop.last %} · {% endunless %}{% endfor %} |
+{% for g in cg -%}
+{% assign gi = cs | where: "group", g -%}
+{% assign s = gi[0] -%}
+| {% if forloop.first %}**{{ c }}** <sub>({{ cg.size }}곡)</sub>{% endif %} | {{ s.title }} | {% case s.category %}{% when 'missa' %}미사곡{% when 'one' %}OnE{% when 'ccm' %}CCM{% else %}기타{% endcase %} | {% if s.yahure %}{{ s.yahure }}{% else %}—{% endif %} | {% if s.haneulbada %}{{ s.haneulbada }}{% else %}—{% endif %} |
+{% endfor -%}
 {% endfor %}
+
+</div>
 
 ---
 
