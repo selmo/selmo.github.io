@@ -1,0 +1,41 @@
+# 곡별 영상·음원 링크
+#
+# scores.yml 의 곡과 (title, composer) 로 연결된다.
+#   title    : scores.yml 의 title 과 같은 표기. 공백은 무시하고 비교하므로
+#              "주님 제 소리를" 과 "주님제소리를" 은 같은 곡으로 취급된다.
+#   composer : 동명이곡 구분용. scores.yml 에 작곡가가 있으면 맞춰 적는다.
+#              생략하면 제목이 같은 모든 곡에 붙는다.
+#              (예: '자비송' 은 신상옥·최태형 두 곡이 있으므로 반드시 적을 것)
+#
+# videos 항목:
+#   id     : 유튜브 영상 ID — watch?v= 뒤의 11자만.
+#            https://www.youtube.com/watch?v=32Co73wBjxA  ->  32Co73wBjxA
+#            https://youtu.be/32Co73wBjxA                 ->  32Co73wBjxA
+#   title  : 표시할 이름 (필수)
+#   by     : 연주자·채널 (선택)
+#   note   : 부가 설명 (선택)
+#
+# 악보가 없는 곡도 미리 적어둘 수 있다. 나중에 악보가 추가되면 자동으로 연결된다.
+#
+# ── 아래는 형식을 보여주는 예시 두 개. 실제 곡을 추가할 때 참고하세요. ──
+
+items:
+  # 예시 1) 영상이 여러 개인 곡
+  - title: 마침영광송
+    composer: 최태형
+    videos:
+      - id: 32Co73wBjxA
+        title: 마침영광송 아멘 118번
+        by: 캐톨릭 뮤직(캐뮤)
+      - id: hOzul0mdjJ8
+        title: 마침영광송
+        by: 권용석 아마데오
+
+  # 예시 2) 영상이 하나이고 설명을 덧붙인 곡
+  - title: 주의 사랑과 권능으로
+    composer: 윤남근
+    videos:
+      - id: 4p6bCOXEfao
+        title: 주의 사랑과 권능으로
+        by: OnE
+        note: 1999년 제1회 CPBC 창작생활성가제

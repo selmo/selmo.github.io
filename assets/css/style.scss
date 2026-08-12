@@ -486,3 +486,51 @@ a {
     flex-wrap: wrap;
   }
 }
+
+/* ---------------------------------------------------------------
+   유튜브 인페이지 재생 (assets/js/yt-lite.js)
+   --------------------------------------------------------------- */
+
+a.yt {
+  display: inline-block;
+  white-space: nowrap;
+}
+
+/* 표 안에서 재생될 때 셀을 밀어내지 않도록 블록으로 자리 잡는다 */
+.yt-player {
+  display: block;
+  margin: 6px 0;
+  max-width: 360px;
+}
+
+.yt-player iframe {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: #000;
+}
+
+.yt-close {
+  margin-top: 4px;
+  padding: 2px 8px;
+  font-size: 0.8em;
+  font-family: inherit;
+  color: var(--text-muted);
+  background: var(--bg-elev);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.yt-close:hover {
+  color: var(--text);
+  border-color: var(--border-strong);
+}
+
+@media (max-width: 720px) {
+  .yt-player {
+    max-width: 100%;
+  }
+}
