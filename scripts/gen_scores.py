@@ -95,7 +95,9 @@ CORRECTIONS = {
     "하느님의어린양 [최태형][170].pdf": dict(title="하느님의 어린양", composer="최태형", mass_part="agnus", yahure=170),
     # OnE
     "주의사랑과권능으로.pdf": dict(title="주의 사랑과 권능으로", composer="윤남근"),
-    "나일어나.pdf": dict(title="나 일어나"),
+    "나일어나.pdf": dict(title="나 일어나", composer="Mike Ash"),
+    "나 일어나.pdf": dict(title="나 일어나", composer="Mike Ash"),
+    "돌아가리라.pdf": dict(title="돌아가리라", composer="Bill Batstone"),
     # OnE — 김용휘 작곡
     "기적.pdf": dict(title="기적", composer="김용휘"),
     "처음과 같이.pdf": dict(title="처음과 같이", composer="김용휘"),

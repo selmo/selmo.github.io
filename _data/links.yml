@@ -175,9 +175,26 @@ items:
     videos: []
 
   # ══════ CCM · 번역곡 ══════
+  - title: "돌아가리라"
+    composer: "Bill Batstone"
+    videos:
+      - id: "rrmcH_C1ajg"
+        title: "I Am Returning"
+        by: "Praise Band"
+        note: "Words of Worship"
+  - title: "나 일어나"
+    composer: "Mike Ash"
+    videos:
+      - id: "ALhSmgygXrI"
+        title: "I Will Rise Up"
+        by: "Praise Band"
+        note: "Praise Band 9 - Forever"
   - title: "The Other Side"
     composer: ""
-    videos: []
+    videos:
+      - id: "w5TMRFw9ME8"
+        title: "The Other Side"
+        by: "Avalon"
   - title: "We Say Yes"
     composer: ""
     videos: []
@@ -199,9 +216,6 @@ items:
   - title: "나의 슬픔을"
     composer: ""
     videos: []
-  - title: "나 일어나"
-    composer: ""
-    videos: []
   - title: "내가 천사의 말한다 해도"
     composer: ""
     videos: []
@@ -209,9 +223,6 @@ items:
     composer: ""
     videos: []
   - title: "내 이름 아시죠"
-    composer: ""
-    videos: []
-  - title: "돌아가리라"
     composer: ""
     videos: []
   - title: "말씀하시면"
@@ -267,7 +278,10 @@ items:
     videos: []
   - title: "주의 사랑 노래해"
     composer: ""
-    videos: []
+    videos:
+      - id: "nwQhsL98qkg"
+        title: "Testify To Love"
+        by: "Avalon"
   - title: "주품에 품으소서"
     composer: ""
     videos: []

@@ -640,6 +640,45 @@ items:
     note: ""
     group: "one-하나되어-최태형"
     label: "Score"
+  - path: "resources/OnE-Scores/CCM/[ChordChart] 돌아가리라.pdf"
+    url: "/resources/OnE-Scores/CCM/%5BChordChart%5D%20%EB%8F%8C%EC%95%84%EA%B0%80%EB%A6%AC%EB%9D%BC.pdf"
+    title: "돌아가리라"
+    composer: "Bill Batstone"
+    category: ccm
+    mass_part: ""
+    type: chordchart
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "ccm-돌아가리라-Bill Batstone"
+    label: "ChordChart"
+  - path: "resources/OnE-Scores/CCM/나일어나.pdf"
+    url: "/resources/OnE-Scores/CCM/%EB%82%98%EC%9D%BC%EC%96%B4%EB%82%98.pdf"
+    title: "나 일어나"
+    composer: "Mike Ash"
+    category: ccm
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "ccm-나일어나-Mike Ash"
+    label: "Score"
+  - path: "resources/OnE-Scores/CCM/[ChordChart] 나 일어나.pdf"
+    url: "/resources/OnE-Scores/CCM/%5BChordChart%5D%20%EB%82%98%20%EC%9D%BC%EC%96%B4%EB%82%98.pdf"
+    title: "나 일어나"
+    composer: "Mike Ash"
+    category: ccm
+    mass_part: ""
+    type: chordchart
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "ccm-나일어나-Mike Ash"
+    label: "ChordChart"
   - path: "resources/OnE-Scores/CCM/The Other Side.pdf"
     url: "/resources/OnE-Scores/CCM/The%20Other%20Side.pdf"
     title: "The Other Side"
@@ -796,32 +835,6 @@ items:
     note: ""
     group: "ccm-나의슬픔을-"
     label: "ChordChart"
-  - path: "resources/OnE-Scores/CCM/나일어나.pdf"
-    url: "/resources/OnE-Scores/CCM/%EB%82%98%EC%9D%BC%EC%96%B4%EB%82%98.pdf"
-    title: "나 일어나"
-    composer: ""
-    category: ccm
-    mass_part: ""
-    type: score
-    yahure: null
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "ccm-나일어나-"
-    label: "Score"
-  - path: "resources/OnE-Scores/CCM/[ChordChart] 나 일어나.pdf"
-    url: "/resources/OnE-Scores/CCM/%5BChordChart%5D%20%EB%82%98%20%EC%9D%BC%EC%96%B4%EB%82%98.pdf"
-    title: "나 일어나"
-    composer: ""
-    category: ccm
-    mass_part: ""
-    type: chordchart
-    yahure: null
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "ccm-나일어나-"
-    label: "ChordChart"
   - path: "resources/OnE-Scores/CCM/내가천사의말한다해도 (with Piano).pdf"
     url: "/resources/OnE-Scores/CCM/%EB%82%B4%EA%B0%80%EC%B2%9C%EC%82%AC%EC%9D%98%EB%A7%90%ED%95%9C%EB%8B%A4%ED%95%B4%EB%8F%84%20%28with%20Piano%29.pdf"
     title: "내가 천사의 말한다 해도"
@@ -861,19 +874,6 @@ items:
     note: ""
     group: "ccm-내이름아시죠-"
     label: "Score"
-  - path: "resources/OnE-Scores/CCM/[ChordChart] 돌아가리라.pdf"
-    url: "/resources/OnE-Scores/CCM/%5BChordChart%5D%20%EB%8F%8C%EC%95%84%EA%B0%80%EB%A6%AC%EB%9D%BC.pdf"
-    title: "돌아가리라"
-    composer: ""
-    category: ccm
-    mass_part: ""
-    type: chordchart
-    yahure: null
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "ccm-돌아가리라-"
-    label: "ChordChart"
   - path: "resources/OnE-Scores/CCM/[Score] 말씀하시면 [야훼이레, 514].pdf"
     url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%EB%A7%90%EC%94%80%ED%95%98%EC%8B%9C%EB%A9%B4%20%5B%EC%95%BC%ED%9B%BC%EC%9D%B4%EB%A0%88%2C%20514%5D.pdf"
     title: "말씀하시면"
