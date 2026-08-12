@@ -7,6 +7,7 @@ items:
     url: "/resources/OnE-Scores/Missa/%5BScore%5D%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EC%9E%90%EB%B9%84%EC%86%A1%20%5B%EC%8B%A0%EC%83%81%EC%98%A5%5D.pdf"
     title: "자비송"
     composer: "신상옥"
+    artist: ""
     category: missa
     mass_part: "kyrie"
     type: score
@@ -20,6 +21,7 @@ items:
     url: "/resources/OnE-Scores/Missa/%5BScore%5D%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EC%9E%90%EB%B9%84%EC%86%A1%20%5B%EC%B5%9C%ED%83%9C%ED%98%95%2C%EC%95%BC%ED%9B%BC%EC%9D%B4%EB%A0%889%5D.pdf"
     title: "자비송"
     composer: "최태형"
+    artist: ""
     category: missa
     mass_part: "kyrie"
     type: score
@@ -29,10 +31,25 @@ items:
     note: ""
     group: "missa-자비송-최태형"
     label: "Score"
+  - path: "resources/OnE-Scores/Missa/[미사곡] 자비송 [현정수,야훼이레011].pdf"
+    url: "/resources/OnE-Scores/Missa/%5B%E1%84%86%E1%85%B5%E1%84%89%E1%85%A1%E1%84%80%E1%85%A9%E1%86%A8%5D%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%B5%E1%84%89%E1%85%A9%E1%86%BC%20%5B%E1%84%92%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%89%E1%85%AE%2C%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6011%5D.pdf"
+    title: "자비송"
+    composer: "현정수"
+    artist: ""
+    category: missa
+    mass_part: "kyrie"
+    type: score
+    yahure: 11
+    haneulbada: 10
+    key: ""
+    note: ""
+    group: "missa-자비송-현정수"
+    label: "Score"
   - path: "resources/OnE-Scores/Missa/[Score][미사곡] 대영광송 - 신상옥.pdf"
     url: "/resources/OnE-Scores/Missa/%5BScore%5D%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EB%8C%80%EC%98%81%EA%B4%91%EC%86%A1%20-%20%EC%8B%A0%EC%83%81%EC%98%A5.pdf"
     title: "대영광송"
     composer: "신상옥"
+    artist: ""
     category: missa
     mass_part: "gloria"
     type: score
@@ -46,6 +63,7 @@ items:
     url: "/resources/OnE-Scores/Missa/%5BScore%5D%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EB%8C%80%EC%98%81%EA%B4%91%EC%86%A1%20%5B%EC%B5%9C%ED%83%9C%ED%98%95%2C%EC%95%BC%ED%9B%BC%EC%9D%B4%EB%A0%8831%5D.pdf"
     title: "대영광송"
     composer: "최태형"
+    artist: ""
     category: missa
     mass_part: "gloria"
     type: score
@@ -55,10 +73,39 @@ items:
     note: ""
     group: "missa-대영광송-최태형"
     label: "Score"
+  - path: "resources/OnE-Scores/Missa/[미사곡] 대영광송 [현정수,야훼이레030].pdf"
+    url: "/resources/OnE-Scores/Missa/%5B%E1%84%86%E1%85%B5%E1%84%89%E1%85%A1%E1%84%80%E1%85%A9%E1%86%A8%5D%20%E1%84%83%E1%85%A2%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%80%E1%85%AA%E1%86%BC%E1%84%89%E1%85%A9%E1%86%BC%20%5B%E1%84%92%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%89%E1%85%AE%2C%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6030%5D.pdf"
+    title: "대영광송"
+    composer: "현정수"
+    artist: ""
+    category: missa
+    mass_part: "gloria"
+    type: score
+    yahure: 30
+    haneulbada: 15
+    key: ""
+    note: ""
+    group: "missa-대영광송-현정수"
+    label: "Score"
+  - path: "resources/OnE-Scores/Missa/합창악보/대영광송.pdf"
+    url: "/resources/OnE-Scores/Missa/%E1%84%92%E1%85%A1%E1%86%B8%E1%84%8E%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%A1%E1%86%A8%E1%84%87%E1%85%A9/%E1%84%83%E1%85%A2%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%80%E1%85%AA%E1%86%BC%E1%84%89%E1%85%A9%E1%86%BC.pdf"
+    title: "대영광송"
+    composer: ""
+    artist: ""
+    category: missa
+    mass_part: "gloria"
+    type: score
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: "합창"
+    group: "missa-대영광송-"
+    label: "Score · 합창"
   - path: "resources/OnE-Scores/Missa/화답송/[Score] 내 영혼아 주님을.pdf"
     url: "/resources/OnE-Scores/Missa/%E1%84%92%E1%85%AA%E1%84%83%E1%85%A1%E1%86%B8%E1%84%89%E1%85%A9%E1%86%BC/%5BScore%5D%20%EB%82%B4%20%EC%98%81%ED%98%BC%EC%95%84%20%EC%A3%BC%EB%8B%98%EC%9D%84.pdf"
     title: "내 영혼아 주님을"
     composer: "최태형"
+    artist: ""
     category: missa
     mass_part: "responsorial_psalm"
     type: score
@@ -72,6 +119,7 @@ items:
     url: "/resources/OnE-Scores/Missa/%E1%84%92%E1%85%AA%E1%84%83%E1%85%A1%E1%86%B8%E1%84%89%E1%85%A9%E1%86%BC/%5BScore%5D%20%ED%99%94%EB%8B%B5%EC%86%A1%20-%20%EC%A3%BC%EB%8B%98%EC%A0%80%ED%9D%AC%EC%97%90%EA%B2%8C%EC%9E%90%EB%B9%84%EB%A5%BC.pdf"
     title: "화답송 '주님 저희에게 자비를'"
     composer: ""
+    artist: ""
     category: missa
     mass_part: "responsorial_psalm"
     type: score
@@ -81,10 +129,11 @@ items:
     note: ""
     group: "missa-화답송'주님저희에게자비를'-"
     label: "Score"
-  - path: "resources/OnE-Scores/Missa/[Score][미사곡] 복음환호송 - 현정수 [46].pdf"
-    url: "/resources/OnE-Scores/Missa/%5BScore%5D%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EB%B3%B5%EC%9D%8C%ED%99%98%ED%98%B8%EC%86%A1%20-%20%ED%98%84%EC%A0%95%EC%88%98%20%5B46%5D.pdf"
+  - path: "resources/OnE-Scores/Missa/복음환호송/[Score][미사곡] 복음환호송 - 현정수 [46].pdf"
+    url: "/resources/OnE-Scores/Missa/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%B7%E1%84%92%E1%85%AA%E1%86%AB%E1%84%92%E1%85%A9%E1%84%89%E1%85%A9%E1%86%BC/%5BScore%5D%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EB%B3%B5%EC%9D%8C%ED%99%98%ED%98%B8%EC%86%A1%20-%20%ED%98%84%EC%A0%95%EC%88%98%20%5B46%5D.pdf"
     title: "복음환호송"
     composer: "현정수"
+    artist: ""
     category: missa
     mass_part: "gospel_acclamation"
     type: score
@@ -98,6 +147,7 @@ items:
     url: "/resources/OnE-Scores/Missa/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%B7%E1%84%92%E1%85%AA%E1%86%AB%E1%84%92%E1%85%A9%E1%84%89%E1%85%A9%E1%86%BC/%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EB%B3%B5%EC%9D%8C%ED%99%98%ED%98%B8%EC%86%A1%20%2B%20%EB%B3%B4%ED%8E%B8%EC%A7%80%ED%96%A5%EA%B8%B0%EB%8F%84.pdf"
     title: "복음환호송 + 보편지향기도"
     composer: ""
+    artist: ""
     category: missa
     mass_part: "gospel_acclamation"
     type: score
@@ -111,6 +161,7 @@ items:
     url: "/resources/OnE-Scores/Missa/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%B7%E1%84%92%E1%85%AA%E1%86%AB%E1%84%92%E1%85%A9%E1%84%89%E1%85%A9%E1%86%BC/%EB%B3%B5%EC%9D%8C%ED%99%98%ED%98%B8%EC%86%A1%289%EC%9B%9418%EC%9D%BC%29.pdf"
     title: "복음환호송"
     composer: ""
+    artist: ""
     category: missa
     mass_part: "gospel_acclamation"
     type: score
@@ -124,6 +175,7 @@ items:
     url: "/resources/OnE-Scores/Missa/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%B7%E1%84%92%E1%85%AA%E1%86%AB%E1%84%92%E1%85%A9%E1%84%89%E1%85%A9%E1%86%BC/%EB%B3%B5%EC%9D%8C%ED%99%98%ED%98%B8%EC%86%A1-20240704.pdf"
     title: "복음환호송"
     composer: ""
+    artist: ""
     category: missa
     mass_part: "gospel_acclamation"
     type: score
@@ -137,6 +189,7 @@ items:
     url: "/resources/OnE-Scores/Missa/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%B7%E1%84%92%E1%85%AA%E1%86%AB%E1%84%92%E1%85%A9%E1%84%89%E1%85%A9%E1%86%BC/%EC%98%A4%EC%86%8C%EC%84%9C%EC%84%B1%EB%A0%B9%EB%8B%98%EC%A0%80%ED%9D%AC%EB%A7%88%EC%9D%8C%EC%9D%84%EA%B0%80%EB%93%9D%EC%B1%84%EC%9A%B0%EC%8B%9C%EC%96%B4%EC%A0%80%ED%9D%AC%EC%95%88%EC%97%90%EC%82%AC%EB%9E%91%EC%9D%98%EB%B6%88%EC%9D%B4%ED%83%80%EC%98%A4%EB%A5%B4%EA%B2%8C%ED%95%98%EC%86%8C%EC%84%9C.pdf"
     title: "오소서 성령님"
     composer: ""
+    artist: ""
     category: missa
     mass_part: "gospel_acclamation"
     type: score
@@ -150,6 +203,7 @@ items:
     url: "/resources/OnE-Scores/Missa/%5BScore%5D%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EB%B3%B4%ED%8E%B8%EC%A7%80%ED%96%A5%EA%B8%B0%EB%8F%84%20%28%EC%96%B4%EB%A6%B0%EC%9D%B4%EB%AF%B8%EC%82%AC%29.pdf"
     title: "보편지향기도"
     composer: ""
+    artist: ""
     category: missa
     mass_part: "prayer_of_faithful"
     type: score
@@ -163,6 +217,7 @@ items:
     url: "/resources/OnE-Scores/Missa/%5BScore%5D%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EA%B1%B0%EB%A3%A9%ED%95%98%EC%8B%9C%EB%8F%84%EB%8B%A4%20-%20%EC%8B%A0%EC%83%81%EC%98%A5%20%5B075%5D.pdf"
     title: "거룩하시도다"
     composer: "신상옥"
+    artist: ""
     category: missa
     mass_part: "sanctus"
     type: score
@@ -176,6 +231,7 @@ items:
     url: "/resources/OnE-Scores/Missa/%5BScore%5D%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EA%B1%B0%EB%A3%A9%ED%95%98%EC%8B%9C%EB%8F%84%EB%8B%A4%20%5B%EC%B5%9C%ED%83%9C%ED%98%95%2C%EC%95%BC%ED%9B%BC%EC%9D%B4%EB%A0%8881%5D.pdf"
     title: "거룩하시도다"
     composer: "최태형"
+    artist: ""
     category: missa
     mass_part: "sanctus"
     type: score
@@ -185,10 +241,25 @@ items:
     note: ""
     group: "missa-거룩하시도다-최태형"
     label: "Score"
+  - path: "resources/OnE-Scores/Missa/[미사곡] 거룩하시도다 [현정수,야훼이레080].pdf"
+    url: "/resources/OnE-Scores/Missa/%5B%E1%84%86%E1%85%B5%E1%84%89%E1%85%A1%E1%84%80%E1%85%A9%E1%86%A8%5D%20%E1%84%80%E1%85%A5%E1%84%85%E1%85%AE%E1%86%A8%E1%84%92%E1%85%A1%E1%84%89%E1%85%B5%E1%84%83%E1%85%A9%E1%84%83%E1%85%A1%20%5B%E1%84%92%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%89%E1%85%AE%2C%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6080%5D.pdf"
+    title: "거룩하시도다"
+    composer: "현정수"
+    artist: ""
+    category: missa
+    mass_part: "sanctus"
+    type: score
+    yahure: 80
+    haneulbada: 42
+    key: ""
+    note: ""
+    group: "missa-거룩하시도다-현정수"
+    label: "Score"
   - path: "resources/OnE-Scores/Missa/[Score][미사곡] 신앙의 신비여 (신상옥).pdf"
     url: "/resources/OnE-Scores/Missa/%5BScore%5D%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EC%8B%A0%EC%95%99%EC%9D%98%20%EC%8B%A0%EB%B9%84%EC%97%AC%20%28%EC%8B%A0%EC%83%81%EC%98%A5%29.pdf"
     title: "신앙의 신비여"
     composer: "신상옥"
+    artist: ""
     category: missa
     mass_part: "mystery"
     type: score
@@ -202,6 +273,7 @@ items:
     url: "/resources/OnE-Scores/Missa/%5BScore%5D%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EC%8B%A0%EC%95%99%EC%9D%98%EC%8B%A0%EB%B9%84%EC%97%AC%20%5B%EC%B5%9C%ED%83%9C%ED%98%95%2C%EC%95%BC%ED%9B%BC%EC%9D%B4%EB%A0%88107%5D.pdf"
     title: "신앙의 신비여"
     composer: "최태형"
+    artist: ""
     category: missa
     mass_part: "mystery"
     type: score
@@ -215,6 +287,7 @@ items:
     url: "/resources/OnE-Scores/Missa/%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EC%8B%A0%EC%95%99%EC%9D%98%EC%8B%A0%EB%B9%84%EC%97%AC%28107%29.pdf"
     title: "신앙의 신비여"
     composer: "최태형"
+    artist: ""
     category: missa
     mass_part: "mystery"
     type: score
@@ -228,6 +301,7 @@ items:
     url: "/resources/OnE-Scores/Missa/%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EC%8B%A0%EC%95%99%EC%9D%98%EC%8B%A0%EB%B9%84%EC%97%AC%2B%EC%95%84%EB%A9%98.pdf"
     title: "신앙의 신비여"
     composer: "최태형"
+    artist: ""
     category: missa
     mass_part: "mystery"
     type: score
@@ -241,6 +315,7 @@ items:
     url: "/resources/OnE-Scores/Missa/%5BScore%5D%20%EC%8B%A0%EC%95%99%EC%9D%98%20%EC%8B%A0%EB%B9%84%EC%97%AC%20%5B%ED%98%84%EC%A0%95%EC%88%98%5D.pdf"
     title: "신앙의 신비여"
     composer: "현정수"
+    artist: ""
     category: missa
     mass_part: "mystery"
     type: score
@@ -254,6 +329,7 @@ items:
     url: "/resources/OnE-Scores/Missa/%5BScore%5D%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EB%A7%88%EC%B9%A8%EC%98%81%EA%B4%91%EC%86%A1-%EC%95%84%EB%A9%98%20%5B%EC%B5%9C%ED%83%9C%ED%98%95%2C%EC%95%BC%ED%9B%BC%EC%9D%B4%EB%A0%88118%5D.pdf"
     title: "마침영광송"
     composer: "최태형"
+    artist: ""
     category: missa
     mass_part: "doxology"
     type: score
@@ -263,10 +339,39 @@ items:
     note: "아멘 포함"
     group: "missa-마침영광송-최태형"
     label: "Score · 아멘 포함"
+  - path: "resources/OnE-Scores/Missa/[보급용] 마침영광송-아멘 [최태형,야훼이레118].pdf"
+    url: "/resources/OnE-Scores/Missa/%5B%E1%84%87%E1%85%A9%E1%84%80%E1%85%B3%E1%86%B8%E1%84%8B%E1%85%AD%E1%86%BC%5D%20%E1%84%86%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%80%E1%85%AA%E1%86%BC%E1%84%89%E1%85%A9%E1%86%BC-%E1%84%8B%E1%85%A1%E1%84%86%E1%85%A6%E1%86%AB%20%5B%E1%84%8E%E1%85%AC%E1%84%90%E1%85%A2%E1%84%92%E1%85%A7%E1%86%BC%2C%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6118%5D.pdf"
+    title: "마침영광송"
+    composer: "최태형"
+    artist: ""
+    category: missa
+    mass_part: "doxology"
+    type: score
+    yahure: 118
+    haneulbada: null
+    key: ""
+    note: "아멘 포함"
+    group: "missa-마침영광송-최태형"
+    label: "Score · 아멘 포함 2"
+  - path: "resources/OnE-Scores/Missa/합창악보/마침영광송 - 아멘.pdf"
+    url: "/resources/OnE-Scores/Missa/%E1%84%92%E1%85%A1%E1%86%B8%E1%84%8E%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%A1%E1%86%A8%E1%84%87%E1%85%A9/%E1%84%86%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%80%E1%85%AA%E1%86%BC%E1%84%89%E1%85%A9%E1%86%BC%20-%20%E1%84%8B%E1%85%A1%E1%84%86%E1%85%A6%E1%86%AB.pdf"
+    title: "마침영광송 - 아멘"
+    composer: ""
+    artist: ""
+    category: missa
+    mass_part: "doxology"
+    type: score
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: "합창"
+    group: "missa-마침영광송-아멘-"
+    label: "Score · 합창"
   - path: "resources/OnE-Scores/Missa/[미사곡] 아멘.pdf"
     url: "/resources/OnE-Scores/Missa/%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EC%95%84%EB%A9%98.pdf"
     title: "아멘"
     composer: ""
+    artist: ""
     category: missa
     mass_part: "amen"
     type: score
@@ -280,6 +385,7 @@ items:
     url: "/resources/OnE-Scores/Missa/Eres%20Tu%20%5BBass%5D.pdf"
     title: "주님의 기도"
     composer: "Juan Carlos Calderon"
+    artist: ""
     category: missa
     mass_part: "lords_prayer"
     type: score
@@ -293,6 +399,7 @@ items:
     url: "/resources/OnE-Scores/Missa/%5BChordChart%5D%20Eres%20Tu.pdf"
     title: "주님의 기도"
     composer: "Juan Carlos Calderon"
+    artist: ""
     category: missa
     mass_part: "lords_prayer"
     type: chordchart
@@ -306,6 +413,7 @@ items:
     url: "/resources/OnE-Scores/Missa/%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EC%A3%BC%EB%8B%98%EC%9D%98%EA%B8%B0%EB%8F%84%20-%20%EC%8B%A0%EC%A7%80%EC%9D%80%2C%EC%9D%B4%EC%A7%80%ED%98%9C.pdf"
     title: "주님의 기도"
     composer: "신지은·이지혜"
+    artist: ""
     category: missa
     mass_part: "lords_prayer"
     type: score
@@ -319,6 +427,7 @@ items:
     url: "/resources/OnE-Scores/Missa/%5BScore%5D%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EC%A3%BC%EB%8B%98%EC%9D%98%EA%B8%B0%EB%8F%84%20%28%EC%9D%B4%EC%A2%85%EC%B2%A0%2C%20%EC%96%B4%EB%A6%B0%EC%9D%B4%EB%AF%B8%EC%82%AC%29.pdf"
     title: "주님의 기도"
     composer: "이종철"
+    artist: ""
     category: missa
     mass_part: "lords_prayer"
     type: score
@@ -332,6 +441,7 @@ items:
     url: "/resources/OnE-Scores/Missa/%5BScore%5D%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EC%A3%BC%EB%8B%98%EC%9D%98%EA%B8%B0%EB%8F%84-%EC%A3%BC%EB%8B%98%EA%BB%98%EB%82%98%EB%9D%BC%EC%99%80%20%5B%EC%B5%9C%ED%83%9C%ED%98%95%2C%EC%95%BC%ED%9B%BC%EC%9D%B4%EB%A0%88131%5D.pdf"
     title: "주님의 기도"
     composer: "최태형"
+    artist: ""
     category: missa
     mass_part: "lords_prayer"
     type: score
@@ -345,6 +455,7 @@ items:
     url: "/resources/OnE-Scores/Missa/%5BScore%5D%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EC%A3%BC%EB%8B%98%EC%9D%98%EA%B8%B0%EB%8F%84-%EC%A3%BC%EB%8B%98%EA%BB%98%EB%82%98%EB%9D%BC%EC%99%80%5B%EC%B5%9C%ED%83%9C%ED%98%95%5D.pdf"
     title: "주님의 기도"
     composer: "최태형"
+    artist: ""
     category: missa
     mass_part: "lords_prayer"
     type: score
@@ -354,10 +465,25 @@ items:
     note: "주님께 나라와"
     group: "missa-주님의기도-최태형"
     label: "Score · 주님께 나라와 2"
+  - path: "resources/OnE-Scores/Missa/[보급용] 주님의기도-주님께나라와 [최태형,야훼이레131].pdf"
+    url: "/resources/OnE-Scores/Missa/%5B%E1%84%87%E1%85%A9%E1%84%80%E1%85%B3%E1%86%B8%E1%84%8B%E1%85%AD%E1%86%BC%5D%20%E1%84%8C%E1%85%AE%E1%84%82%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%B4%E1%84%80%E1%85%B5%E1%84%83%E1%85%A9-%E1%84%8C%E1%85%AE%E1%84%82%E1%85%B5%E1%86%B7%E1%84%81%E1%85%A6%E1%84%82%E1%85%A1%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AA%20%5B%E1%84%8E%E1%85%AC%E1%84%90%E1%85%A2%E1%84%92%E1%85%A7%E1%86%BC%2C%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6131%5D.pdf"
+    title: "주님의 기도"
+    composer: "최태형"
+    artist: ""
+    category: missa
+    mass_part: "lords_prayer"
+    type: score
+    yahure: 131
+    haneulbada: null
+    key: ""
+    note: "주님께 나라와"
+    group: "missa-주님의기도-최태형"
+    label: "Score · 주님께 나라와 3"
   - path: "resources/OnE-Scores/Missa/[미사곡] 주님께나라와 - 신상옥.pdf"
     url: "/resources/OnE-Scores/Missa/%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EC%A3%BC%EB%8B%98%EA%BB%98%EB%82%98%EB%9D%BC%EC%99%80%20-%20%EC%8B%A0%EC%83%81%EC%98%A5.pdf"
     title: "주님께 나라와"
     composer: "신상옥"
+    artist: ""
     category: missa
     mass_part: "kingdom"
     type: score
@@ -371,6 +497,7 @@ items:
     url: "/resources/OnE-Scores/Missa/%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EC%A3%BC%EB%8B%98%EA%BB%98%EB%82%98%EB%9D%BC%EC%99%80%2B%ED%95%98%EB%8A%90%EB%8B%98%EC%9D%98%EC%96%B4%EB%A6%B0%EC%96%91%20%5B%EC%8B%A0%EC%83%81%EC%98%A5%5D.pdf"
     title: "주님께 나라와"
     composer: "신상옥"
+    artist: ""
     category: missa
     mass_part: "kingdom"
     type: score
@@ -384,6 +511,7 @@ items:
     url: "/resources/OnE-Scores/Missa/%5BScore%5D%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%ED%95%98%EB%8A%90%EB%8B%98%EC%9D%98%EC%96%B4%EB%A6%B0%EC%96%91%20-%20%EC%8B%A0%EC%83%81%EC%98%A5%20%5B165%5D.pdf"
     title: "하느님의 어린양"
     composer: "신상옥"
+    artist: ""
     category: missa
     mass_part: "agnus"
     type: score
@@ -397,6 +525,7 @@ items:
     url: "/resources/OnE-Scores/Missa/%5BScore%5D%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%ED%95%98%EB%8A%90%EB%8B%98%EC%9D%98%EC%96%B4%EB%A6%B0%EC%96%91%20%5B%EC%B5%9C%ED%83%9C%ED%98%95%2C%EC%95%BC%ED%9B%BC%EC%9D%B4%EB%A0%88170%5D.pdf"
     title: "하느님의 어린양"
     composer: "최태형"
+    artist: ""
     category: missa
     mass_part: "agnus"
     type: score
@@ -410,6 +539,7 @@ items:
     url: "/resources/OnE-Scores/Missa/%5BScore%5D%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%ED%95%98%EB%8A%90%EB%8B%98%EC%9D%98%EC%96%B4%EB%A6%B0%EC%96%91%20%5B%EC%B5%9C%ED%83%9C%ED%98%95%5D%5B170%5D.pdf"
     title: "하느님의 어린양"
     composer: "최태형"
+    artist: ""
     category: missa
     mass_part: "agnus"
     type: score
@@ -423,6 +553,7 @@ items:
     url: "/resources/OnE-Scores/Missa/%5BScore%5D%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EC%82%BC%EC%9C%84%EC%9D%BC%EC%B2%B4.pdf"
     title: "삼위일체"
     composer: ""
+    artist: ""
     category: missa
     mass_part: "other"
     type: score
@@ -432,10 +563,67 @@ items:
     note: ""
     group: "missa-삼위일체-"
     label: "Score"
+  - path: "resources/OnE-Scores/Missa/[미사곡] 알렐루야 [현정수,야훼이레046].pdf"
+    url: "/resources/OnE-Scores/Missa/%5B%E1%84%86%E1%85%B5%E1%84%89%E1%85%A1%E1%84%80%E1%85%A9%E1%86%A8%5D%20%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%85%E1%85%A6%E1%86%AF%E1%84%85%E1%85%AE%E1%84%8B%E1%85%A3%20%5B%E1%84%92%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%89%E1%85%AE%2C%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6046%5D.pdf"
+    title: "알렐루야"
+    composer: "현정수"
+    artist: ""
+    category: missa
+    mass_part: ""
+    type: score
+    yahure: 46
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "missa-알렐루야-현정수"
+    label: "Score"
+  - path: "resources/OnE-Scores/Missa/[미사곡] 하느님의 어린양 [현정수,야훼이레169].pdf"
+    url: "/resources/OnE-Scores/Missa/%5B%E1%84%86%E1%85%B5%E1%84%89%E1%85%A1%E1%84%80%E1%85%A9%E1%86%A8%5D%20%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%84%82%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%B4%20%E1%84%8B%E1%85%A5%E1%84%85%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A3%E1%86%BC%20%5B%E1%84%92%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%89%E1%85%AE%2C%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6169%5D.pdf"
+    title: "하느님의 어린양"
+    composer: "현정수"
+    artist: ""
+    category: missa
+    mass_part: ""
+    type: score
+    yahure: 169
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "missa-하느님의어린양-현정수"
+    label: "Score"
+  - path: "resources/OnE-Scores/Missa/합창악보/복음 환호송.pdf"
+    url: "/resources/OnE-Scores/Missa/%E1%84%92%E1%85%A1%E1%86%B8%E1%84%8E%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%A1%E1%86%A8%E1%84%87%E1%85%A9/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%B7%20%E1%84%92%E1%85%AA%E1%86%AB%E1%84%92%E1%85%A9%E1%84%89%E1%85%A9%E1%86%BC.pdf"
+    title: "복음 환호송"
+    composer: ""
+    artist: ""
+    category: missa
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: "합창"
+    group: "missa-복음환호송-"
+    label: "Score · 합창"
+  - path: "resources/OnE-Scores/Missa/합창악보/주님의 기도 - 주님께 나라와.pdf"
+    url: "/resources/OnE-Scores/Missa/%E1%84%92%E1%85%A1%E1%86%B8%E1%84%8E%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%A1%E1%86%A8%E1%84%87%E1%85%A9/%E1%84%8C%E1%85%AE%E1%84%82%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%B4%20%E1%84%80%E1%85%B5%E1%84%83%E1%85%A9%20-%20%E1%84%8C%E1%85%AE%E1%84%82%E1%85%B5%E1%86%B7%E1%84%81%E1%85%A6%20%E1%84%82%E1%85%A1%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AA.pdf"
+    title: "주님의 기도 - 주님께 나라와"
+    composer: ""
+    artist: ""
+    category: missa
+    mass_part: ""
+    type: score
+    yahure: 131
+    haneulbada: null
+    key: ""
+    note: "합창"
+    group: "missa-주님의기도-주님께나라와-"
+    label: "Score · 합창"
   - path: "resources/OnE-Scores/OnE/기적.pdf"
     url: "/resources/OnE-Scores/OnE/%EA%B8%B0%EC%A0%81.pdf"
     title: "기적"
     composer: "김용휘"
+    artist: ""
     category: one
     mass_part: ""
     type: score
@@ -449,6 +637,7 @@ items:
     url: "/resources/OnE-Scores/OnE/%5BScore%5D%20%EC%B2%98%EC%9D%8C%EA%B3%BC%EA%B0%99%EC%9D%B4.pdf"
     title: "처음과 같이"
     composer: "김용휘"
+    artist: ""
     category: one
     mass_part: ""
     type: score
@@ -462,6 +651,7 @@ items:
     url: "/resources/OnE-Scores/OnE/%5BScore%5D%20%EB%82%98%EC%9D%98%20%ED%95%98%EB%A3%A8.pdf"
     title: "나의 하루"
     composer: "박정선"
+    artist: ""
     category: one
     mass_part: ""
     type: score
@@ -475,6 +665,7 @@ items:
     url: "/resources/OnE-Scores/OnE/%EB%82%98%EC%9D%98%ED%95%98%EB%A3%A8.pdf"
     title: "나의 하루"
     composer: "박정선"
+    artist: ""
     category: one
     mass_part: ""
     type: score
@@ -488,6 +679,7 @@ items:
     url: "/resources/OnE-Scores/OnE/%5BScore%5D%20%EC%A3%BC%EC%9D%98%EC%82%AC%EB%9E%91%EA%B3%BC%EA%B6%8C%EB%8A%A5%EC%9C%BC%EB%A1%9C.pdf"
     title: "주의 사랑과 권능으로"
     composer: "윤남근"
+    artist: ""
     category: one
     mass_part: ""
     type: score
@@ -501,6 +693,7 @@ items:
     url: "/resources/OnE-Scores/OnE/%5BScore%5D%20%EB%82%98%EC%9D%98%20%EA%B8%B0%EB%8F%84%EA%B0%80%20%EC%9D%B4%EB%A3%A8%EC%96%B4%EC%A7%88%20%EB%95%8C.pdf"
     title: "나의 기도가 이루어질 때"
     composer: "최태형"
+    artist: ""
     category: one
     mass_part: ""
     type: score
@@ -514,6 +707,7 @@ items:
     url: "/resources/OnE-Scores/OnE/%5BScore%5D%20%EB%B4%89%ED%97%8C%ED%95%A9%EB%8B%88%EB%8B%A4.pdf"
     title: "봉헌합니다"
     composer: "최태형"
+    artist: ""
     category: one
     mass_part: ""
     type: score
@@ -527,6 +721,7 @@ items:
     url: "/resources/OnE-Scores/OnE/%EC%84%AC-DAY%21.pdf"
     title: "섬-DAY!"
     composer: "최태형"
+    artist: ""
     category: one
     mass_part: ""
     type: score
@@ -540,6 +735,7 @@ items:
     url: "/resources/OnE-Scores/OnE/%EC%9D%BC%EC%83%81.pdf"
     title: "일상"
     composer: "최태형"
+    artist: ""
     category: one
     mass_part: ""
     type: score
@@ -553,6 +749,7 @@ items:
     url: "/resources/OnE-Scores/OnE/%5BScore%5D%20%EC%A3%BC%EB%8B%98%EB%8B%B9%EC%8B%A0%EA%BB%98%EB%A7%A1%EA%B8%B0%EB%82%98%EC%9D%B4%EB%8B%A4.pdf"
     title: "주님 당신께 맡기나이다"
     composer: "최태형"
+    artist: ""
     category: one
     mass_part: ""
     type: score
@@ -566,6 +763,7 @@ items:
     url: "/resources/OnE-Scores/OnE/%5BScore%5D%20%EC%A3%BC%EB%8B%98%EC%A0%9C%EC%86%8C%EB%A6%AC%EB%A5%BC%EB%93%A4%EC%9C%BC%EC%86%8C%EC%84%9C.pdf"
     title: "주님 제 소리를 들으소서"
     composer: "최태형"
+    artist: ""
     category: one
     mass_part: ""
     type: score
@@ -579,6 +777,7 @@ items:
     url: "/resources/OnE-Scores/OnE/%EC%A3%BC%EB%8B%98%EC%A0%9C%EC%86%8C%EB%A6%AC%EB%A5%BC%EB%93%A4%EC%9C%BC%EC%86%8C%EC%84%9C.pdf"
     title: "주님 제 소리를 들으소서"
     composer: "최태형"
+    artist: ""
     category: one
     mass_part: ""
     type: score
@@ -592,6 +791,7 @@ items:
     url: "/resources/OnE-Scores/OnE/%5BChorus%5D%20%EC%A3%BC%EB%8B%98%20%EC%A0%9C%20%EC%86%8C%EB%A6%AC%EB%A5%BC%20%EB%93%A4%EC%9C%BC%EC%86%8C%EC%84%9C.pdf"
     title: "주님 제 소리를 들으소서"
     composer: "최태형"
+    artist: ""
     category: one
     mass_part: ""
     type: chorus
@@ -605,6 +805,7 @@ items:
     url: "/resources/OnE-Scores/OnE/%5BScore%5D%20%EC%A3%BC%EB%8B%98%ED%8F%89%ED%99%94%EC%95%88%EC%97%90%EC%84%9C.pdf"
     title: "주님 평화 안에서"
     composer: "최태형"
+    artist: ""
     category: one
     mass_part: ""
     type: score
@@ -618,6 +819,7 @@ items:
     url: "/resources/OnE-Scores/OnE/%ED%95%98%EB%82%98%EB%90%98%EA%B2%8C%20%ED%95%98%EC%86%8C%EC%84%9C.pdf"
     title: "하나되게 하소서"
     composer: "최태형"
+    artist: ""
     category: one
     mass_part: ""
     type: score
@@ -631,6 +833,7 @@ items:
     url: "/resources/OnE-Scores/OnE/%ED%95%98%EB%82%98%EB%90%98%EC%96%B4.pdf"
     title: "하나되어"
     composer: "최태형"
+    artist: ""
     category: one
     mass_part: ""
     type: score
@@ -640,10 +843,11 @@ items:
     note: ""
     group: "one-하나되어-최태형"
     label: "Score"
-  - path: "resources/OnE-Scores/CCM/[ChordChart] 돌아가리라.pdf"
-    url: "/resources/OnE-Scores/CCM/%5BChordChart%5D%20%EB%8F%8C%EC%95%84%EA%B0%80%EB%A6%AC%EB%9D%BC.pdf"
+  - path: "resources/OnE-Scores/CCM/Praise Band/[ChordChart] 돌아가리라.pdf"
+    url: "/resources/OnE-Scores/CCM/Praise%20Band/%5BChordChart%5D%20%EB%8F%8C%EC%95%84%EA%B0%80%EB%A6%AC%EB%9D%BC.pdf"
     title: "돌아가리라"
     composer: "Bill Batstone"
+    artist: "Praise Band"
     category: ccm
     mass_part: ""
     type: chordchart
@@ -653,10 +857,11 @@ items:
     note: ""
     group: "ccm-돌아가리라-Bill Batstone"
     label: "ChordChart"
-  - path: "resources/OnE-Scores/CCM/나일어나.pdf"
-    url: "/resources/OnE-Scores/CCM/%EB%82%98%EC%9D%BC%EC%96%B4%EB%82%98.pdf"
+  - path: "resources/OnE-Scores/CCM/Praise Band/나일어나.pdf"
+    url: "/resources/OnE-Scores/CCM/Praise%20Band/%EB%82%98%EC%9D%BC%EC%96%B4%EB%82%98.pdf"
     title: "나 일어나"
     composer: "Mike Ash"
+    artist: "Praise Band"
     category: ccm
     mass_part: ""
     type: score
@@ -666,10 +871,11 @@ items:
     note: ""
     group: "ccm-나일어나-Mike Ash"
     label: "Score"
-  - path: "resources/OnE-Scores/CCM/[ChordChart] 나 일어나.pdf"
-    url: "/resources/OnE-Scores/CCM/%5BChordChart%5D%20%EB%82%98%20%EC%9D%BC%EC%96%B4%EB%82%98.pdf"
+  - path: "resources/OnE-Scores/CCM/Praise Band/[ChordChart] 나 일어나.pdf"
+    url: "/resources/OnE-Scores/CCM/Praise%20Band/%5BChordChart%5D%20%EB%82%98%20%EC%9D%BC%EC%96%B4%EB%82%98.pdf"
     title: "나 일어나"
     composer: "Mike Ash"
+    artist: "Praise Band"
     category: ccm
     mass_part: ""
     type: chordchart
@@ -679,10 +885,11 @@ items:
     note: ""
     group: "ccm-나일어나-Mike Ash"
     label: "ChordChart"
-  - path: "resources/OnE-Scores/CCM/The Other Side.pdf"
-    url: "/resources/OnE-Scores/CCM/The%20Other%20Side.pdf"
+  - path: "resources/OnE-Scores/CCM/Avalon/The Other Side.pdf"
+    url: "/resources/OnE-Scores/CCM/Avalon/The%20Other%20Side.pdf"
     title: "The Other Side"
     composer: ""
+    artist: "Avalon"
     category: ccm
     mass_part: ""
     type: score
@@ -692,10 +899,11 @@ items:
     note: ""
     group: "ccm-TheOtherSide-"
     label: "Score"
-  - path: "resources/OnE-Scores/CCM/[Score] The Other Side (D-Key).pdf"
-    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20The%20Other%20Side%20%28D-Key%29.pdf"
+  - path: "resources/OnE-Scores/CCM/Avalon/[Score] The Other Side (D-Key).pdf"
+    url: "/resources/OnE-Scores/CCM/Avalon/%5BScore%5D%20The%20Other%20Side%20%28D-Key%29.pdf"
     title: "The Other Side"
     composer: ""
+    artist: "Avalon"
     category: ccm
     mass_part: ""
     type: score
@@ -705,10 +913,11 @@ items:
     note: ""
     group: "ccm-TheOtherSide-"
     label: "Score · D-Key"
-  - path: "resources/OnE-Scores/CCM/[Score] The Other Side (Eb-Key).pdf"
-    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20The%20Other%20Side%20%28Eb-Key%29.pdf"
+  - path: "resources/OnE-Scores/CCM/Avalon/[Score] The Other Side (Eb-Key).pdf"
+    url: "/resources/OnE-Scores/CCM/Avalon/%5BScore%5D%20The%20Other%20Side%20%28Eb-Key%29.pdf"
     title: "The Other Side"
     composer: ""
+    artist: "Avalon"
     category: ccm
     mass_part: ""
     type: score
@@ -718,10 +927,11 @@ items:
     note: ""
     group: "ccm-TheOtherSide-"
     label: "Score · Eb-Key"
-  - path: "resources/OnE-Scores/CCM/[ChordChart] The Other Side.pdf"
-    url: "/resources/OnE-Scores/CCM/%5BChordChart%5D%20The%20Other%20Side.pdf"
+  - path: "resources/OnE-Scores/CCM/Avalon/[ChordChart] The Other Side.pdf"
+    url: "/resources/OnE-Scores/CCM/Avalon/%5BChordChart%5D%20The%20Other%20Side.pdf"
     title: "The Other Side"
     composer: ""
+    artist: "Avalon"
     category: ccm
     mass_part: ""
     type: chordchart
@@ -731,10 +941,11 @@ items:
     note: ""
     group: "ccm-TheOtherSide-"
     label: "ChordChart"
-  - path: "resources/OnE-Scores/CCM/[ChordChart] We Say Yes.pdf"
-    url: "/resources/OnE-Scores/CCM/%5BChordChart%5D%20We%20Say%20Yes.pdf"
+  - path: "resources/OnE-Scores/CCM/Praise Band/[ChordChart] We Say Yes.pdf"
+    url: "/resources/OnE-Scores/CCM/Praise%20Band/%5BChordChart%5D%20We%20Say%20Yes.pdf"
     title: "We Say Yes"
     composer: ""
+    artist: "Praise Band"
     category: ccm
     mass_part: ""
     type: chordchart
@@ -744,23 +955,11 @@ items:
     note: ""
     group: "ccm-WeSayYes-"
     label: "ChordChart"
-  - path: "resources/OnE-Scores/CCM/[Score] 그분께로한걸음씩.pdf"
-    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%EA%B7%B8%EB%B6%84%EA%BB%98%EB%A1%9C%ED%95%9C%EA%B1%B8%EC%9D%8C%EC%94%A9.pdf"
-    title: "그분께로 한 걸음씩"
-    composer: ""
-    category: ccm
-    mass_part: ""
-    type: score
-    yahure: 371
-    haneulbada: 108
-    key: ""
-    note: ""
-    group: "ccm-그분께로한걸음씩-"
-    label: "Score"
   - path: "resources/OnE-Scores/CCM/글로리아높으신이의탄생.pdf"
     url: "/resources/OnE-Scores/CCM/%EA%B8%80%EB%A1%9C%EB%A6%AC%EC%95%84%EB%86%92%EC%9C%BC%EC%8B%A0%EC%9D%B4%EC%9D%98%ED%83%84%EC%83%9D.pdf"
     title: "글로리아 높으신 이의 탄생"
     composer: ""
+    artist: ""
     category: ccm
     mass_part: ""
     type: score
@@ -770,49 +969,11 @@ items:
     note: ""
     group: "ccm-글로리아높으신이의탄생-"
     label: "Score"
-  - path: "resources/OnE-Scores/CCM/[Score] 꽃.pdf"
-    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%EA%BD%83.pdf"
-    title: "꽃"
-    composer: ""
-    category: ccm
-    mass_part: ""
-    type: score
-    yahure: 387
-    haneulbada: 122
-    key: ""
-    note: ""
-    group: "ccm-꽃-"
-    label: "Score"
-  - path: "resources/OnE-Scores/CCM/[Score] 나의가장낮은마음 [야훼이레412].pdf"
-    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%E1%84%82%E1%85%A1%E1%84%8B%E1%85%B4%E1%84%80%E1%85%A1%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%82%E1%85%A1%E1%86%BD%E1%84%8B%E1%85%B3%E1%86%AB%E1%84%86%E1%85%A1%E1%84%8B%E1%85%B3%E1%86%B7%20%5B%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6412%5D.pdf"
-    title: "나의 가장 낮은 마음"
-    composer: ""
-    category: ccm
-    mass_part: ""
-    type: score
-    yahure: 412
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "ccm-나의가장낮은마음-"
-    label: "Score"
-  - path: "resources/OnE-Scores/CCM/[Score] 나의가장낮은마음 [412].pdf"
-    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%EB%82%98%EC%9D%98%EA%B0%80%EC%9E%A5%EB%82%AE%EC%9D%80%EB%A7%88%EC%9D%8C%20%5B412%5D.pdf"
-    title: "나의 가장 낮은 마음"
-    composer: ""
-    category: ccm
-    mass_part: ""
-    type: score
-    yahure: 412
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "ccm-나의가장낮은마음-"
-    label: "Score 2"
   - path: "resources/OnE-Scores/CCM/[Score] 나의모습나의소유 [야훼이레416].pdf"
     url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%E1%84%82%E1%85%A1%E1%84%8B%E1%85%B4%E1%84%86%E1%85%A9%E1%84%89%E1%85%B3%E1%86%B8%E1%84%82%E1%85%A1%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A9%E1%84%8B%E1%85%B2%20%5B%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6416%5D.pdf"
     title: "나의 모습 나의 소유"
     composer: ""
+    artist: ""
     category: ccm
     mass_part: ""
     type: score
@@ -826,6 +987,7 @@ items:
     url: "/resources/OnE-Scores/CCM/%5BChordChart%5D%20%EB%82%98%EC%9D%98%20%EC%8A%AC%ED%94%94%EC%9D%84.pdf"
     title: "나의 슬픔을"
     composer: ""
+    artist: ""
     category: ccm
     mass_part: ""
     type: chordchart
@@ -839,6 +1001,7 @@ items:
     url: "/resources/OnE-Scores/CCM/%EB%82%B4%EA%B0%80%EC%B2%9C%EC%82%AC%EC%9D%98%EB%A7%90%ED%95%9C%EB%8B%A4%ED%95%B4%EB%8F%84%20%28with%20Piano%29.pdf"
     title: "내가 천사의 말한다 해도"
     composer: ""
+    artist: ""
     category: ccm
     mass_part: ""
     type: score
@@ -848,23 +1011,11 @@ items:
     note: "with Piano"
     group: "ccm-내가천사의말한다해도-"
     label: "Score · with Piano"
-  - path: "resources/OnE-Scores/CCM/[Score] 내맘에오시는주.pdf"
-    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%EB%82%B4%EB%A7%98%EC%97%90%EC%98%A4%EC%8B%9C%EB%8A%94%EC%A3%BC.pdf"
-    title: "내 맘에 오시는 주"
-    composer: ""
-    category: ccm
-    mass_part: ""
-    type: score
-    yahure: 441
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "ccm-내맘에오시는주-"
-    label: "Score"
   - path: "resources/OnE-Scores/CCM/내이름아시죠 [야훼이레,450].pdf"
     url: "/resources/OnE-Scores/CCM/%EB%82%B4%EC%9D%B4%EB%A6%84%EC%95%84%EC%8B%9C%EC%A3%A0%20%5B%EC%95%BC%ED%9B%BC%EC%9D%B4%EB%A0%88%2C450%5D.pdf"
     title: "내 이름 아시죠"
     composer: ""
+    artist: ""
     category: ccm
     mass_part: ""
     type: score
@@ -874,101 +1025,11 @@ items:
     note: ""
     group: "ccm-내이름아시죠-"
     label: "Score"
-  - path: "resources/OnE-Scores/CCM/[Score] 말씀하시면 [야훼이레, 514].pdf"
-    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%EB%A7%90%EC%94%80%ED%95%98%EC%8B%9C%EB%A9%B4%20%5B%EC%95%BC%ED%9B%BC%EC%9D%B4%EB%A0%88%2C%20514%5D.pdf"
-    title: "말씀하시면"
-    composer: ""
-    category: ccm
-    mass_part: ""
-    type: score
-    yahure: 514
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "ccm-말씀하시면-"
-    label: "Score"
-  - path: "resources/OnE-Scores/CCM/[Score] 사랑은하느님에게서오는것이니.pdf"
-    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%B3%E1%86%AB%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%84%82%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%80%E1%85%A6%E1%84%89%E1%85%A5%E1%84%8B%E1%85%A9%E1%84%82%E1%85%B3%E1%86%AB%E1%84%80%E1%85%A5%E1%86%BA%E1%84%8B%E1%85%B5%E1%84%82%E1%85%B5.pdf"
-    title: "사랑은 하느님에게서 오는 것이니"
-    composer: ""
-    category: ccm
-    mass_part: ""
-    type: score
-    yahure: null
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "ccm-사랑은하느님에게서오는것이니-"
-    label: "Score"
-  - path: "resources/OnE-Scores/CCM/[Score] 사랑한다는말은(1page).pdf"
-    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%E1%84%86%E1%85%A1%E1%86%AF%E1%84%8B%E1%85%B3%E1%86%AB%281page%29.pdf"
-    title: "사랑한다는 말은"
-    composer: ""
-    category: ccm
-    mass_part: ""
-    type: score
-    yahure: 581
-    haneulbada: 226
-    key: ""
-    note: "1page"
-    group: "ccm-사랑한다는말은-"
-    label: "Score · 1page"
-  - path: "resources/OnE-Scores/CCM/[Score] 사랑한다는말은.pdf"
-    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%E1%84%86%E1%85%A1%E1%86%AF%E1%84%8B%E1%85%B3%E1%86%AB.pdf"
-    title: "사랑한다는 말은"
-    composer: ""
-    category: ccm
-    mass_part: ""
-    type: score
-    yahure: 581
-    haneulbada: 226
-    key: ""
-    note: ""
-    group: "ccm-사랑한다는말은-"
-    label: "Score"
-  - path: "resources/OnE-Scores/CCM/[Score] 아름다운세상.pdf"
-    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%EC%84%B8%EC%83%81.pdf"
-    title: "아름다운 세상"
-    composer: ""
-    category: ccm
-    mass_part: ""
-    type: score
-    yahure: null
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "ccm-아름다운세상-"
-    label: "Score"
-  - path: "resources/OnE-Scores/CCM/[Score] 아버지뜻대로 [야훼이레633] - Full Score.pdf"
-    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%E1%84%8B%E1%85%A1%E1%84%87%E1%85%A5%E1%84%8C%E1%85%B5%E1%84%84%E1%85%B3%E1%86%BA%E1%84%83%E1%85%A2%E1%84%85%E1%85%A9%20%5B%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6633%5D%20-%20Full%20Score.pdf"
-    title: "아버지 뜻대로"
-    composer: ""
-    category: ccm
-    mass_part: ""
-    type: score
-    yahure: 633
-    haneulbada: 276
-    key: ""
-    note: ""
-    group: "ccm-아버지뜻대로-"
-    label: "Score · Full"
-  - path: "resources/OnE-Scores/CCM/[Score] 야곱의축복 [야훼이레640].pdf"
-    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%E1%84%8B%E1%85%A3%E1%84%80%E1%85%A9%E1%86%B8%E1%84%8B%E1%85%B4%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%87%E1%85%A9%E1%86%A8%20%5B%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6640%5D.pdf"
-    title: "야곱의 축복"
-    composer: ""
-    category: ccm
-    mass_part: ""
-    type: score
-    yahure: 640
-    haneulbada: 284
-    key: ""
-    note: ""
-    group: "ccm-야곱의축복-"
-    label: "Score"
   - path: "resources/OnE-Scores/CCM/약할때강함되시네 648 - Full Score.pdf"
     url: "/resources/OnE-Scores/CCM/%EC%95%BD%ED%95%A0%EB%95%8C%EA%B0%95%ED%95%A8%EB%90%98%EC%8B%9C%EB%84%A4%20648%20-%20Full%20Score.pdf"
     title: "약할 때 강함 되시네"
     composer: ""
+    artist: ""
     category: ccm
     mass_part: ""
     type: score
@@ -982,6 +1043,7 @@ items:
     url: "/resources/OnE-Scores/CCM/%5BChordChart%5D%20%EC%98%A4%EC%85%94%EC%84%9C%EB%8B%A4%EC%8A%A4%EB%A6%AC%EC%86%8C%EC%84%9C.pdf"
     title: "오셔서 다스리소서"
     composer: ""
+    artist: ""
     category: ccm
     mass_part: ""
     type: chordchart
@@ -995,6 +1057,7 @@ items:
     url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%A7%E1%84%82%E1%85%A1%E1%84%8B%E1%85%B4%E1%84%86%E1%85%A1%E1%84%8B%E1%85%B3%E1%86%B7%E1%84%8B%E1%85%B5%281page%29.pdf"
     title: "오 주여 나의 마음이"
     composer: ""
+    artist: ""
     category: ccm
     mass_part: ""
     type: score
@@ -1008,6 +1071,7 @@ items:
     url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%A7%E1%84%82%E1%85%A1%E1%84%8B%E1%85%B4%E1%84%86%E1%85%A1%E1%84%8B%E1%85%B3%E1%86%B7%E1%84%8B%E1%85%B5.pdf"
     title: "오 주여 나의 마음이"
     composer: ""
+    artist: ""
     category: ccm
     mass_part: ""
     type: score
@@ -1017,10 +1081,11 @@ items:
     note: ""
     group: "ccm-오주여나의마음이-"
     label: "Score"
-  - path: "resources/OnE-Scores/CCM/우리를 위해 [We are the reason].pdf"
-    url: "/resources/OnE-Scores/CCM/%EC%9A%B0%EB%A6%AC%EB%A5%BC%20%EC%9C%84%ED%95%B4%20%5BWe%20are%20the%20reason%5D.pdf"
+  - path: "resources/OnE-Scores/CCM/Avalon/우리를 위해 [We are the reason].pdf"
+    url: "/resources/OnE-Scores/CCM/Avalon/%EC%9A%B0%EB%A6%AC%EB%A5%BC%20%EC%9C%84%ED%95%B4%20%5BWe%20are%20the%20reason%5D.pdf"
     title: "우리를 위해"
     composer: ""
+    artist: "Avalon"
     category: ccm
     mass_part: ""
     type: score
@@ -1030,10 +1095,11 @@ items:
     note: "We are the reason"
     group: "ccm-우리를위해-"
     label: "Score · We are the reason"
-  - path: "resources/OnE-Scores/CCM/[ChordChart] 우리를 위해.pdf"
-    url: "/resources/OnE-Scores/CCM/%5BChordChart%5D%20%EC%9A%B0%EB%A6%AC%EB%A5%BC%20%EC%9C%84%ED%95%B4.pdf"
+  - path: "resources/OnE-Scores/CCM/Avalon/[ChordChart] 우리를 위해.pdf"
+    url: "/resources/OnE-Scores/CCM/Avalon/%5BChordChart%5D%20%EC%9A%B0%EB%A6%AC%EB%A5%BC%20%EC%9C%84%ED%95%B4.pdf"
     title: "우리를 위해"
     composer: ""
+    artist: "Avalon"
     category: ccm
     mass_part: ""
     type: chordchart
@@ -1043,62 +1109,11 @@ items:
     note: ""
     group: "ccm-우리를위해-"
     label: "ChordChart"
-  - path: "resources/OnE-Scores/CCM/[Score] 이시간너의맘속에 [야훼이레710].pdf"
-    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%E1%84%8B%E1%85%B5%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%82%E1%85%A5%E1%84%8B%E1%85%B4%E1%84%86%E1%85%A1%E1%86%B7%E1%84%89%E1%85%A9%E1%86%A8%E1%84%8B%E1%85%A6%20%5B%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6710%5D.pdf"
-    title: "이 시간 너의 맘속에"
-    composer: ""
-    category: ccm
-    mass_part: ""
-    type: score
-    yahure: 710
-    haneulbada: 336
-    key: ""
-    note: ""
-    group: "ccm-이시간너의맘속에-"
-    label: "Score"
-  - path: "resources/OnE-Scores/CCM/[Score] 좋을시고 - Full Score(E).pdf"
-    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%EC%A2%8B%EC%9D%84%EC%8B%9C%EA%B3%A0%20-%20Full%20Score%28E%29.pdf"
-    title: "좋을시고"
-    composer: ""
-    category: ccm
-    mass_part: ""
-    type: score
-    yahure: null
-    haneulbada: null
-    key: "E"
-    note: ""
-    group: "ccm-좋을시고-"
-    label: "Score · E · Full"
-  - path: "resources/OnE-Scores/CCM/[Score] 좋을시고 - Full Score(G).pdf"
-    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%EC%A2%8B%EC%9D%84%EC%8B%9C%EA%B3%A0%20-%20Full%20Score%28G%29.pdf"
-    title: "좋을시고"
-    composer: ""
-    category: ccm
-    mass_part: ""
-    type: score
-    yahure: null
-    haneulbada: null
-    key: "G"
-    note: ""
-    group: "ccm-좋을시고-"
-    label: "Score · G · Full"
-  - path: "resources/OnE-Scores/CCM/[Score] 주님달링주님허니.pdf"
-    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%EC%A3%BC%EB%8B%98%EB%8B%AC%EB%A7%81%EC%A3%BC%EB%8B%98%ED%97%88%EB%8B%88.pdf"
-    title: "주님 달링 주님 허니"
-    composer: ""
-    category: ccm
-    mass_part: ""
-    type: score
-    yahure: null
-    haneulbada: 366
-    key: ""
-    note: ""
-    group: "ccm-주님달링주님허니-"
-    label: "Score"
   - path: "resources/OnE-Scores/CCM/[Score] 주님사랑노래해(Testify to love).pdf"
     url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%EC%A3%BC%EB%8B%98%EC%82%AC%EB%9E%91%EB%85%B8%EB%9E%98%ED%95%B4%28Testify%20to%20love%29.pdf"
     title: "주님 사랑 노래해"
     composer: ""
+    artist: ""
     category: ccm
     mass_part: ""
     type: score
@@ -1108,10 +1123,11 @@ items:
     note: "Testify to love"
     group: "ccm-주님사랑노래해-"
     label: "Score · Testify to love"
-  - path: "resources/OnE-Scores/CCM/[ChordChart] 주님 사랑 노래해.pdf"
-    url: "/resources/OnE-Scores/CCM/%5BChordChart%5D%20%EC%A3%BC%EB%8B%98%20%EC%82%AC%EB%9E%91%20%EB%85%B8%EB%9E%98%ED%95%B4.pdf"
+  - path: "resources/OnE-Scores/CCM/Avalon/[ChordChart] 주님 사랑 노래해.pdf"
+    url: "/resources/OnE-Scores/CCM/Avalon/%5BChordChart%5D%20%EC%A3%BC%EB%8B%98%20%EC%82%AC%EB%9E%91%20%EB%85%B8%EB%9E%98%ED%95%B4.pdf"
     title: "주님 사랑 노래해"
     composer: ""
+    artist: "Avalon"
     category: ccm
     mass_part: ""
     type: chordchart
@@ -1121,10 +1137,11 @@ items:
     note: ""
     group: "ccm-주님사랑노래해-"
     label: "ChordChart"
-  - path: "resources/OnE-Scores/CCM/[Chorus] 주님 사랑 노래해.pdf"
-    url: "/resources/OnE-Scores/CCM/%5BChorus%5D%20%EC%A3%BC%EB%8B%98%20%EC%82%AC%EB%9E%91%20%EB%85%B8%EB%9E%98%ED%95%B4.pdf"
+  - path: "resources/OnE-Scores/CCM/Avalon/[Chorus] 주님 사랑 노래해.pdf"
+    url: "/resources/OnE-Scores/CCM/Avalon/%5BChorus%5D%20%EC%A3%BC%EB%8B%98%20%EC%82%AC%EB%9E%91%20%EB%85%B8%EB%9E%98%ED%95%B4.pdf"
     title: "주님 사랑 노래해"
     composer: ""
+    artist: "Avalon"
     category: ccm
     mass_part: ""
     type: chorus
@@ -1134,23 +1151,11 @@ items:
     note: ""
     group: "ccm-주님사랑노래해-"
     label: "Chorus"
-  - path: "resources/OnE-Scores/CCM/[Score] 주님은나의목자[야훼이레768].pdf"
-    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%E1%84%8C%E1%85%AE%E1%84%82%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%B3%E1%86%AB%E1%84%82%E1%85%A1%E1%84%8B%E1%85%B4%E1%84%86%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%A1%5B%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6768%5D.pdf"
-    title: "주님은 나의 목자"
-    composer: ""
-    category: ccm
-    mass_part: ""
-    type: score
-    yahure: 768
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "ccm-주님은나의목자-"
-    label: "Score"
-  - path: "resources/OnE-Scores/CCM/[ChordChart] 주없이살수없네(Can't live a day).pdf"
-    url: "/resources/OnE-Scores/CCM/%5BChordChart%5D%20%EC%A3%BC%EC%97%86%EC%9D%B4%EC%82%B4%EC%88%98%EC%97%86%EB%84%A4%28Can%27t%20live%20a%20day%29.pdf"
+  - path: "resources/OnE-Scores/CCM/Avalon/[ChordChart] 주없이살수없네(Can't live a day).pdf"
+    url: "/resources/OnE-Scores/CCM/Avalon/%5BChordChart%5D%20%EC%A3%BC%EC%97%86%EC%9D%B4%EC%82%B4%EC%88%98%EC%97%86%EB%84%A4%28Can%27t%20live%20a%20day%29.pdf"
     title: "주 없이 살 수 없네"
     composer: ""
+    artist: "Avalon"
     category: ccm
     mass_part: ""
     type: chordchart
@@ -1160,36 +1165,11 @@ items:
     note: "Can't live a day"
     group: "ccm-주없이살수없네-"
     label: "ChordChart · Can't live a day"
-  - path: "resources/OnE-Scores/CCM/[Score] 주여 나를 받으소서 [야훼이레797].pdf"
-    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%A7%20%E1%84%82%E1%85%A1%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%87%E1%85%A1%E1%86%AE%E1%84%8B%E1%85%B3%E1%84%89%E1%85%A9%E1%84%89%E1%85%A5%20%5B%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6797%5D.pdf"
-    title: "주여 나를 받으소서"
-    composer: ""
-    category: ccm
-    mass_part: ""
-    type: score
-    yahure: 797
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "ccm-주여나를받으소서-"
-    label: "Score"
-  - path: "resources/OnE-Scores/CCM/[Score] 주여나를받으소서 [야훼이레, 797].pdf"
-    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%EC%A3%BC%EC%97%AC%EB%82%98%EB%A5%BC%EB%B0%9B%EC%9C%BC%EC%86%8C%EC%84%9C%20%5B%EC%95%BC%ED%9B%BC%EC%9D%B4%EB%A0%88%2C%20797%5D.pdf"
-    title: "주여 나를 받으소서"
-    composer: ""
-    category: ccm
-    mass_part: ""
-    type: score
-    yahure: 797
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "ccm-주여나를받으소서-"
-    label: "Score 2"
-  - path: "resources/OnE-Scores/CCM/주의 사랑 노래해.pdf"
-    url: "/resources/OnE-Scores/CCM/%EC%A3%BC%EC%9D%98%20%EC%82%AC%EB%9E%91%20%EB%85%B8%EB%9E%98%ED%95%B4.pdf"
+  - path: "resources/OnE-Scores/CCM/Avalon/주의 사랑 노래해.pdf"
+    url: "/resources/OnE-Scores/CCM/Avalon/%EC%A3%BC%EC%9D%98%20%EC%82%AC%EB%9E%91%20%EB%85%B8%EB%9E%98%ED%95%B4.pdf"
     title: "주의 사랑 노래해"
     composer: ""
+    artist: "Avalon"
     category: ccm
     mass_part: ""
     type: score
@@ -1203,6 +1183,7 @@ items:
     url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%E1%84%8C%E1%85%AE%E1%84%91%E1%85%AE%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%91%E1%85%AE%E1%86%B7%E1%84%8B%E1%85%B3%E1%84%89%E1%85%A9%E1%84%89%E1%85%A5.pdf"
     title: "주품에 품으소서"
     composer: ""
+    artist: ""
     category: ccm
     mass_part: ""
     type: score
@@ -1212,23 +1193,11 @@ items:
     note: ""
     group: "ccm-주품에품으소서-"
     label: "Score"
-  - path: "resources/OnE-Scores/CCM/주품에 816 - Full Score.pdf"
-    url: "/resources/OnE-Scores/CCM/%EC%A3%BC%ED%92%88%EC%97%90%20816%20-%20Full%20Score.pdf"
-    title: "주품에 품으소서"
-    composer: ""
-    category: ccm
-    mass_part: ""
-    type: score
-    yahure: 816
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "ccm-주품에품으소서-"
-    label: "Score · Full"
   - path: "resources/OnE-Scores/CCM/[ChordChart] 캐롤 메들리.pdf"
     url: "/resources/OnE-Scores/CCM/%5BChordChart%5D%20%EC%BA%90%EB%A1%A4%20%EB%A9%94%EB%93%A4%EB%A6%AC.pdf"
     title: "캐롤 메들리"
     composer: ""
+    artist: ""
     category: ccm
     mass_part: ""
     type: chordchart
@@ -1238,23 +1207,11 @@ items:
     note: ""
     group: "ccm-캐롤메들리-"
     label: "ChordChart"
-  - path: "resources/OnE-Scores/CCM/[Score] 하느님의말씀은.pdf"
-    url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%ED%95%98%EB%8A%90%EB%8B%98%EC%9D%98%EB%A7%90%EC%94%80%EC%9D%80.pdf"
-    title: "하느님의 말씀은"
-    composer: ""
-    category: ccm
-    mass_part: ""
-    type: score
-    yahure: null
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "ccm-하느님의말씀은-"
-    label: "Score"
   - path: "resources/OnE-Scores/CCM/[Score] 호산나 (Hosanna).pdf"
     url: "/resources/OnE-Scores/CCM/%5BScore%5D%20%ED%98%B8%EC%82%B0%EB%82%98%20%28Hosanna%29.pdf"
     title: "호산나"
     composer: ""
+    artist: ""
     category: ccm
     mass_part: ""
     type: score
@@ -1264,3 +1221,409 @@ items:
     note: "Hosanna"
     group: "ccm-호산나-"
     label: "Score · Hosanna"
+  - path: "resources/OnE-Scores/Hymn/[Score] 그분께로한걸음씩.pdf"
+    url: "/resources/OnE-Scores/Hymn/%5BScore%5D%20%EA%B7%B8%EB%B6%84%EA%BB%98%EB%A1%9C%ED%95%9C%EA%B1%B8%EC%9D%8C%EC%94%A9.pdf"
+    title: "그분께로 한 걸음씩"
+    composer: ""
+    artist: ""
+    category: hymn
+    mass_part: ""
+    type: score
+    yahure: 371
+    haneulbada: 108
+    key: ""
+    note: ""
+    group: "hymn-그분께로한걸음씩-"
+    label: "Score"
+  - path: "resources/OnE-Scores/Hymn/[Score] 꽃.pdf"
+    url: "/resources/OnE-Scores/Hymn/%5BScore%5D%20%EA%BD%83.pdf"
+    title: "꽃"
+    composer: ""
+    artist: ""
+    category: hymn
+    mass_part: ""
+    type: score
+    yahure: 387
+    haneulbada: 122
+    key: ""
+    note: ""
+    group: "hymn-꽃-"
+    label: "Score"
+  - path: "resources/OnE-Scores/Hymn/[Score] 나의가장낮은마음 [야훼이레412].pdf"
+    url: "/resources/OnE-Scores/Hymn/%5BScore%5D%20%E1%84%82%E1%85%A1%E1%84%8B%E1%85%B4%E1%84%80%E1%85%A1%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%82%E1%85%A1%E1%86%BD%E1%84%8B%E1%85%B3%E1%86%AB%E1%84%86%E1%85%A1%E1%84%8B%E1%85%B3%E1%86%B7%20%5B%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6412%5D.pdf"
+    title: "나의 가장 낮은 마음"
+    composer: ""
+    artist: ""
+    category: hymn
+    mass_part: ""
+    type: score
+    yahure: 412
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "hymn-나의가장낮은마음-"
+    label: "Score"
+  - path: "resources/OnE-Scores/Hymn/[Score] 나의가장낮은마음 [412].pdf"
+    url: "/resources/OnE-Scores/Hymn/%5BScore%5D%20%EB%82%98%EC%9D%98%EA%B0%80%EC%9E%A5%EB%82%AE%EC%9D%80%EB%A7%88%EC%9D%8C%20%5B412%5D.pdf"
+    title: "나의 가장 낮은 마음"
+    composer: ""
+    artist: ""
+    category: hymn
+    mass_part: ""
+    type: score
+    yahure: 412
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "hymn-나의가장낮은마음-"
+    label: "Score 2"
+  - path: "resources/OnE-Scores/Hymn/[Score] 내맘에오시는주.pdf"
+    url: "/resources/OnE-Scores/Hymn/%5BScore%5D%20%EB%82%B4%EB%A7%98%EC%97%90%EC%98%A4%EC%8B%9C%EB%8A%94%EC%A3%BC.pdf"
+    title: "내 맘에 오시는 주"
+    composer: ""
+    artist: ""
+    category: hymn
+    mass_part: ""
+    type: score
+    yahure: 441
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "hymn-내맘에오시는주-"
+    label: "Score"
+  - path: "resources/OnE-Scores/Hymn/만나.pdf"
+    url: "/resources/OnE-Scores/Hymn/%E1%84%86%E1%85%A1%E1%86%AB%E1%84%82%E1%85%A1.pdf"
+    title: "만나"
+    composer: ""
+    artist: ""
+    category: hymn
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "hymn-만나-"
+    label: "Score"
+  - path: "resources/OnE-Scores/Hymn/[Score] 말씀하시면 [야훼이레, 514].pdf"
+    url: "/resources/OnE-Scores/Hymn/%5BScore%5D%20%EB%A7%90%EC%94%80%ED%95%98%EC%8B%9C%EB%A9%B4%20%5B%EC%95%BC%ED%9B%BC%EC%9D%B4%EB%A0%88%2C%20514%5D.pdf"
+    title: "말씀하시면"
+    composer: ""
+    artist: ""
+    category: hymn
+    mass_part: ""
+    type: score
+    yahure: 514
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "hymn-말씀하시면-"
+    label: "Score"
+  - path: "resources/OnE-Scores/Hymn/[Score] 사랑은하느님에게서오는것이니.pdf"
+    url: "/resources/OnE-Scores/Hymn/%5BScore%5D%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%B3%E1%86%AB%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%84%82%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%80%E1%85%A6%E1%84%89%E1%85%A5%E1%84%8B%E1%85%A9%E1%84%82%E1%85%B3%E1%86%AB%E1%84%80%E1%85%A5%E1%86%BA%E1%84%8B%E1%85%B5%E1%84%82%E1%85%B5.pdf"
+    title: "사랑은 하느님에게서 오는 것이니"
+    composer: ""
+    artist: ""
+    category: hymn
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "hymn-사랑은하느님에게서오는것이니-"
+    label: "Score"
+  - path: "resources/OnE-Scores/Hymn/[Score] 사랑한다는말은(1page).pdf"
+    url: "/resources/OnE-Scores/Hymn/%5BScore%5D%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%E1%84%86%E1%85%A1%E1%86%AF%E1%84%8B%E1%85%B3%E1%86%AB%281page%29.pdf"
+    title: "사랑한다는 말은"
+    composer: ""
+    artist: ""
+    category: hymn
+    mass_part: ""
+    type: score
+    yahure: 581
+    haneulbada: 226
+    key: ""
+    note: "1page"
+    group: "hymn-사랑한다는말은-"
+    label: "Score · 1page"
+  - path: "resources/OnE-Scores/Hymn/[Score] 사랑한다는말은.pdf"
+    url: "/resources/OnE-Scores/Hymn/%5BScore%5D%20%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%E1%84%83%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%E1%84%86%E1%85%A1%E1%86%AF%E1%84%8B%E1%85%B3%E1%86%AB.pdf"
+    title: "사랑한다는 말은"
+    composer: ""
+    artist: ""
+    category: hymn
+    mass_part: ""
+    type: score
+    yahure: 581
+    haneulbada: 226
+    key: ""
+    note: ""
+    group: "hymn-사랑한다는말은-"
+    label: "Score"
+  - path: "resources/OnE-Scores/Hymn/[Score] 아버지뜻대로 [야훼이레633] - Full Score.pdf"
+    url: "/resources/OnE-Scores/Hymn/%5BScore%5D%20%E1%84%8B%E1%85%A1%E1%84%87%E1%85%A5%E1%84%8C%E1%85%B5%E1%84%84%E1%85%B3%E1%86%BA%E1%84%83%E1%85%A2%E1%84%85%E1%85%A9%20%5B%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6633%5D%20-%20Full%20Score.pdf"
+    title: "아버지 뜻대로"
+    composer: ""
+    artist: ""
+    category: hymn
+    mass_part: ""
+    type: score
+    yahure: 633
+    haneulbada: 276
+    key: ""
+    note: ""
+    group: "hymn-아버지뜻대로-"
+    label: "Score · Full"
+  - path: "resources/OnE-Scores/Hymn/[Score] 야곱의축복 [야훼이레640].pdf"
+    url: "/resources/OnE-Scores/Hymn/%5BScore%5D%20%E1%84%8B%E1%85%A3%E1%84%80%E1%85%A9%E1%86%B8%E1%84%8B%E1%85%B4%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%87%E1%85%A9%E1%86%A8%20%5B%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6640%5D.pdf"
+    title: "야곱의 축복"
+    composer: ""
+    artist: ""
+    category: hymn
+    mass_part: ""
+    type: score
+    yahure: 640
+    haneulbada: 284
+    key: ""
+    note: ""
+    group: "hymn-야곱의축복-"
+    label: "Score"
+  - path: "resources/OnE-Scores/Hymn/[Score] 이시간너의맘속에 [야훼이레710].pdf"
+    url: "/resources/OnE-Scores/Hymn/%5BScore%5D%20%E1%84%8B%E1%85%B5%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%82%E1%85%A5%E1%84%8B%E1%85%B4%E1%84%86%E1%85%A1%E1%86%B7%E1%84%89%E1%85%A9%E1%86%A8%E1%84%8B%E1%85%A6%20%5B%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6710%5D.pdf"
+    title: "이 시간 너의 맘속에"
+    composer: ""
+    artist: ""
+    category: hymn
+    mass_part: ""
+    type: score
+    yahure: 710
+    haneulbada: 336
+    key: ""
+    note: ""
+    group: "hymn-이시간너의맘속에-"
+    label: "Score"
+  - path: "resources/OnE-Scores/Hymn/종이비행기.pdf"
+    url: "/resources/OnE-Scores/Hymn/%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%B5%E1%84%87%E1%85%B5%E1%84%92%E1%85%A2%E1%86%BC%E1%84%80%E1%85%B5.pdf"
+    title: "종이비행기"
+    composer: ""
+    artist: ""
+    category: hymn
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "hymn-종이비행기-"
+    label: "Score"
+  - path: "resources/OnE-Scores/Hymn/[Score] 좋을시고 - Full Score(E).pdf"
+    url: "/resources/OnE-Scores/Hymn/%5BScore%5D%20%EC%A2%8B%EC%9D%84%EC%8B%9C%EA%B3%A0%20-%20Full%20Score%28E%29.pdf"
+    title: "좋을시고"
+    composer: ""
+    artist: ""
+    category: hymn
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: null
+    key: "E"
+    note: ""
+    group: "hymn-좋을시고-"
+    label: "Score · E · Full"
+  - path: "resources/OnE-Scores/Hymn/[Score] 좋을시고 - Full Score(G).pdf"
+    url: "/resources/OnE-Scores/Hymn/%5BScore%5D%20%EC%A2%8B%EC%9D%84%EC%8B%9C%EA%B3%A0%20-%20Full%20Score%28G%29.pdf"
+    title: "좋을시고"
+    composer: ""
+    artist: ""
+    category: hymn
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: null
+    key: "G"
+    note: ""
+    group: "hymn-좋을시고-"
+    label: "Score · G · Full"
+  - path: "resources/OnE-Scores/Hymn/[Score] 주님달링주님허니.pdf"
+    url: "/resources/OnE-Scores/Hymn/%5BScore%5D%20%EC%A3%BC%EB%8B%98%EB%8B%AC%EB%A7%81%EC%A3%BC%EB%8B%98%ED%97%88%EB%8B%88.pdf"
+    title: "주님 달링 주님 허니"
+    composer: ""
+    artist: ""
+    category: hymn
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: 366
+    key: ""
+    note: ""
+    group: "hymn-주님달링주님허니-"
+    label: "Score"
+  - path: "resources/OnE-Scores/Hymn/[Score] 주님은나의목자[야훼이레768].pdf"
+    url: "/resources/OnE-Scores/Hymn/%5BScore%5D%20%E1%84%8C%E1%85%AE%E1%84%82%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%B3%E1%86%AB%E1%84%82%E1%85%A1%E1%84%8B%E1%85%B4%E1%84%86%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%A1%5B%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6768%5D.pdf"
+    title: "주님은 나의 목자"
+    composer: ""
+    artist: ""
+    category: hymn
+    mass_part: ""
+    type: score
+    yahure: 768
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "hymn-주님은나의목자-"
+    label: "Score"
+  - path: "resources/OnE-Scores/Hymn/[Score] 주여 나를 받으소서 [야훼이레797].pdf"
+    url: "/resources/OnE-Scores/Hymn/%5BScore%5D%20%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%A7%20%E1%84%82%E1%85%A1%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%87%E1%85%A1%E1%86%AE%E1%84%8B%E1%85%B3%E1%84%89%E1%85%A9%E1%84%89%E1%85%A5%20%5B%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6797%5D.pdf"
+    title: "주여 나를 받으소서"
+    composer: ""
+    artist: ""
+    category: hymn
+    mass_part: ""
+    type: score
+    yahure: 797
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "hymn-주여나를받으소서-"
+    label: "Score"
+  - path: "resources/OnE-Scores/Hymn/[Score] 주여나를받으소서 [야훼이레, 797].pdf"
+    url: "/resources/OnE-Scores/Hymn/%5BScore%5D%20%EC%A3%BC%EC%97%AC%EB%82%98%EB%A5%BC%EB%B0%9B%EC%9C%BC%EC%86%8C%EC%84%9C%20%5B%EC%95%BC%ED%9B%BC%EC%9D%B4%EB%A0%88%2C%20797%5D.pdf"
+    title: "주여 나를 받으소서"
+    composer: ""
+    artist: ""
+    category: hymn
+    mass_part: ""
+    type: score
+    yahure: 797
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "hymn-주여나를받으소서-"
+    label: "Score 2"
+  - path: "resources/OnE-Scores/Hymn/[Score] 하느님의말씀은.pdf"
+    url: "/resources/OnE-Scores/Hymn/%5BScore%5D%20%ED%95%98%EB%8A%90%EB%8B%98%EC%9D%98%EB%A7%90%EC%94%80%EC%9D%80.pdf"
+    title: "하느님의 말씀은"
+    composer: ""
+    artist: ""
+    category: hymn
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "hymn-하느님의말씀은-"
+    label: "Score"
+  - path: "resources/OnE-Scores/K-Pop/[Score] Butterfly.pdf"
+    url: "/resources/OnE-Scores/K-Pop/%5BScore%5D%20Butterfly.pdf"
+    title: "Butterfly"
+    composer: ""
+    artist: ""
+    category: kpop
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "kpop-Butterfly-"
+    label: "Score"
+  - path: "resources/OnE-Scores/K-Pop/[Score] Super Star.pdf"
+    url: "/resources/OnE-Scores/K-Pop/%5BScore%5D%20Super%20Star.pdf"
+    title: "Super Star"
+    composer: ""
+    artist: ""
+    category: kpop
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "kpop-SuperStar-"
+    label: "Score"
+  - path: "resources/OnE-Scores/K-Pop/[Score] 신호등(B-Key).pdf"
+    url: "/resources/OnE-Scores/K-Pop/%5BScore%5D%20%E1%84%89%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A9%E1%84%83%E1%85%B3%E1%86%BC%28B-Key%29.pdf"
+    title: "신호등"
+    composer: ""
+    artist: ""
+    category: kpop
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: null
+    key: "B-Key"
+    note: ""
+    group: "kpop-신호등-"
+    label: "Score · B-Key"
+  - path: "resources/OnE-Scores/K-Pop/[Score] 신호등(G-Key).pdf"
+    url: "/resources/OnE-Scores/K-Pop/%5BScore%5D%20%E1%84%89%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A9%E1%84%83%E1%85%B3%E1%86%BC%28G-Key%29.pdf"
+    title: "신호등"
+    composer: ""
+    artist: ""
+    category: kpop
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: null
+    key: "G-Key"
+    note: ""
+    group: "kpop-신호등-"
+    label: "Score · G-Key"
+  - path: "resources/OnE-Scores/K-Pop/[Score] 아름다운세상[C key only].pdf"
+    url: "/resources/OnE-Scores/K-Pop/%5BScore%5D%20%E1%84%8B%E1%85%A1%E1%84%85%E1%85%B3%E1%86%B7%E1%84%83%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A6%E1%84%89%E1%85%A1%E1%86%BC%5BC%20key%20only%5D.pdf"
+    title: "아름다운세상"
+    composer: ""
+    artist: ""
+    category: kpop
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "kpop-아름다운세상-"
+    label: "Score"
+  - path: "resources/OnE-Scores/K-Pop/[Score] 아름다운세상.pdf"
+    url: "/resources/OnE-Scores/K-Pop/%5BScore%5D%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%EC%84%B8%EC%83%81.pdf"
+    title: "아름다운 세상"
+    composer: ""
+    artist: ""
+    category: kpop
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "kpop-아름다운세상-"
+    label: "Score 2"
+  - path: "resources/OnE-Scores/K-Pop/[Score] 한페이지가될수있게.pdf"
+    url: "/resources/OnE-Scores/K-Pop/%5BScore%5D%20%E1%84%92%E1%85%A1%E1%86%AB%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5%E1%84%80%E1%85%A1%E1%84%83%E1%85%AC%E1%86%AF%E1%84%89%E1%85%AE%E1%84%8B%E1%85%B5%E1%86%BB%E1%84%80%E1%85%A6.pdf"
+    title: "한페이지가될수있게"
+    composer: ""
+    artist: ""
+    category: kpop
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "kpop-한페이지가될수있게-"
+    label: "Score"
+  - path: "resources/OnE-Scores/K-Pop/[Score] 흰수염고래.pdf"
+    url: "/resources/OnE-Scores/K-Pop/%5BScore%5D%20%E1%84%92%E1%85%B4%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%A7%E1%86%B7%E1%84%80%E1%85%A9%E1%84%85%E1%85%A2.pdf"
+    title: "흰수염고래"
+    composer: ""
+    artist: ""
+    category: kpop
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "kpop-흰수염고래-"
+    label: "Score"

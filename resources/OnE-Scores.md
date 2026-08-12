@@ -21,10 +21,12 @@ noindex: true
 {% assign missa = all | where: "category", "missa" %}
 {% assign one = all | where: "category", "one" %}
 {% assign ccm = all | where: "category", "ccm" %}
+{% assign hymn = all | where: "category", "hymn" %}
+{% assign kpop = all | where: "category", "kpop" %}
 {% assign root = all | where: "category", "root" %}
 {% assign groups = all | map: "group" | uniq %}
 
-**전체 {{ groups.size }}곡 · {{ all.size }}개 파일** — 미사곡 {{ missa.size }} · OnE {{ one.size }} · CCM {{ ccm.size }} · 기타 {{ root.size }}
+**전체 {{ groups.size }}곡 · {{ all.size }}개 파일** — 미사곡 {{ missa.size }} · OnE {{ one.size }} · CCM {{ ccm.size }} · 성가 {{ hymn.size }} · K-Pop {{ kpop.size }}{% if root.size > 0 %} · 기타 {{ root.size }}{% endif %}
 
 ---
 
@@ -82,12 +84,32 @@ noindex: true
 
 ---
 
+## 성가 · 찬양 (Hymn)
+
+{% assign hymn_groups = hymn | map: "group" | uniq %}
+
+| 곡명 | 작곡 | 야훼이레 | 하늘바다 | 악보 | 영상 | 설명 |
+|:---
+
+## K-Pop · 대중가요 편곡
+
+{% assign kpop_groups = kpop | map: "group" | uniq %}
+
+| 곡명 | 작곡 | 야훼이레 | 하늘바다 | 악보 | 영상 | 설명 |
+|:---
+
+{% if root.size > 0 %}
+
 ## 그 외 악보 (기타)
 
 {% assign root_groups = root | map: "group" | uniq %}
 
 | 곡명 | 작곡 | 야훼이레 | 하늘바다 | 악보 | 영상 | 설명 |
-|:---|:---|:---:|:---:|:---|:---|:---|
+|:
+
+{% endif %}
+
+---|:---|:---:|:---:|:---|:---|:---|
 {% for g in root_groups -%}
 {% assign gi = root | where: "group", g -%}
 {% assign first = gi[0] -%}

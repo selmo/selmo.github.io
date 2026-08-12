@@ -174,7 +174,12 @@ def category_of(rel):
     if "/Missa/" in rel: return "missa"
     if "/OnE/" in rel: return "one"
     if "/CCM/" in rel: return "ccm"
+    if "/Hymn/" in rel: return "hymn"
+    if "/K-Pop/" in rel: return "kpop"
     return "root"
+
+# 미사 파트가 아니라 편성을 뜻하는 하위 폴더. 파트 분류에 쓰지 않고 비고로 표시한다.
+ARRANGEMENT_DIRS = {"합창악보": "합창", "반주악보": "반주", "보급용": "보급용"}
 
 def subdir_of(rel):
     """카테고리 폴더(Missa/OnE/CCM) 바로 아래의 하위 폴더명. 없으면 "".
@@ -215,7 +220,7 @@ def strip_prefix(bn):
     s = bn
     for pfx in ["[Score][미사곡] ", "[Score][미사곡]", "[Score] ", "[Score]",
                 "[ChordChart] ", "[ChordChart]", "[Chorus] ", "[Chorus]",
-                "[미사곡] ", "[미사곡]"]:
+                "[보급용] ", "[보급용]", "[미사곡] ", "[미사곡]"]:
         if s.startswith(pfx):
             s = s[len(pfx):]
             break
@@ -273,6 +278,7 @@ def clean_title(bn):
 
 def extract_note(bn):
     notes = []
+    if "[보급용]" in bn: notes.append("보급용")
     if "어린이미사" in bn: notes.append("어린이미사")
     if "Testify to love" in bn: notes.append("Testify to love")
     if "We are the reason" in bn: notes.append("We are the reason")
@@ -301,9 +307,15 @@ for root, dirs, files in os.walk(ROOT):
         nfc_bn = unicodedata.normalize("NFC", bn)
         cat = category_of(rel)
         typ = type_of(nfc_bn)
-        # Missa/ 아래 하위 폴더명 (예: "화답송") — 파트 분류의 1순위 근거
-        subdir = subdir_of(rel)
-        folder_part = FOLDER_PART_MAP.get(unicodedata.normalize("NFC", subdir)) if subdir else None
+        # 하위 폴더명. Missa/ 아래에서는 파트 분류의 1순위 근거이지만,
+        # '합창악보' 같은 편성 폴더나 CCM/ 아래 아티스트 폴더는 분류가 아니다.
+        subdir = unicodedata.normalize("NFC", subdir_of(rel))
+        arrangement = ARRANGEMENT_DIRS.get(subdir)          # 합창 / 반주 …
+        folder_part = FOLDER_PART_MAP.get(subdir) if subdir and not arrangement else None
+        # CCM/Avalon, CCM/Praise Band 처럼 아티스트로 묶인 폴더.
+        # 이들은 연주 아티스트이지 작곡가가 아니므로 composer 에 넣지 않고
+        # artist 필드로 따로 둔다(작곡가별 색인이 오염되지 않게).
+        artist_dir = subdir if (cat == "ccm" and subdir and not arrangement) else ""
         # 기본 자동 추출 — 반드시 NFC 정규화한 이름으로 한다.
         # macOS 파일시스템은 한글을 NFD(자소 분리)로 저장하기도 하는데, 그대로 쓰면
         # 정규식·CORRECTIONS 매칭이 모두 빗나가 제목이 정제되지 않은 채로 남는다.
@@ -325,6 +337,10 @@ for root, dirs, files in os.walk(ROOT):
         # 폴더 분류는 파일명 규칙·CORRECTIONS 어느 쪽보다 우선 (작성자가 직접 지정한 것)
         if folder_part:
             mass_part = folder_part
+        # 편성 폴더(합창악보 등)는 파트가 아니라 비고 -> 라벨에 '합창' 으로 붙는다
+        if arrangement and arrangement not in (note or ""):
+            note = f"{note}, {arrangement}" if note else arrangement
+
         # 그룹: 같은 카테고리 내 같은 곡(제목+작곡가) -> 같은 group
         group_key = re.sub(r"\s+", "", title)
         group = f"{cat}-{group_key}-{composer}"
@@ -345,12 +361,13 @@ for root, dirs, files in os.walk(ROOT):
         items.append({
             "path": rel, "url": url,
             "title": nfc(title), "composer": nfc(composer),
+            "artist": nfc(artist_dir),
             "category": cat, "mass_part": mass_part, "type": typ,
             "yahure": yahure, "key": nfc(key), "note": nfc(note),
             "group": nfc(group), "label": nfc(label),
         })
 
-CAT_ORDER = {"missa": 0, "one": 1, "ccm": 2, "root": 3}
+CAT_ORDER = {"missa": 0, "one": 1, "ccm": 2, "hymn": 3, "kpop": 4, "root": 5}
 # 미사 전례 순서. 마침영광송(doxology)은 성찬기도를 맺는 자리라
 # 신앙의 신비여 다음·주님의 기도 앞에 오고, '주님께 나라와'(kingdom)는
 # 주님의 기도에 이어지는 별개 항목이다.
@@ -392,6 +409,7 @@ with open("_data/scores.yml", "w", encoding="utf-8") as out:
         out.write(f'    url: {py_escape(it["url"])}\n')
         out.write(f'    title: {py_escape(it["title"])}\n')
         out.write(f'    composer: {py_escape(it["composer"])}\n')
+        out.write(f'    artist: {py_escape(it.get("artist"))}\n')
         out.write(f'    category: {it["category"]}\n')
         out.write(f'    mass_part: {py_escape(it["mass_part"])}\n')
         out.write(f'    type: {it["type"]}\n')

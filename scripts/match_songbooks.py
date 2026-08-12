@@ -210,6 +210,7 @@ def write_yaml(items):
         for it in items:
             for k in ("path", "url", "title", "composer"):
                 out.write(f'  {"- " if k == "path" else "  "}{k}: {esc(it[k])}\n')
+            out.write(f'    artist: {esc(it.get("artist"))}\n')
             out.write(f'    category: {it["category"]}\n')
             out.write(f'    mass_part: {esc(it["mass_part"])}\n')
             out.write(f'    type: {it["type"]}\n')

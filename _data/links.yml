@@ -32,6 +32,9 @@ items:
         title: "자비송"
         by: "OnE"
         note: "2023년 수원교구 청년도보성지순례 파견미사"
+  - title: "자비송"
+    composer: "현정수"
+    videos: []
 
   # ── 대영광송 ──
   - title: "대영광송"
@@ -44,6 +47,12 @@ items:
         title: "대영광송"
         by: "OnE"
         note: "2023년 수원교구 청년도보성지순례 파견미사"
+  - title: "대영광송"
+    composer: "현정수"
+    videos: []
+  - title: "대영광송"
+    composer: ""
+    videos: []
 
   # ── 화답송 ──
   - title: "내 영혼아 주님을"
@@ -83,6 +92,9 @@ items:
         title: "거룩하시도다"
         by: "OnE"
         note: "2023년 수원교구 청년도보성지순례 파견미사"
+  - title: "거룩하시도다"
+    composer: "현정수"
+    videos: []
 
   # ── 신앙의 신비여 ──
   - title: "신앙의 신비여"
@@ -113,6 +125,9 @@ items:
         title: "마침영광송-아멘"
         by: "OnE"
         note: "2023년 파견미사 · 1:40부터 주님의 기도(131)"
+  - title: "마침영광송 - 아멘"
+    composer: ""
+    videos: []
 
   # ── 아멘 ──
   - title: "아멘"
@@ -156,6 +171,17 @@ items:
 
   # ── 그 외 전례곡 ──
   - title: "삼위일체"
+    composer: ""
+    videos: []
+
+  # ──  ──
+  - title: "알렐루야"
+    composer: "현정수"
+    videos: []
+  - title: "하느님의 어린양"
+    composer: "현정수"
+    videos: []
+  - title: "주님의 기도 - 주님께 나라와"
     composer: ""
     videos: []
 
@@ -248,20 +274,7 @@ items:
   - title: "We Say Yes"
     composer: ""
     videos: []
-  - title: "그분께로 한 걸음씩"
-    composer: ""
-    videos:
-      - id: "Hm8mYnSC-gY"
-        title: "그 분께로 한 걸음 씩"
-        by: "OnE"
-        note: "2022년 수원교구 군포성당 본당의 날 미사"
   - title: "글로리아 높으신 이의 탄생"
-    composer: ""
-    videos: []
-  - title: "꽃"
-    composer: ""
-    videos: []
-  - title: "나의 가장 낮은 마음"
     composer: ""
     videos: []
   - title: "나의 모습 나의 소유"
@@ -277,28 +290,7 @@ items:
   - title: "내가 천사의 말한다 해도"
     composer: ""
     videos: []
-  - title: "내 맘에 오시는 주"
-    composer: ""
-    videos: []
   - title: "내 이름 아시죠"
-    composer: ""
-    videos: []
-  - title: "말씀하시면"
-    composer: ""
-    videos: []
-  - title: "사랑은 하느님에게서 오는 것이니"
-    composer: ""
-    videos: []
-  - title: "사랑한다는 말은"
-    composer: ""
-    videos: []
-  - title: "아름다운 세상"
-    composer: ""
-    videos: []
-  - title: "아버지 뜻대로"
-    composer: ""
-    videos: []
-  - title: "야곱의 축복"
     composer: ""
     videos: []
   - title: "약할 때 강함 되시네"
@@ -313,25 +305,10 @@ items:
   - title: "우리를 위해"
     composer: ""
     videos: []
-  - title: "이 시간 너의 맘속에"
-    composer: ""
-    videos: []
-  - title: "좋을시고"
-    composer: ""
-    videos: []
-  - title: "주님 달링 주님 허니"
-    composer: ""
-    videos: []
   - title: "주님 사랑 노래해"
     composer: ""
     videos: []
-  - title: "주님은 나의 목자"
-    composer: ""
-    videos: []
   - title: "주 없이 살 수 없네"
-    composer: ""
-    videos: []
-  - title: "주여 나를 받으소서"
     composer: ""
     videos: []
   - title: "주의 사랑 노래해"
@@ -346,9 +323,83 @@ items:
   - title: "캐롤 메들리"
     composer: ""
     videos: []
+  - title: "호산나"
+    composer: ""
+    videos: []
+
+  # ══════ hymn ══════
+  - title: "그분께로 한 걸음씩"
+    composer: ""
+    videos:
+      - id: "Hm8mYnSC-gY"
+        title: "그 분께로 한 걸음 씩"
+        by: "OnE"
+        note: "2022년 수원교구 군포성당 본당의 날 미사"
+  - title: "꽃"
+    composer: ""
+    videos: []
+  - title: "나의 가장 낮은 마음"
+    composer: ""
+    videos: []
+  - title: "내 맘에 오시는 주"
+    composer: ""
+    videos: []
+  - title: "만나"
+    composer: ""
+    videos: []
+  - title: "말씀하시면"
+    composer: ""
+    videos: []
+  - title: "사랑은 하느님에게서 오는 것이니"
+    composer: ""
+    videos: []
+  - title: "사랑한다는 말은"
+    composer: ""
+    videos: []
+  - title: "아버지 뜻대로"
+    composer: ""
+    videos: []
+  - title: "야곱의 축복"
+    composer: ""
+    videos: []
+  - title: "이 시간 너의 맘속에"
+    composer: ""
+    videos: []
+  - title: "종이비행기"
+    composer: ""
+    videos: []
+  - title: "좋을시고"
+    composer: ""
+    videos: []
+  - title: "주님 달링 주님 허니"
+    composer: ""
+    videos: []
+  - title: "주님은 나의 목자"
+    composer: ""
+    videos: []
+  - title: "주여 나를 받으소서"
+    composer: ""
+    videos: []
   - title: "하느님의 말씀은"
     composer: ""
     videos: []
-  - title: "호산나"
+
+  # ══════ kpop ══════
+  - title: "Butterfly"
+    composer: ""
+    videos: []
+  - title: "Super Star"
+    composer: ""
+    videos: []
+  - title: "신호등"
+    composer: ""
+    videos: []
+  - title: "아름다운세상"
+    composer: ""
+    videos: []
+  - title: "한페이지가될수있게"
+    composer: ""
+    videos: []
+  - title: "흰수염고래"
     composer: ""
     videos: []
