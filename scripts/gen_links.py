@@ -24,8 +24,8 @@ MP_LABEL = {
     "kyrie": "자비송", "gloria": "대영광송", "responsorial_psalm": "화답송",
     "gospel_acclamation": "복음환호송", "prayer_of_faithful": "보편지향기도",
     "sanctus": "거룩하시도다", "mystery": "신앙의 신비여", "amen": "아멘",
-    "lords_prayer": "주님의 기도", "agnus": "하느님의 어린양",
-    "doxology": "마침영광송·주님께 나라와", "other": "그 외 전례곡",
+    "lords_prayer": "주님의 기도", "kingdom": "주님께 나라와",
+    "agnus": "하느님의 어린양", "doxology": "마침영광송", "other": "그 외 전례곡",
 }
 
 

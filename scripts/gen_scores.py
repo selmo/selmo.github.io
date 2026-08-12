@@ -25,7 +25,7 @@ MASS_PART_RULES = [
     (r"거룩하시도다", "sanctus"),
     (r"하느님의?어린양", "agnus"),
     (r"주님의?기도|주님의기도", "lords_prayer"),
-    (r"주님께나라와", "doxology"),
+    (r"주님께나라와", "kingdom"),
     (r"마침영광송", "doxology"),
     (r"보편지향기도", "prayer_of_faithful"),
     (r"아멘", "amen"),
@@ -47,8 +47,8 @@ FOLDER_PART_MAP = {
     "주님의기도": "lords_prayer",
     "하느님의 어린양": "agnus",
     "하느님의어린양": "agnus",
-    "주님께 나라와": "doxology",
-    "주님께나라와": "doxology",
+    "주님께 나라와": "kingdom",
+    "주님께나라와": "kingdom",
     "마침영광송": "doxology",
     "영광송": "doxology",
     "성호경": "sign_of_cross",
@@ -64,8 +64,8 @@ CORRECTIONS = {
     # 미사 — 복합/특수
     "신앙의신비여+아멘.pdf": dict(title="신앙의 신비여", composer="최태형", mass_part="mystery", note="아멘 포함"),
     "신앙의신비여(107).pdf": dict(title="신앙의 신비여", composer="최태형", mass_part="mystery"),
-    "주님께나라와+하느님의어린양 [신상옥].pdf": dict(title="주님께 나라와", composer="신상옥", mass_part="doxology", note="하느님의 어린양 포함"),
-    "주님께나라와 - 신상옥.pdf": dict(title="주님께 나라와", composer="신상옥", mass_part="doxology"),
+    "주님께나라와+하느님의어린양 [신상옥].pdf": dict(title="주님께 나라와", composer="신상옥", mass_part="kingdom", note="하느님의 어린양 포함"),
+    "주님께나라와 - 신상옥.pdf": dict(title="주님께 나라와", composer="신상옥", mass_part="kingdom"),
     "복음환호송 + 보편지향기도.pdf": dict(title="복음환호송 + 보편지향기도", composer="", mass_part="gospel_acclamation", note="보편지향기도 포함"),
     "복음환호송-20240704.pdf": dict(title="복음환호송", composer="", mass_part="gospel_acclamation", note="2024-07-04"),
     "복음환호송(9월18일).pdf": dict(title="복음환호송", composer="", mass_part="gospel_acclamation", note="9월 18일"),
@@ -351,9 +351,12 @@ for root, dirs, files in os.walk(ROOT):
         })
 
 CAT_ORDER = {"missa": 0, "one": 1, "ccm": 2, "root": 3}
+# 미사 전례 순서. 마침영광송(doxology)은 성찬기도를 맺는 자리라
+# 신앙의 신비여 다음·주님의 기도 앞에 오고, '주님께 나라와'(kingdom)는
+# 주님의 기도에 이어지는 별개 항목이다.
 MP_ORDER = {"kyrie":0,"gloria":1,"responsorial_psalm":2,"gospel_acclamation":3,
-            "prayer_of_faithful":4,"sanctus":5,"mystery":6,"amen":7,
-            "lords_prayer":8,"agnus":9,"doxology":10,"other":11}
+            "prayer_of_faithful":4,"sanctus":5,"mystery":6,"doxology":7,"amen":8,
+            "lords_prayer":9,"kingdom":10,"agnus":11,"other":12}
 TYPE_ORDER = {"score": 0, "chordchart": 1, "chorus": 2}
 items.sort(key=lambda x: (
     CAT_ORDER.get(x["category"], 9),

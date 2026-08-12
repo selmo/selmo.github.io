@@ -250,6 +250,19 @@ items:
     note: ""
     group: "missa-신앙의신비여-현정수"
     label: "Score"
+  - path: "resources/OnE-Scores/Missa/[Score][미사곡] 마침영광송-아멘 [최태형,야훼이레118].pdf"
+    url: "/resources/OnE-Scores/Missa/%5BScore%5D%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EB%A7%88%EC%B9%A8%EC%98%81%EA%B4%91%EC%86%A1-%EC%95%84%EB%A9%98%20%5B%EC%B5%9C%ED%83%9C%ED%98%95%2C%EC%95%BC%ED%9B%BC%EC%9D%B4%EB%A0%88118%5D.pdf"
+    title: "마침영광송"
+    composer: "최태형"
+    category: missa
+    mass_part: "doxology"
+    type: score
+    yahure: 118
+    haneulbada: null
+    key: ""
+    note: "아멘 포함"
+    group: "missa-마침영광송-최태형"
+    label: "Score · 아멘 포함"
   - path: "resources/OnE-Scores/Missa/[미사곡] 아멘.pdf"
     url: "/resources/OnE-Scores/Missa/%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EC%95%84%EB%A9%98.pdf"
     title: "아멘"
@@ -341,6 +354,32 @@ items:
     note: "주님께 나라와"
     group: "missa-주님의기도-최태형"
     label: "Score · 주님께 나라와 2"
+  - path: "resources/OnE-Scores/Missa/[미사곡] 주님께나라와 - 신상옥.pdf"
+    url: "/resources/OnE-Scores/Missa/%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EC%A3%BC%EB%8B%98%EA%BB%98%EB%82%98%EB%9D%BC%EC%99%80%20-%20%EC%8B%A0%EC%83%81%EC%98%A5.pdf"
+    title: "주님께 나라와"
+    composer: "신상옥"
+    category: missa
+    mass_part: "kingdom"
+    type: score
+    yahure: 143
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "missa-주님께나라와-신상옥"
+    label: "Score"
+  - path: "resources/OnE-Scores/Missa/[미사곡] 주님께나라와+하느님의어린양 [신상옥].pdf"
+    url: "/resources/OnE-Scores/Missa/%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EC%A3%BC%EB%8B%98%EA%BB%98%EB%82%98%EB%9D%BC%EC%99%80%2B%ED%95%98%EB%8A%90%EB%8B%98%EC%9D%98%EC%96%B4%EB%A6%B0%EC%96%91%20%5B%EC%8B%A0%EC%83%81%EC%98%A5%5D.pdf"
+    title: "주님께 나라와"
+    composer: "신상옥"
+    category: missa
+    mass_part: "kingdom"
+    type: score
+    yahure: 143
+    haneulbada: null
+    key: ""
+    note: "하느님의 어린양 포함"
+    group: "missa-주님께나라와-신상옥"
+    label: "Score · 하느님의 어린양 포함"
   - path: "resources/OnE-Scores/Missa/[Score][미사곡] 하느님의어린양 - 신상옥 [165].pdf"
     url: "/resources/OnE-Scores/Missa/%5BScore%5D%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%ED%95%98%EB%8A%90%EB%8B%98%EC%9D%98%EC%96%B4%EB%A6%B0%EC%96%91%20-%20%EC%8B%A0%EC%83%81%EC%98%A5%20%5B165%5D.pdf"
     title: "하느님의 어린양"
@@ -380,45 +419,6 @@ items:
     note: ""
     group: "missa-하느님의어린양-최태형"
     label: "Score 2"
-  - path: "resources/OnE-Scores/Missa/[미사곡] 주님께나라와 - 신상옥.pdf"
-    url: "/resources/OnE-Scores/Missa/%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EC%A3%BC%EB%8B%98%EA%BB%98%EB%82%98%EB%9D%BC%EC%99%80%20-%20%EC%8B%A0%EC%83%81%EC%98%A5.pdf"
-    title: "주님께 나라와"
-    composer: "신상옥"
-    category: missa
-    mass_part: "doxology"
-    type: score
-    yahure: 143
-    haneulbada: 72
-    key: ""
-    note: ""
-    group: "missa-주님께나라와-신상옥"
-    label: "Score"
-  - path: "resources/OnE-Scores/Missa/[미사곡] 주님께나라와+하느님의어린양 [신상옥].pdf"
-    url: "/resources/OnE-Scores/Missa/%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EC%A3%BC%EB%8B%98%EA%BB%98%EB%82%98%EB%9D%BC%EC%99%80%2B%ED%95%98%EB%8A%90%EB%8B%98%EC%9D%98%EC%96%B4%EB%A6%B0%EC%96%91%20%5B%EC%8B%A0%EC%83%81%EC%98%A5%5D.pdf"
-    title: "주님께 나라와"
-    composer: "신상옥"
-    category: missa
-    mass_part: "doxology"
-    type: score
-    yahure: 143
-    haneulbada: 72
-    key: ""
-    note: "하느님의 어린양 포함"
-    group: "missa-주님께나라와-신상옥"
-    label: "Score · 하느님의 어린양 포함"
-  - path: "resources/OnE-Scores/Missa/[Score][미사곡] 마침영광송-아멘 [최태형,야훼이레118].pdf"
-    url: "/resources/OnE-Scores/Missa/%5BScore%5D%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EB%A7%88%EC%B9%A8%EC%98%81%EA%B4%91%EC%86%A1-%EC%95%84%EB%A9%98%20%5B%EC%B5%9C%ED%83%9C%ED%98%95%2C%EC%95%BC%ED%9B%BC%EC%9D%B4%EB%A0%88118%5D.pdf"
-    title: "마침영광송"
-    composer: "최태형"
-    category: missa
-    mass_part: "doxology"
-    type: score
-    yahure: 118
-    haneulbada: null
-    key: ""
-    note: "아멘 포함"
-    group: "missa-마침영광송-최태형"
-    label: "Score · 아멘 포함"
   - path: "resources/OnE-Scores/Missa/[Score][미사곡] 삼위일체.pdf"
     url: "/resources/OnE-Scores/Missa/%5BScore%5D%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EC%82%BC%EC%9C%84%EC%9D%BC%EC%B2%B4.pdf"
     title: "삼위일체"

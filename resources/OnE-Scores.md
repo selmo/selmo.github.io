@@ -9,7 +9,7 @@ noindex: true
 
 미사곡 · OnE 밴드 · CCM 번역곡 등의 악보(PDF)를 곡 단위로 제공합니다. 같은 곡의 여러 버전(Score · ChordChart · Chorus · 조성별)은 **한 줄에 모아** 표시되며, 각 링크를 클릭하면 해당 PDF가 다운로드됩니다.
 
-- **미사곡**은 전례 순서(자비송 → 대영광송 → … → 마침영광송)대로, 작곡가별로 구분했습니다.
+- **미사곡**은 전례 순서(자비송 → 대영광송 → … → 하느님의 어린양)대로, 작곡가별로 구분했습니다.
 - **그 외 곡**은 곡명 기준으로 정리했으며, 작곡가가 파일에 명시된 경우에만 표기했습니다.
 - **성가집 번호**는 [야훼이레 3판](../ccm/Songbooks.md)과 [하늘바다](하늘바다.md)(가톨릭 어린이 찬양집) 수록 번호입니다. 해당 성가집에 실리지 않은 곡은 `—`로 표시됩니다.
 - **영상**은 ▶ 를 누르면 이 페이지 안에서 바로 재생됩니다(새 탭에서 열려면 Ctrl/⌘ 누른 채 클릭). 옆 **설명** 칸에는 연주자·채널과 부가 정보를 적습니다. 링크는 `_data/links.yml`에서 관리합니다.
@@ -30,8 +30,8 @@ noindex: true
 
 ## 미사곡 (Missa) — 전례 순서별
 
-{% assign part_keys = "kyrie,gloria,responsorial_psalm,gospel_acclamation,prayer_of_faithful,sanctus,mystery,amen,lords_prayer,agnus,doxology,other" | split: "," %}
-{% assign part_names = "자비송 (Kyrie),대영광송 (Gloria),화답송 (Responsorial Psalm),복음환호송 (Gospel Acclamation),보편지향기도 (Prayer of the Faithful),거룩하시도다 (Sanctus),신앙의 신비여 (Mystery of Faith),아멘 (Amen),주님의 기도 (Lord's Prayer),하느님의 어린양 (Agnus Dei),마침영광송·주님께 나라와 (Doxology),그 외 전례곡" | split: "," %}
+{% assign part_keys = "kyrie,gloria,responsorial_psalm,gospel_acclamation,prayer_of_faithful,sanctus,mystery,doxology,amen,lords_prayer,kingdom,agnus,other" | split: "," %}
+{% assign part_names = "자비송 (Kyrie),대영광송 (Gloria),화답송 (Responsorial Psalm),복음환호송 (Gospel Acclamation),보편지향기도 (Prayer of the Faithful),거룩하시도다 (Sanctus),신앙의 신비여 (Mystery of Faith),마침영광송 (Doxology),아멘 (Amen),주님의 기도 (Lord's Prayer),주님께 나라와 (Embolism),하느님의 어린양 (Agnus Dei),그 외 전례곡" | split: "," %}
 
 {% for pk in part_keys %}
   {% assign part_name = part_names[forloop.index0] %}

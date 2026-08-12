@@ -99,6 +99,21 @@ items:
     composer: "현정수"
     videos: []
 
+  # ── 마침영광송 ──
+  - title: "마침영광송"
+    composer: "최태형"
+    videos:
+      - id: "32Co73wBjxA"
+        title: "마침영광송 아멘 118번"
+        by: "캐톨릭 뮤직(캐뮤)"
+      - id: "hOzul0mdjJ8"
+        title: "마침영광송"
+        by: "권용석 아마데오"
+      - id: "oPebRkMHwjA"
+        title: "마침영광송-아멘"
+        by: "OnE"
+        note: "2023년 파견미사 · 1:40부터 주님의 기도(131)"
+
   # ── 아멘 ──
   - title: "아멘"
     composer: ""
@@ -122,6 +137,11 @@ items:
         by: "OnE"
         note: "2023년 파견미사 · 1:40 지점"
 
+  # ── 주님께 나라와 ──
+  - title: "주님께 나라와"
+    composer: "신상옥"
+    videos: []
+
   # ── 하느님의 어린양 ──
   - title: "하느님의 어린양"
     composer: "신상옥"
@@ -133,24 +153,6 @@ items:
         title: "하느님의 어린양"
         by: "OnE"
         note: "2023년 수원교구 청년도보성지순례 파견미사"
-
-  # ── 마침영광송·주님께 나라와 ──
-  - title: "주님께 나라와"
-    composer: "신상옥"
-    videos: []
-  - title: "마침영광송"
-    composer: "최태형"
-    videos:
-      - id: "32Co73wBjxA"
-        title: "마침영광송 아멘 118번"
-        by: "캐톨릭 뮤직(캐뮤)"
-      - id: "hOzul0mdjJ8"
-        title: "마침영광송"
-        by: "권용석 아마데오"
-      - id: "oPebRkMHwjA"
-        title: "마침영광송-아멘"
-        by: "OnE"
-        note: "2023년 파견미사 · 1:40부터 주님의 기도(131)"
 
   # ── 그 외 전례곡 ──
   - title: "삼위일체"
