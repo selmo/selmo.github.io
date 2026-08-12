@@ -540,29 +540,29 @@ a.yt {
    --------------------------------------------------------------- */
 
 .composer-index {
-  /* 본문(960px)보다 넓게 펼치되 화면을 넘지 않도록 */
-  width: min(1200px, 100vw - 48px);
-  margin-left: calc(50% - min(600px, 50vw - 24px));
   overflow-x: auto;
 }
 
-/* 열 폭을 내용이 아니라 아래 지정값으로 정한다.
-   작곡가 열은 첫 행에만 이름이 있어 auto 로 두면 남는 폭을 과하게 가져간다. */
+/* 열마다 필요한 만큼만 쓰고 표 전체는 내용 폭에 맞춘다.
+   width:100% + auto 레이아웃은 남는 폭을 특정 열에 몰아주어
+   작곡가·곡명 칸이 부자연스럽게 늘어난다. */
 .composer-index table {
-  width: 100%;
+  /* .main-content table 의 width:100% 를 덮어쓴다 */
+  width: auto !important;
+  max-width: 100%;
   table-layout: fixed;
 }
 
 .composer-index th:nth-child(1),
-.composer-index td:nth-child(1) { width: 13em; }   /* 작사/작곡자 */
+.composer-index td:nth-child(1) { width: 11em; }   /* 작사/작곡자 */
 .composer-index th:nth-child(2),
-.composer-index td:nth-child(2) { width: auto; }   /* 수록곡 — 남는 폭 전부 */
+.composer-index td:nth-child(2) { width: 14em; }   /* 수록곡 (최장 13자) */
 .composer-index th:nth-child(3),
-.composer-index td:nth-child(3) { width: 6em; }    /* 분류 */
+.composer-index td:nth-child(3) { width: 5em; }    /* 분류 */
 .composer-index th:nth-child(4),
 .composer-index td:nth-child(4),
 .composer-index th:nth-child(5),
-.composer-index td:nth-child(5) { width: 6em; }    /* 야훼이레 · 하늘바다 */
+.composer-index td:nth-child(5) { width: 5.5em; }  /* 야훼이레 · 하늘바다 */
 
 .composer-index td:first-child {
   vertical-align: top;
@@ -581,18 +581,11 @@ a.yt {
   border-top: 2px solid var(--border-strong);
 }
 
-@media (max-width: 1248px) {
-  .composer-index {
-    width: 100%;
-    margin-left: 0;
-  }
-}
-
 @media (max-width: 720px) {
   /* 좁은 화면에서는 고정폭을 풀고 가로 스크롤에 맡긴다 */
   .composer-index table {
     table-layout: auto;
-    min-width: 560px;
+    min-width: 520px;
   }
 
   .composer-index th:nth-child(n),
