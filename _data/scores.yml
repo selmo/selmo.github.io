@@ -263,6 +263,32 @@ items:
     note: ""
     group: "missa-아멘-"
     label: "Score"
+  - path: "resources/OnE-Scores/Missa/Eres Tu [Bass].pdf"
+    url: "/resources/OnE-Scores/Missa/Eres%20Tu%20%5BBass%5D.pdf"
+    title: "주님의 기도"
+    composer: "Juan Carlos Calderon"
+    category: missa
+    mass_part: "lords_prayer"
+    type: score
+    yahure: 129
+    haneulbada: null
+    key: "Bass"
+    note: "Eres Tu 번안"
+    group: "missa-주님의기도-Juan Carlos Calderon"
+    label: "Score · Bass · Eres Tu 번안"
+  - path: "resources/OnE-Scores/Missa/[ChordChart] Eres Tu.pdf"
+    url: "/resources/OnE-Scores/Missa/%5BChordChart%5D%20Eres%20Tu.pdf"
+    title: "주님의 기도"
+    composer: "Juan Carlos Calderon"
+    category: missa
+    mass_part: "lords_prayer"
+    type: chordchart
+    yahure: 129
+    haneulbada: null
+    key: ""
+    note: "Eres Tu 번안"
+    group: "missa-주님의기도-Juan Carlos Calderon"
+    label: "ChordChart · Eres Tu 번안"
   - path: "resources/OnE-Scores/Missa/[미사곡] 주님의기도 - 신지은,이지혜.pdf"
     url: "/resources/OnE-Scores/Missa/%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EC%A3%BC%EB%8B%98%EC%9D%98%EA%B8%B0%EB%8F%84%20-%20%EC%8B%A0%EC%A7%80%EC%9D%80%2C%EC%9D%B4%EC%A7%80%ED%98%9C.pdf"
     title: "주님의 기도"
@@ -406,32 +432,6 @@ items:
     note: ""
     group: "missa-삼위일체-"
     label: "Score"
-  - path: "resources/OnE-Scores/Missa/Eres Tu [Bass].pdf"
-    url: "/resources/OnE-Scores/Missa/Eres%20Tu%20%5BBass%5D.pdf"
-    title: "Eres Tu"
-    composer: ""
-    category: missa
-    mass_part: ""
-    type: score
-    yahure: null
-    haneulbada: null
-    key: "Bass"
-    note: ""
-    group: "missa-EresTu-"
-    label: "Score · Bass"
-  - path: "resources/OnE-Scores/Missa/[ChordChart] Eres Tu.pdf"
-    url: "/resources/OnE-Scores/Missa/%5BChordChart%5D%20Eres%20Tu.pdf"
-    title: "Eres Tu"
-    composer: ""
-    category: missa
-    mass_part: ""
-    type: chordchart
-    yahure: null
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "missa-EresTu-"
-    label: "ChordChart"
   - path: "resources/OnE-Scores/OnE/기적.pdf"
     url: "/resources/OnE-Scores/OnE/%EA%B8%B0%EC%A0%81.pdf"
     title: "기적"

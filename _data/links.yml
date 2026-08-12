@@ -90,6 +90,9 @@ items:
 
   # ── 주님의 기도 ──
   - title: "주님의 기도"
+    composer: "Juan Carlos Calderon"
+    videos: []
+  - title: "주님의 기도"
     composer: "신지은·이지혜"
     videos: []
   - title: "주님의 기도"
@@ -123,11 +126,6 @@ items:
 
   # ── 그 외 전례곡 ──
   - title: "삼위일체"
-    composer: ""
-    videos: []
-
-  # ──  ──
-  - title: "Eres Tu"
     composer: ""
     videos: []
 

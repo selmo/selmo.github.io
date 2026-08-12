@@ -152,6 +152,11 @@ CORRECTIONS = {
     "아름다운세상.pdf": dict(title="아름다운 세상"),
     "하느님의말씀은.pdf": dict(title="하느님의 말씀은"),
     "주님달링주님허니.pdf": dict(title="주님 달링 주님 허니"),
+    # Eres Tu — 번안하여 '주님의 기도'로 불린다 (야훼이레 129, Juan Carlos Calderon)
+    "Eres Tu [Bass].pdf": dict(title="주님의 기도", composer="Juan Carlos Calderon",
+                               mass_part="lords_prayer", yahure=129, note="Eres Tu 번안"),
+    "Eres Tu.pdf": dict(title="주님의 기도", composer="Juan Carlos Calderon",
+                        mass_part="lords_prayer", yahure=129, note="Eres Tu 번안"),
 }
 
 def category_of(rel):
