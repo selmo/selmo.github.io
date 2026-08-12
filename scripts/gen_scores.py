@@ -152,6 +152,15 @@ CORRECTIONS = {
     "아름다운세상.pdf": dict(title="아름다운 세상"),
     "하느님의말씀은.pdf": dict(title="하느님의 말씀은"),
     "주님달링주님허니.pdf": dict(title="주님 달링 주님 허니"),
+    # 재배치 후 파일명 (- Full Score 접미사가 빠진 형태)
+    "나의가장낮은마음 [야훼이레412].pdf": dict(title="나의 가장 낮은 마음", yahure=412),
+    "나의모습나의소유 [야훼이레416].pdf": dict(title="나의 모습 나의 소유", yahure=416),
+    "사랑한다는말은(1page).pdf": dict(title="사랑한다는 말은", note="1page"),
+    "오주여나의마음이(1page).pdf": dict(title="오 주여 나의 마음이", note="1page"),
+    "이시간너의맘속에 [야훼이레710].pdf": dict(title="이 시간 너의 맘속에", yahure=710),
+    "주님은나의목자[야훼이레768].pdf": dict(title="주님은 나의 목자", yahure=768),
+    "야곱의축복 [야훼이레640].pdf": dict(title="야곱의 축복", yahure=640),
+    "주여 나를 받으소서 [야훼이레797].pdf": dict(title="주여 나를 받으소서", yahure=797),
     # Eres Tu — 번안하여 '주님의 기도'로 불린다 (야훼이레 129, Juan Carlos Calderon)
     "Eres Tu [Bass].pdf": dict(title="주님의 기도", composer="Juan Carlos Calderon",
                                mass_part="lords_prayer", yahure=129, note="Eres Tu 번안"),
@@ -289,17 +298,20 @@ for root, dirs, files in os.walk(ROOT):
         bn = f
         nfc_bn = unicodedata.normalize("NFC", bn)
         cat = category_of(rel)
-        typ = type_of(bn)
+        typ = type_of(nfc_bn)
         # Missa/ 아래 하위 폴더명 (예: "화답송") — 파트 분류의 1순위 근거
         subdir = subdir_of(rel)
         folder_part = FOLDER_PART_MAP.get(unicodedata.normalize("NFC", subdir)) if subdir else None
-        # 기본 자동 추출
-        title = clean_title(bn)
-        composer = extract_composer(bn)
-        yahure = extract_yahure(bn)
-        key = extract_key(bn)
+        # 기본 자동 추출 — 반드시 NFC 정규화한 이름으로 한다.
+        # macOS 파일시스템은 한글을 NFD(자소 분리)로 저장하기도 하는데, 그대로 쓰면
+        # 정규식·CORRECTIONS 매칭이 모두 빗나가 제목이 정제되지 않은 채로 남는다.
+        # (path/url 은 실제 파일 접근에 쓰이므로 원본 그대로 유지)
+        title = clean_title(nfc_bn)
+        composer = extract_composer(nfc_bn)
+        yahure = extract_yahure(nfc_bn)
+        key = extract_key(nfc_bn)
         mass_part = mass_part_of(nfc_bn, subdir) if cat == "missa" else ""
-        note = extract_note(bn)
+        note = extract_note(nfc_bn)
         # 하드코딩 보정 (키 = 접두사 제거한 NFC basename)
         corr = CORRECTIONS.get(strip_prefix(nfc_bn))
         if corr:
@@ -318,18 +330,22 @@ for root, dirs, files in os.walk(ROOT):
         base_label = {"score": "Score", "chordchart": "ChordChart", "chorus": "Chorus"}[typ]
         extras = []
         if key: extras.append(key)
-        if "Full Score" in bn: extras.append("Full")
+        if "Full Score" in nfc_bn: extras.append("Full")
         if note and note not in ("어린이미사",): extras.append(note)
         label = base_label + (" · " + " · ".join(extras) if extras else "")
 
         # 마크다운 링크용 URL: 공백/대괄호/한글 퍼센트 인코딩 (경로 구분자 / 는 보존)
         url = "/" + quote(rel, safe="/")
 
+        # 표시용 텍스트 필드는 NFC 로 못박는다 (path/url 은 파일 접근용이라 원본 유지)
+        nfc = lambda x: unicodedata.normalize("NFC", x) if isinstance(x, str) else x
+
         items.append({
-            "path": rel, "url": url, "title": title, "composer": composer,
+            "path": rel, "url": url,
+            "title": nfc(title), "composer": nfc(composer),
             "category": cat, "mass_part": mass_part, "type": typ,
-            "yahure": yahure, "key": key, "note": note, "group": group,
-            "label": label,
+            "yahure": yahure, "key": nfc(key), "note": nfc(note),
+            "group": nfc(group), "label": nfc(label),
         })
 
 CAT_ORDER = {"missa": 0, "one": 1, "ccm": 2, "root": 3}

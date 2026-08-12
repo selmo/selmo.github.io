@@ -181,30 +181,6 @@ items:
   - title: "We Say Yes"
     composer: ""
     videos: []
-  - title: "나의가장낮은마음"
-    composer: ""
-    videos: []
-  - title: "나의모습나의소유"
-    composer: ""
-    videos: []
-  - title: "사랑한다는말은"
-    composer: ""
-    videos: []
-  - title: "야곱의축복"
-    composer: ""
-    videos: []
-  - title: "오주여나의마음이"
-    composer: ""
-    videos: []
-  - title: "이시간너의맘속에"
-    composer: ""
-    videos: []
-  - title: "주님은나의목자"
-    composer: ""
-    videos: []
-  - title: "주여 나를 받으소서"
-    composer: ""
-    videos: []
   - title: "그분께로 한 걸음씩"
     composer: ""
     videos: []
@@ -215,6 +191,9 @@ items:
     composer: ""
     videos: []
   - title: "나의 가장 낮은 마음"
+    composer: ""
+    videos: []
+  - title: "나의 모습 나의 소유"
     composer: ""
     videos: []
   - title: "나의 슬픔을"
@@ -250,6 +229,9 @@ items:
   - title: "아버지 뜻대로"
     composer: ""
     videos: []
+  - title: "야곱의 축복"
+    composer: ""
+    videos: []
   - title: "약할 때 강함 되시네"
     composer: ""
     videos: []
@@ -262,6 +244,9 @@ items:
   - title: "우리를 위해"
     composer: ""
     videos: []
+  - title: "이 시간 너의 맘속에"
+    composer: ""
+    videos: []
   - title: "좋을시고"
     composer: ""
     videos: []
@@ -269,6 +254,9 @@ items:
     composer: ""
     videos: []
   - title: "주님 사랑 노래해"
+    composer: ""
+    videos: []
+  - title: "주님은 나의 목자"
     composer: ""
     videos: []
   - title: "주 없이 살 수 없네"
