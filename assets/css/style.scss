@@ -546,22 +546,38 @@ a.yt {
   overflow-x: auto;
 }
 
+/* 열 폭을 내용이 아니라 아래 지정값으로 정한다.
+   작곡가 열은 첫 행에만 이름이 있어 auto 로 두면 남는 폭을 과하게 가져간다. */
 .composer-index table {
   width: 100%;
+  table-layout: fixed;
 }
 
-/* 작곡가 셀: 그룹의 첫 행에만 이름이 있고 나머지는 비어 있다.
-   이름이 있는 행 위에 경계선을 그어 그룹이 눈에 들어오게 한다. */
+.composer-index th:nth-child(1),
+.composer-index td:nth-child(1) { width: 13em; }   /* 작사/작곡자 */
+.composer-index th:nth-child(2),
+.composer-index td:nth-child(2) { width: auto; }   /* 수록곡 — 남는 폭 전부 */
+.composer-index th:nth-child(3),
+.composer-index td:nth-child(3) { width: 6em; }    /* 분류 */
+.composer-index th:nth-child(4),
+.composer-index td:nth-child(4),
+.composer-index th:nth-child(5),
+.composer-index td:nth-child(5) { width: 6em; }    /* 야훼이레 · 하늘바다 */
+
 .composer-index td:first-child {
-  white-space: nowrap;
   vertical-align: top;
+  color: var(--text-muted);
+  /* fixed 레이아웃에서 긴 이름(Juan Carlos Calderon)이 칸을 넘지 않도록 */
+  overflow-wrap: break-word;
 }
 
-.composer-index td:first-child:not(:empty) {
+/* 작곡가가 바뀌는 행(= 첫 열에 이름이 있는 행) 위에 구분선 */
+.composer-index tbody tr:has(td:first-child:not(:empty)) td {
   border-top: 2px solid var(--border-strong);
 }
 
-.composer-index tr:has(td:first-child:not(:empty)) td {
+/* :has() 미지원 브라우저 대비 — 이름 있는 셀에만이라도 선을 긋는다 */
+.composer-index td:first-child:not(:empty) {
   border-top: 2px solid var(--border-strong);
 }
 
@@ -569,5 +585,18 @@ a.yt {
   .composer-index {
     width: 100%;
     margin-left: 0;
+  }
+}
+
+@media (max-width: 720px) {
+  /* 좁은 화면에서는 고정폭을 풀고 가로 스크롤에 맡긴다 */
+  .composer-index table {
+    table-layout: auto;
+    min-width: 560px;
+  }
+
+  .composer-index th:nth-child(n),
+  .composer-index td:nth-child(n) {
+    width: auto;
   }
 }
