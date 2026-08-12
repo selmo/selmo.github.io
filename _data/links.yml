@@ -27,7 +27,11 @@ items:
     videos: []
   - title: "자비송"
     composer: "최태형"
-    videos: []
+    videos:
+      - id: "4ZQLgxNubIY"
+        title: "자비송"
+        by: "OnE"
+        note: "2023년 수원교구 청년도보성지순례 파견미사"
 
   # ── 대영광송 ──
   - title: "대영광송"
@@ -35,7 +39,11 @@ items:
     videos: []
   - title: "대영광송"
     composer: "최태형"
-    videos: []
+    videos:
+      - id: "qBAe5d9pozc"
+        title: "대영광송"
+        by: "OnE"
+        note: "2023년 수원교구 청년도보성지순례 파견미사"
 
   # ── 화답송 ──
   - title: "내 영혼아 주님을"
@@ -70,7 +78,11 @@ items:
     videos: []
   - title: "거룩하시도다"
     composer: "최태형"
-    videos: []
+    videos:
+      - id: "vGA2pyHg3J8"
+        title: "거룩하시도다"
+        by: "OnE"
+        note: "2023년 수원교구 청년도보성지순례 파견미사"
 
   # ── 신앙의 신비여 ──
   - title: "신앙의 신비여"
@@ -78,7 +90,11 @@ items:
     videos: []
   - title: "신앙의 신비여"
     composer: "최태형"
-    videos: []
+    videos:
+      - id: "lw_0qS-erYI"
+        title: "신앙의 신비여"
+        by: "OnE"
+        note: "2023년 수원교구 청년도보성지순례 파견미사"
   - title: "신앙의 신비여"
     composer: "현정수"
     videos: []
@@ -100,7 +116,11 @@ items:
     videos: []
   - title: "주님의 기도"
     composer: "최태형"
-    videos: []
+    videos:
+      - id: "oPebRkMHwjA"
+        title: "주님의 기도-주님께 나라와"
+        by: "OnE"
+        note: "2023년 파견미사 · 1:40 지점"
 
   # ── 하느님의 어린양 ──
   - title: "하느님의 어린양"
@@ -108,7 +128,11 @@ items:
     videos: []
   - title: "하느님의 어린양"
     composer: "최태형"
-    videos: []
+    videos:
+      - id: "6WmVBhMD2FA"
+        title: "하느님의 어린양"
+        by: "OnE"
+        note: "2023년 수원교구 청년도보성지순례 파견미사"
 
   # ── 마침영광송·주님께 나라와 ──
   - title: "주님께 나라와"
@@ -123,6 +147,10 @@ items:
       - id: "hOzul0mdjJ8"
         title: "마침영광송"
         by: "권용석 아마데오"
+      - id: "oPebRkMHwjA"
+        title: "마침영광송-아멘"
+        by: "OnE"
+        note: "2023년 파견미사 · 1:40부터 주님의 기도(131)"
 
   # ── 그 외 전례곡 ──
   - title: "삼위일체"
@@ -146,12 +174,20 @@ items:
         title: "주의 사랑과 권능으로"
         by: "OnE"
         note: "1999년 제1회 CPBC 창작생활성가제"
+      - id: "HA6VlVIHAfc"
+        title: "주의 사랑과 권능으로"
+        by: "OnE"
+        note: "2019년 CPBC 창작생활성가제 20주년 기념음악회"
   - title: "나의 기도가 이루어질 때"
     composer: "최태형"
     videos: []
   - title: "봉헌합니다"
     composer: "최태형"
-    videos: []
+    videos:
+      - id: "GWna31oeoBU"
+        title: "봉헌합니다"
+        by: "OnE"
+        note: "2023년 청년도보성지순례 파견미사 · 김현정 캐롤린 글"
   - title: "섬-DAY!"
     composer: "최태형"
     videos: []
@@ -160,10 +196,22 @@ items:
     videos: []
   - title: "주님 당신께 맡기나이다"
     composer: "최태형"
-    videos: []
+    videos:
+      - id: "2ye0hThkGD8"
+        title: "주님 당신께 맡기나이다"
+        by: "OnE"
+        note: "2019년 CPBC 창작생활성가제 20주년 기념음악회"
+      - id: "S5KHIYxZ6ag"
+        title: "주님 당신께 맡기나이다"
+        by: "OnE"
+        note: "2022년 수원교구 군포성당 본당의 날 미사"
   - title: "주님 제 소리를 들으소서"
     composer: "최태형"
-    videos: []
+    videos:
+      - id: "GYUDEN7fm80"
+        title: "주님 제 소리를 들으소서"
+        by: "OnE"
+        note: "2023년 청년도보성지순례 파견미사 · 순례 주제가"
   - title: "주님 평화 안에서"
     composer: "최태형"
     videos: []
@@ -200,7 +248,11 @@ items:
     videos: []
   - title: "그분께로 한 걸음씩"
     composer: ""
-    videos: []
+    videos:
+      - id: "Hm8mYnSC-gY"
+        title: "그 분께로 한 걸음 씩"
+        by: "OnE"
+        note: "2022년 수원교구 군포성당 본당의 날 미사"
   - title: "글로리아 높으신 이의 탄생"
     composer: ""
     videos: []
@@ -212,7 +264,11 @@ items:
     videos: []
   - title: "나의 모습 나의 소유"
     composer: ""
-    videos: []
+    videos:
+      - id: "MWIFZEWsEZY"
+        title: "나의 모습 나의 소유"
+        by: "OnE"
+        note: "2023년 수원교구 청년도보성지순례 파견미사"
   - title: "나의 슬픔을"
     composer: ""
     videos: []
