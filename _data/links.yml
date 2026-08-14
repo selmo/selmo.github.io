@@ -273,10 +273,17 @@ items:
         by: "Avalon"
   - title: "We Say Yes"
     composer: ""
-    videos: []
+    videos:
+      - id: "m-ruRHtEn2Y"
+        title: "We Say Yes"
+        by: "Maranatha! Music"
+        note: "원곡"
   - title: "글로리아 높으신 이의 탄생"
     composer: ""
-    videos: []
+    videos:
+      - id: "IlHpqkGSEyA"
+        title: "가톨릭 성가 101번"
+        by: "천주교대전교구"
   - title: "나의 모습 나의 소유"
     composer: ""
     videos:
@@ -284,33 +291,64 @@ items:
         title: "나의 모습 나의 소유"
         by: "OnE"
         note: "2023년 수원교구 청년도보성지순례 파견미사"
+      - id: "_rSWXf2Y4z0"
+        title: "God Will Make A Way"
+        by: "Don Moen"
+        note: "원곡"
   - title: "나의 슬픔을"
     composer: ""
-    videos: []
+    videos:
+      - id: "dtktBpQrr2k"
+        title: "Only a God Like You"
+        by: "Tommy Walker"
+        note: "원곡 음원"
   - title: "내가 천사의 말한다 해도"
     composer: ""
     videos: []
   - title: "내 이름 아시죠"
     composer: ""
-    videos: []
+    videos:
+      - id: "RxbLobedkGo"
+        title: "He Knows My Name"
+        by: "Tommy Walker"
+        note: "원곡 음원"
   - title: "약할 때 강함 되시네"
     composer: ""
-    videos: []
+    videos:
+      - id: "pq6lLpY9bGo"
+        title: "You Are My All in All"
+        by: "Dennis Jernigan"
+        note: "원곡"
   - title: "오셔서 다스리소서"
     composer: ""
-    videos: []
+    videos:
+      - id: "nmWX7DMUpMQ"
+        title: "오셔서 다스리소서 (Lord Reign in Me)"
+        by: "아이자야씩스티원"
   - title: "오 주여 나의 마음이"
     composer: ""
     videos: []
   - title: "우리를 위해"
     composer: ""
-    videos: []
+    videos:
+      - id: "g3oAbNEi26Q"
+        title: "We Are The Reason"
+        by: "Avalon"
+        note: "원곡 음원"
   - title: "주님 사랑 노래해"
     composer: ""
-    videos: []
+    videos:
+      - id: "KaE2SKbmj_c"
+        title: "Testify to Love"
+        by: "Avalon"
+        note: "원곡 · 공식 채널"
   - title: "주 없이 살 수 없네"
     composer: ""
-    videos: []
+    videos:
+      - id: "LodckR6kc5k"
+        title: "Can't Live a Day (lyric video)"
+        by: "Avalon"
+        note: "원곡"
   - title: "주의 사랑 노래해"
     composer: ""
     videos:
@@ -319,15 +357,23 @@ items:
         by: "Avalon"
   - title: "주품에 품으소서"
     composer: ""
-    videos: []
+    videos:
+      - id: "lAdwX8HypJM"
+        title: "Still"
+        by: "Hillsong Worship"
+        note: "원곡 · Reuben Morgan 곡"
   - title: "캐롤 메들리"
     composer: ""
     videos: []
   - title: "호산나"
     composer: ""
-    videos: []
+    videos:
+      - id: "E1X-VDCMyAc"
+        title: "Hosanna"
+        by: "Carl Tuttle"
+        note: "원곡"
 
-  # ══════ hymn ══════
+  # ══════ 성가 · 찬양 ══════
   - title: "그분께로 한 걸음씩"
     composer: ""
     videos:
@@ -337,34 +383,68 @@ items:
         note: "2022년 수원교구 군포성당 본당의 날 미사"
   - title: "꽃"
     composer: ""
-    videos: []
+    videos:
+      - id: "E8FS4hWvzBY"
+        title: "꽃"
+        by: "이문동 베네딕도 성가대"
+        note: "현덕 프란치스코 곡"
   - title: "나의 가장 낮은 마음"
     composer: ""
-    videos: []
+    videos:
+      - id: "Hf2QuYxvE84"
+        title: "나의 가장 낮은 마음"
+        by: "소리엘"
+        note: "1991년 1집 · 유상렬 곡"
   - title: "내 맘에 오시는 주"
     composer: ""
-    videos: []
+    videos:
+      - id: "IRaTv17YbFw"
+        title: "내 맘에 오시는 주"
+        by: "제이팸"
+        note: "강희만 글·곡"
   - title: "만나"
     composer: ""
     videos: []
   - title: "말씀하시면"
     composer: ""
-    videos: []
+    videos:
+      - id: "i1GblaUB5cs"
+        title: "김영범 1집 REBUILD 전곡 (말씀하시면 수록)"
+        by: "김영범"
+        note: "원곡 앨범"
   - title: "사랑은 하느님에게서 오는 것이니"
     composer: ""
-    videos: []
+    videos:
+      - id: "bnrZVhT7nXU"
+        title: "사랑은 하느님에게서 오는 것이니"
+        by: "나정신·최은영"
   - title: "사랑한다는 말은"
     composer: ""
-    videos: []
+    videos:
+      - id: "iPfWioKTroU"
+        title: "사랑한다는 말은"
+        by: "갓등중창단"
+        note: "이해인 시 · 박성훈 곡"
   - title: "아버지 뜻대로"
     composer: ""
-    videos: []
+    videos:
+      - id: "NK9cBTrxKGk"
+        title: "아버지 뜻대로 (Non Mea, Sed Tua)"
+        by: "수원가톨릭합창단"
+        note: "현정수 글·곡"
   - title: "야곱의 축복"
     composer: ""
-    videos: []
+    videos:
+      - id: "qgcq8I8iuvE"
+        title: "야곱의 축복"
+        by: "김인식"
+        note: "원곡 음원"
   - title: "이 시간 너의 맘속에"
     composer: ""
-    videos: []
+    videos:
+      - id: "nB4jawtm4A0"
+        title: "이 시간 너의 맘속에"
+        by: "김수지"
   - title: "종이비행기"
     composer: ""
     videos: []
@@ -373,18 +453,30 @@ items:
     videos: []
   - title: "주님 달링 주님 허니"
     composer: ""
-    videos: []
+    videos:
+      - id: "heApCTu13wk"
+        title: "주님 달링 주님 허니"
+        by: "어부들"
+        note: "원곡 음원"
   - title: "주님은 나의 목자"
     composer: ""
-    videos: []
+    videos:
+      - id: "FF7aLwASRd0"
+        title: "야훼이레 768번 주님은 나의 목자"
+        by: "야훼이레"
+        note: "현정수 곡"
   - title: "주여 나를 받으소서"
     composer: ""
-    videos: []
+    videos:
+      - id: "f2Iv7opK-kg"
+        title: "주여 나를 받으소서"
+        by: "제이팸"
+        note: "성 이냐시오 기도문 · 정민경 곡"
   - title: "하느님의 말씀은"
     composer: ""
     videos: []
 
-  # ══════ kpop ══════
+  # ══════ K-Pop ══════
   - title: "Butterfly"
     composer: ""
     videos: []
