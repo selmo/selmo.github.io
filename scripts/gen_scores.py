@@ -15,20 +15,26 @@ COMPOSERS = ["신상옥", "현정수", "최태형", "이종철", "윤남근", "�
              "김용휘", "박정선"]
 
 # 미사 파트 키워드 -> mass_part
+# 파일명 키워드 -> mass_part.
+# 파일명마다 띄어쓰기가 제각각이라('복음환호송' / '복음 환호송') 글자 사이 공백을
+# 모두 허용한다. 아래 _sp() 가 각 글자 사이에 \s* 를 끼워 넣는다.
+def _sp(word):
+    return r"\s*".join(word)
+
 MASS_PART_RULES = [
-    (r"주님저희에게자비를|주님 저희에게 자비를", "responsorial_psalm"),
-    (r"자비송", "kyrie"),
-    (r"대영광송", "gloria"),
-    (r"복음환호송", "gospel_acclamation"),
-    (r"화답송", "responsorial_psalm"),
-    (r"신앙의?신비여", "mystery"),
-    (r"거룩하시도다", "sanctus"),
-    (r"하느님의?어린양", "agnus"),
-    (r"주님의?기도|주님의기도", "lords_prayer"),
-    (r"주님께나라와", "kingdom"),
-    (r"마침영광송", "doxology"),
-    (r"보편지향기도", "prayer_of_faithful"),
-    (r"아멘", "amen"),
+    (_sp("주님저희에게자비를"), "responsorial_psalm"),
+    (_sp("자비송"), "kyrie"),
+    (_sp("대영광송"), "gloria"),
+    (_sp("복음환호송") + "|" + _sp("알렐루야"), "gospel_acclamation"),
+    (_sp("화답송"), "responsorial_psalm"),
+    (_sp("신앙의신비여"), "mystery"),
+    (_sp("거룩하시도다"), "sanctus"),
+    (_sp("하느님의어린양"), "agnus"),
+    (_sp("주님의기도"), "lords_prayer"),
+    (_sp("주님께나라와"), "kingdom"),
+    (_sp("마침영광송"), "doxology"),
+    (_sp("보편지향기도"), "prayer_of_faithful"),
+    (_sp("아멘"), "amen"),
 ]
 
 # Missa/ 아래 하위 폴더명 -> mass_part (파일명 키워드보다 우선)

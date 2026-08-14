@@ -66,6 +66,9 @@ items:
   - title: "복음환호송"
     composer: "현정수"
     videos: []
+  - title: "알렐루야"
+    composer: "현정수"
+    videos: []
   - title: "복음환호송 + 보편지향기도"
     composer: ""
     videos: []
@@ -151,6 +154,9 @@ items:
         title: "주님의 기도-주님께 나라와"
         by: "OnE"
         note: "2023년 파견미사 · 1:40 지점"
+  - title: "주님의 기도 - 주님께 나라와"
+    composer: ""
+    videos: []
 
   # ── 주님께 나라와 ──
   - title: "주님께 나라와"
@@ -168,20 +174,12 @@ items:
         title: "하느님의 어린양"
         by: "OnE"
         note: "2023년 수원교구 청년도보성지순례 파견미사"
-
-  # ── 그 외 전례곡 ──
-  - title: "삼위일체"
-    composer: ""
-    videos: []
-
-  # ──  ──
-  - title: "알렐루야"
-    composer: "현정수"
-    videos: []
   - title: "하느님의 어린양"
     composer: "현정수"
     videos: []
-  - title: "주님의 기도 - 주님께 나라와"
+
+  # ── 그 외 전례곡 ──
+  - title: "삼위일체"
     composer: ""
     videos: []
 
@@ -373,7 +371,7 @@ items:
         by: "Carl Tuttle"
         note: "원곡"
 
-  # ══════ 성가 · 찬양 ══════
+  # ══════ hymn ══════
   - title: "그분께로 한 걸음씩"
     composer: ""
     videos:
@@ -476,7 +474,7 @@ items:
     composer: ""
     videos: []
 
-  # ══════ K-Pop ══════
+  # ══════ kpop ══════
   - title: "Butterfly"
     composer: ""
     videos: []

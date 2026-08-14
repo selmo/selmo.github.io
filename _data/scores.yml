@@ -143,6 +143,20 @@ items:
     note: ""
     group: "missa-복음환호송-현정수"
     label: "Score"
+  - path: "resources/OnE-Scores/Missa/[미사곡] 알렐루야 [현정수,야훼이레046].pdf"
+    url: "/resources/OnE-Scores/Missa/%5B%E1%84%86%E1%85%B5%E1%84%89%E1%85%A1%E1%84%80%E1%85%A9%E1%86%A8%5D%20%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%85%E1%85%A6%E1%86%AF%E1%84%85%E1%85%AE%E1%84%8B%E1%85%A3%20%5B%E1%84%92%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%89%E1%85%AE%2C%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6046%5D.pdf"
+    title: "알렐루야"
+    composer: "현정수"
+    artist: ""
+    category: missa
+    mass_part: "gospel_acclamation"
+    type: score
+    yahure: 46
+    haneulbada: 26
+    key: ""
+    note: ""
+    group: "missa-알렐루야-현정수"
+    label: "Score"
   - path: "resources/OnE-Scores/Missa/복음환호송/[미사곡] 복음환호송 + 보편지향기도.pdf"
     url: "/resources/OnE-Scores/Missa/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%B7%E1%84%92%E1%85%AA%E1%86%AB%E1%84%92%E1%85%A9%E1%84%89%E1%85%A9%E1%86%BC/%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EB%B3%B5%EC%9D%8C%ED%99%98%ED%98%B8%EC%86%A1%20%2B%20%EB%B3%B4%ED%8E%B8%EC%A7%80%ED%96%A5%EA%B8%B0%EB%8F%84.pdf"
     title: "복음환호송 + 보편지향기도"
@@ -185,6 +199,20 @@ items:
     note: "2024-07-04"
     group: "missa-복음환호송-"
     label: "Score · 2024-07-04"
+  - path: "resources/OnE-Scores/Missa/합창악보/복음 환호송.pdf"
+    url: "/resources/OnE-Scores/Missa/%E1%84%92%E1%85%A1%E1%86%B8%E1%84%8E%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%A1%E1%86%A8%E1%84%87%E1%85%A9/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%B7%20%E1%84%92%E1%85%AA%E1%86%AB%E1%84%92%E1%85%A9%E1%84%89%E1%85%A9%E1%86%BC.pdf"
+    title: "복음 환호송"
+    composer: ""
+    artist: ""
+    category: missa
+    mass_part: "gospel_acclamation"
+    type: score
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: "합창"
+    group: "missa-복음환호송-"
+    label: "Score · 합창"
   - path: "resources/OnE-Scores/Missa/복음환호송/오소서성령님저희마음을가득채우시어저희안에사랑의불이타오르게하소서.pdf"
     url: "/resources/OnE-Scores/Missa/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%B7%E1%84%92%E1%85%AA%E1%86%AB%E1%84%92%E1%85%A9%E1%84%89%E1%85%A9%E1%86%BC/%EC%98%A4%EC%86%8C%EC%84%9C%EC%84%B1%EB%A0%B9%EB%8B%98%EC%A0%80%ED%9D%AC%EB%A7%88%EC%9D%8C%EC%9D%84%EA%B0%80%EB%93%9D%EC%B1%84%EC%9A%B0%EC%8B%9C%EC%96%B4%EC%A0%80%ED%9D%AC%EC%95%88%EC%97%90%EC%82%AC%EB%9E%91%EC%9D%98%EB%B6%88%EC%9D%B4%ED%83%80%EC%98%A4%EB%A5%B4%EA%B2%8C%ED%95%98%EC%86%8C%EC%84%9C.pdf"
     title: "오소서 성령님"
@@ -479,6 +507,20 @@ items:
     note: "주님께 나라와"
     group: "missa-주님의기도-최태형"
     label: "Score · 주님께 나라와 3"
+  - path: "resources/OnE-Scores/Missa/합창악보/주님의 기도 - 주님께 나라와.pdf"
+    url: "/resources/OnE-Scores/Missa/%E1%84%92%E1%85%A1%E1%86%B8%E1%84%8E%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%A1%E1%86%A8%E1%84%87%E1%85%A9/%E1%84%8C%E1%85%AE%E1%84%82%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%B4%20%E1%84%80%E1%85%B5%E1%84%83%E1%85%A9%20-%20%E1%84%8C%E1%85%AE%E1%84%82%E1%85%B5%E1%86%B7%E1%84%81%E1%85%A6%20%E1%84%82%E1%85%A1%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AA.pdf"
+    title: "주님의 기도 - 주님께 나라와"
+    composer: ""
+    artist: ""
+    category: missa
+    mass_part: "lords_prayer"
+    type: score
+    yahure: 131
+    haneulbada: null
+    key: ""
+    note: "합창"
+    group: "missa-주님의기도-주님께나라와-"
+    label: "Score · 합창"
   - path: "resources/OnE-Scores/Missa/[미사곡] 주님께나라와 - 신상옥.pdf"
     url: "/resources/OnE-Scores/Missa/%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EC%A3%BC%EB%8B%98%EA%BB%98%EB%82%98%EB%9D%BC%EC%99%80%20-%20%EC%8B%A0%EC%83%81%EC%98%A5.pdf"
     title: "주님께 나라와"
@@ -549,6 +591,20 @@ items:
     note: ""
     group: "missa-하느님의어린양-최태형"
     label: "Score 2"
+  - path: "resources/OnE-Scores/Missa/[미사곡] 하느님의 어린양 [현정수,야훼이레169].pdf"
+    url: "/resources/OnE-Scores/Missa/%5B%E1%84%86%E1%85%B5%E1%84%89%E1%85%A1%E1%84%80%E1%85%A9%E1%86%A8%5D%20%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%84%82%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%B4%20%E1%84%8B%E1%85%A5%E1%84%85%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A3%E1%86%BC%20%5B%E1%84%92%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%89%E1%85%AE%2C%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6169%5D.pdf"
+    title: "하느님의 어린양"
+    composer: "현정수"
+    artist: ""
+    category: missa
+    mass_part: "agnus"
+    type: score
+    yahure: 169
+    haneulbada: 83
+    key: ""
+    note: ""
+    group: "missa-하느님의어린양-현정수"
+    label: "Score"
   - path: "resources/OnE-Scores/Missa/[Score][미사곡] 삼위일체.pdf"
     url: "/resources/OnE-Scores/Missa/%5BScore%5D%5B%EB%AF%B8%EC%82%AC%EA%B3%A1%5D%20%EC%82%BC%EC%9C%84%EC%9D%BC%EC%B2%B4.pdf"
     title: "삼위일체"
@@ -563,62 +619,6 @@ items:
     note: ""
     group: "missa-삼위일체-"
     label: "Score"
-  - path: "resources/OnE-Scores/Missa/[미사곡] 알렐루야 [현정수,야훼이레046].pdf"
-    url: "/resources/OnE-Scores/Missa/%5B%E1%84%86%E1%85%B5%E1%84%89%E1%85%A1%E1%84%80%E1%85%A9%E1%86%A8%5D%20%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%85%E1%85%A6%E1%86%AF%E1%84%85%E1%85%AE%E1%84%8B%E1%85%A3%20%5B%E1%84%92%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%89%E1%85%AE%2C%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6046%5D.pdf"
-    title: "알렐루야"
-    composer: "현정수"
-    artist: ""
-    category: missa
-    mass_part: ""
-    type: score
-    yahure: 46
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "missa-알렐루야-현정수"
-    label: "Score"
-  - path: "resources/OnE-Scores/Missa/[미사곡] 하느님의 어린양 [현정수,야훼이레169].pdf"
-    url: "/resources/OnE-Scores/Missa/%5B%E1%84%86%E1%85%B5%E1%84%89%E1%85%A1%E1%84%80%E1%85%A9%E1%86%A8%5D%20%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%84%82%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%B4%20%E1%84%8B%E1%85%A5%E1%84%85%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A3%E1%86%BC%20%5B%E1%84%92%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%89%E1%85%AE%2C%E1%84%8B%E1%85%A3%E1%84%92%E1%85%B0%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6169%5D.pdf"
-    title: "하느님의 어린양"
-    composer: "현정수"
-    artist: ""
-    category: missa
-    mass_part: ""
-    type: score
-    yahure: 169
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "missa-하느님의어린양-현정수"
-    label: "Score"
-  - path: "resources/OnE-Scores/Missa/합창악보/복음 환호송.pdf"
-    url: "/resources/OnE-Scores/Missa/%E1%84%92%E1%85%A1%E1%86%B8%E1%84%8E%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%A1%E1%86%A8%E1%84%87%E1%85%A9/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%B7%20%E1%84%92%E1%85%AA%E1%86%AB%E1%84%92%E1%85%A9%E1%84%89%E1%85%A9%E1%86%BC.pdf"
-    title: "복음 환호송"
-    composer: ""
-    artist: ""
-    category: missa
-    mass_part: ""
-    type: score
-    yahure: null
-    haneulbada: null
-    key: ""
-    note: "합창"
-    group: "missa-복음환호송-"
-    label: "Score · 합창"
-  - path: "resources/OnE-Scores/Missa/합창악보/주님의 기도 - 주님께 나라와.pdf"
-    url: "/resources/OnE-Scores/Missa/%E1%84%92%E1%85%A1%E1%86%B8%E1%84%8E%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%A1%E1%86%A8%E1%84%87%E1%85%A9/%E1%84%8C%E1%85%AE%E1%84%82%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%B4%20%E1%84%80%E1%85%B5%E1%84%83%E1%85%A9%20-%20%E1%84%8C%E1%85%AE%E1%84%82%E1%85%B5%E1%86%B7%E1%84%81%E1%85%A6%20%E1%84%82%E1%85%A1%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AA.pdf"
-    title: "주님의 기도 - 주님께 나라와"
-    composer: ""
-    artist: ""
-    category: missa
-    mass_part: ""
-    type: score
-    yahure: 131
-    haneulbada: null
-    key: ""
-    note: "합창"
-    group: "missa-주님의기도-주님께나라와-"
-    label: "Score · 합창"
   - path: "resources/OnE-Scores/OnE/기적.pdf"
     url: "/resources/OnE-Scores/OnE/%EA%B8%B0%EC%A0%81.pdf"
     title: "기적"
