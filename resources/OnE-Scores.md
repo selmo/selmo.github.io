@@ -89,14 +89,28 @@ noindex: true
 {% assign hymn_groups = hymn | map: "group" | uniq %}
 
 | 곡명 | 작곡 | 야훼이레 | 하늘바다 | 악보 | 영상 | 설명 |
-|:---
+|:---|:---|:---:|:---:|:---|:---|:---|
+{% for g in hymn_groups -%}
+{% assign gi = hymn | where: "group", g -%}
+{% assign first = gi[0] -%}
+| {{ first.title }} | {% if first.composer %}{{ first.composer }}{% else %}—{% endif %} | {% if first.yahure %}{{ first.yahure }}{% else %}—{% endif %} | {% if first.haneulbada %}{{ first.haneulbada }}{% else %}—{% endif %} | {% for s in gi %}[⬇ {{ s.label }}]({{ s.url | relative_url }}){: download="" }{% unless forloop.last %}<br>{% endunless %}{% endfor %} | {% assign vkey = first.title | remove: " " %}{% assign vmatch = "" %}{% for L in site.data.links.items %}{% assign lkey = L.title | remove: " " %}{% if lkey == vkey %}{% if L.composer == nil or L.composer == "" or L.composer == first.composer %}{% assign vmatch = L %}{% break %}{% endif %}{% endif %}{% endfor %}{% if vmatch != "" %}{% for v in vmatch.videos %}<a class="yt" href="https://www.youtube.com/watch?v={{ v.id }}" data-yt="{{ v.id }}" target="_blank" rel="noopener">▶ {{ v.title }}</a>{% unless forloop.last %}<br>{% endunless %}{% endfor %}{% else %}—{% endif %} | {% if vmatch != "" %}{% for v in vmatch.videos %}{% if v.by %}{{ v.by }}{% endif %}{% if v.by and v.note %} — {% endif %}{% if v.note %}<sub>{{ v.note }}</sub>{% endif %}{% unless v.by or v.note %}·{% endunless %}{% unless forloop.last %}<br>{% endunless %}{% endfor %}{% else %}—{% endif %} |
+{% endfor %}
+
+---
 
 ## K-Pop · 대중가요 편곡
 
 {% assign kpop_groups = kpop | map: "group" | uniq %}
 
 | 곡명 | 작곡 | 야훼이레 | 하늘바다 | 악보 | 영상 | 설명 |
-|:---
+|:---|:---|:---:|:---:|:---|:---|:---|
+{% for g in kpop_groups -%}
+{% assign gi = kpop | where: "group", g -%}
+{% assign first = gi[0] -%}
+| {{ first.title }} | {% if first.composer %}{{ first.composer }}{% else %}—{% endif %} | {% if first.yahure %}{{ first.yahure }}{% else %}—{% endif %} | {% if first.haneulbada %}{{ first.haneulbada }}{% else %}—{% endif %} | {% for s in gi %}[⬇ {{ s.label }}]({{ s.url | relative_url }}){: download="" }{% unless forloop.last %}<br>{% endunless %}{% endfor %} | {% assign vkey = first.title | remove: " " %}{% assign vmatch = "" %}{% for L in site.data.links.items %}{% assign lkey = L.title | remove: " " %}{% if lkey == vkey %}{% if L.composer == nil or L.composer == "" or L.composer == first.composer %}{% assign vmatch = L %}{% break %}{% endif %}{% endif %}{% endfor %}{% if vmatch != "" %}{% for v in vmatch.videos %}<a class="yt" href="https://www.youtube.com/watch?v={{ v.id }}" data-yt="{{ v.id }}" target="_blank" rel="noopener">▶ {{ v.title }}</a>{% unless forloop.last %}<br>{% endunless %}{% endfor %}{% else %}—{% endif %} | {% if vmatch != "" %}{% for v in vmatch.videos %}{% if v.by %}{{ v.by }}{% endif %}{% if v.by and v.note %} — {% endif %}{% if v.note %}<sub>{{ v.note }}</sub>{% endif %}{% unless v.by or v.note %}·{% endunless %}{% unless forloop.last %}<br>{% endunless %}{% endfor %}{% else %}—{% endif %} |
+{% endfor %}
+
+---
 
 {% if root.size > 0 %}
 
@@ -105,16 +119,14 @@ noindex: true
 {% assign root_groups = root | map: "group" | uniq %}
 
 | 곡명 | 작곡 | 야훼이레 | 하늘바다 | 악보 | 영상 | 설명 |
-|:
-
-{% endif %}
-
----|:---|:---:|:---:|:---|:---|:---|
+|:---|:---|:---:|:---:|:---|:---|:---|
 {% for g in root_groups -%}
 {% assign gi = root | where: "group", g -%}
 {% assign first = gi[0] -%}
 | {{ first.title }} | {% if first.composer %}{{ first.composer }}{% else %}—{% endif %} | {% if first.yahure %}{{ first.yahure }}{% else %}—{% endif %} | {% if first.haneulbada %}{{ first.haneulbada }}{% else %}—{% endif %} | {% for s in gi %}[⬇ {{ s.label }}]({{ s.url | relative_url }}){: download="" }{% unless forloop.last %}<br>{% endunless %}{% endfor %} | {% assign vkey = first.title | remove: " " %}{% assign vmatch = "" %}{% for L in site.data.links.items %}{% assign lkey = L.title | remove: " " %}{% if lkey == vkey %}{% if L.composer == nil or L.composer == "" or L.composer == first.composer %}{% assign vmatch = L %}{% break %}{% endif %}{% endif %}{% endfor %}{% if vmatch != "" %}{% for v in vmatch.videos %}<a class="yt" href="https://www.youtube.com/watch?v={{ v.id }}" data-yt="{{ v.id }}" target="_blank" rel="noopener">▶ {{ v.title }}</a>{% unless forloop.last %}<br>{% endunless %}{% endfor %}{% else %}—{% endif %} | {% if vmatch != "" %}{% for v in vmatch.videos %}{% if v.by %}{{ v.by }}{% endif %}{% if v.by and v.note %} — {% endif %}{% if v.note %}<sub>{{ v.note }}</sub>{% endif %}{% unless v.by or v.note %}·{% endunless %}{% unless forloop.last %}<br>{% endunless %}{% endfor %}{% else %}—{% endif %} |
 {% endfor %}
+
+{% endif %}
 
 ---
 
