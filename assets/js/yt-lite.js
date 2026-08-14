@@ -11,13 +11,16 @@
 (function () {
   'use strict';
 
-  function makePlayer(id, label) {
+  function makePlayer(id, label, start) {
     var wrap = document.createElement('span');
     wrap.className = 'yt-player';
 
     var frame = document.createElement('iframe');
     // youtube-nocookie: 재생 전까지 추적 쿠키를 남기지 않는 도메인
-    frame.src = 'https://www.youtube-nocookie.com/embed/' + encodeURIComponent(id) + '?autoplay=1&rel=0';
+    var src = 'https://www.youtube-nocookie.com/embed/' + encodeURIComponent(id) + '?autoplay=1&rel=0';
+    // data-start="100" (초) 가 있으면 그 지점부터 재생
+    if (start) src += '&start=' + encodeURIComponent(start);
+    frame.src = src;
     frame.title = label || 'YouTube 영상';
     frame.loading = 'lazy';
     frame.allow = 'accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture';
@@ -47,7 +50,7 @@
 
     e.preventDefault();
 
-    var player = makePlayer(id, link.textContent.trim());
+    var player = makePlayer(id, link.textContent.trim(), link.getAttribute('data-start'));
     link.setAttribute('hidden', '');
     link.insertAdjacentElement('afterend', player.wrap);
 

@@ -153,7 +153,8 @@ items:
       - id: "oPebRkMHwjA"
         title: "주님의 기도-주님께 나라와"
         by: "OnE"
-        note: "2023년 파견미사 · 1:40 지점"
+        start: 100
+        note: "2023년 청년도보성지순례 파견미사"
   - title: "주님의 기도 - 주님께 나라와"
     composer: ""
     videos: []
@@ -371,7 +372,7 @@ items:
         by: "Carl Tuttle"
         note: "원곡"
 
-  # ══════ hymn ══════
+  # ══════ 성가 · 찬양 ══════
   - title: "그분께로 한 걸음씩"
     composer: ""
     videos:
@@ -474,7 +475,7 @@ items:
     composer: ""
     videos: []
 
-  # ══════ kpop ══════
+  # ══════ K-Pop ══════
   - title: "Butterfly"
     composer: ""
     videos: []
