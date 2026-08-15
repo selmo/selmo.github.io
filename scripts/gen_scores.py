@@ -160,6 +160,11 @@ CORRECTIONS = {
     "아름다운세상.pdf": dict(title="아름다운 세상"),
     "하느님의말씀은.pdf": dict(title="하느님의 말씀은"),
     "주님달링주님허니.pdf": dict(title="주님 달링 주님 허니"),
+    # Missa/합창악보/ — 모두 최태형 작곡분의 합창 편곡 (파일명에 작곡가 미표기)
+    "대영광송.pdf": dict(title="대영광송", composer="최태형", mass_part="gloria", yahure=31),
+    "복음 환호송.pdf": dict(title="복음환호송", composer="최태형", mass_part="gospel_acclamation"),
+    "마침영광송 - 아멘.pdf": dict(title="마침영광송", composer="최태형", mass_part="doxology", yahure=118),
+    "주님의 기도 - 주님께 나라와.pdf": dict(title="주님의 기도", composer="최태형", mass_part="lords_prayer", yahure=131),
     # 재배치 후 파일명 (- Full Score 접미사가 빠진 형태)
     "나의가장낮은마음 [야훼이레412].pdf": dict(title="나의 가장 낮은 마음", yahure=412),
     "나의모습나의소유 [야훼이레416].pdf": dict(title="나의 모습 나의 소유", yahure=416),

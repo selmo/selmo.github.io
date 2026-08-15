@@ -50,9 +50,6 @@ items:
   - title: "대영광송"
     composer: "현정수"
     videos: []
-  - title: "대영광송"
-    composer: ""
-    videos: []
 
   # ── 화답송 ──
   - title: "내 영혼아 주님을"
@@ -63,6 +60,9 @@ items:
     videos: []
 
   # ── 복음환호송 ──
+  - title: "복음환호송"
+    composer: "최태형"
+    videos: []
   - title: "복음환호송"
     composer: "현정수"
     videos: []
@@ -128,9 +128,6 @@ items:
         title: "마침영광송-아멘"
         by: "OnE"
         note: "2023년 파견미사 · 1:40부터 주님의 기도(131)"
-  - title: "마침영광송 - 아멘"
-    composer: ""
-    videos: []
 
   # ── 아멘 ──
   - title: "아멘"
@@ -153,11 +150,7 @@ items:
       - id: "oPebRkMHwjA"
         title: "주님의 기도-주님께 나라와"
         by: "OnE"
-        start: 100
         note: "2023년 청년도보성지순례 파견미사"
-  - title: "주님의 기도 - 주님께 나라와"
-    composer: ""
-    videos: []
 
   # ── 주님께 나라와 ──
   - title: "주님께 나라와"
@@ -372,7 +365,7 @@ items:
         by: "Carl Tuttle"
         note: "원곡"
 
-  # ══════ 성가 · 찬양 ══════
+  # ══════ hymn ══════
   - title: "그분께로 한 걸음씩"
     composer: ""
     videos:
@@ -475,7 +468,7 @@ items:
     composer: ""
     videos: []
 
-  # ══════ K-Pop ══════
+  # ══════ kpop ══════
   - title: "Butterfly"
     composer: ""
     videos: []
