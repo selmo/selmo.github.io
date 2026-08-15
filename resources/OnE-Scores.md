@@ -177,6 +177,5 @@ title: "최태형 · OnE 악보 (Scores)"
 - [리소스 자료실 (Resources)](../ccm/Resources.md) — 악보 자료 및 웹사이트 링크
 - [미사곡 (Mass)](../ccm/Mass.md)
 - [최태형 안셀모 작품 목록](../ccm/songs/TaeHyoungChoi.md)
-- [그 외 악보 목록](OnE-Scores-All.md) — 번역 CCM · 성가 · 편곡 등
 
 <script src="{{ '/assets/js/yt-lite.js' | relative_url }}" defer></script>
