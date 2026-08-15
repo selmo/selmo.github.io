@@ -10,6 +10,11 @@ title: "리소스 (Resources)"
 
 *   **[최태형 · OnE 악보 (Scores)](../resources/Scores.md)**: 미사곡 · OnE 활동곡 악보(PDF)와 연주 영상
 
+## 성가집 수록곡 목록
+
+*   **[야훼이레 3판](../resources/Yahure.md)**: 가톨릭 청년 성가집 수록곡 색인 (624곡)
+*   **[하늘바다](../resources/Haneulbada.md)**: 가톨릭 어린이 찬양집 수록곡 색인 (미사곡 85 · 그 외 358)
+
 ## 웹사이트 (Websites)
 
 ### 출판사 카탈로그

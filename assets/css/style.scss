@@ -406,7 +406,8 @@ a {
    Articles filter
    --------------------------------------------------------------- */
 
-.articles-filter {
+.articles-filter,
+.sb-filter {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -427,12 +428,14 @@ a {
     color: var(--text);
   }
 
-  #af-search {
+  #af-search,
+  #sb-q {
     flex: 1 1 220px;
     min-width: 0;
   }
 
-  .af-count {
+  .af-count,
+  .sb-count {
     font-size: 13px;
     color: var(--text-muted);
     margin-left: auto;
@@ -592,4 +595,34 @@ a.yt {
   .composer-index td:nth-child(n) {
     width: auto;
   }
+}
+
+/* ---------------------------------------------------------------
+   성가집 수록곡 목록 — 긴 표를 스크롤 영역에 담는다
+   --------------------------------------------------------------- */
+
+.songbook-table {
+  max-height: 70vh;
+  overflow-y: auto;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+.songbook-table table {
+  margin: 0;
+  border: none;
+  border-radius: 0;
+}
+
+/* 스크롤해도 머리글이 남아 있게 */
+.songbook-table thead th {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: var(--bg-elev);
+}
+
+.songbook-table td:first-child {
+  white-space: nowrap;
+  color: var(--text-muted);
 }

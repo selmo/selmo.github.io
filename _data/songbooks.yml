@@ -1,0 +1,4204 @@
+# 성가집 수록곡 목록 (scripts/gen_songbooks.py 로 생성)
+#
+#   yahure     : 야훼이레 3판 — resources/야훼이레-수록곡목록-3판.xlsx
+#   haneulbada : 하늘바다(가톨릭 어린이 찬양집) — resources/하늘바다.md
+#
+# 번호·곡명·작사/작곡자만 담는다(가사는 포함하지 않는다).
+
+yahure:
+  - num: 1
+    title: "자비송"
+    author: "가톨릭 청년성서모임"
+    tradition: "가톨릭"
+    first_ed: 1
+  - num: 2
+    title: "자비송"
+    author: "김정식 로제리오"
+    tradition: "가톨릭"
+    first_ed: 2
+  - num: 3
+    title: "자비송"
+    author: "김종성 요한사도"
+    tradition: "가톨릭"
+    first_ed: 3
+  - num: 4
+    title: "자비송"
+    author: "박윤영 헬레나"
+    tradition: "가톨릭"
+    first_ed: 4
+  - num: 5
+    title: "자비송"
+    author: "송시웅 필립보"
+    tradition: "가톨릭"
+    first_ed: 5
+  - num: 6
+    title: "자비송"
+    author: "신상옥 안드레아"
+    tradition: "가톨릭"
+    first_ed: 6
+  - num: 7
+    title: "자비송"
+    author: "이용현 알베르또"
+    tradition: "가톨릭"
+    first_ed: 7
+  - num: 8
+    title: "자비송"
+    author: "이형진 가브리엘"
+    tradition: "가톨릭"
+    first_ed: 8
+  - num: 9
+    title: "자비송"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+    first_ed: 9
+  - num: 10
+    title: "자비송"
+    author: "현덕 프란치스코"
+    tradition: "가톨릭"
+    first_ed: 10
+  - num: 11
+    title: "자비송"
+    author: "현정수 요한사도"
+    tradition: "가톨릭"
+    first_ed: 11
+  - num: 12
+    title: "자비송"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+  - num: 21
+    title: "대영광송"
+    author: "가톨릭 청년성서모임"
+    tradition: "가톨릭"
+    first_ed: 21
+  - num: 22
+    title: "대영광송"
+    author: "김정식 로제리오"
+    tradition: "가톨릭"
+    first_ed: 22
+  - num: 23
+    title: "대영광송"
+    author: "김종성 요한사도"
+    tradition: "가톨릭"
+    first_ed: 23
+  - num: 24
+    title: "대영광송"
+    author: "박윤영 헬레나"
+    tradition: "가톨릭"
+    first_ed: 24
+  - num: 25
+    title: "대영광송"
+    author: "송시웅 필립보"
+    tradition: "가톨릭"
+    first_ed: 26
+  - num: 26
+    title: "대영광송"
+    author: "신상옥 안드레아"
+    tradition: "가톨릭"
+    first_ed: 25
+  - num: 27
+    title: "대영광송"
+    author: "이용현 알베르또"
+    tradition: "가톨릭"
+    first_ed: 27
+  - num: 28
+    title: "대영광송"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+    first_ed: 28
+  - num: 29
+    title: "대영광송"
+    author: "현덕 프란치스코"
+    tradition: "가톨릭"
+    first_ed: 29
+  - num: 30
+    title: "대영광송"
+    author: "현정수 요한사도"
+    tradition: "가톨릭"
+    first_ed: 30
+  - num: 31
+    title: "대영광송"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+  - num: 41
+    title: "복음환호송"
+    author: "가톨릭 청년성서모임"
+    tradition: "가톨릭"
+    first_ed: 41
+  - num: 42
+    title: "복음환호송"
+    author: "김병곤 베드로"
+    tradition: "가톨릭"
+  - num: 43
+    title: "복음환호송"
+    author: "김종성 요한사도"
+    tradition: "가톨릭"
+    first_ed: 42
+  - num: 44
+    title: "복음환호송"
+    author: "이용현 알베르또"
+    tradition: "가톨릭"
+    first_ed: 43
+  - num: 45
+    title: "복음환호송"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+    first_ed: 46
+  - num: 46
+    title: "복음환호송"
+    author: "현정수 요한사도"
+    tradition: "가톨릭"
+    first_ed: 44
+  - num: 47
+    title: "복음환호송: 먼저 그 나라와 의를 구하라"
+    title_en: "Seek ye first"
+    author: "Karen Laffety"
+    tradition: "개신교"
+    first_ed: 45
+  - num: 51
+    title: "사도신경"
+    author: "신상옥 안드레아"
+    tradition: "가톨릭"
+    first_ed: 51
+  - num: 52
+    title: "사도신경"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+  - num: 61
+    title: "보편지향기도 응답"
+    author: "박윤영 헬레나"
+    tradition: "가톨릭"
+    first_ed: 61
+  - num: 62
+    title: "보편지향기도 응답"
+    author: "성기영 아가빠"
+    tradition: "가톨릭"
+    first_ed: 62
+  - num: 63
+    title: "보편지향기도 응답"
+    author: "송시웅 필립보"
+    tradition: "가톨릭"
+    first_ed: 63
+  - num: 64
+    title: "보편지향기도 응답"
+    author: "신상옥 안드레아"
+    tradition: "가톨릭"
+    first_ed: 64
+  - num: 65
+    title: "보편지향기도 응답"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+    first_ed: 65
+  - num: 66
+    title: "보편지향기도 응답"
+    author: "현정수 요한사도"
+    tradition: "가톨릭"
+    first_ed: 66
+  - num: 71
+    title: "거룩하시도다"
+    author: "김정식 로제리오"
+    tradition: "가톨릭"
+    first_ed: 71
+  - num: 72
+    title: "거룩하시도다"
+    author: "김종성 요한사도"
+    tradition: "가톨릭"
+    first_ed: 72
+  - num: 73
+    title: "거룩하시도다"
+    author: "박윤영 헬레나"
+    tradition: "가톨릭"
+    first_ed: 73
+  - num: 74
+    title: "거룩하시도다"
+    author: "송시웅 필립보"
+    tradition: "가톨릭"
+    first_ed: 74
+  - num: 75
+    title: "거룩하시도다"
+    author: "신상옥 안드레아"
+    tradition: "가톨릭"
+    first_ed: 75
+  - num: 76
+    title: "거룩하시도다"
+    author: "이용현 알베르또"
+    tradition: "가톨릭"
+    first_ed: 76
+  - num: 77
+    title: "거룩하시도다"
+    author: "이형진 가브리엘"
+    tradition: "가톨릭"
+    first_ed: 77
+  - num: 78
+    title: "거룩하시도다"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+    first_ed: 78
+  - num: 79
+    title: "거룩하시도다"
+    author: "현덕 프란치스코"
+    tradition: "가톨릭"
+    first_ed: 79
+  - num: 80
+    title: "거룩하시도다"
+    author: "현정수 요한사도"
+    tradition: "가톨릭"
+    first_ed: 80
+  - num: 81
+    title: "거룩하시도다"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+  - num: 91
+    title: "성체거양"
+    author: "미사"
+    tradition: "가톨릭"
+    first_ed: 91
+  - num: 92
+    title: "성체거양"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+  - num: 101
+    title: "신앙의 신비여"
+    author: "김종성 요한사도"
+    tradition: "가톨릭"
+    first_ed: 101
+  - num: 102
+    title: "신앙의 신비여"
+    author: "송시웅 필립보"
+    tradition: "가톨릭"
+    first_ed: 103
+  - num: 103
+    title: "신앙의 신비여"
+    author: "신상옥 안드레아"
+    tradition: "가톨릭"
+    first_ed: 102
+  - num: 104
+    title: "신앙의 신비여"
+    author: "이용현 알베르또"
+    tradition: "가톨릭"
+    first_ed: 104
+  - num: 105
+    title: "신앙의 신비여"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+    first_ed: 105
+  - num: 106
+    title: "신앙의 신비여"
+    author: "현정수 요한사도"
+    tradition: "가톨릭"
+    first_ed: 106
+  - num: 107
+    title: "신앙의 신비여"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+  - num: 111
+    title: "아멘"
+    author: "김종성 요한사도"
+    tradition: "가톨릭"
+    first_ed: 111
+  - num: 112
+    title: "아멘"
+    author: "덴마크성가"
+    tradition: "가톨릭"
+    first_ed: 112
+  - num: 113
+    title: "아멘"
+    author: "성기영 아가빠"
+    tradition: "가톨릭"
+    first_ed: 113
+  - num: 114
+    title: "아멘"
+    author: "송시웅 필립보"
+    tradition: "가톨릭"
+    first_ed: 114
+  - num: 115
+    title: "아멘"
+    author: "이용현 알베르또"
+    tradition: "가톨릭"
+    first_ed: 115
+  - num: 116
+    title: "아멘"
+    author: "현정수 요한사도"
+    tradition: "가톨릭"
+    first_ed: 116
+  - num: 117
+    title: "마침영광송…아멘"
+    author: "신상옥 안드레아"
+    tradition: "가톨릭"
+    first_ed: 117
+  - num: 118
+    title: "마침영광송…아멘"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+    first_ed: 118
+  - num: 121
+    title: "주님의 기도"
+    author: "김종성 요한사도"
+    tradition: "가톨릭"
+    first_ed: 121
+  - num: 122
+    title: "주님의 기도"
+    author: "박윤영 헬레나"
+    tradition: "가톨릭"
+    first_ed: 122
+  - num: 123
+    title: "주님의 기도"
+    author: "송시웅 필립보"
+    tradition: "가톨릭"
+    first_ed: 124
+  - num: 124
+    title: "주님의 기도"
+    author: "신상옥 안드레아"
+    tradition: "가톨릭"
+    first_ed: 123
+  - num: 125
+    title: "주님의 기도"
+    author: "이용현 알베르또"
+    tradition: "가톨릭"
+    first_ed: 125
+  - num: 126
+    title: "주님의 기도"
+    author: "이형진 가브리엘"
+    tradition: "가톨릭"
+    first_ed: 126
+  - num: 127
+    title: "주님의 기도"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+    first_ed: 127
+  - num: 128
+    title: "주님의 기도"
+    author: "현정수 요한사도"
+    tradition: "가톨릭"
+    first_ed: 128
+  - num: 129
+    title: "주님의 기도"
+    author: "Juan Carlos Calderon"
+    tradition: "가톨릭"
+    first_ed: 129
+  - num: 130
+    title: "주님의 기도"
+    author: "이종철"
+    tradition: "가톨릭"
+  - num: 131
+    title: "주님의 기도-주님께 나라와"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+  - num: 141
+    title: "주님께 나라와"
+    author: "김종성 요한사도"
+    tradition: "가톨릭"
+    first_ed: 141
+  - num: 142
+    title: "주님께 나라와"
+    author: "송시웅 필립보"
+    tradition: "가톨릭"
+    first_ed: 142
+  - num: 143
+    title: "주님께 나라와"
+    author: "신상옥 안드레아"
+    tradition: "가톨릭"
+    first_ed: 143
+  - num: 144
+    title: "주님께 나라와"
+    author: "이용현 알베르또"
+    tradition: "가톨릭"
+    first_ed: 144
+  - num: 145
+    title: "주님께 나라와"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+    first_ed: 145
+  - num: 146
+    title: "주님께 나라와"
+    author: "현정수 요한사도"
+    tradition: "가톨릭"
+    first_ed: 146
+  - num: 151
+    title: "평화의 인사"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+    first_ed: 151
+  - num: 152
+    title: "평화의 인사"
+    author: "현정수 요한사도"
+    tradition: "가톨릭"
+    first_ed: 152
+  - num: 161
+    title: "하느님의 어린양"
+    author: "김정식 로제리오"
+    tradition: "가톨릭"
+    first_ed: 161
+  - num: 162
+    title: "하느님의 어린양"
+    author: "김종성 요한사도"
+    tradition: "가톨릭"
+    first_ed: 162
+  - num: 163
+    title: "하느님의 어린양"
+    author: "박윤영 헬레나"
+    tradition: "가톨릭"
+    first_ed: 163
+  - num: 164
+    title: "하느님의 어린양"
+    author: "송시웅 필립보"
+    tradition: "가톨릭"
+    first_ed: 164
+  - num: 165
+    title: "하느님의 어린양"
+    author: "신상옥 안드레아"
+    tradition: "가톨릭"
+    first_ed: 165
+  - num: 166
+    title: "하느님의 어린양"
+    author: "이용현 알베르또"
+    tradition: "가톨릭"
+    first_ed: 166
+  - num: 167
+    title: "하느님의 어린양"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+    first_ed: 167
+  - num: 168
+    title: "하느님의 어린양"
+    author: "현덕 프란치스코"
+    tradition: "가톨릭"
+    first_ed: 168
+  - num: 169
+    title: "하느님의 어린양"
+    author: "현정수 요한사도"
+    tradition: "가톨릭"
+    first_ed: 169
+  - num: 170
+    title: "하느님의 어린양"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+  - num: 181
+    title: "거룩 거룩"
+    title_en: "Sanctus(canon)"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+  - num: 182
+    title: "거룩하신 하느님"
+    title_en: "Sanctum nomen Domini"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+  - num: 183
+    title: "구원자이신 주여"
+    title_en: "Sanctus(canon)"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+  - num: 184
+    title: "나와 함께"
+    title_en: "Bleibet hier"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+    first_ed: 201
+  - num: 185
+    title: "내 맘 속을"
+    title_en: "Jesus, le Christ"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+  - num: 186
+    title: "내 영혼아 찬양하라"
+    title_en: "Lobe den Herrn"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+  - num: 187
+    title: "내 영혼은"
+    title_en: "Mon âme se repose"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+  - num: 188
+    title: "내 영혼이"
+    title_en: "Magnificat"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+    first_ed: 202
+  - num: 189
+    title: "내 영혼이"
+    title_en: "Magnificat (choral)"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+  - num: 190
+    title: "두려워 말라"
+    title_en: "Nada te turbe"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+    first_ed: 203
+  - num: 191
+    title: "사랑의 나눔"
+    title_en: "Ubi caritas"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+    first_ed: 204
+  - num: 192
+    title: "생명의 샘물"
+    title_en: "De noche"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+  - num: 193
+    title: "생명의 샘물"
+    title_en: "Toi, tu nous aimes"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+  - num: 194
+    title: "십자가로"
+    title_en: "Per crucem"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+    first_ed: 205
+  - num: 195
+    title: "아버지 당신 손에"
+    title_en: "In manus tuas, Pater"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+  - num: 196
+    title: "알렐루야"
+    title_en: "Alleluia"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+  - num: 197
+    title: "어두운 맘 속에"
+    title_en: "Dans nos Obscurités"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+  - num: 198
+    title: "어둠 권세 물리치고"
+    title_en: "Nebojte se"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+  - num: 199
+    title: "어둠도"
+    title_en: "La ténèbre"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+  - num: 200
+    title: "영광 영광"
+    title_en: "Gloria… et in terra pax (canon)"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+  - num: 201
+    title: "예수 그리스도"
+    title_en: "In te confido"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+    first_ed: 206
+  - num: 202
+    title: "오소서 성령이여"
+    title_en: "Tui amiris ignem"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+  - num: 203
+    title: "오소서 성령이여"
+    title_en: "Veni lumen cordium 1"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+  - num: 204
+    title: "오 주님"
+    title_en: "O Christe Domine Jesu"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+    first_ed: 207
+  - num: 205
+    title: "오 주여"
+    title_en: "Ostende nobis (canon)"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+  - num: 206
+    title: "우리 곁에 머무소서"
+    title_en: "Bleib mit deiner Gnade"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+    first_ed: 208
+  - num: 207
+    title: "우리는 예수를"
+    title_en: "Oculi nostri"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+    first_ed: 209
+  - num: 208
+    title: "우리의 기도를"
+    title_en: "Kyrie"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+  - num: 209
+    title: "위로자신 성령이여"
+    title_en: "Veni Creator (Iitanie)"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+  - num: 210
+    title: "주께 마음 드높여"
+    title_en: "Singt dem Herrn"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+    first_ed: 210
+  - num: 211
+    title: "주님 우리가"
+    title_en: "Herr, wohin"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+  - num: 212
+    title: "주님 부활하셨네"
+    title_en: "Christus resurrexit"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+    first_ed: 211
+  - num: 213
+    title: "주님은 빛이시니"
+    title_en: "C'est toi ma lampe"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+  - num: 214
+    title: "주님을 찬양하라"
+    title_en: "Laudate omnes gentes"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+    first_ed: 212
+  - num: 215
+    title: "주님의 날"
+    title_en: "Wait for the Lord"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+  - num: 216
+    title: "주님의 자비를"
+    title_en: "Misericordias Domini"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+    first_ed: 213
+  - num: 217
+    title: "주님의 평화"
+    title_en: "Christe Salvator"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+    first_ed: 214
+  - num: 218
+    title: "주님 자비 베푸소서"
+    title_en: "Gospodi"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+  - num: 219
+    title: "주님 찬양하라"
+    title_en: "Bénissez le Seigneur"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+  - num: 220
+    title: "주를 찬미하나이다"
+    title_en: "Adoramus te o Christe"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+    first_ed: 215
+  - num: 221
+    title: "주를 찬미하나이다"
+    title_en: "Confitemini Domino"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+    first_ed: 216
+  - num: 222
+    title: "주를 찬미하라"
+    title_en: "Jubilate Deo"
+    author: "M. Praetorius"
+    tradition: "가톨릭"
+    first_ed: 217
+  - num: 223
+    title: "주여 말씀하신대로"
+    title_en: "Nunc dimittis"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+    first_ed: 218
+  - num: 224
+    title: "주여 비오니"
+    title_en: "O Lord, hear my prayer"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+  - num: 225
+    title: "주여 주여 들어주소서"
+    title_en: "Chuyo"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+  - num: 226
+    title: "주여 주 예수여"
+    title_en: "Jesus, remember me"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+    first_ed: 219
+  - num: 227
+    title: "주여 찬미를"
+    title_en: "Adoremus te Jesu Christe"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+  - num: 228
+    title: "주여 평화를 주소서"
+    title_en: "Dona la pace"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+  - num: 229
+    title: "주 예수 부활"
+    title_en: "Surrexit Christus"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+    first_ed: 220
+  - num: 230
+    title: "주 찬미하여라"
+    title_en: "Laudate Dominum"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+    first_ed: 221
+  - num: 231
+    title: "찬미하여라"
+    title_en: "Bless the Lord"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+    first_ed: 222
+  - num: 232
+    title: "하늘에는 영광이요"
+    title_en: "Gloria, gloria"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+    first_ed: 223
+  - num: 233
+    title: "항상 주님께"
+    title_en: "In the Lord"
+    author: "J. Berthier"
+    tradition: "가톨릭"
+  - num: 241
+    title: "구세주 내 주 천주여"
+    author: "Trad. Melody"
+    season: "대림"
+    tradition: "가톨릭"
+    first_ed: 251
+  - num: 242
+    title: "구세주 보내주소서"
+    author: "Choral"
+    season: "대림"
+    tradition: "가톨릭"
+    first_ed: 252
+  - num: 243
+    title: "구세주 빨리 오사"
+    author: "Cabrisseau"
+    season: "대림"
+    tradition: "가톨릭"
+    first_ed: 253
+  - num: 244
+    title: "별들을 지어내신 주"
+    author: "수도자의 노래"
+    season: "대림"
+    tradition: "가톨릭"
+    first_ed: 254
+  - num: 245
+    title: "임마누엘"
+    title_en: "Emmanuel"
+    author: "Bob McGee"
+    season: "대림"
+    tradition: "개신교"
+  - num: 246
+    title: "영광의 왕"
+    author: "이스라엘 민요"
+    season: "대림"
+    tradition: "가톨릭"
+    first_ed: 255
+  - num: 247
+    title: "임하소서 구세주여"
+    author: ""
+    season: "대림"
+    tradition: "가톨릭"
+    first_ed: 256
+  - num: 248
+    title: "임하소서 임마누엘"
+    author: "라틴 성가"
+    season: "대림"
+    tradition: "가톨릭"
+    first_ed: 257
+  - num: 249
+    title: "주 하느님 자비로이"
+    author: ""
+    season: "대림"
+    tradition: "가톨릭"
+    first_ed: 258
+  - num: 266
+    title: "경사롭다"
+    author: "Adolphe Adam"
+    season: "성탄"
+    tradition: "가톨릭"
+    first_ed: 261
+  - num: 267
+    title: "고요한 밤 거룩한 밤"
+    author: "Franz Gruber"
+    season: "성탄"
+    tradition: "가톨릭"
+    first_ed: 262
+  - num: 268
+    title: "귀여운 아기들"
+    author: "Karl E. Schulz"
+    season: "성탄"
+    tradition: "가톨릭"
+    first_ed: 263
+  - num: 269
+    title: "글로리아 높으신 이의 탄생"
+    author: ""
+    season: "성탄"
+    tradition: "가톨릭"
+    first_ed: 264
+  - num: 270
+    title: "기쁘다 구주 오셨네"
+    author: "G. F. Handel"
+    season: "성탄"
+    tradition: "가톨릭"
+    first_ed: 265
+  - num: 271
+    title: "동방의 세 박사"
+    author: "John H. Hopkins"
+    season: "성탄"
+    tradition: "가톨릭"
+    first_ed: 266
+  - num: 272
+    title: "어서 가 경배하세"
+    author: "John Francis Wade"
+    season: "성탄"
+    tradition: "가톨릭"
+    first_ed: 267
+  - num: 273
+    title: "오늘 아기 예수"
+    author: ""
+    season: "성탄"
+    tradition: "가톨릭"
+    first_ed: 268
+  - num: 274
+    title: "오 작은 고을 베들레헴"
+    author: "Lewis H. Redner"
+    season: "성탄"
+    tradition: "가톨릭"
+    first_ed: 269
+  - num: 275
+    title: "Happy Christmas"
+    author: "김지훈 요한십자가"
+    season: "성탄"
+    tradition: "가톨릭"
+    first_ed: 271
+  - num: 276
+    title: "천사의 찬송"
+    author: "Felix Mendelssohn"
+    season: "성탄"
+    tradition: "가톨릭"
+    first_ed: 270
+  - num: 286
+    title: "골고타 언덕"
+    author: "그레고리안"
+    season: "사순"
+    tradition: "가톨릭"
+    first_ed: 281
+  - num: 287
+    title: "구원의 십자가"
+    author: "Choral"
+    season: "사순"
+    tradition: "가톨릭"
+    first_ed: 282
+  - num: 288
+    title: "내 발을 씻기신 예수"
+    author: "신상옥 안드레아"
+    season: "사순"
+    tradition: "가톨릭"
+    first_ed: 283
+  - num: 289
+    title: "수난 기약 다다르니"
+    author: "Campra"
+    season: "사순"
+    tradition: "가톨릭"
+    first_ed: 284
+  - num: 290
+    title: "십자가 지고 가시는"
+    author: "미국 성가"
+    season: "사순"
+    tradition: "가톨릭"
+    first_ed: 285
+  - num: 291
+    title: "임 쓰신 가시관"
+    author: "신상옥 안드레아"
+    season: "사순"
+    tradition: "가톨릭"
+    first_ed: 286
+  - num: 292
+    title: "주님은 우리 위해"
+    author: "Trad. Melody"
+    season: "사순"
+    tradition: "가톨릭"
+    first_ed: 287
+  - num: 293
+    title: "지극한 근심에"
+    author: "P. Brydaine"
+    season: "사순"
+    tradition: "가톨릭"
+    first_ed: 288
+  - num: 301
+    title: "거룩하다 부활이여"
+    author: ""
+    season: "부활"
+    tradition: "가톨릭"
+    first_ed: 291
+  - num: 302
+    title: "만왕의 왕"
+    author: "Claudio Goudimel"
+    season: "부활"
+    tradition: "가톨릭"
+    first_ed: 292
+  - num: 303
+    title: "알렐루야"
+    author: "Trad. Melody"
+    season: "부활"
+    tradition: "가톨릭"
+    first_ed: 293
+  - num: 304
+    title: "알렐루야 노래하자"
+    author: "Trad. Melody"
+    season: "부활"
+    tradition: "가톨릭"
+    first_ed: 294
+  - num: 305
+    title: "알렐루야 알렐루야"
+    author: "최태형 안셀모"
+    season: "부활"
+    tradition: "가톨릭"
+  - num: 306
+    title: "엠마오의 두 제자"
+    author: "김두완"
+    season: "부활"
+    tradition: "가톨릭"
+    first_ed: 295
+  - num: 307
+    title: "엠마우스"
+    author: "원선오 빈첸시오"
+    season: "부활"
+    tradition: "가톨릭"
+    first_ed: 296
+  - num: 308
+    title: "예수 부활하셨네"
+    author: "Monsigny"
+    season: "부활"
+    tradition: "가톨릭"
+    first_ed: 297
+  - num: 309
+    title: "예수 부활하셨도다"
+    author: "Lyra Davidica"
+    season: "부활"
+    tradition: "가톨릭"
+    first_ed: 298
+  - num: 310
+    title: "부활하신 주 예수"
+    author: "Robert Williams"
+    season: "승천"
+    tradition: "가톨릭"
+    first_ed: 301
+  - num: 311
+    title: "죽음을 이긴"
+    author: "슬로바키아 성가"
+    season: "승천"
+    tradition: "가톨릭"
+    first_ed: 302
+  - num: 321
+    title: "거룩하신 성령이여"
+    title_en: "Holy Spirit we welcome You"
+    author: "Chris A. Bowater"
+    season: "성령"
+    tradition: "개신교"
+    first_ed: 306
+  - num: 322
+    title: "살아계신 성령님"
+    title_en: "Spririt of the living God"
+    author: "Paul Armstrong"
+    season: "성령"
+    tradition: "개신교"
+    first_ed: 307
+  - num: 323
+    title: "살아계신 주 성령"
+    author: "미국 성가"
+    season: "성령"
+    tradition: "가톨릭"
+    first_ed: 308
+  - num: 324
+    title: "성령님 이곳에 오소서"
+    author: ""
+    season: "성령"
+    tradition: "개신교"
+    first_ed: 309
+  - num: 325
+    title: "성령의 불로"
+    title_en: "Fire of the Holy Spirit"
+    author: "Scott Brenner"
+    season: "성령"
+    tradition: "개신교"
+    first_ed: 310
+  - num: 326
+    title: "성령이여"
+    author: "브라질찬양미사"
+    season: "성령"
+    tradition: "가톨릭"
+  - num: 327
+    title: "성령의 비가 내리네"
+    title_en: "Let it rain"
+    author: "Michael Farron"
+    season: "성령"
+    tradition: "개신교"
+  - num: 328
+    title: "오소서 성령이여"
+    author: "Choral"
+    season: "성령"
+    tradition: "가톨릭"
+    first_ed: 311
+  - num: 329
+    title: "우리 모일 때 주 성령"
+    title_en: "As we gather may Your Spirit work"
+    author: "Faye Mike/Tommy Coomes"
+    season: "성령"
+    tradition: "가톨릭"
+    first_ed: 312
+  - num: 330
+    title: "임하소서 성령이여"
+    author: "Choral"
+    season: "성령"
+    tradition: "가톨릭"
+    first_ed: 313
+  - num: 331
+    title: "주님의 성령"
+    author: "이원배 미카엘"
+    season: "성령"
+    tradition: "가톨릭"
+  - num: 332
+    title: "진리의 성령"
+    author: "이순금"
+    season: "성령"
+    tradition: "가톨릭"
+    first_ed: 314
+  - num: 341
+    title: "구세주의 성심이여"
+    author: ""
+    season: "성심"
+    tradition: "가톨릭"
+    first_ed: 321
+  - num: 342
+    title: "사랑의 성심"
+    author: "Trad. Melody"
+    season: "성심"
+    tradition: "가톨릭"
+    first_ed: 322
+  - num: 343
+    title: "열절하신 주의 사랑"
+    author: "Trad. Melody"
+    season: "성심"
+    tradition: "가톨릭"
+    first_ed: 323
+  - num: 351
+    title: "가라 모세"
+    title_en: "Go down, Moses"
+    author: "흑인영가"
+    tradition: "흑인영가"
+    first_ed: 331
+  - num: 352
+    title: "가난함을 주소서"
+    author: "임석수 바오로"
+    tradition: "가톨릭"
+    first_ed: 332
+  - num: 353
+    title: "가자 갈릴래아로"
+    author: "권성일 미카엘"
+    tradition: "가톨릭"
+    first_ed: 333
+  - num: 354
+    title: "감사함으로 그 문에 들어가며"
+    title_en: "He has made me glad"
+    author: "Leona von Brethorst"
+    tradition: "개신교"
+    first_ed: 334
+  - num: 355
+    title: "감사해"
+    title_en: "Thank You Lord"
+    author: "Daniel L. Burgess"
+    tradition: "개신교"
+    first_ed: 335
+  - num: 356
+    title: "거룩하신 성사여"
+    author: "Sebastian Temple"
+    tradition: "가톨릭"
+    first_ed: 336
+  - num: 357
+    title: "거룩하신 하느님"
+    title_en: "Give thanks"
+    author: "Henry Smith"
+    tradition: "개신교"
+    first_ed: 337
+  - num: 358
+    title: "거룩한 곳에 서게 하소서"
+    author: ""
+    tradition: "개신교"
+    first_ed: 338
+  - num: 359
+    title: "경배하리 내 온 맘 다해"
+    title_en: "You're worthy of my praise"
+    author: "David Ruis"
+    tradition: "개신교"
+  - num: 360
+    title: "고개들어"
+    title_en: "Lift up your head"
+    author: "Steve Fry"
+    tradition: "개신교"
+  - num: 361
+    title: "고백"
+    author: "성락진"
+    tradition: "가톨릭"
+    first_ed: 801
+  - num: 362
+    title: "구원을 위한 희생"
+    author: "라틴 성가"
+    tradition: "가톨릭"
+    first_ed: 340
+  - num: 363
+    title: "구원자 예수 너의 사랑"
+    author: "최현숙 아가다"
+    tradition: "가톨릭"
+    first_ed: 341
+  - num: 364
+    title: "그 길"
+    author: "임석수 바오로"
+    tradition: "가톨릭"
+    first_ed: 342
+  - num: 365
+    title: "그 날에 이르러"
+    title_en: "When the day comes"
+    author: "Stephen Hah"
+    tradition: "개신교"
+    first_ed: 343
+  - num: 366
+    title: "그리스도께서"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+  - num: 367
+    title: "그리스도의 향기"
+    author: "권성일 미카엘"
+    tradition: "가톨릭"
+    first_ed: 345
+  - num: 368
+    title: "그리스도 향기 가득한 날이면"
+    author: "김태진 베난시오"
+    tradition: "가톨릭"
+    first_ed: 346
+  - num: 369
+    title: "그리 아니하실지라도"
+    author: "안성진"
+    tradition: "개신교"
+    first_ed: 347
+  - num: 370
+    title: "그 분은"
+    author: "박재일"
+    tradition: "가톨릭"
+    first_ed: 349
+  - num: 371
+    title: "그 분께로 한 걸음씩"
+    author: "이용현 알베르또"
+    tradition: "가톨릭"
+    first_ed: 348
+  - num: 372
+    title: "그 사랑 야훼께 감사하여라"
+    author: "서정호"
+    tradition: "가톨릭"
+    first_ed: 351
+  - num: 373
+    title: "그 소리 들었네"
+    author: "김종성 요한사도"
+    tradition: "가톨릭"
+    first_ed: 352
+  - num: 374
+    title: "그의 사랑 영원하시다"
+    author: "김영구 요한사도"
+    tradition: "가톨릭"
+  - num: 375
+    title: "그 이름"
+    author: "최덕신"
+    tradition: "개신교"
+    first_ed: 353
+  - num: 376
+    title: "그 이름 예수"
+    title_en: "His name is Jesus"
+    author: "Jason Daniel"
+    tradition: "개신교"
+    first_ed: 354
+  - num: 377
+    title: "그 이름 예수"
+    author: "이형진 가브리엘"
+    tradition: "가톨릭"
+    first_ed: 355
+  - num: 378
+    title: "그 이름 찬양해"
+    author: "조진형 요한세례자"
+    tradition: "가톨릭"
+    first_ed: 356
+  - num: 379
+    title: "그 푸른 기쁨"
+    author: ""
+    tradition: "가톨릭"
+  - num: 380
+    title: "그 주를 따르리"
+    author: "하야"
+    tradition: "가톨릭"
+    first_ed: 802
+  - num: 381
+    title: "그토록 날…"
+    author: "김성하 레지나"
+    tradition: "가톨릭"
+    first_ed: 803
+  - num: 382
+    title: "글로리아"
+    title_en: "Gloria"
+    author: "Stephen Hah"
+    tradition: "개신교"
+    first_ed: 357
+  - num: 383
+    title: "기대"
+    author: "천강수"
+    tradition: "개신교"
+    first_ed: 358
+  - num: 384
+    title: "기뻐하며 승리의 노래 부르리"
+    title_en: "We will rejoice"
+    author: "David Fellingham"
+    tradition: "개신교"
+    first_ed: 359
+  - num: 385
+    title: "기뻐하며 왕께 노래 부르리"
+    title_en: "Shout for joy and sing"
+    author: "David Fellingham"
+    tradition: "개신교"
+    first_ed: 360
+  - num: 386
+    title: "기쁜 노래 주께 드리자"
+    title_en: "Make a joyful noise"
+    author: "Russell L. Lowe"
+    tradition: "개신교"
+    first_ed: 361
+  - num: 387
+    title: "꽃"
+    author: "현덕 프란치스코"
+    tradition: "가톨릭"
+    first_ed: 365
+  - num: 388
+    title: "꽃들에게 희망을"
+    author: "김용진"
+    tradition: "가톨릭"
+    first_ed: 364
+  - num: 401
+    title: "나"
+    author: "최덕신"
+    tradition: "개신교"
+    first_ed: 381
+  - num: 402
+    title: "나 기뻐하리"
+    title_en: "I will rejoice"
+    author: "Brent Chambers"
+    tradition: "개신교"
+    first_ed: 383
+  - num: 403
+    title: "나눔"
+    author: "권성일 미카엘"
+    tradition: "가톨릭"
+    first_ed: 384
+  - num: 404
+    title: "나는 당신의 힘을"
+    author: "김영구 요한사도"
+    tradition: "가톨릭"
+  - num: 405
+    title: "나는 주님을 찬양하리라"
+    title_en: "I will celebrate"
+    author: "Rita Baloche"
+    tradition: "개신교"
+  - num: 406
+    title: "나는 주를 부르리"
+    title_en: "I will call upon the Lord"
+    author: "Michael O'Shields"
+    tradition: "개신교"
+    first_ed: 385
+  - num: 407
+    title: "나는 하느님의 집에서"
+    author: "김영구 요한사도"
+    tradition: "가톨릭"
+  - num: 408
+    title: "나를 따르라"
+    author: "김정식 로제리오"
+    tradition: "가톨릭"
+    first_ed: 386
+  - num: 409
+    title: "나를 받으옵소서"
+    author: "최덕신"
+    tradition: "개신교"
+    first_ed: 387
+  - num: 410
+    title: "나 무엇과도 주님을"
+    title_en: "Heart and soul"
+    author: "Wes Sutton"
+    tradition: "개신교"
+    first_ed: 389
+  - num: 411
+    title: "나 언제나 주님을"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+  - num: 412
+    title: "나의 가장 낮은 마음"
+    author: "유상렬"
+    tradition: "개신교"
+    first_ed: 405
+  - num: 413
+    title: "나의 기도"
+    author: "이인수"
+    tradition: "개신교"
+    first_ed: 391
+  - num: 414
+    title: "나의 기도가 이루어질 때"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+  - num: 415
+    title: "나의 마음을"
+    title_en: "Refiner's fire"
+    author: "Brian Doerksen"
+    tradition: "개신교"
+    first_ed: 392
+  - num: 416
+    title: "나의 모습 나의 소유"
+    title_en: "I offer my life"
+    author: "Claire Cloninger/Don Moen"
+    tradition: "개신교"
+    first_ed: 393
+  - num: 417
+    title: "나의 반석이신 하느님"
+    title_en: "Ascribe greatness"
+    author: "Mary Lou King/Mary Kirkbride"
+    tradition: "개신교"
+    first_ed: 394
+  - num: 418
+    title: "나의 발은 춤을 추며"
+    author: ""
+    tradition: "개신교"
+    first_ed: 395
+  - num: 419
+    title: "나의 백성이"
+    title_en: "Heal our land"
+    author: "Tom Brooks/Robin Brooks"
+    tradition: "개신교"
+    first_ed: 396
+  - num: 420
+    title: "나의 사랑"
+    author: "김영구 요한사도"
+    tradition: "가톨릭"
+  - num: 421
+    title: "나의 생명 드리니"
+    author: "Mozart"
+    tradition: "가톨릭"
+    first_ed: 397
+  - num: 422
+    title: "나의 슬픔을"
+    title_en: "Mourning into dancing"
+    author: "Tommy Walker"
+    tradition: "개신교"
+  - num: 423
+    title: "나의 주 나의 하느님이여"
+    title_en: "Adonai"
+    author: "Stephen Hah"
+    tradition: "개신교"
+    first_ed: 363
+  - num: 424
+    title: "나의 주님 나의 하느님"
+    author: "박현주"
+    tradition: "가톨릭"
+  - num: 425
+    title: "나의 하느님"
+    author: "현정수 요한사도"
+    tradition: "가톨릭"
+    first_ed: 399
+  - num: 426
+    title: "나 주님의 기쁨되기 원하네"
+    title_en: "To be pleasing You"
+    author: "Teresa Muller"
+    tradition: "개신교"
+    first_ed: 400
+  - num: 427
+    title: "날마다 숨쉬는 순간마다"
+    title_en: "Day by day"
+    author: "M!M Arr. PD. Berg Sandell & Ahnfelt Oscar"
+    tradition: "개신교"
+    first_ed: 402
+  - num: 428
+    title: "낮엔 해처럼 밤엔 달처럼"
+    author: "최용덕"
+    tradition: "개신교"
+    first_ed: 403
+  - num: 429
+    title: "낮은 자 되게 하신 주"
+    author: "이형진 가브리엘"
+    tradition: "가톨릭"
+    first_ed: 404
+  - num: 430
+    title: "내가 길을 잃고 헤매일 때에"
+    author: "최덕신"
+    tradition: "개신교"
+    first_ed: 406
+  - num: 431
+    title: "내가 만민 중에"
+    title_en: "Be exalted"
+    author: "Brent Chambers"
+    tradition: "개신교"
+    first_ed: 407
+  - num: 432
+    title: "내가 만일 너를"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+  - num: 433
+    title: "내가 산을 향하여"
+    author: "김영기"
+    tradition: "개신교"
+    first_ed: 408
+  - num: 434
+    title: "내가 있단다"
+    author: "박현주"
+    tradition: "가톨릭"
+  - num: 435
+    title: "내게 오라"
+    author: "Linda Rich"
+    tradition: "개신교"
+    first_ed: 409
+  - num: 436
+    title: "내게 있는 향유 옥합"
+    author: "박정관"
+    tradition: "개신교"
+    first_ed: 410
+  - num: 437
+    title: "내게 힘 주시는"
+    author: "권오륜발렌티노"
+    tradition: "가톨릭"
+    first_ed: 411
+  - num: 438
+    title: "내 구주 예수님"
+    title_en: "My Jesus my savior"
+    author: "Darlene Zschech"
+    tradition: "개신교"
+    first_ed: 412
+  - num: 439
+    title: "내 마음 간절하게"
+    title_en: "Cry of my heart"
+    author: "Terry Buttler"
+    tradition: "개신교"
+  - num: 440
+    title: "내 모든 삶의 행동 주 안에"
+    title_en: "Every move I make"
+    author: "David Ruis"
+    tradition: "개신교"
+    first_ed: 415
+  - num: 441
+    title: "내 맘에 오시는 주"
+    author: "강희만 아브라함"
+    tradition: "가톨릭"
+    first_ed: 414
+  - num: 442
+    title: "내 모든 짐을"
+    author: "KYCR"
+    tradition: "가톨릭"
+  - num: 443
+    title: "내 사랑 예수"
+    author: "이형진 가브리엘"
+    tradition: "가톨릭"
+    first_ed: 416
+  - num: 444
+    title: "내 생애의 모든 것"
+    author: "이형진 가브리엘"
+    tradition: "가톨릭"
+    first_ed: 417
+  - num: 445
+    title: "내 안에 계시는"
+    author: "유상렬"
+    tradition: "개신교"
+    first_ed: 419
+  - num: 446
+    title: "내 안에 사는 이"
+    title_en: "Christ in me"
+    author: "Gary Garcia"
+    tradition: "개신교"
+    first_ed: 420
+  - num: 447
+    title: "내 영이"
+    author: "정종원"
+    tradition: "개신교"
+    first_ed: 421
+  - num: 448
+    title: "내 영혼아"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+  - num: 449
+    title: "내 영혼 주 찬양하며"
+    author: ""
+    tradition: "개신교"
+    first_ed: 422
+  - num: 450
+    title: "내 이름 아시죠"
+    title_en: "He knows my name"
+    author: "Tommy Walker"
+    tradition: "개신교"
+  - num: 451
+    title: "내 주 같은 분없네"
+    title_en: "There's no one like You"
+    author: "Eddie Espinosa"
+    tradition: "개신교"
+  - num: 452
+    title: "내 한가지 소원"
+    title_en: "One thing have I desired"
+    author: "Scott Stuart"
+    tradition: "개신교"
+    first_ed: 423
+  - num: 453
+    title: "너 나를 사랑하느냐"
+    author: "권성일 미카엘"
+    tradition: "가톨릭"
+    first_ed: 424
+  - num: 454
+    title: "너는 내 것이라"
+    author: "윤형주"
+    tradition: "개신교"
+    first_ed: 425
+  - num: 455
+    title: "너는 내 것이라"
+    author: "최덕신"
+    tradition: "개신교"
+    first_ed: 426
+  - num: 456
+    title: "너는 내 것이라"
+    author: "신상우"
+    tradition: "개신교"
+    first_ed: 427
+  - num: 457
+    title: "너는 시냇가에"
+    author: "박윤호"
+    tradition: "개신교"
+    first_ed: 428
+  - num: 458
+    title: "너의 쓴 잔을"
+    author: "최덕신"
+    tradition: "개신교"
+    first_ed: 429
+  - num: 459
+    title: "노래를 부르세"
+    author: "김종성 요한사도"
+    tradition: "가톨릭"
+    first_ed: 430
+  - num: 460
+    title: "누군가 널 위해 기도하네"
+    title_en: "Someone is praying"
+    author: "Lanny Wolfe"
+    tradition: "개신교"
+    first_ed: 432
+  - num: 461
+    title: "눈물이 흘러도"
+    author: "김태진 베난시오"
+    tradition: "가톨릭"
+    first_ed: 433
+  - num: 462
+    title: "눈을 들어 주를 보라"
+    title_en: "See His glory"
+    author: "Chris A. Bowater"
+    tradition: "개신교"
+    first_ed: 434
+  - num: 463
+    title: "님의 뜻이"
+    author: "임석수 바오로"
+    tradition: "가톨릭"
+    first_ed: 435
+  - num: 481
+    title: "다 와서 찬양해"
+    title_en: "Come on and celebrate"
+    author: "Patricia Morgan/Dave Bankhead"
+    tradition: "개신교"
+    first_ed: 451
+  - num: 482
+    title: "당신께"
+    author: "김기영 안드레아"
+    tradition: "가톨릭"
+    first_ed: 805
+  - num: 483
+    title: "당신께 피신하는 자"
+    author: "김영구 요한사도"
+    tradition: "가톨릭"
+  - num: 484
+    title: "당신은 나의 보물"
+    author: "젠노래"
+    tradition: "가톨릭"
+    first_ed: 452
+  - num: 485
+    title: "당신은 사랑 받기 위해 태어난 사람"
+    author: "이민섭"
+    tradition: "개신교"
+    first_ed: 453
+  - num: 486
+    title: "당신은 아는가"
+    author: "이형진 가브리엘"
+    tradition: "가톨릭"
+    first_ed: 454
+  - num: 487
+    title: "당신을 향한 노래"
+    author: "천태혁/진경"
+    tradition: "개신교"
+    first_ed: 456
+  - num: 488
+    title: "당신의 눈을 바라볼때"
+    author: "김태진 베난시오"
+    tradition: "가톨릭"
+    first_ed: 457
+  - num: 489
+    title: "두 손 들고 찬양합니다"
+    title_en: "I lift my hand"
+    author: "Andre Kempen"
+    tradition: "개신교"
+  - num: 490
+    title: "둘이나 셋이 모인 곳에"
+    title_en: "Where two or three are gathered"
+    author: "Sebastian Temple"
+    tradition: "가톨릭"
+    first_ed: 458
+  - num: 491
+    title: "들으라 이스라엘"
+    title_en: "One God"
+    author: "Bob Fitts"
+    tradition: "개신교"
+    first_ed: 460
+  - num: 492
+    title: "딜레마"
+    author: "현정수 요한사도"
+    tradition: "가톨릭"
+    first_ed: 462
+  - num: 493
+    title: "땅끝에서"
+    author: "고형원"
+    tradition: "개신교"
+    first_ed: 463
+  - num: 494
+    title: "들으라 이스라엘"
+    author: ""
+    tradition: "개신교"
+    first_ed: 461
+  - num: 495
+    title: "또 하나의 열매를 바라시며"
+    author: "설경욱"
+    tradition: "개신교"
+    first_ed: 464
+  - num: 496
+    title: "똑바로 보고 싶어요"
+    author: "최원순"
+    tradition: "개신교"
+    first_ed: 465
+  - num: 506
+    title: "로고스 찬가"
+    author: "김태진 베난시오"
+    tradition: "가톨릭"
+    first_ed: 476
+  - num: 511
+    title: "마니피캇"
+    author: "이진호스테파노"
+    tradition: "가톨릭"
+    first_ed: 481
+  - num: 512
+    title: "마음을 드높이"
+    author: "김태진 베난시오"
+    tradition: "가톨릭"
+    first_ed: 482
+  - num: 513
+    title: "마지막 날에"
+    author: "이천"
+    tradition: "개신교"
+    first_ed: 483
+  - num: 514
+    title: "말씀하시면"
+    author: "김영범"
+    tradition: "개신교"
+  - num: 515
+    title: "메마른 우리 마음"
+    title_en: "Send you rain"
+    author: "Don Dalton/Valerie Dalton"
+    tradition: "개신교"
+  - num: 516
+    title: "먼 길이지"
+    author: "이선경 베로니카"
+    tradition: "가톨릭"
+    first_ed: 484
+  - num: 517
+    title: "모든 근심을 주께 맡기네"
+    title_en: "Cares chorus"
+    author: "Kelly Willard"
+    tradition: "개신교"
+  - num: 518
+    title: "모든 능력과 모든 권세"
+    title_en: "Above all"
+    author: "Paul Baloche/Lenny LeBlanc"
+    tradition: "개신교"
+  - num: 519
+    title: "모든 영광을 하느님께"
+    author: ""
+    tradition: "개신교"
+    first_ed: 486
+  - num: 520
+    title: "모든 이름 위에 뛰어난 이름"
+    author: "고형원"
+    tradition: "개신교"
+    first_ed: 487
+  - num: 521
+    title: "목마른 사슴"
+    title_en: "As the deer"
+    author: "Martin Nystrom"
+    tradition: "개신교"
+    first_ed: 488
+  - num: 522
+    title: "목마른 사슴이"
+    author: "천관웅"
+    tradition: "개신교"
+  - num: 523
+    title: "무화과 나무잎이 마르고"
+    title_en: "Though the fig tree"
+    author: "Tony Hopkins"
+    tradition: "개신교"
+    first_ed: 401
+  - num: 524
+    title: "물이 바다 덮음 같이"
+    author: "고형원"
+    tradition: "개신교"
+    first_ed: 490
+  - num: 525
+    title: "밀알"
+    author: "천관웅"
+    tradition: "개신교"
+  - num: 541
+    title: "받으소서 우리 마음"
+    author: "Joseph Wise"
+    tradition: "가톨릭"
+    first_ed: 501
+  - num: 542
+    title: "백삼위 순교 성인"
+    author: "김영자"
+    tradition: "가톨릭"
+    first_ed: 502
+  - num: 543
+    title: "별이 되리라"
+    author: "이형진 가브리엘"
+    tradition: "가톨릭"
+    first_ed: 503
+  - num: 544
+    title: "베네디까무스 도미노"
+    author: "김현주 시몬"
+    tradition: "가톨릭"
+    first_ed: 816
+  - num: 545
+    title: "보내소서"
+    title_en: "Send me"
+    author: "Stephen Hah"
+    tradition: "개신교"
+  - num: 546
+    title: "보라 하느님은"
+    author: "성명희 율리안나"
+    tradition: "가톨릭"
+    first_ed: 504
+  - num: 547
+    title: "복음들고 산을 넘는 자"
+    title_en: "Our God reigns"
+    author: "Leonard E Nr. Smith"
+    tradition: "개신교"
+    first_ed: 688
+  - num: 548
+    title: "봉헌"
+    author: "김종성 요한사도"
+    tradition: "가톨릭"
+    first_ed: 505
+  - num: 549
+    title: "봉헌합니다"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+  - num: 550
+    title: "부흥"
+    author: "고형원"
+    tradition: "개신교"
+    first_ed: 633
+  - num: 551
+    title: "부흥2000"
+    author: "고형원"
+    tradition: "개신교"
+    first_ed: 506
+  - num: 552
+    title: "비전"
+    author: "고형원"
+    tradition: "개신교"
+    first_ed: 507
+  - num: 553
+    title: "비추소서"
+    title_en: "Shine Jesus shine"
+    author: "Graham Kendrick"
+    tradition: "개신교"
+    first_ed: 508
+  - num: 554
+    title: "빛과 소금의 노래"
+    author: "현정수 요한사도"
+    tradition: "가톨릭"
+    first_ed: 509
+  - num: 555
+    title: "빛 되신 주"
+    title_en: "Light of the World"
+    author: "Tim Hughes"
+    tradition: "개신교"
+  - num: 556
+    title: "빛의 노래"
+    author: "이형진 가브리엘"
+    tradition: "가톨릭"
+    first_ed: 510
+  - num: 571
+    title: "사랑의 노래 드리네"
+    title_en: "Arms of love"
+    author: "Craig Musseau"
+    tradition: "개신교"
+    first_ed: 521
+  - num: 572
+    title: "사랑의 신비"
+    author: ""
+    tradition: "가톨릭"
+    first_ed: 522
+  - num: 573
+    title: "사랑의 종소리"
+    author: "김석균"
+    tradition: "개신교"
+    first_ed: 523
+  - num: 574
+    title: "사랑의 주여 오소서"
+    author: "Cherubini"
+    tradition: "가톨릭"
+    first_ed: 524
+  - num: 575
+    title: "사랑이란"
+    author: "이형진 가브리엘"
+    tradition: "가톨릭"
+    first_ed: 525
+  - num: 576
+    title: "사랑 이 한마디만을"
+    author: "표창연"
+    tradition: "가톨릭"
+    first_ed: 526
+  - num: 577
+    title: "사랑 찾아 나는 새"
+    author: "정성일"
+    tradition: "가톨릭"
+    first_ed: 527
+  - num: 578
+    title: "사랑하는 나의 아버지"
+    title_en: "Blessed be the Lord God almighty"
+    author: "Bob Fitts"
+    tradition: "개신교"
+    first_ed: 528
+  - num: 579
+    title: "사랑하는 나의 아이야"
+    author: "김성연"
+    tradition: "가톨릭"
+    first_ed: 529
+  - num: 580
+    title: "사랑하올 어머니"
+    author: ""
+    tradition: "가톨릭"
+    first_ed: 531
+  - num: 581
+    title: "사랑한다는 말은"
+    author: "박성훈"
+    tradition: "가톨릭"
+    first_ed: 532
+  - num: 582
+    title: "사랑합니다"
+    title_en: "Lord I love You"
+    author: "Eddie Espinosa"
+    tradition: "개신교"
+    first_ed: 533
+  - num: 583
+    title: "사랑합니다 나의 예수님"
+    author: "박재윤"
+    tradition: "개신교"
+  - num: 584
+    title: "사랑해요 목소리 높여"
+    title_en: "I love You Lord"
+    author: "Laurie Klein"
+    tradition: "개신교"
+    first_ed: 413
+  - num: 585
+    title: "삼위일체"
+    title_en: "Deus Trino"
+    author: "Paullo Roberto"
+    tradition: "가톨릭"
+    first_ed: 535
+  - num: 586
+    title: "새 노래로 주를 찬양"
+    title_en: "Sing unto the Lord a new song"
+    author: "Anonymous"
+    tradition: "개신교"
+    first_ed: 536
+  - num: 587
+    title: "새로운 계명"
+    author: "김정식 로제리오"
+    tradition: "가톨릭"
+    first_ed: 537
+  - num: 588
+    title: "새로운 계명"
+    author: "이형진 가브리엘"
+    tradition: "가톨릭"
+    first_ed: 538
+  - num: 589
+    title: "새롭게 하소서"
+    author: "이종용"
+    tradition: "개신교"
+    first_ed: 539
+  - num: 590
+    title: "생명의 양식"
+    author: "M.Suzanne Toolan"
+    tradition: "가톨릭"
+  - num: 591
+    title: "선하신 목자"
+    title_en: "Shepherd of my soul"
+    author: "Martin Nystrom"
+    tradition: "개신교"
+  - num: 592
+    title: "성모님께 바치는 노래"
+    author: "이필호 시몬"
+    tradition: "가톨릭"
+    first_ed: 541
+  - num: 593
+    title: "성모송"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+  - num: 594
+    title: "성모의 성월"
+    author: ""
+    tradition: "가톨릭"
+    first_ed: 542
+  - num: 595
+    title: "성전 오른 편에서"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+  - num: 596
+    title: "성체를 찬송하세"
+    author: "Choral"
+    tradition: "가톨릭"
+    first_ed: 543
+  - num: 597
+    title: "성혈을 지나"
+    author: "김도훈"
+    tradition: "개신교"
+  - num: 598
+    title: "세 개의 못"
+    author: "Anonymous"
+    tradition: "개신교"
+    first_ed: 544
+  - num: 599
+    title: "세상은 아름다워라"
+    author: "Sourire"
+    tradition: "가톨릭"
+    first_ed: 545
+  - num: 600
+    title: "소원"
+    author: "한웅재"
+    tradition: "개신교"
+  - num: 601
+    title: "손 내밀어 주를"
+    author: "Anonymous"
+    tradition: "개신교"
+    first_ed: 547
+  - num: 602
+    title: "손을 높이 들고"
+    author: ""
+    tradition: "개신교"
+    first_ed: 548
+  - num: 603
+    title: "순교자의 믿음"
+    author: "F. Henry & J.G. Walton"
+    tradition: "가톨릭"
+    first_ed: 550
+  - num: 604
+    title: "순례자"
+    author: "김태진 베난시오"
+    tradition: "가톨릭"
+    first_ed: 552
+  - num: 605
+    title: "순교자 찬가"
+    author: "이문근"
+    tradition: "가톨릭"
+    first_ed: 551
+  - num: 606
+    title: "시편19편"
+    title_en: "PSALM 19"
+    author: "Terry Buttler"
+    tradition: "개신교"
+  - num: 607
+    title: "시편40편"
+    author: "김지면"
+    tradition: "개신교"
+    first_ed: 780
+  - num: 608
+    title: "시편57편"
+    title_en: "My heart is steadfast"
+    author: ""
+    tradition: "개신교"
+    first_ed: 608
+  - num: 609
+    title: "식사기도"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+  - num: 610
+    title: "신실하게 진실하게 거룩하게"
+    title_en: "Let me be faithful"
+    author: "Stephen Hah"
+    tradition: "개신교"
+    first_ed: 553
+  - num: 611
+    title: "십자가"
+    author: "권성일 미카엘"
+    tradition: "가톨릭"
+    first_ed: 554
+  - num: 612
+    title: "십자가 그 사랑 멀리 떠나서"
+    title_en: "The love of the cross"
+    author: "Stephen Hah"
+    tradition: "개신교"
+    first_ed: 555
+  - num: 613
+    title: "십자가를 그으리라"
+    author: "임석수 바오로"
+    tradition: "가톨릭"
+    first_ed: 556
+  - num: 614
+    title: "십자가 바라보면서"
+    author: "채순기"
+    tradition: "가톨릭"
+    first_ed: 557
+  - num: 615
+    title: "십자가의 길 순교자의 삶"
+    title_en: "The way of cross the life of matyr"
+    author: "Stephen Hah"
+    tradition: "개신교"
+    first_ed: 558
+  - num: 631
+    title: "아버지"
+    author: "김상균 라우렌시오"
+    tradition: "가톨릭"
+    first_ed: 571
+  - num: 632
+    title: "아무 것도 너를"
+    author: ""
+    tradition: "가톨릭"
+  - num: 633
+    title: "아버지 뜻대로"
+    author: "현정수 요한사도"
+    tradition: "가톨릭"
+    first_ed: 573
+  - num: 634
+    title: "아버지 사랑합니다"
+    title_en: "Father I love You"
+    author: "Scott Brenner"
+    tradition: "개신교"
+  - num: 635
+    title: "아버지여 우리는 하나 되었습니다"
+    title_en: "Father make us one"
+    author: "Rick Ridings"
+    tradition: "개신교"
+    first_ed: 574
+  - num: 636
+    title: "아버지의 이름으로"
+    title_en: "In Normine Patris"
+    author: "김지훈 요한십자가"
+    tradition: "가톨릭"
+    first_ed: 575
+  - num: 637
+    title: "아버지 주 나의 기업이 되시네"
+    title_en: "My delight"
+    author: "Andy Park"
+    tradition: "개신교"
+    first_ed: 572
+  - num: 638
+    title: "알렐루야 살아계신 주"
+    title_en: "Jesus is alive"
+    author: "Ron Kenoly"
+    tradition: "개신교"
+  - num: 639
+    title: "앗 뜨거워"
+    author: "정찬우"
+    tradition: "개신교"
+    first_ed: 576
+  - num: 640
+    title: "야곱의 축복"
+    author: "김인식"
+    tradition: "개신교"
+  - num: 641
+    title: "야! 외쳐라"
+    title_en: "Shout shout for joy"
+    author: "Dave Bell"
+    tradition: "개신교"
+    first_ed: 577
+  - num: 642
+    title: "야훼께 청하는"
+    author: "김영구 요한사도"
+    tradition: "가톨릭"
+  - num: 643
+    title: "야훼, 이스라엘의 구원자"
+    title_en: "Jehovah savior of Israel - Isalah 49"
+    author: "Stephen Hah"
+    tradition: "개신교"
+    first_ed: 580
+  - num: 644
+    title: "야훼는 나의 목자"
+    author: "김영구 요한사도"
+    tradition: "가톨릭"
+  - num: 645
+    title: "야훼 우리의 주여"
+    author: "김영구 요한사도"
+    tradition: "가톨릭"
+  - num: 646
+    title: "야훼 우리 주여"
+    author: "최덕신"
+    tradition: "개신교"
+    first_ed: 578
+  - num: 647
+    title: "야훼이레"
+    title_en: "Jehovah Jire"
+    author: "Merla watson"
+    tradition: "개신교"
+    first_ed: 579
+  - num: 648
+    title: "약할 때 강함 되시네"
+    title_en: "You are my all in all"
+    author: "Dennis Jernigan"
+    tradition: "개신교"
+    first_ed: 662
+  - num: 649
+    title: "얼마나 아프셨을까?"
+    author: "이형진 가브리엘"
+    tradition: "가톨릭"
+    first_ed: 583
+  - num: 650
+    title: "영광과 존귀와 찬양을"
+    author: "Deshazo Lynn"
+    tradition: "개신교"
+    first_ed: 585
+  - num: 651
+    title: "영광의 주님 찬양하세"
+    title_en: "Majesty"
+    author: "Jack W. Hayford"
+    tradition: "개신교"
+  - num: 652
+    title: "영원도 하시어라 그 사랑이여"
+    author: "현정수 요한사도"
+    tradition: "가톨릭"
+    first_ed: 586
+  - num: 653
+    title: "영원토록 기리나이다"
+    author: "현정수 요한사도"
+    tradition: "가톨릭"
+    first_ed: 587
+  - num: 654
+    title: "영원한 나의 사랑"
+    author: "F. Andersen"
+    tradition: "가톨릭"
+    first_ed: 588
+  - num: 655
+    title: "영원한 사랑"
+    author: "김민식"
+    tradition: "개신교"
+    first_ed: 589
+  - num: 656
+    title: "예수 그리스도 1"
+    author: "이형진 가브리엘"
+    tradition: "가톨릭"
+    first_ed: 590
+  - num: 657
+    title: "예수 그리스도 2"
+    author: "이형진 가브리엘"
+    tradition: "가톨릭"
+    first_ed: 591
+  - num: 658
+    title: "예수 그리스도는"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+  - num: 659
+    title: "예수께서 우리 맘에 오시네"
+    author: "김병곤베드로"
+    tradition: "가톨릭"
+  - num: 660
+    title: "예수 내 작은 기쁨"
+    author: "김정식 로제리오"
+    tradition: "가톨릭"
+    first_ed: 592
+  - num: 661
+    title: "예수님의, 우리의 미사"
+    author: "젠노래"
+    tradition: "가톨릭"
+    first_ed: 595
+  - num: 662
+    title: "예수님을 따르는 사람들 1"
+    author: "현정수 요한사도"
+    tradition: "가톨릭"
+    first_ed: 593
+  - num: 663
+    title: "예수님을 따르는 사람들 2"
+    author: "현정수 요한사도"
+    tradition: "가톨릭"
+    first_ed: 594
+  - num: 664
+    title: "예수 마음"
+    author: "Trad Melody"
+    tradition: "가톨릭"
+  - num: 665
+    title: "예수 사랑"
+    title_en: "Jesus in me"
+    author: "Anonymous"
+    tradition: "개신교"
+    first_ed: 596
+  - num: 666
+    title: "예수 사랑해요"
+    author: "Buttler/Hemmingway"
+    tradition: "개신교"
+    first_ed: 597
+  - num: 667
+    title: "예수 아름다우신 주"
+    author: "작자미상"
+    tradition: "개신교"
+  - num: 668
+    title: "예수와 어머니"
+    author: "이필호시몬"
+    tradition: "가톨릭"
+    first_ed: 598
+  - num: 669
+    title: "예수 우리 왕이여"
+    title_en: "Jesus we enthrone You"
+    author: "Paul Kyle"
+    tradition: "개신교"
+    first_ed: 599
+  - num: 670
+    title: "예수의 사랑이"
+    author: "심형진"
+    tradition: "개신교"
+  - num: 671
+    title: "예수의 이름으로"
+    title_en: "I will stand"
+    author: "Chris A. Bowater"
+    tradition: "개신교"
+    first_ed: 600
+  - num: 672
+    title: "예수 이름 찬양"
+    title_en: "Praise the name of Jesus"
+    author: "Roy Hicks Jr."
+    tradition: "개신교"
+    first_ed: 601
+  - num: 673
+    title: "오 나의 자비로운 주여"
+    title_en: "Spirit song"
+    author: "John Wimber"
+    tradition: "개신교"
+    first_ed: 603
+  - num: 674
+    title: "오늘 주님의 집에"
+    author: "젠노래"
+    tradition: "가톨릭"
+    first_ed: 604
+  - num: 675
+    title: "오라 우리가"
+    title_en: "Come and let us go"
+    author: "Bill Quigley/M-A Quigley"
+    tradition: "개신교"
+    first_ed: 605
+  - num: 676
+    title: "오 예수님"
+    author: "고형원"
+    tradition: "개신교"
+    first_ed: 606
+  - num: 677
+    title: "오직 믿음으로"
+    author: "고형원"
+    tradition: "개신교"
+    first_ed: 609
+  - num: 678
+    title: "오직 예수"
+    title_en: "One way"
+    author: "Joel Houston/Jonathon Douglass"
+    tradition: "개신교"
+  - num: 679
+    title: "오직 주만이"
+    author: "이유정"
+    tradition: "개신교"
+    first_ed: 398
+  - num: 680
+    title: "오 파더"
+    title_en: "Oh! Father"
+    author: "윤지연 아델라"
+  - num: 681
+    title: "오 하느님 받으소서"
+    title_en: "Song of offering"
+    author: "Brent Chambers"
+    tradition: "개신교"
+    first_ed: 614
+  - num: 682
+    title: "온 땅 위에 노래가"
+    author: "한창희"
+    tradition: "가톨릭"
+    first_ed: 610
+  - num: 683
+    title: "온 땅이여 주를 찬양"
+    title_en: "Sing to the Lord (all the earth)"
+    author: "Miles Kahaloa/Karl Kahaloa"
+    tradition: "개신교"
+  - num: 684
+    title: "온 맘 다해"
+    title_en: "With all my heart"
+    author: "Babbie mason"
+    tradition: "개신교"
+  - num: 685
+    title: "온 맘 다해 주 사랑하라"
+    title_en: "You shall love the Lord"
+    author: "Jimmy Owens"
+    tradition: "개신교"
+    first_ed: 613
+  - num: 686
+    title: "온 세상이여"
+    author: "김영구 요한사도"
+    tradition: "가톨릭"
+  - num: 687
+    title: "와서 아침을 들라"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+  - num: 688
+    title: "왕이신 나의 하느님"
+    title_en: "Psalm 145-1 Bless You my God"
+    author: "Stephen Hah"
+    tradition: "개신교"
+    first_ed: 615
+  - num: 689
+    title: "왜"
+    author: "최택헌"
+    tradition: "개신교"
+    first_ed: 616
+  - num: 690
+    title: "용서하기"
+    author: "이형진 가브리엘"
+    tradition: "가톨릭"
+    first_ed: 617
+  - num: 691
+    title: "우리"
+    author: "외국곡"
+    tradition: "외국곡"
+    first_ed: 619
+  - num: 692
+    title: "우리"
+    author: "김태진 베난시오"
+    tradition: "가톨릭"
+    first_ed: 618
+  - num: 693
+    title: "우리가 함께"
+    author: "이용현 알베르또"
+    tradition: "가톨릭"
+    first_ed: 620
+  - num: 694
+    title: "우리는 사랑의 띠로"
+    author: "Anonymous"
+    tradition: "개신교"
+    first_ed: 621
+  - num: 695
+    title: "우리를 사랑하신"
+    title_en: "Healing grace"
+    author: "John Chisum/Gary Sadler"
+    tradition: "개신교"
+    first_ed: 622
+  - num: 696
+    title: "우리 모두 노래합시다"
+    author: "최인혁"
+    tradition: "개신교"
+    first_ed: 624
+  - num: 697
+    title: "우리 마음엔"
+    title_en: "Dream in our heart"
+    author: "Stephen Hah"
+    tradition: "개신교"
+    first_ed: 623
+  - num: 698
+    title: "우리에게 향하신"
+    author: "김진호"
+    tradition: "개신교"
+    first_ed: 625
+  - num: 699
+    title: "우리와 함께 주여"
+    author: "원선오 빈첸시오"
+    tradition: "가톨릭"
+    first_ed: 626
+  - num: 700
+    title: "우리의 가진 모든 것을"
+    author: "Kok Yew. Toh/Poh Heng. Teo"
+    tradition: "개신교"
+    first_ed: 627
+  - num: 701
+    title: "우리의 어두운 눈이 그를"
+    author: "최덕신"
+    tradition: "개신교"
+    first_ed: 628
+  - num: 702
+    title: "우리 죄 위해 죽으신 주"
+    title_en: "Thanks you for the cross"
+    author: "Mark Altrogge"
+    tradition: "개신교"
+  - num: 703
+    title: "우리 함께 기뻐해"
+    title_en: "Let us rejoice and be glad"
+    author: "Gary Hansen"
+    tradition: "개신교"
+    first_ed: 629
+  - num: 704
+    title: "위로"
+    author: "조세현"
+    tradition: "가톨릭"
+  - num: 705
+    title: "유빌라떼 우리 모두"
+    title_en: "Jubilate everybody"
+    author: "Fred Dunn"
+    tradition: "개신교"
+    first_ed: 631
+  - num: 706
+    title: "의로운 사람아"
+    author: "김영구 요한사도"
+    tradition: "가톨릭"
+  - num: 707
+    title: "이다지도 좋을까"
+    author: "김영구 요한사도"
+    tradition: "가톨릭"
+  - num: 708
+    title: "이 땅에 오직"
+    author: "정종원"
+    tradition: "개신교"
+  - num: 709
+    title: "이스라엘 하느님 찬양"
+    author: ""
+    tradition: "개신교"
+    first_ed: 634
+  - num: 710
+    title: "이 시간 너의 맘속에"
+    author: "김수지"
+    tradition: "개신교"
+    first_ed: 635
+  - num: 711
+    title: "이와 같은 때엔"
+    title_en: "In moments like these I sing out a song"
+    author: "David Graham"
+    tradition: "개신교"
+    first_ed: 636
+  - num: 712
+    title: "일어나라 찬양을"
+    title_en: "Arise and sing ye children of Zion"
+    author: "Mel Ray"
+    tradition: "개신교"
+    first_ed: 638
+  - num: 713
+    title: "잊지는 마세요"
+    author: "최종환바오로"
+    tradition: "가톨릭"
+    first_ed: 639
+  - num: 731
+    title: "자애로우신 주님"
+    author: "이순규"
+    tradition: "가톨릭"
+    first_ed: 651
+  - num: 732
+    title: "작은 사랑"
+    author: "이건복 바오로"
+    tradition: "가톨릭"
+    first_ed: 652
+  - num: 733
+    title: "작은 소망"
+    author: "이철식"
+    tradition: "가톨릭"
+    first_ed: 653
+  - num: 734
+    title: "저는 당신만을"
+    author: "김태진 베난시오"
+    tradition: "가톨릭"
+    first_ed: 654
+  - num: 735
+    title: "전능하신 나의 주 하느님"
+    title_en: "Nosso Deus e pokeroso"
+    author: "Alda Celia"
+    tradition: "개신교"
+  - num: 736
+    title: "전부"
+    author: "유상렬"
+    tradition: "개신교"
+    first_ed: 655
+  - num: 737
+    title: "정결한 맘 주시옵소서"
+    title_en: "Create in me a clean heart"
+    author: "작자미상"
+    tradition: "개신교"
+    first_ed: 362
+  - num: 738
+    title: "좋으신 하느님"
+    author: ""
+    tradition: "개신교"
+    first_ed: 658
+  - num: 739
+    title: "정의와 평화 흐르는 곳에"
+    author: "김영구 요한사도"
+    tradition: "가톨릭"
+    first_ed: 657
+  - num: 740
+    title: "좋으신 하느님"
+    title_en: "You are good"
+    author: "Israel Houghton"
+    tradition: "개신교"
+  - num: 741
+    title: "주 곁에 거하리"
+    title_en: "By Your side"
+    author: "Noel Richards/Tricia Richards"
+    tradition: "개신교"
+    first_ed: 659
+  - num: 742
+    title: "주께 가오니"
+    title_en: "The power of Your love"
+    author: "Geoff Bullock"
+    tradition: "개신교"
+    first_ed: 660
+  - num: 743
+    title: "주께 구속된 자들이 돌아오네"
+    author: "Anonymous"
+    tradition: "개신교"
+    first_ed: 661
+  - num: 744
+    title: "주께서 너를 두고"
+    author: "김영구 요한사도"
+    tradition: "가톨릭"
+  - num: 745
+    title: "주 나의 사랑"
+    author: ""
+    tradition: "개신교"
+    first_ed: 663
+  - num: 746
+    title: "주는 알파와 오메가"
+    author: "Anonymous"
+    tradition: "개신교"
+    first_ed: 665
+  - num: 747
+    title: "주 네 맘에 들어가시려 하네"
+    author: "윤신상"
+    tradition: "개신교"
+    first_ed: 664
+  - num: 748
+    title: "주는 우리의 기쁨"
+    author: ""
+    tradition: "가톨릭"
+    first_ed: 666
+  - num: 749
+    title: "주는 평화"
+    title_en: "He is our peace"
+    author: "Kandela Groves"
+    tradition: "개신교"
+    first_ed: 667
+  - num: 750
+    title: "주님 곁으로 날 이끄소서"
+    title_en: "Draw me close to You"
+    author: "Kelly Carpenter"
+    tradition: "개신교"
+  - num: 751
+    title: "주님 계신곳 어디나"
+    author: "현정수 사도요한"
+    tradition: "가톨릭"
+  - num: 752
+    title: "주님과 같이"
+    title_en: "There is none like You"
+    author: "Lenny LeBlanc"
+    tradition: "개신교"
+    first_ed: 668
+  - num: 753
+    title: "주님과 나는"
+    author: "I. B. Sergei"
+    tradition: "가톨릭"
+    first_ed: 669
+  - num: 754
+    title: "주님과 담대히 나아가"
+    title_en: "The victory song"
+    author: "Dale Garratt"
+    tradition: "개신교"
+    first_ed: 670
+  - num: 755
+    title: "주님께서는"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+  - num: 756
+    title: "주님께서 얼마나 좋은 분인지"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+  - num: 757
+    title: "주님 나의 생명"
+    author: ""
+    tradition: "개신교"
+    first_ed: 673
+  - num: 758
+    title: "주님 나라 가는 길"
+    author: "이세영"
+    tradition: "가톨릭"
+    first_ed: 672
+  - num: 759
+    title: "주님 내 길을"
+    title_en: "God will make a way"
+    author: "Don Moen"
+    tradition: "개신교"
+    first_ed: 390
+  - num: 760
+    title: "주님 내 아버지"
+    title_en: "Father, O my father"
+    author: "Stephen Hah"
+    tradition: "개신교"
+  - num: 761
+    title: "주님 당신께 맡기나이다"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+  - num: 762
+    title: "주님 당신의 길을"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+    first_ed: 674
+  - num: 763
+    title: "주님 보좌 앞에 나아가"
+    title_en: "Lord I come before Your throne of grace"
+    author: "Robert Critchley/Dawn Critchley"
+    tradition: "개신교"
+    first_ed: 675
+  - num: 764
+    title: "주님 사랑"
+    author: "이형진 가브리엘"
+    tradition: "가톨릭"
+    first_ed: 676
+  - num: 765
+    title: "주님 손잡고 일어서세요"
+    author: "김석균"
+    tradition: "개신교"
+    first_ed: 677
+  - num: 766
+    title: "주님은"
+    author: "박우곤알렉시우스"
+    tradition: "가톨릭"
+  - num: 767
+    title: "주님은 나의 구원의 반석"
+    title_en: "You are the Rock of my salvation"
+    author: "Teresa Muller"
+    tradition: "개신교"
+  - num: 768
+    title: "주님은 나의 목자"
+    author: "현정수 요한사도"
+    tradition: "가톨릭"
+    first_ed: 678
+  - num: 769
+    title: "주님은 언제나"
+    author: "백혜원 아네스"
+    tradition: "가톨릭"
+  - num: 770
+    title: "주님은 우리 사랑하셨네"
+    author: "흑인영가"
+    tradition: "가톨릭"
+    first_ed: 679
+  - num: 771
+    title: "주님을 무엇보다 더"
+    title_en: "More than anything"
+    author: "Joseph Garlington"
+    tradition: "개신교"
+  - num: 772
+    title: "주님을 찬양합니다(주님을의지합니다)"
+    title_en: "Sing allelujah to the Lord"
+    author: "Linda Stassen"
+    tradition: "개신교"
+    first_ed: 680
+  - num: 773
+    title: "주님을 찬양해"
+    author: "이철 니콜라오"
+    tradition: "가톨릭"
+    first_ed: 681
+  - num: 774
+    title: "주님을 향하여"
+    author: "현정수 사도요한"
+    tradition: "가톨릭"
+  - num: 775
+    title: "주님의 선물"
+    author: "최인혁"
+    tradition: "개신교"
+    first_ed: 683
+  - num: 776
+    title: "주님의 사랑으로"
+    author: "황영준"
+    tradition: "가톨릭"
+    first_ed: 682
+  - num: 777
+    title: "주님의 속삭임"
+    author: "이건복 바오로"
+    tradition: "가톨릭"
+  - num: 778
+    title: "주님의 시간에"
+    title_en: "In His time"
+    author: "Diane Ball"
+    tradition: "개신교"
+    first_ed: 684
+  - num: 779
+    title: "주님의 영광 나타나셨네"
+    title_en: "The Lord had displayed His glory"
+    author: "David Fellingham"
+    tradition: "개신교"
+    first_ed: 685
+  - num: 780
+    title: "주님의 집에 가자 할 제"
+    author: "현정수 요한사도"
+    tradition: "가톨릭"
+  - num: 781
+    title: "주님 저 하늘 펼치시고"
+    author: "Molino"
+    tradition: "가톨릭"
+    first_ed: 686
+  - num: 782
+    title: "주님 제 입술을 열어주소서"
+    author: "김태진 베난시오"
+  - num: 783
+    title: "주님 저희를 구하러오소서"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+  - num: 784
+    title: "주님 큰 영광 받으소서"
+    title_en: "Jesus shall take the highest honor"
+    author: "Chris A. Bowater"
+    tradition: "개신교"
+    first_ed: 687
+  - num: 785
+    title: "주님 평화 안에서"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+  - num: 786
+    title: "주를 높이기 원합니다"
+    title_en: "I give You my heart"
+    author: "Reuben Morgan"
+    tradition: "개신교"
+    first_ed: 689
+  - num: 787
+    title: "주를 높일지라"
+    title_en: "Exalt the Lord our God"
+    author: "Rick Ridings"
+    tradition: "개신교"
+  - num: 788
+    title: "주를 찬양"
+    author: "최덕신"
+    tradition: "개신교"
+    first_ed: 690
+  - num: 789
+    title: "주를 찬양하며"
+    title_en: "I just want to praise You"
+    author: "Arthus Tannous"
+    tradition: "개신교"
+    first_ed: 691
+  - num: 790
+    title: "주를 향한 나의 사랑을"
+    title_en: "Just let me say"
+    author: "Geoff Bullock"
+    tradition: "개신교"
+    first_ed: 692
+  - num: 791
+    title: "주만 바라볼찌라"
+    author: "박종운"
+    tradition: "개신교"
+    first_ed: 693
+  - num: 792
+    title: "주 말씀 향하여"
+    title_en: "I will run to You"
+    author: "Darlene Zschech"
+    tradition: "개신교"
+  - num: 793
+    title: "주 안에 새 생활"
+    author: "이형진 가브리엘"
+    tradition: "가톨릭"
+    first_ed: 694
+  - num: 794
+    title: "주 앞으로 나아가"
+    author: "Tang Ying Qi"
+    tradition: "개신교"
+    first_ed: 695
+  - num: 795
+    title: "주여 내 마음"
+    author: ""
+    tradition: "개신교"
+    first_ed: 696
+  - num: 796
+    title: "주 없이 살 수 없네"
+    title_en: "Can't live a day"
+    author: "Joe Beck/Ty Lacy/Connie Harrington"
+    tradition: "개신교"
+  - num: 797
+    title: "주여 나를 받으소서"
+    author: "정민경"
+    tradition: "가톨릭"
+    first_ed: 697
+  - num: 798
+    title: "주여 내 입술을 열어주소서"
+    author: ""
+    tradition: "개신교"
+    first_ed: 698
+  - num: 799
+    title: "주여 우리는 지금"
+    author: ""
+    tradition: "가톨릭"
+    first_ed: 699
+  - num: 800
+    title: "주여 임하소서"
+    author: "Lowell Mason"
+    tradition: "가톨릭"
+    first_ed: 700
+  - num: 801
+    title: "주 예수의 이름높이세"
+    title_en: "We want to Jesus lifted high"
+    author: "Doug Horley"
+    tradition: "개신교"
+  - num: 802
+    title: "주의 거룩하심 생각할 때"
+    title_en: "When I look into Your holiness"
+    author: "Wayne Perrin/Cathy Perrin"
+    tradition: "개신교"
+    first_ed: 701
+  - num: 803
+    title: "주의 길을 버리고"
+    author: "Stephen Hah"
+    tradition: "개신교"
+  - num: 804
+    title: "주의 빵을 서로 나누세"
+    author: "흑인영가"
+    tradition: "가톨릭"
+    first_ed: 702
+  - num: 805
+    title: "주의 사랑과 권능으로"
+    author: "윤남근 라우렌시오"
+    tradition: "가톨릭"
+    first_ed: 804
+  - num: 806
+    title: "주의 사랑 안에 다시"
+    author: "백혜원 아네스"
+    tradition: "가톨릭"
+  - num: 807
+    title: "주의 사랑으로 사랑합니다"
+    title_en: "I love you with the love of the Lord"
+    author: "James M. Gilbert"
+    tradition: "개신교"
+  - num: 808
+    title: "주의 이름 높이며"
+    title_en: "Lord I lift Your name on high"
+    author: "Rick Founds"
+    tradition: "개신교"
+    first_ed: 703
+  - num: 809
+    title: "주의 인자는 끝이 없고"
+    title_en: "The steadfast love"
+    author: "Edith McNeil"
+    tradition: "개신교"
+    first_ed: 704
+  - num: 810
+    title: "주의 자비가 내려와"
+    title_en: "Mercy is falling"
+    author: "David Ruis"
+    tradition: "개신교"
+    first_ed: 705
+  - num: 811
+    title: "주의 장막이 어찌 아름다운지요"
+    title_en: "How lovely are Thy dwelling places"
+    author: "Benjamin Desoto"
+    tradition: "개신교"
+    first_ed: 706
+  - num: 812
+    title: "주 찬양"
+    author: "성기영 아가빠"
+    tradition: "가톨릭"
+    first_ed: 707
+  - num: 813
+    title: "주의 정결한 피로"
+    author: "정종원"
+    tradition: "개신교"
+  - num: 814
+    title: "주 찬양합니다"
+    title_en: "Ich lobe meinen Gott"
+    author: "Cl. Faysse Bergese"
+    tradition: "개신교"
+    first_ed: 708
+  - num: 815
+    title: "주 찬양해요"
+    title_en: "Praise ye the Lord"
+    author: "Chris A. Bowater"
+    tradition: "개신교"
+    first_ed: 725
+  - num: 816
+    title: "주 품에 품으소서"
+    title_en: "Still"
+    author: "Reuben Morgan"
+    tradition: "개신교"
+  - num: 817
+    title: "주 하느님 독생자 예수"
+    title_en: "Because He lives"
+    author: "William Gaither/Gloria Gaither/Bill Gaither"
+    tradition: "개신교"
+    first_ed: 534
+  - num: 818
+    title: "주 하느님 크시도다"
+    author: "Stuart K. Heine"
+    tradition: "가톨릭"
+    first_ed: 709
+  - num: 819
+    title: "지존하신 주님 이름 앞에"
+    title_en: "Jesus at Your name"
+    author: "Chris A. Bowater"
+    tradition: "개신교"
+    first_ed: 710
+  - num: 841
+    title: "찬송의 옷을 주셨네"
+    author: "박미래"
+    tradition: "개신교"
+    first_ed: 418
+  - num: 842
+    title: "찬양 찬양"
+    title_en: "Praise Him"
+    author: "Mike Herron"
+    tradition: "개신교"
+    first_ed: 722
+  - num: 843
+    title: "찬양하라 내 영혼아"
+    title_en: "Bless the Lord, oh my soul"
+    author: ""
+    tradition: "개신교"
+    first_ed: 723
+  - num: 844
+    title: "찬양하라 주님의 이름을"
+    author: ""
+    tradition: "가톨릭"
+    first_ed: 724
+  - num: 845
+    title: "찬양하세"
+    title_en: "Come let us sing"
+    author: "Danny Reed"
+    tradition: "개신교"
+    first_ed: 726
+  - num: 846
+    title: "찬양합니다"
+    author: "김병곤베드로"
+    tradition: "가톨릭"
+  - num: 847
+    title: "창문"
+    title_en: "Windows"
+    author: "Claire Cloninger/Tim Hosman"
+    tradition: "개신교"
+  - num: 848
+    title: "창세기의 노래"
+    author: "이철희"
+    tradition: "가톨릭"
+    first_ed: 727
+  - num: 849
+    title: "천사의 양식"
+    title_en: "Panis Angelicus"
+    author: "Lambillotte"
+    tradition: "가톨릭"
+    first_ed: 728
+  - num: 850
+    title: "천상의 어머니"
+    author: ""
+    tradition: "가톨릭"
+    first_ed: 729
+  - num: 851
+    title: "축복송"
+    author: "이형진 가브리엘"
+    tradition: "가톨릭"
+    first_ed: 731
+  - num: 852
+    title: "축복송"
+    author: "송정미"
+    tradition: "개신교"
+    first_ed: 730
+  - num: 853
+    title: "축복의 통로"
+    author: "이민섭"
+    tradition: "개신교"
+  - num: 854
+    title: "축복하노라"
+    author: "신상우"
+    tradition: "개신교"
+  - num: 855
+    title: "축복하소서"
+    author: "이천"
+    tradition: "개신교"
+    first_ed: 732
+  - num: 856
+    title: "축제"
+    author: "김태진 베난시오"
+    tradition: "가톨릭"
+    first_ed: 733
+  - num: 857
+    title: "출애굽의 노래"
+    author: "김정식 로제리오"
+    tradition: "가톨릭"
+  - num: 858
+    title: "출애굽의 노래"
+    author: "청년성서"
+    tradition: "가톨릭"
+    first_ed: 735
+  - num: 859
+    title: "춤의 왕"
+    author: "Sydney Carter"
+    tradition: "개신교"
+    first_ed: 736
+  - num: 860
+    title: "침묵의 주"
+    author: "성기영 아가빠"
+    tradition: "가톨릭"
+    first_ed: 817
+  - num: 871
+    title: "크신 일 행하신 주 찬양"
+    title_en: "O Lord You've done great things"
+    author: "Caroline Govier"
+    tradition: "개신교"
+    first_ed: 747
+  - num: 876
+    title: "태양의 찬가"
+    author: "R. Ortolani"
+    tradition: "가톨릭"
+    first_ed: 751
+  - num: 881
+    title: "파송의 노래"
+    author: "고형원"
+    tradition: "개신교"
+    first_ed: 756
+  - num: 882
+    title: "평안을 너에게 주노라"
+    title_en: "My peace I give unto you"
+    author: "Keith Routlege"
+    tradition: "개신교"
+    first_ed: 758
+  - num: 883
+    title: "평화가 있을지어다"
+    title_en: "Peace be with you"
+    author: "Stephen Hah"
+    tradition: "개신교"
+    first_ed: 757
+  - num: 884
+    title: "평화의 노래"
+    author: "김정식 로제리오"
+    tradition: "가톨릭"
+    first_ed: 759
+  - num: 885
+    title: "평화의 모후께"
+    author: "Medjugorji"
+    tradition: "가톨릭"
+  - num: 886
+    title: "평화의 복음"
+    author: "김영구 요한사도"
+    tradition: "가톨릭"
+  - num: 901
+    title: "하나되어"
+    author: "최태형 안셀모"
+  - num: 902
+    title: "하느님 그리고 나"
+    author: "현정수 요한사도"
+    tradition: "가톨릭"
+    first_ed: 766
+  - num: 903
+    title: "하느님께로 더 가까이"
+    title_en: "Nearer to God"
+    author: "Stephen Hah"
+    tradition: "개신교"
+    first_ed: 767
+  - num: 904
+    title: "하느님께서"
+    author: "노용주 요한세자"
+    tradition: "가톨릭"
+  - num: 905
+    title: "하느님께서는"
+    author: "Rodger Strader"
+    tradition: "개신교"
+    first_ed: 768
+  - num: 906
+    title: "하느님 내 주시여"
+    author: "이형진 가브리엘"
+    tradition: "가톨릭"
+    first_ed: 769
+  - num: 907
+    title: "하느님 당신은 나의 모든 것"
+    author: "현정수 요한사도"
+    tradition: "가톨릭"
+    first_ed: 770
+  - num: 908
+    title: "하느님 어린양"
+    title_en: "Lamb of God"
+    author: "Chris A. Bowater"
+    tradition: "개신교"
+    first_ed: 771
+  - num: 909
+    title: "하느님 어찌 저를 버리시나이까"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+    first_ed: 772
+  - num: 910
+    title: "하느님은 너를 지키시는 분"
+    author: "정성실"
+    tradition: "개신교"
+    first_ed: 773
+  - num: 911
+    title: "하느님은 사랑이니"
+    author: "젠노래"
+    tradition: "가톨릭"
+    first_ed: 774
+  - num: 912
+    title: "하느님은 사랑이에요"
+    author: "강소연"
+    tradition: "개신교"
+    first_ed: 775
+  - num: 913
+    title: "하느님을 두려워하는 이는"
+    author: "최태형 안셀모"
+    tradition: "가톨릭"
+    first_ed: 776
+  - num: 914
+    title: "하느님의 그 사랑"
+    author: "신상옥 안드레아"
+    tradition: "가톨릭"
+    first_ed: 777
+  - num: 915
+    title: "하느님이 나에게"
+    author: "J. Health"
+    tradition: "가톨릭"
+    first_ed: 781
+  - num: 916
+    title: "하늘에서와 같이 땅에서도"
+    author: "현정수 요한사도"
+    tradition: "가톨릭"
+    first_ed: 782
+  - num: 917
+    title: "하늘 위에 주님 밖에"
+    title_en: "God is strength of my heart"
+    author: "Eugene Greco"
+    tradition: "개신교"
+  - num: 918
+    title: "하늘을 나는 새처럼"
+    author: "이철 니콜라오"
+    tradition: "가톨릭"
+    first_ed: 783
+  - num: 919
+    title: "하늘의 태양은 못 되더라도"
+    author: "김태진 베난시오"
+    tradition: "가톨릭"
+    first_ed: 784
+  - num: 920
+    title: "함께 나눈다는 세상 이 땅에"
+    author: "김종성 요한사도"
+    tradition: "가톨릭"
+    first_ed: 785
+  - num: 921
+    title: "함께 하소서"
+    author: "이형진 가브리엘"
+    tradition: "가톨릭"
+    first_ed: 786
+  - num: 922
+    title: "항상 감실 안에 계신"
+    author: "김홍경 안나"
+    tradition: "가톨릭"
+  - num: 923
+    title: "해 뜨는 데부터"
+    title_en: "From the rising of the sun"
+    author: "Paul S. Deming"
+    tradition: "개신교"
+    first_ed: 787
+  - num: 924
+    title: "해바라기 노래"
+    author: "김정식 로제리오"
+    tradition: "가톨릭"
+    first_ed: 788
+  - num: 925
+    title: "형제에게 베푼 것"
+    author: ""
+    tradition: "가톨릭"
+    first_ed: 789
+  - num: 926
+    title: "형제의 모습 속에"
+    author: "박정관"
+    tradition: "개신교"
+    first_ed: 790
+  - num: 927
+    title: "호산나"
+    title_en: "Hosanna"
+    author: "Carl Tuttle"
+    tradition: "개신교"
+    first_ed: 791
+  - num: 928
+    title: "흙으로 사람을"
+    author: "Anonymous"
+    tradition: "개신교"
+    first_ed: 793
+
+haneulbada_mass:
+  - num: 1
+    part: "성호경"
+    author: "신지은, 이지혜"
+  - num: 2
+    part: "성호경"
+    author: "김 안나"
+  - num: 3
+    part: "성호경"
+    author: "임두빈"
+  - num: 4
+    part: "성호경"
+    author: "장환진"
+  - num: 5
+    part: "자비송"
+    author: "김종성"
+  - num: 6
+    part: "자비송"
+    author: "신지은, 이지혜"
+  - num: 7
+    part: "자비송"
+    author: "신상옥"
+  - num: 8
+    part: "자비송"
+    author: "이종철"
+  - num: 9
+    part: "자비송"
+    author: "임두빈"
+  - num: 10
+    part: "자비송"
+    author: "현정수"
+  - num: 11
+    part: "대영광송"
+    author: "김종성"
+  - num: 12
+    part: "대영광송"
+    author: "신상옥"
+  - num: 13
+    part: "대영광송"
+    author: "신지은, 이지혜"
+  - num: 14
+    part: "대영광송"
+    author: "임두빈"
+  - num: 15
+    part: "대영광송"
+    author: "현정수"
+  - num: 16
+    part: "대영광송"
+    author: "이종철"
+  - num: 17
+    part: "대영광송"
+    author: "임덕(가사 정리 - 오광설)"
+  - num: 18
+    part: "화답송"
+    author: "신지은, 이지혜"
+  - num: 19
+    part: "화답송"
+    author: "이종철(하느님 말씀 잘 들었어요)"
+  - num: 20
+    part: "화답송"
+    author: "박기현(하느님 하신 말씀)"
+  - num: 21
+    part: "화답송"
+    author: "임두빈"
+  - num: 22
+    part: "복음환호송"
+    author: "김종성"
+  - num: 23
+    part: "복음환호송"
+    author: "신상옥"
+  - num: 24
+    part: "복음환호송"
+    author: "임두빈"
+  - num: 25
+    part: "복음환호송"
+    author: "오광설"
+  - num: 26
+    part: "복음환호송"
+    author: "현정수"
+  - num: 27
+    part: "복음환호송"
+    author: "신지은, 이지혜"
+  - num: 28
+    part: "복음환호송"
+    author: "그레고리안(예수님의 말씀을)"
+  - num: 29
+    part: "복음환호송"
+    author: "임두빈(말씀이 사람이 되시어)"
+  - num: 30
+    part: "복음환호송"
+    author: "이종철(예수님의 말씀을)"
+  - num: 31
+    part: "사도신경"
+    author: "임두빈"
+  - num: 32
+    part: "보편지향기도"
+    author: "미상"
+  - num: 33
+    part: "보편지향기도"
+    author: "미상"
+  - num: 34
+    part: "보편지향기도"
+    author: "이종철"
+  - num: 35
+    part: "보편지향기도"
+    author: "김종성"
+  - num: 36
+    part: "보편지향기도"
+    author: "신상옥"
+  - num: 37
+    part: "보편지향기도"
+    author: "임두빈"
+  - num: 38
+    part: "보편지향기도"
+    author: "현정수"
+  - num: 39
+    part: "보편지향기도"
+    author: "신지은, 이지혜"
+  - num: 40
+    part: "거룩하시도다"
+    author: "김종성"
+  - num: 41
+    part: "거룩하시도다"
+    author: "이종철"
+  - num: 42
+    part: "거룩하시도다"
+    author: "현정수"
+  - num: 43
+    part: "거룩하시도다"
+    author: "신상옥"
+  - num: 44
+    part: "거룩하시도다"
+    author: "신지은, 이지혜"
+  - num: 45
+    part: "거룩하시도다"
+    author: "김안나"
+  - num: 46
+    part: "거룩하시도다"
+    author: "임두빈"
+  - num: 47
+    part: "거양성체"
+    author: "미상(사랑해요 예수님)"
+  - num: 48
+    part: "거양성체"
+    author: "임두빈(주님의 몸 주님의 피)"
+  - num: 49
+    part: "신앙의 신비여"
+    author: "임두빈"
+  - num: 50
+    part: "신앙의 신비여"
+    author: "김종성"
+  - num: 51
+    part: "신앙의 신비여"
+    author: "현정수"
+  - num: 52
+    part: "신앙의 신비여"
+    author: "신상옥"
+  - num: 53
+    part: "신앙의 신비여"
+    author: "미상"
+  - num: 54
+    part: "신앙의 신비여"
+    author: "미상"
+  - num: 55
+    part: "신앙의 신비여"
+    author: "신지은, 이지혜"
+  - num: 56
+    part: "아멘"
+    author: "김종성"
+  - num: 57
+    part: "아멘"
+    author: "신지은, 이지혜"
+  - num: 58
+    part: "아멘"
+    author: "현정수"
+  - num: 59
+    part: "아멘"
+    author: "신상옥"
+  - num: 60
+    part: "아멘"
+    author: "김안나"
+  - num: 61
+    part: "아멘"
+    author: "임두빈"
+  - num: 62
+    part: "주님의 기도"
+    author: "김종성"
+  - num: 63
+    part: "주님의 기도"
+    author: "이종철"
+  - num: 64
+    part: "주님의 기도"
+    author: "현정수"
+  - num: 65
+    part: "주님의 기도"
+    author: "신상옥"
+  - num: 66
+    part: "주님의 기도"
+    author: "김안나"
+  - num: 67
+    part: "주님의 기도"
+    author: "임두빈"
+  - num: 68
+    part: "주님의 기도"
+    author: "신지은, 이지혜"
+  - num: 69
+    part: "주님께 나라와"
+    author: "김종성"
+  - num: 70
+    part: "주님께 나라와"
+    author: "현정수"
+  - num: 71
+    part: "주님께 나라와"
+    author: "신지은, 이지혜"
+  - num: 72
+    part: "주님께 나라와"
+    author: "신상옥"
+  - num: 73
+    part: "주님께 나라와"
+    author: "임두빈"
+  - num: 74
+    part: "주님께 나라와"
+    author: "미상"
+  - num: 75
+    part: "평화의 인사"
+    author: "신지은, 이지혜"
+  - num: 76
+    part: "평화의 인사"
+    author: "임두빈"
+  - num: 77
+    part: "평화의 인사"
+    author: "현정수"
+  - num: 78
+    part: "하느님의 어린양"
+    author: "김종성"
+  - num: 79
+    part: "하느님의 어린양"
+    author: "신상옥"
+  - num: 80
+    part: "하느님의 어린양"
+    author: "신지은, 이지혜"
+  - num: 81
+    part: "하느님의 어린양"
+    author: "김안나"
+  - num: 82
+    part: "하느님의 어린양"
+    author: "임두빈"
+  - num: 83
+    part: "하느님의 어린양"
+    author: "현정수"
+  - num: 84
+    part: "하느님의 어린양"
+    author: "이종철"
+  - num: 85
+    part: "영광송"
+    author: "임두빈"
+
+haneulbada_songs:
+  - num: 86
+    title: "가난한 이의 소리"
+  - num: 87
+    title: "가라 주님과 함께"
+  - num: 88
+    title: "가서 내 형제들에게 전하여라"
+  - num: 89
+    title: "가자! 희망의 땅 복음으로"
+  - num: 90
+    title: "감사해"
+  - num: 91
+    title: "감사해요"
+  - num: 92
+    title: "강물처럼 흐르는 사랑"
+  - num: 93
+    title: "거룩하다 부활이여"
+  - num: 94
+    title: "거룩하신 하느님"
+  - num: 95
+    title: "고래 뱃속의 요나"
+  - num: 96
+    title: "고요한 밤 거룩한 밤"
+  - num: 97
+    title: "골고타 언덕"
+  - num: 98
+    title: "곰돌이 가족"
+  - num: 99
+    title: "공동체송"
+  - num: 100
+    title: "교사의 기도"
+  - num: 101
+    title: "교회 종소리"
+  - num: 102
+    title: "구세주 빨리 오사"
+  - num: 103
+    title: "구원자 예수 너의 사랑"
+  - num: 104
+    title: "구유에 누워 계시니"
+  - num: 105
+    title: "귀여운 아기들"
+  - num: 106
+    title: "귀염동이"
+  - num: 107
+    title: "그분께 감사하여라"
+  - num: 108
+    title: "그분께로 한 걸음씩"
+  - num: 109
+    title: "그 사랑 주님께 감사하여라"
+  - num: 110
+    title: "그리스도께서 너를 비추어 주시리라"
+  - num: 111
+    title: "글로리아 높으신 이의 탄생"
+  - num: 112
+    title: "금물결 이야기"
+  - num: 113
+    title: "기대"
+  - num: 114
+    title: "기도하는 맘"
+  - num: 115
+    title: "기뻐하며 왕께 노래 부르리"
+  - num: 116
+    title: "기쁘다 구주 오셨네"
+  - num: 117
+    title: "기쁜 크리스마스"
+  - num: 118
+    title: "기적의 마구간"
+  - num: 119
+    title: "길이요 진리요 생명이신 주"
+  - num: 120
+    title: "깨끗한 맘 주시옵소서"
+  - num: 121
+    title: "꼬마 마르첼리노"
+  - num: 122
+    title: "꽃"
+  - num: 123
+    title: "꽃이 될래요"
+  - num: 124
+    title: "꽃잎들이 하나 둘"
+  - num: 125
+    title: "나"
+  - num: 126
+    title: "나 무엇과도 주님을"
+  - num: 127
+    title: "나 주의 믿음 갖고"
+  - num: 128
+    title: "나는 나는 될 테야"
+  - num: 129
+    title: "나는 믿나이다"
+  - num: 130
+    title: "나는 세상의 빛입니다"
+  - num: 131
+    title: "나는 착한 목자다"
+  - num: 132
+    title: "나는 포도나무요"
+  - num: 133
+    title: "나를 따르라"
+  - num: 134
+    title: "나를 받으옵소서"
+  - num: 135
+    title: "나를 사랑하는 주님"
+  - num: 136
+    title: "나에게 오라"
+  - num: 137
+    title: "나의 모든 사랑을 드려요"
+  - num: 138
+    title: "나의 발은 춤을 추며"
+  - num: 139
+    title: "나의 사랑 예수여"
+  - num: 140
+    title: "나의 생명 드리니"
+  - num: 141
+    title: "나의 예수님 사랑합니다"
+  - num: 142
+    title: "나의 친구 착한 예수님"
+  - num: 143
+    title: "날마다 숨 쉬는 순간마다"
+  - num: 144
+    title: "낮은 자의 하느님"
+  - num: 145
+    title: "내 마음 내 믿음"
+  - num: 146
+    title: "내 맘은 작은 꽃밭"
+  - num: 147
+    title: "내 발을 씻기신 예수"
+  - num: 148
+    title: "내 생애의 모든 것"
+  - num: 149
+    title: "내 손을 주께 높이 듭니다"
+  - num: 150
+    title: "내 친구 예수님"
+  - num: 151
+    title: "내가 너희들을"
+  - num: 152
+    title: "내게 가장 소중한 것"
+  - num: 153
+    title: "내게 와서 보아라"
+  - num: 154
+    title: "내게 있는 향유 옥합"
+  - num: 155
+    title: "내려주신 모든 선물"
+  - num: 156
+    title: "너는 복되리라"
+  - num: 157
+    title: "넌 차지도 뜨겁지도"
+  - num: 158
+    title: "널따란 잔디밭"
+  - num: 159
+    title: "노아와 홍수"
+  - num: 160
+    title: "높이 날아요"
+  - num: 161
+    title: "누가 우리를 떼어 놓으랴"
+  - num: 162
+    title: "누구든지"
+  - num: 163
+    title: "누군가 널 위해 기도하네"
+  - num: 164
+    title: "느껴 느껴"
+  - num: 165
+    title: "늘 함께해"
+  - num: 166
+    title: "다 같이 우리들은 사랑 배우세"
+  - num: 167
+    title: "다 와서 찬양해"
+  - num: 168
+    title: "다 함께"
+  - num: 169
+    title: "다윗 왕의 노래"
+  - num: 170
+    title: "달려 달려"
+  - num: 171
+    title: "달콤한 선물"
+  - num: 172
+    title: "당신은 사랑받기 위해 태어난 사람"
+  - num: 173
+    title: "당신을 향한 노래"
+  - num: 174
+    title: "동그랗게 다발 엮어"
+  - num: 175
+    title: "동방낙타 달려라"
+  - num: 176
+    title: "동방의 세 박사"
+  - num: 177
+    title: "또 하나의 열매를 바라시며"
+  - num: 178
+    title: "똑똑똑"
+  - num: 179
+    title: "랄랄라"
+  - num: 180
+    title: "Love Festival"
+  - num: 181
+    title: "러브레터 - 너를 사랑해"
+  - num: 182
+    title: "러브레터"
+  - num: 183
+    title: "로사리오 기도 드릴 때"
+  - num: 184
+    title: "Little Christian Sonata"
+  - num: 185
+    title: "마니피캇"
+  - num: 186
+    title: "마음 속 친구"
+  - num: 187
+    title: "마음속의 하느님"
+  - num: 188
+    title: "마음 착한 요셉"
+  - num: 189
+    title: "마음 밭"
+  - num: 190
+    title: "마음을 열고서"
+  - num: 191
+    title: "마흔 낮과 그 밤을"
+  - num: 192
+    title: "말씀이 있는 곳에"
+  - num: 193
+    title: "맑은 하늘 오월은"
+  - num: 194
+    title: "메리 크리스마스, 기다린 그날"
+  - num: 195
+    title: "모든 민족아 주님 찬양하라"
+  - num: 196
+    title: "모세 이야기"
+  - num: 197
+    title: "모여라 동무들아"
+  - num: 198
+    title: "목마른 사슴"
+  - num: 199
+    title: "물라 물라"
+  - num: 200
+    title: "못 찾겠다 꾀꼬리"
+  - num: 201
+    title: "물로써 포도주를"
+  - num: 202
+    title: "믿음 깊고 착한 욥"
+  - num: 203
+    title: "믿음으로"
+  - num: 204
+    title: "믿음이 구슬이라면"
+  - num: 205
+    title: "바벨탑"
+  - num: 206
+    title: "받으소서 우리 마음"
+  - num: 207
+    title: "방긋 방긋, 으쓱 으쓱"
+  - num: 208
+    title: "별빛이 찬란한 이 밤은"
+  - num: 209
+    title: "보시니 좋았다"
+  - num: 210
+    title: "보아요 난 느껴요"
+  - num: 211
+    title: "부활하신 주 예수"
+  - num: 212
+    title: "북 치는 작은 소년"
+  - num: 213
+    title: "불가마의 세 청년"
+  - num: 214
+    title: "비추소서"
+  - num: 215
+    title: "빛과 소금"
+  - num: 216
+    title: "사랑"
+  - num: 217
+    title: "사랑 사랑"
+  - num: 218
+    title: "사랑과 평화의 예수님"
+  - num: 219
+    title: "사랑의 선물"
+  - num: 220
+    title: "사랑의 송가"
+  - num: 221
+    title: "사랑의 신비"
+  - num: 222
+    title: "사랑이 없으면"
+  - num: 223
+    title: "사랑하는 나의 아버지"
+  - num: 224
+    title: "사랑하는 사람은 누구나"
+  - num: 225
+    title: "사랑하올 어머니"
+  - num: 226
+    title: "사랑한다는 말은"
+  - num: 227
+    title: "사랑합니다 나의 예수님"
+  - num: 228
+    title: "사랑해요 축하해요"
+  - num: 229
+    title: "사막에 샘이 넘쳐"
+  - num: 230
+    title: "산상교훈"
+  - num: 231
+    title: "상사병"
+  - num: 232
+    title: "새로운 계명"
+  - num: 233
+    title: "생명의 물"
+  - num: 234
+    title: "생명의 양식"
+  - num: 235
+    title: "서로 사랑하라"
+  - num: 236
+    title: "선물"
+  - num: 237
+    title: "성 요셉 찬양하세"
+  - num: 238
+    title: "성경송(구약)"
+  - num: 239
+    title: "성경송(신약)"
+  - num: 240
+    title: "성령 장풍"
+  - num: 241
+    title: "성령강림송"
+  - num: 242
+    title: "성령송가"
+  - num: 243
+    title: "성령 안에"
+  - num: 244
+    title: "성모님"
+  - num: 245
+    title: "성모송"
+  - num: 246
+    title: "성모의 성월"
+  - num: 247
+    title: "성부 A-ha!"
+  - num: 248
+    title: "성부 우리를"
+  - num: 249
+    title: "성체 안에 계시는"
+  - num: 250
+    title: "성체 안의 예수님"
+  - num: 251
+    title: "성체를 찬송하세"
+  - num: 252
+    title: "세 개의 못"
+  - num: 253
+    title: "세상은 아름다워라"
+  - num: 254
+    title: "세상을 위하여"
+  - num: 255
+    title: "세상의 빛이 되어라"
+  - num: 256
+    title: "소녀는 일어나"
+  - num: 257
+    title: "소망"
+  - num: 258
+    title: "손을 높이 들고 주를 찬양"
+  - num: 259
+    title: "수난 기약 다다르니"
+  - num: 260
+    title: "수만 마리 참새들이"
+  - num: 261
+    title: "수호천사님"
+  - num: 262
+    title: "순교인(in)"
+  - num: 263
+    title: "순교자 타령"
+  - num: 264
+    title: "순교자의 믿음"
+  - num: 265
+    title: "순례자"
+  - num: 266
+    title: "Superman"
+  - num: 267
+    title: "십자가 지고 가시는"
+  - num: 268
+    title: "십자가에 가까이"
+  - num: 269
+    title: "십자가에 제헌되신"
+  - num: 270
+    title: "Summer Christmas"
+  - num: 271
+    title: "씨 뿌리는 사람의 비유"
+  - num: 272
+    title: "아기 예수님"
+  - num: 273
+    title: "아담과 하와"
+  - num: 274
+    title: "아름다운 마음들이 모여서"
+  - num: 275
+    title: "아름다운 장미"
+  - num: 276
+    title: "아버지 뜻대로"
+  - num: 277
+    title: "아브라함과 이사악"
+  - num: 278
+    title: "아이야 너는 나를 사랑한다지"
+  - num: 279
+    title: "알렐루야 노래하자"
+  - num: 280
+    title: "앗 뜨거워"
+  - num: 281
+    title: "Ya!(예수님의 두 손을 꼭 잡고)"
+  - num: 282
+    title: "앗싸 좋아"
+  - num: 283
+    title: "야곱과 에사오"
+  - num: 284
+    title: "야곱의 축복"
+  - num: 285
+    title: "약할 때 강함 되시네"
+  - num: 286
+    title: "어린 백합화"
+  - num: 287
+    title: "어린양"
+  - num: 288
+    title: "어린이 군대"
+  - num: 289
+    title: "어린이처럼"
+  - num: 290
+    title: "어부 될래요"
+  - num: 291
+    title: "어부들 송(어부들 주제곡)"
+  - num: 292
+    title: "어서 가 경배하세"
+  - num: 293
+    title: "엠마우스"
+  - num: 294
+    title: "여러분 고맙습니다(김수환 추기경 추모곡)"
+  - num: 295
+    title: "열두 사도를 외우자"
+  - num: 296
+    title: "열절하신 주의 사랑"
+  - num: 297
+    title: "영광의 왕"
+  - num: 298
+    title: "영원한 사랑"
+  - num: 299
+    title: "예수 내 작은 기쁨"
+  - num: 300
+    title: "예수 부활하셨네"
+  - num: 301
+    title: "예수 부활하셨도다"
+  - num: 302
+    title: "예수 사랑해요"
+  - num: 303
+    title: "예수님"
+  - num: 304
+    title: "예수님 만나보고 싶어요"
+  - num: 305
+    title: "예수님 손 잡고"
+  - num: 306
+    title: "예수님 어서 오세요"
+  - num: 307
+    title: "예수님 오세요"
+  - num: 308
+    title: "예수님을 따르는 사람들2"
+  - num: 309
+    title: "예수님 저희를 도와주세요"
+  - num: 310
+    title: "예수님의 사랑"
+  - num: 311
+    title: "예수님의 이름으로"
+  - num: 312
+    title: "예수님의 이름은"
+  - num: 313
+    title: "예수님이 말씀하시니"
+  - num: 314
+    title: "오 기쁜 날"
+  - num: 315
+    title: "오 나의 자비로운 주여"
+  - num: 316
+    title: "오 작은 고을 베들레헴"
+  - num: 317
+    title: "오 주여 나의 마음이"
+  - num: 318
+    title: "오늘 아기 예수"
+  - num: 319
+    title: "오늘같이 좋은 날"
+  - num: 320
+    title: "오천 명 군중에게"
+  - num: 321
+    title: "온 세상에 주님 사랑 전하리라"
+  - num: 322
+    title: "왜"
+  - num: 323
+    title: "우르르르 쾅쾅"
+  - num: 324
+    title: "우리 사랑하시어"
+  - num: 325
+    title: "우리 성당 성모님은"
+  - num: 326
+    title: "우리 친구 예수님"
+  - num: 327
+    title: "우리는 사랑의 띠로"
+  - num: 328
+    title: "우리는 싱싱한"
+  - num: 329
+    title: "우리는 주의 사랑을"
+  - num: 330
+    title: "우리를 보고파"
+  - num: 331
+    title: "우리에게 향하신"
+  - num: 332
+    title: "우리와 함께 주여"
+  - num: 333
+    title: "With U"
+  - num: 334
+    title: "이 날은 주의 날"
+  - num: 335
+    title: "이 미사를 통해 주신"
+  - num: 336
+    title: "이 시간 너의 맘속에"
+  - num: 337
+    title: "이렇게 좋은 날"
+  - num: 338
+    title: "이보다 더 큰 은혜와"
+  - num: 339
+    title: "이와 같은 때엔"
+  - num: 340
+    title: "일어나 두 팔 벌려 주님 맞이하라"
+  - num: 341
+    title: "임마누엘"
+  - num: 342
+    title: "임마누엘"
+  - num: 343
+    title: "자, 일어나 가자!"
+  - num: 344
+    title: "자캐오와 예수님"
+  - num: 345
+    title: "자연의 기도"
+  - num: 346
+    title: "자장가"
+  - num: 347
+    title: "자캐오 나무"
+  - num: 348
+    title: "저 푸른 언덕 너머"
+  - num: 349
+    title: "저희 정성 이 예물"
+  - num: 350
+    title: "정성 어린 우리 제물"
+  - num: 351
+    title: "전하리 전하리"
+  - num: 352
+    title: "졸업노래"
+  - num: 353
+    title: "좋아"
+  - num: 354
+    title: "주 나의 사랑"
+  - num: 355
+    title: "주 네 맘에 들어가시려 하네"
+  - num: 356
+    title: "주께 가오니"
+  - num: 357
+    title: "주께 감사드리자"
+  - num: 358
+    title: "주는 날 구원하시네"
+  - num: 359
+    title: "주는 우리의 기쁨"
+  - num: 360
+    title: "주는 평화"
+  - num: 361
+    title: "주는 평화, 주는 사랑"
+  - num: 362
+    title: "주님 나 작은 발로"
+  - num: 363
+    title: "주님 계신 곳 어디나"
+  - num: 364
+    title: "주님 날 받아주소서"
+  - num: 365
+    title: "주님 내게 오시면"
+  - num: 366
+    title: "주님 달링 주님 허니"
+  - num: 367
+    title: "주님 모신 우리 마음"
+  - num: 368
+    title: "주님 몸 안에 우리가"
+  - num: 369
+    title: "주님 발 앞에"
+  - num: 370
+    title: "주님 안에서"
+  - num: 371
+    title: "주님 안에서 기뻐하여라"
+  - num: 372
+    title: "주님 어찌 저를 버리시나이까"
+  - num: 373
+    title: "주님 우리 주여"
+  - num: 374
+    title: "주님 저 하늘 펼치시고"
+  - num: 375
+    title: "주님과 같이"
+  - num: 376
+    title: "주님과 나는"
+  - num: 377
+    title: "주님께 드려요"
+  - num: 378
+    title: "주님께 영광을 드리자"
+  - num: 379
+    title: "주님은 우리 사랑하셨네"
+  - num: 380
+    title: "주님을 찬양해"
+  - num: 381
+    title: "주님의 빛"
+  - num: 382
+    title: "주님의 집에 가자 할 제"
+  - num: 383
+    title: "주님이 집을 짓지 않으시면"
+  - num: 384
+    title: "주를 찬양하며"
+  - num: 385
+    title: "주를 찬양해"
+  - num: 386
+    title: "주를 향한 나의 사랑을"
+  - num: 387
+    title: "주여 나의 몸과 맘"
+  - num: 388
+    title: "주여 어서 오소서"
+  - num: 389
+    title: "주여 우리는 지금"
+  - num: 390
+    title: "주여 임하소서"
+  - num: 391
+    title: "주의 나라 임하면"
+  - num: 392
+    title: "주의 빵을 서로 나누세"
+  - num: 393
+    title: "주의 이름 높이며"
+  - num: 394
+    title: "주의 인자는 끝이 없고"
+  - num: 395
+    title: "주의 자비가 내려와"
+  - num: 396
+    title: "주의 잔치"
+  - num: 397
+    title: "죽음을 이긴"
+  - num: 398
+    title: "지저스 나의 사랑"
+  - num: 399
+    title: "착한 아이 되지요"
+  - num: 400
+    title: "찬미예수님 찬미예수님"
+  - num: 401
+    title: "찬송하라 주님의 종들아"
+  - num: 402
+    title: "찬양이 언제나 넘치면"
+  - num: 403
+    title: "찬양하라 주님을"
+  - num: 404
+    title: "찬양하세 찬양하세"
+  - num: 405
+    title: "참행복"
+  - num: 406
+    title: "천사의 양식"
+  - num: 407
+    title: "천사의 찬송"
+  - num: 408
+    title: "첫 성탄"
+  - num: 409
+    title: "첫 영성체 축가"
+  - num: 410
+    title: "축제"
+  - num: 411
+    title: "축하합니다"
+  - num: 412
+    title: "크리스마스 왈츠"
+  - num: 413
+    title: "크신 사랑"
+  - num: 414
+    title: "크신 주께 찬미드리세"
+  - num: 415
+    title: "탈출의 노래"
+  - num: 416
+    title: "Take this!"
+  - num: 417
+    title: "우리 주님처럼 말해보자"
+  - num: 418
+    title: "To you"
+  - num: 419
+    title: "평화를 너에게 주노라"
+  - num: 420
+    title: "포도가지 단비를"
+  - num: 421
+    title: "푸르른 시냇가의"
+  - num: 422
+    title: "풋 솜과 같은 마음"
+  - num: 423
+    title: "빵이 되어 저희에게"
+  - num: 424
+    title: "하느님 나라"
+  - num: 425
+    title: "목소리 높여 주님 찬미"
+  - num: 426
+    title: "우리 함께 떠나자"
+  - num: 427
+    title: "하느님 보시기에"
+  - num: 428
+    title: "하느님 사랑 이야기"
+  - num: 429
+    title: "일등은 하고 싶은 일"
+  - num: 430
+    title: "하느님은 너를 지키시는 분"
+  - num: 431
+    title: "하느님은 우리의 보물이에요"
+  - num: 432
+    title: "하느님을 기다립니다"
+  - num: 433
+    title: "하느님의 사랑"
+  - num: 434
+    title: "하느님의 음성을"
+  - num: 435
+    title: "하늘에 보물을 쌓아라"
+  - num: 436
+    title: "화려하지도 빛나지도"
+  - num: 437
+    title: "함께라면"
+  - num: 438
+    title: "해 뜨는 데부터"
+  - num: 439
+    title: "해바라기"
+  - num: 440
+    title: "해바라기 노래"
+  - num: 441
+    title: "형제에게 베푼 것"
+  - num: 442
+    title: "형제의 모습 속에"
+  - num: 443
+    title: "호산나 호산나"
