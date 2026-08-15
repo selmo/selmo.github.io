@@ -364,8 +364,12 @@ for root, dirs, files in os.walk(ROOT):
         # 표시용 텍스트 필드는 NFC 로 못박는다 (path/url 은 파일 접근용이라 원본 유지)
         nfc = lambda x: unicodedata.normalize("NFC", x) if isinstance(x, str) else x
 
+        # 공개 페이지(OnE-Scores) 노출 여부.
+        # 본인(최태형) 작곡분과 OnE 밴드 활동곡은 공개, 나머지는 비공개 페이지로.
+        public = (composer == "최태형") or (cat == "one")
+
         items.append({
-            "path": rel, "url": url,
+            "path": rel, "url": url, "public": public,
             "title": nfc(title), "composer": nfc(composer),
             "artist": nfc(artist_dir),
             "category": cat, "mass_part": mass_part, "type": typ,
@@ -413,6 +417,7 @@ with open("_data/scores.yml", "w", encoding="utf-8") as out:
     for it in items:
         out.write(f'  - path: {py_escape(it["path"])}\n')
         out.write(f'    url: {py_escape(it["url"])}\n')
+        out.write(f'    public: {"true" if it["public"] else "false"}\n')
         out.write(f'    title: {py_escape(it["title"])}\n')
         out.write(f'    composer: {py_escape(it["composer"])}\n')
         out.write(f'    artist: {py_escape(it.get("artist"))}\n')

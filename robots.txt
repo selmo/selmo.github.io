@@ -3,7 +3,9 @@ layout: null
 sitemap: false
 ---
 User-agent: *
-Disallow: /resources/OnE-Scores.html
-Disallow: /resources/OnE-Scores/
+# 최태형·OnE 외의 악보 목록은 링크를 아는 사람만 보도록 색인에서 제외한다.
+# (PDF 파일 자체는 경로만으로 공개/비공개를 가를 수 없어 디렉터리 단위로 막지 않는다.
+#  대신 sitemap.xml 이 HTML 페이지만 담아 크롤러가 PDF를 훑지 않는다.)
+Disallow: /resources/OnE-Scores-All.html
 
 Sitemap: {{ '/sitemap.xml' | absolute_url }}

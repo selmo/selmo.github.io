@@ -1,10 +1,13 @@
 ---
-title: "최태형 · OnE 악보 (Scores)"
+title: "그 외 악보 목록 (Other Scores)"
+# 비공개 페이지 — 사이트 내 링크 없이 URL 직접 접근만 허용
+sitemap: false
+noindex: true
 ---
 
-# 최태형 · OnE 악보 (Scores)
+# 그 외 악보 목록 (Other Scores)
 
-최태형 안셀모의 작곡분(미사곡)과 밴드 OnE의 활동곡 악보(PDF)입니다. 같은 곡의 여러 버전(Score · ChordChart · Chorus · 조성별)은 **한 줄에 모아** 표시되며, 각 링크를 클릭하면 해당 PDF가 다운로드됩니다.
+최태형·OnE 작품을 제외한 나머지 악보(PDF)입니다. 같은 곡의 여러 버전(Score · ChordChart · Chorus · 조성별)은 **한 줄에 모아** 표시되며, 각 링크를 클릭하면 해당 PDF가 다운로드됩니다.
 
 - **미사곡**은 전례 순서(자비송 → 대영광송 → … → 하느님의 어린양)대로, 작곡가별로 구분했습니다.
 - **그 외 곡**은 곡명 기준으로 정리했으며, 작곡가가 파일에 명시된 경우에만 표기했습니다.
@@ -12,9 +15,9 @@ title: "최태형 · OnE 악보 (Scores)"
 - **영상**은 ▶ 를 누르면 이 페이지 안에서 바로 재생됩니다(새 탭에서 열려면 Ctrl/⌘ 누른 채 클릭). 제목 옆 `(1:40)` 은 그 곡이 시작되는 지점으로, 재생·새 탭 모두 그 시점부터 열립니다. 옆 **설명** 칸에는 연주자·채널과 부가 정보를 적습니다. 링크는 `_data/links.yml`에서 관리합니다.
 - 목록은 `_data/scores.yml`에서 자동 생성됩니다(`scripts/gen_scores.py` → `scripts/match_songbooks.py`).
 
-> **이용 안내**: 전례와 성가 활동에 자유롭게 쓰셔도 좋습니다. 다만 OnE 활동곡 중에는 다른 분이 작곡한 곡(김용휘·박정선·윤남근)도 있으니, 출처를 밝혀 주시고 상업적 이용은 해당 작곡자에게 문의해 주세요.
+> ⚠️ **저작권 안내**: 본 페이지에는 본인 작곡분(미사곡 · OnE 밴드 곡) 외에 타인 작곡 곡의 코드 차트(ChordChart)/스코어도 포함되어 있습니다. 타인 곡 악보는 **개인 학습·반주용**으로만 사용하시고, 상업적 재배포는 삼가 주세요.
 
-{% assign all = site.data.scores.items | where: "public", true %}
+{% assign all = site.data.scores.items | where: "public", false %}
 {% assign missa = all | where: "category", "missa" %}
 {% assign one = all | where: "category", "one" %}
 {% assign ccm = all | where: "category", "ccm" %}
@@ -177,6 +180,6 @@ title: "최태형 · OnE 악보 (Scores)"
 - [리소스 자료실 (Resources)](../ccm/Resources.md) — 악보 자료 및 웹사이트 링크
 - [미사곡 (Mass)](../ccm/Mass.md)
 - [최태형 안셀모 작품 목록](../ccm/songs/TaeHyoungChoi.md)
-- [그 외 악보 목록](OnE-Scores-All.md) — 번역 CCM · 성가 · 편곡 등
+- [최태형 · OnE 악보](OnE-Scores.md)
 
 <script src="{{ '/assets/js/yt-lite.js' | relative_url }}" defer></script>
