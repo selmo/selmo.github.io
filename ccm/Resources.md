@@ -8,7 +8,7 @@ title: "리소스 (Resources)"
 
 ## 악보 다운로드
 
-*   **[최태형 · OnE 악보 (Scores)](../resources/OnE-Scores.md)**: 미사곡 · OnE 활동곡 악보(PDF)와 연주 영상
+*   **[최태형 · OnE 악보 (Scores)](../resources/Scores.md)**: 미사곡 · OnE 활동곡 악보(PDF)와 연주 영상
 
 ## 웹사이트 (Websites)
 

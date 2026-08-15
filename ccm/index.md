@@ -66,7 +66,7 @@ title: "Catholic Music"
 ### [리소스 자료실 (Resources)](Resources.md)
 악보 자료(PDF) 및 유용한 웹사이트 링크 모음입니다.
 
-### [최태형 · OnE 악보 (Scores)](../resources/OnE-Scores.md)
+### [최태형 · OnE 악보 (Scores)](../resources/Scores.md)
 미사곡과 밴드 OnE 활동곡의 악보(PDF)를 곡별로 내려받고, 연주 영상을 함께 볼 수 있습니다.
 
 ### 가톨릭 성가 유튜브 채널
