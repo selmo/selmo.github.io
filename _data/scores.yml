@@ -125,9 +125,9 @@ items:
     label: "Score"
   - path: "resources/OnE-Scores/Missa/화답송/[Score] 화답송 - 주님저희에게자비를.pdf"
     url: "/resources/OnE-Scores/Missa/%E1%84%92%E1%85%AA%E1%84%83%E1%85%A1%E1%86%B8%E1%84%89%E1%85%A9%E1%86%BC/%5BScore%5D%20%ED%99%94%EB%8B%B5%EC%86%A1%20-%20%EC%A3%BC%EB%8B%98%EC%A0%80%ED%9D%AC%EC%97%90%EA%B2%8C%EC%9E%90%EB%B9%84%EB%A5%BC.pdf"
-    title: "화답송 '주님 저희에게 자비를'"
-    composer: ""
-    public: false
+    title: "주님 저희에게 자비를"
+    composer: "최태형"
+    public: true
     artist: ""
     category: missa
     mass_part: "responsorial_psalm"
@@ -136,7 +136,7 @@ items:
     haneulbada: null
     key: ""
     note: ""
-    group: "missa-화답송'주님저희에게자비를'-"
+    group: "missa-주님저희에게자비를-최태형"
     label: "Score"
   - path: "resources/OnE-Scores/Missa/합창악보/복음 환호송.pdf"
     url: "/resources/OnE-Scores/Missa/%E1%84%92%E1%85%A1%E1%86%B8%E1%84%8E%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%A1%E1%86%A8%E1%84%87%E1%85%A9/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%B7%20%E1%84%92%E1%85%AA%E1%86%AB%E1%84%92%E1%85%A9%E1%84%89%E1%85%A9%E1%86%BC.pdf"
