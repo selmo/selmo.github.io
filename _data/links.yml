@@ -283,15 +283,15 @@ items:
         title: "나의 모습 나의 소유"
         by: "OnE"
         note: "2023년 수원교구 청년도보성지순례 파견미사"
-      - id: "_rSWXf2Y4z0"
-        title: "God Will Make A Way"
+      - id: "TwNTHThR-Fw"
+        title: "I Offer My Life"
         by: "Don Moen"
-        note: "원곡"
+        note: "원곡 · Claire Cloninger / Don Moen"
   - title: "나의 슬픔을"
     composer: ""
     videos:
-      - id: "dtktBpQrr2k"
-        title: "Only a God Like You"
+      - id: "Dp1fpkGU0NY"
+        title: "Mourning Into Dancing"
         by: "Tommy Walker"
         note: "원곡 음원"
   - title: "내가 천사의 말한다 해도"
@@ -365,7 +365,7 @@ items:
         by: "Carl Tuttle"
         note: "원곡"
 
-  # ══════ hymn ══════
+  # ══════ 성가 · 찬양 ══════
   - title: "그분께로 한 걸음씩"
     composer: ""
     videos:
@@ -468,7 +468,7 @@ items:
     composer: ""
     videos: []
 
-  # ══════ kpop ══════
+  # ══════ K-Pop ══════
   - title: "Butterfly"
     composer: ""
     videos: []
