@@ -306,7 +306,10 @@ items:
         note: "원곡 음원"
   - title: "아도나이"
     composer: ""
-    videos: []
+    videos:
+      - id: "uXvJQ3XFTQs"
+        title: "Adonai"
+        by: "Avalon"
   - title: "약할 때 강함 되시네"
     composer: ""
     videos:
@@ -368,7 +371,7 @@ items:
         by: "Carl Tuttle"
         note: "원곡"
 
-  # ══════ hymn ══════
+  # ══════ 성가 · 찬양 ══════
   - title: "그분께로 한 걸음씩"
     composer: ""
     videos:
@@ -471,7 +474,7 @@ items:
     composer: ""
     videos: []
 
-  # ══════ kpop ══════
+  # ══════ K-Pop ══════
   - title: "Butterfly"
     composer: ""
     videos: []
