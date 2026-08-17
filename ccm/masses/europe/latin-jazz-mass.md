@@ -1,5 +1,6 @@
 ---
 title: "The Latin Jazz Mass"
+updated: 2026-08-11
 ---
 
 # The Latin Jazz Mass

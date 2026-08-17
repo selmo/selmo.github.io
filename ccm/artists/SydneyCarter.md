@@ -1,5 +1,6 @@
 ---
 title: "시드니 카터 (Sydney Carter)"
+updated: 2026-08-11
 ---
 
 # 시드니 카터 (Sydney Carter)

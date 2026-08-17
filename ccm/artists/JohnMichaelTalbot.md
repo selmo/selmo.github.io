@@ -1,5 +1,6 @@
 ---
 title: "존 마이클 탈봇 (John Michael Talbot)"
+updated: 2026-08-11
 ---
 
 # 존 마이클 탈봇 (John Michael Talbot)

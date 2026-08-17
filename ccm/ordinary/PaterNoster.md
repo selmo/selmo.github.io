@@ -1,5 +1,6 @@
 ---
 title: "주님의 기도 (Pater Noster)"
+updated: 2026-08-11
 ---
 
 # 주님의 기도 (Pater Noster)

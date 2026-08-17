@@ -1,5 +1,6 @@
 ---
 title: "St. Anne's Mass"
+updated: 2026-08-11
 ---
 
 # St. Anne's Mass

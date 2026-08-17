@@ -1,5 +1,6 @@
 ---
 title: "Celtic Mass (New Celtic Liturgy)"
+updated: 2026-08-11
 ---
 
 # Celtic Mass (New Celtic Liturgy)

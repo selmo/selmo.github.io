@@ -1,5 +1,6 @@
 ---
 title: "자비송 (Kyrie)"
+updated: 2026-08-11
 ---
 
 # 자비송 (Kyrie)

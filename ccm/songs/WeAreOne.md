@@ -1,5 +1,6 @@
 ---
 title: "우리는 하나 (We Are One)"
+updated: 2026-08-11
 ---
 
 # 우리는 하나 (We Are One)

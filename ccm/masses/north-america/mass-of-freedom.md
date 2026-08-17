@@ -1,5 +1,6 @@
 ---
 title: "Mass of Freedom"
+updated: 2026-08-11
 ---
 
 # Mass of Freedom

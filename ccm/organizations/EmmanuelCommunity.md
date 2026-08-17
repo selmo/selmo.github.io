@@ -1,5 +1,6 @@
 ---
 title: "엠마누엘 공동체 (Emmanuel Community)"
+updated: 2026-08-11
 ---
 
 # 엠마누엘 공동체 (Emmanuel Community)

@@ -1,5 +1,6 @@
 ---
 title: "젠 로쏘 & 젠 베르데 (Gen Rosso & Gen Verde)"
+updated: 2026-08-11
 ---
 
 # 젠 로쏘 & 젠 베르데 (Gen Rosso & Gen Verde)

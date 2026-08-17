@@ -1,5 +1,6 @@
 ---
 title: "두려워 말라 (Be Not Afraid)"
+updated: 2026-08-11
 ---
 
 # 두려워 말라 (Be Not Afraid)

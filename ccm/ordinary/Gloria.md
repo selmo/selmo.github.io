@@ -1,5 +1,6 @@
 ---
 title: "대영광송 (Gloria)"
+updated: 2026-08-11
 ---
 
 # 대영광송 (Gloria)

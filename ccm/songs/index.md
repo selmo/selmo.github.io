@@ -1,5 +1,6 @@
 ---
 title: "곡 정보 및 해설 (Songs)"
+updated: 2026-08-11
 ---
 
 # 곡 정보 및 해설 (Songs)

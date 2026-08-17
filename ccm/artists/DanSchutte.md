@@ -1,5 +1,6 @@
 ---
 title: "댄 슈테 (Dan Schutte)"
+updated: 2026-08-11
 ---
 
 # 댄 슈테 (Dan Schutte)

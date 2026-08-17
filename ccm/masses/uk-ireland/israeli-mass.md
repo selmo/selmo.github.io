@@ -1,5 +1,6 @@
 ---
 title: "Israeli Mass"
+updated: 2026-08-11
 ---
 
 # Israeli Mass

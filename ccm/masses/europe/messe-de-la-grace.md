@@ -1,5 +1,6 @@
 ---
 title: "Messe de la Grâce"
+updated: 2026-08-11
 ---
 
 # Messe de la Grâce

@@ -1,5 +1,6 @@
 ---
 title: "생활성가·가톨릭 CCM·찬양사도 기사 모음 (Articles)"
+updated: 2026-08-11
 ---
 
 # 생활성가·가톨릭 CCM·찬양사도 기사 모음 (Articles)

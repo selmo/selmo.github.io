@@ -1,5 +1,6 @@
 ---
 title: "하느님의 어린양 (Agnus Dei)"
+updated: 2026-08-11
 ---
 
 # 하느님의 어린양 (Agnus Dei)

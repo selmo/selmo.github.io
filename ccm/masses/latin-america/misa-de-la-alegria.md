@@ -1,5 +1,6 @@
 ---
 title: "Misa de la Alegría"
+updated: 2026-08-11
 ---
 
 # Misa de la Alegría

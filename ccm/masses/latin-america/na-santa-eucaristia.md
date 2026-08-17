@@ -1,5 +1,6 @@
 ---
 title: "Canção Nova - Na Santa Eucaristia"
+updated: 2026-08-11
 ---
 
 # Canção Nova - Na Santa Eucaristia

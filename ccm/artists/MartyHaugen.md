@@ -1,5 +1,6 @@
 ---
 title: "마티 호건 (Marty Haugen)"
+updated: 2026-08-11
 ---
 
 # 마티 호건 (Marty Haugen)

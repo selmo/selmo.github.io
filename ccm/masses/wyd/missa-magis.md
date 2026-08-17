@@ -1,5 +1,6 @@
 ---
 title: "Missa Magis (WYD 2008 - Sydney)"
+updated: 2026-08-11
 ---
 
 # Missa Magis (WYD 2008 - Sydney)

@@ -1,5 +1,6 @@
 ---
 title: "오광설 (Oh Kwang Sul)"
+updated: 2026-08-11
 ---
 
 # 오광설 (Oh Kwang Sul)

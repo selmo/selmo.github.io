@@ -626,3 +626,16 @@ a.yt {
   white-space: nowrap;
   color: var(--text-muted);
 }
+
+/* ---------------------------------------------------------------
+   페이지 업데이트 일시 (본문 끝)
+   --------------------------------------------------------------- */
+
+.page-updated {
+  margin-top: 3em;
+  padding-top: 1em;
+  border-top: 1px solid var(--border);
+  font-size: 13px;
+  color: var(--text-muted);
+  text-align: right;
+}

@@ -1,5 +1,6 @@
 ---
 title: "Misa Campesina Nicaragüense"
+updated: 2026-08-11
 ---
 
 # Misa Campesina Nicaragüense

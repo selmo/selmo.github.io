@@ -1,5 +1,6 @@
 ---
 title: "최덕신 (Choi Duk Shin)"
+updated: 2026-08-11
 ---
 
 # 최덕신 (Choi Duk Shin)

@@ -1,5 +1,6 @@
 ---
 title: "주여 당신은 / 주여 우리는 지금 (Pescador de Hombres)"
+updated: 2026-08-11
 ---
 
 # 주여 당신은 / 주여 우리는 지금 (Pescador de Hombres)

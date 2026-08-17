@@ -1,5 +1,6 @@
 ---
 title: "김영구 요한사도 (Kim Young Gu)"
+updated: 2026-08-11
 ---
 
 # 김영구 요한사도 (Kim Young Gu)

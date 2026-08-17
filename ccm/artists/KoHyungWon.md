@@ -1,5 +1,6 @@
 ---
 title: "고형원 (Ko Hyung Won)"
+updated: 2026-08-11
 ---
 
 # 고형원 (Ko Hyung Won)

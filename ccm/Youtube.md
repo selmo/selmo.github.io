@@ -1,5 +1,6 @@
 ---
 title: "유튜브 영상 모음 (YouTube)"
+updated: 2026-08-11
 ---
 
 # 유튜브 영상 모음 (YouTube)

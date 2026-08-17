@@ -1,5 +1,6 @@
 ---
 title: "신지은·이지혜 (Shin Ji Eun & Lee Ji Hye)"
+updated: 2026-08-11
 ---
 
 # 신지은·이지혜 (Shin Ji Eun & Lee Ji Hye)

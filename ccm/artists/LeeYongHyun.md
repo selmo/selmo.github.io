@@ -1,5 +1,6 @@
 ---
 title: "이용현 알베르또 (Fr. Lee Yong-hyun)"
+updated: 2026-08-11
 ---
 
 # 이용현 알베르또 (Fr. Lee Yong-hyun)

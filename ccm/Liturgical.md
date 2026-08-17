@@ -1,5 +1,6 @@
 ---
 title: "전례곡 (Liturgical)"
+updated: 2026-08-11
 ---
 
 # 전례곡 (Liturgical)

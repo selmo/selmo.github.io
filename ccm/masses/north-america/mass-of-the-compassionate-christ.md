@@ -1,5 +1,6 @@
 ---
 title: "Mass of the Compassionate Christ"
+updated: 2026-08-11
 ---
 
 # Mass of the Compassionate Christ

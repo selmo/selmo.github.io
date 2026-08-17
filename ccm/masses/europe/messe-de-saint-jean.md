@@ -1,5 +1,6 @@
 ---
 title: "Messe de Saint Jean"
+updated: 2026-08-11
 ---
 
 # Messe de Saint Jean

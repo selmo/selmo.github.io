@@ -1,5 +1,6 @@
 ---
 title: "Misa de Juventud"
+updated: 2026-08-11
 ---
 
 # Misa de Juventud

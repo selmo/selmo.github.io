@@ -1,5 +1,6 @@
 ---
 title: "Life Teen"
+updated: 2026-08-11
 ---
 
 # Life Teen

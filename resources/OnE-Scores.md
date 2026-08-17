@@ -3,6 +3,7 @@ title: "그 외 악보 목록 (Other Scores)"
 # 비공개 페이지 — 사이트 내 링크 없이 URL 직접 접근만 허용
 sitemap: false
 noindex: true
+updated: 2026-08-17
 ---
 
 # 그 외 악보 목록 (Other Scores)

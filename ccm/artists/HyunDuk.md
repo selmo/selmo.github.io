@@ -1,5 +1,6 @@
 ---
 title: "현덕 프란치스코 (Hyun Duk)"
+updated: 2026-08-11
 ---
 
 # 현덕 프란치스코 (Hyun Duk)

@@ -1,5 +1,6 @@
 ---
 title: "Nueva Misa Latinoamericana"
+updated: 2026-08-11
 ---
 
 # Nueva Misa Latinoamericana

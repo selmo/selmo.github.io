@@ -1,5 +1,6 @@
 ---
 title: "아티스트 및 작곡가 (Artists & Composers)"
+updated: 2026-08-11
 ---
 
 # 아티스트 및 작곡가 (Artists & Composers)

@@ -1,5 +1,6 @@
 ---
 title: "Mass of Christ the Savior"
+updated: 2026-08-11
 ---
 
 # Mass of Christ the Savior

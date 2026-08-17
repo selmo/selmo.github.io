@@ -1,5 +1,6 @@
 ---
 title: "세계청년대회 (World Youth Day, WYD)"
+updated: 2026-08-11
 ---
 
 # 세계청년대회 (World Youth Day, WYD)

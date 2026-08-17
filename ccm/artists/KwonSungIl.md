@@ -1,5 +1,6 @@
 ---
 title: "권성일 미카엘 (Kwon Sung Il)"
+updated: 2026-08-11
 ---
 
 # 권성일 미카엘 (Kwon Sung Il)

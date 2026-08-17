@@ -1,5 +1,6 @@
 ---
 title: "성음악 훈령 (Musicam Sacram)"
+updated: 2026-08-11
 ---
 
 # 성음악 훈령 (Musicam Sacram)

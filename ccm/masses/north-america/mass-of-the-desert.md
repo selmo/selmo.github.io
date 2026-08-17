@@ -1,5 +1,6 @@
 ---
 title: "Mass of the Desert"
+updated: 2026-08-11
 ---
 
 # Mass of the Desert

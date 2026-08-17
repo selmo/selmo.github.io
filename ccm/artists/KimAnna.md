@@ -1,5 +1,6 @@
 ---
 title: "김안나 (Kim Anna)"
+updated: 2026-08-11
 ---
 
 # 김안나 (Kim Anna)

@@ -1,5 +1,6 @@
 ---
 title: "브렌트 챔버스 (Brent Chambers)"
+updated: 2026-08-11
 ---
 
 # 브렌트 챔버스 (Brent Chambers)

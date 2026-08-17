@@ -1,5 +1,6 @@
 ---
 title: "Mass of St. Timothy"
+updated: 2026-08-11
 ---
 
 # Mass of St. Timothy

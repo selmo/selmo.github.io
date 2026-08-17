@@ -1,5 +1,6 @@
 ---
 title: "Messe de l'Emmanuel"
+updated: 2026-08-11
 ---
 
 # Messe de l'Emmanuel

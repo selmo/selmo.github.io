@@ -1,5 +1,6 @@
 ---
 title: "자료실 (Resources)"
+updated: 2026-08-17
 ---
 
 # 자료실 (Resources)

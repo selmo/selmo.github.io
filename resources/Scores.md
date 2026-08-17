@@ -1,5 +1,6 @@
 ---
 title: "최태형 · OnE 악보 (Scores)"
+updated: 2026-08-17
 ---
 
 # 최태형 · OnE 악보 (Scores)

@@ -1,5 +1,6 @@
 ---
 title: "Tinapay ng Buhay"
+updated: 2026-08-11
 ---
 
 # Tinapay ng Buhay

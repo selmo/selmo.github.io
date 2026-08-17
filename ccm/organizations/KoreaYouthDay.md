@@ -1,5 +1,6 @@
 ---
 title: "한국청년대회 (Korea Youth Day, KYD)"
+updated: 2026-08-11
 ---
 
 # 한국청년대회 (Korea Youth Day, KYD)

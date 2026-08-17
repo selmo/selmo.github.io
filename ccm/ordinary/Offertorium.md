@@ -1,5 +1,6 @@
 ---
 title: "봉헌송 (Offertorium)"
+updated: 2026-08-11
 ---
 
 # 봉헌송 (Offertorium)

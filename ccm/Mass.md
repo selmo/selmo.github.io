@@ -1,5 +1,6 @@
 ---
 title: "미사곡 (Mass)"
+updated: 2026-08-11
 ---
 
 # 미사곡 (Mass)

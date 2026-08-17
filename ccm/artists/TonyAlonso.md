@@ -1,5 +1,6 @@
 ---
 title: "토니 알론소 (Tony Alonso)"
+updated: 2026-08-11
 ---
 
 # 토니 알론소 (Tony Alonso)

@@ -1,5 +1,6 @@
 ---
 title: "Mass of Glory"
+updated: 2026-08-11
 ---
 
 # Mass of Glory
