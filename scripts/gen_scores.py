@@ -210,6 +210,7 @@ def type_of(bn):
     if bn.startswith("[Score]"): return "score"
     if bn.startswith("[ChordChart]"): return "chordchart"
     if bn.startswith("[Chorus]"): return "chorus"
+    if bn.startswith("[Vocals]"): return "vocals"
     return "score"
 
 def mass_part_of(nfc_bn, subdir=""):
@@ -231,6 +232,7 @@ def strip_prefix(bn):
     s = bn
     for pfx in ["[Score][미사곡] ", "[Score][미사곡]", "[Score] ", "[Score]",
                 "[ChordChart] ", "[ChordChart]", "[Chorus] ", "[Chorus]",
+                "[Vocals] ", "[Vocals]",
                 "[보급용] ", "[보급용]", "[미사곡] ", "[미사곡]"]:
         if s.startswith(pfx):
             s = s[len(pfx):]
@@ -356,7 +358,8 @@ for root, dirs, files in os.walk(ROOT):
         group_key = re.sub(r"\s+", "", title)
         group = f"{cat}-{group_key}-{composer}"
         # 링크 라벨: 같은 곡의 변형을 구분 (Score / ChordChart / Chorus + 키·비고)
-        base_label = {"score": "Score", "chordchart": "ChordChart", "chorus": "Chorus"}[typ]
+        base_label = {"score": "Score", "chordchart": "ChordChart",
+                      "chorus": "Chorus", "vocals": "Vocals"}[typ]
         extras = []
         if key: extras.append(key)
         if "Full Score" in nfc_bn: extras.append("Full")
@@ -389,7 +392,7 @@ CAT_ORDER = {"missa": 0, "one": 1, "ccm": 2, "hymn": 3, "kpop": 4, "root": 5}
 MP_ORDER = {"kyrie":0,"gloria":1,"responsorial_psalm":2,"gospel_acclamation":3,
             "prayer_of_faithful":4,"sanctus":5,"mystery":6,"doxology":7,"amen":8,
             "lords_prayer":9,"kingdom":10,"agnus":11,"other":12}
-TYPE_ORDER = {"score": 0, "chordchart": 1, "chorus": 2}
+TYPE_ORDER = {"score": 0, "vocals": 1, "chordchart": 2, "chorus": 3}
 items.sort(key=lambda x: (
     CAT_ORDER.get(x["category"], 9),
     MP_ORDER.get(x["mass_part"], 99) if x["mass_part"] else 99,

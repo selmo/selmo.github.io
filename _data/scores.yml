@@ -948,21 +948,6 @@ items:
     note: ""
     group: "ccm-나일어나-Mike Ash"
     label: "ChordChart"
-  - path: "resources/OnE-Scores/CCM/Avalon/The Other Side.pdf"
-    url: "/resources/OnE-Scores/CCM/Avalon/The%20Other%20Side.pdf"
-    title: "The Other Side"
-    composer: ""
-    public: false
-    artist: "Avalon"
-    category: ccm
-    mass_part: ""
-    type: score
-    yahure: null
-    haneulbada: null
-    key: ""
-    note: ""
-    group: "ccm-TheOtherSide-"
-    label: "Score"
   - path: "resources/OnE-Scores/CCM/Avalon/[Score] The Other Side (D-Key).pdf"
     url: "/resources/OnE-Scores/CCM/Avalon/%5BScore%5D%20The%20Other%20Side%20%28D-Key%29.pdf"
     title: "The Other Side"
@@ -993,21 +978,21 @@ items:
     note: ""
     group: "ccm-TheOtherSide-"
     label: "Score · Eb-Key"
-  - path: "resources/OnE-Scores/CCM/Avalon/[ChordChart] The Other Side.pdf"
-    url: "/resources/OnE-Scores/CCM/Avalon/%5BChordChart%5D%20The%20Other%20Side.pdf"
+  - path: "resources/OnE-Scores/CCM/Avalon/[Vocals] The Other Side.pdf"
+    url: "/resources/OnE-Scores/CCM/Avalon/%5BVocals%5D%20The%20Other%20Side.pdf"
     title: "The Other Side"
     composer: ""
     public: false
     artist: "Avalon"
     category: ccm
     mass_part: ""
-    type: chordchart
+    type: vocals
     yahure: null
     haneulbada: null
     key: ""
     note: ""
     group: "ccm-TheOtherSide-"
-    label: "ChordChart"
+    label: "Vocals"
   - path: "resources/OnE-Scores/CCM/Praise Band/[ChordChart] We Say Yes.pdf"
     url: "/resources/OnE-Scores/CCM/Praise%20Band/%5BChordChart%5D%20We%20Say%20Yes.pdf"
     title: "We Say Yes"
@@ -1098,6 +1083,36 @@ items:
     note: ""
     group: "ccm-내이름아시죠-"
     label: "Score"
+  - path: "resources/OnE-Scores/CCM/Avalon/[Score] 아도나이.pdf"
+    url: "/resources/OnE-Scores/CCM/Avalon/%5BScore%5D%20%E1%84%8B%E1%85%A1%E1%84%83%E1%85%A9%E1%84%82%E1%85%A1%E1%84%8B%E1%85%B5.pdf"
+    title: "아도나이"
+    composer: ""
+    public: false
+    artist: "Avalon"
+    category: ccm
+    mass_part: ""
+    type: score
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "ccm-아도나이-"
+    label: "Score"
+  - path: "resources/OnE-Scores/CCM/Avalon/[Vocals] 아도나이.pdf"
+    url: "/resources/OnE-Scores/CCM/Avalon/%5BVocals%5D%20%E1%84%8B%E1%85%A1%E1%84%83%E1%85%A9%E1%84%82%E1%85%A1%E1%84%8B%E1%85%B5.pdf"
+    title: "아도나이"
+    composer: ""
+    public: false
+    artist: "Avalon"
+    category: ccm
+    mass_part: ""
+    type: vocals
+    yahure: null
+    haneulbada: null
+    key: ""
+    note: ""
+    group: "ccm-아도나이-"
+    label: "Vocals"
   - path: "resources/OnE-Scores/CCM/약할때강함되시네 648 - Full Score.pdf"
     url: "/resources/OnE-Scores/CCM/%EC%95%BD%ED%95%A0%EB%95%8C%EA%B0%95%ED%95%A8%EB%90%98%EC%8B%9C%EB%84%A4%20648%20-%20Full%20Score.pdf"
     title: "약할 때 강함 되시네"

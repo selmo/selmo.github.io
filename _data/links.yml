@@ -304,6 +304,9 @@ items:
         title: "He Knows My Name"
         by: "Tommy Walker"
         note: "원곡 음원"
+  - title: "아도나이"
+    composer: ""
+    videos: []
   - title: "약할 때 강함 되시네"
     composer: ""
     videos:
@@ -365,7 +368,7 @@ items:
         by: "Carl Tuttle"
         note: "원곡"
 
-  # ══════ 성가 · 찬양 ══════
+  # ══════ hymn ══════
   - title: "그분께로 한 걸음씩"
     composer: ""
     videos:
@@ -468,7 +471,7 @@ items:
     composer: ""
     videos: []
 
-  # ══════ K-Pop ══════
+  # ══════ kpop ══════
   - title: "Butterfly"
     composer: ""
     videos: []
