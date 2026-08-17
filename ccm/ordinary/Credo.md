@@ -1,6 +1,6 @@
 ---
 title: "신경 (Credo)"
-updated: 2026-08-11
+updated: 2026-08-17
 ---
 
 # 신경 (Credo)

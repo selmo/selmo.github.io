@@ -1,6 +1,6 @@
 ---
 title: "자크 베르티에 (Jacques Berthier) & 떼제 (Taizé)"
-updated: 2026-08-11
+updated: 2026-08-17
 ---
 
 # 자크 베르티에 (Jacques Berthier) & 떼제 (Taizé)

@@ -1,6 +1,6 @@
 ---
 title: "주의 자비가 내려와 (Mercy Is Falling)"
-updated: 2026-08-11
+updated: 2026-08-17
 ---
 
 # 주의 자비가 내려와 (Mercy Is Falling)

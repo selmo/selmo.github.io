@@ -1,6 +1,6 @@
 ---
 title: "Misa del Sagrado Corazón (Mass of the Sacred Heart)"
-updated: 2026-08-11
+updated: 2026-08-17
 ---
 
 # Misa del Sagrado Corazón (Mass of the Sacred Heart)

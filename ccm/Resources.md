@@ -1,6 +1,6 @@
 ---
 title: "리소스 (Resources)"
-updated: 2026-08-16
+updated: 2026-08-17
 ---
 
 # 리소스 (Resources)

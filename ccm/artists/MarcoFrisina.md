@@ -1,6 +1,6 @@
 ---
 title: "마르코 프리시나 (Marco Frisina)"
-updated: 2026-08-11
+updated: 2026-08-17
 ---
 
 # 마르코 프리시나 (Marco Frisina)

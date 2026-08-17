@@ -1,6 +1,6 @@
 ---
 title: "Misa de la Aurora"
-updated: 2026-08-11
+updated: 2026-08-17
 ---
 
 # Misa de la Aurora

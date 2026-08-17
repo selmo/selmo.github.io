@@ -1,6 +1,6 @@
 ---
 title: "신앙의 신비여 (Mysterium Fidei)"
-updated: 2026-08-11
+updated: 2026-08-17
 ---
 
 # 신앙의 신비여 (Mysterium Fidei)

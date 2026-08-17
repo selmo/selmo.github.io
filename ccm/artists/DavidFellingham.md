@@ -1,6 +1,6 @@
 ---
 title: "데이비드 펠링햄 (David Fellingham)"
-updated: 2026-08-11
+updated: 2026-08-17
 ---
 
 # 데이비드 펠링햄 (David Fellingham)

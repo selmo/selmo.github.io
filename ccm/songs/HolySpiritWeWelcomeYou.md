@@ -1,6 +1,6 @@
 ---
 title: "거룩하신 성령이여 (Holy Spirit, We Welcome You)"
-updated: 2026-08-11
+updated: 2026-08-17
 ---
 
 # 거룩하신 성령이여 (Holy Spirit, We Welcome You)

@@ -1,6 +1,6 @@
 ---
 title: "사랑하는 나의 아버지 (Blessed Be the Lord God Almighty)"
-updated: 2026-08-11
+updated: 2026-08-17
 ---
 
 # 사랑하는 나의 아버지 (Blessed Be the Lord God Almighty)

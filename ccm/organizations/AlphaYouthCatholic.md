@@ -1,6 +1,6 @@
 ---
 title: "Alpha Youth in a Catholic Context"
-updated: 2026-08-11
+updated: 2026-08-17
 ---
 
 # Alpha Youth in a Catholic Context

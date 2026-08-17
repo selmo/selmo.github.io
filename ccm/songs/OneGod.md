@@ -1,6 +1,6 @@
 ---
 title: "들으라 이스라엘 (One God)"
-updated: 2026-08-11
+updated: 2026-08-17
 ---
 
 # 들으라 이스라엘 (One God)

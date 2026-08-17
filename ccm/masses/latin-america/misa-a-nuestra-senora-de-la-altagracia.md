@@ -1,6 +1,6 @@
 ---
 title: "Misa a Nuestra Señora de la Altagracia"
-updated: 2026-08-11
+updated: 2026-08-17
 ---
 
 # Misa a Nuestra Señora de la Altagracia

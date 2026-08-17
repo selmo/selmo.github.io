@@ -1,6 +1,6 @@
 ---
 title: "청소년 주일 (Korean Youth Sunday)"
-updated: 2026-08-11
+updated: 2026-08-17
 ---
 
 # 청소년 주일 (Korean Youth Sunday)

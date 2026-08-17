@@ -1,6 +1,6 @@
 ---
 title: "GIA Mass Settings (Catalog)"
-updated: 2026-08-11
+updated: 2026-08-17
 ---
 
 # GIA Mass Settings (Catalog)

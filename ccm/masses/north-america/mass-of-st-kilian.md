@@ -1,6 +1,6 @@
 ---
 title: "The Mass of St. Kilian"
-updated: 2026-08-11
+updated: 2026-08-17
 ---
 
 # The Mass of St. Kilian

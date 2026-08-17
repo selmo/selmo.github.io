@@ -1,6 +1,6 @@
 ---
 title: "가톨릭 성음악 규정 및 지침 (Regulations & Guidelines)"
-updated: 2026-08-11
+updated: 2026-08-17
 ---
 
 # 가톨릭 성음악 규정 및 지침 (Regulations & Guidelines)

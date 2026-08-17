@@ -1,6 +1,6 @@
 ---
 title: "Youth 2000"
-updated: 2026-08-11
+updated: 2026-08-17
 ---
 
 # Youth 2000

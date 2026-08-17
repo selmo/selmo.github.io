@@ -1,6 +1,6 @@
 ---
 title: "떼제 공동체 (Taizé Community)"
-updated: 2026-08-11
+updated: 2026-08-17
 ---
 
 # 떼제 공동체 (Taizé Community)

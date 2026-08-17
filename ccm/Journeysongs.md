@@ -1,6 +1,6 @@
 ---
 title: "Journeysongs (3rd Edition) — OCP 종합 성가집"
-updated: 2026-08-11
+updated: 2026-08-17
 ---
 
 # Journeysongs (3rd Edition) — OCP 종합 성가집

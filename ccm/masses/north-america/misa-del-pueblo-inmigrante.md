@@ -1,6 +1,6 @@
 ---
 title: "Misa del Pueblo Inmigrante"
-updated: 2026-08-11
+updated: 2026-08-17
 ---
 
 # Misa del Pueblo Inmigrante

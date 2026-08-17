@@ -1,6 +1,6 @@
 ---
 title: "주께 가오니 (The Power of Your Love)"
-updated: 2026-08-11
+updated: 2026-08-17
 ---
 
 # 주께 가오니 (The Power of Your Love)

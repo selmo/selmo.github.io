@@ -1,6 +1,6 @@
 ---
 title: "밥 피츠 (Bob Fitts)"
-updated: 2026-08-11
+updated: 2026-08-17
 ---
 
 # 밥 피츠 (Bob Fitts)

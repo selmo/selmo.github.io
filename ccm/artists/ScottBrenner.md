@@ -1,6 +1,6 @@
 ---
 title: "스캇 브레너 (Scott Brenner)"
-updated: 2026-08-11
+updated: 2026-08-17
 ---
 
 # 스캇 브레너 (Scott Brenner)

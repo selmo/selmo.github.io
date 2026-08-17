@@ -1,6 +1,6 @@
 ---
 title: "Ruah: Mass of the Breath of God"
-updated: 2026-08-11
+updated: 2026-08-17
 ---
 
 # Ruah: Mass of the Breath of God

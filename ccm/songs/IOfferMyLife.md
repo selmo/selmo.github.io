@@ -1,6 +1,6 @@
 ---
 title: "나의 모습 나의 소유 (I Offer My Life)"
-updated: 2026-08-11
+updated: 2026-08-17
 ---
 
 # 나의 모습 나의 소유 (I Offer My Life)

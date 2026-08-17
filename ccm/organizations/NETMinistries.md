@@ -1,6 +1,6 @@
 ---
 title: "NET Ministries"
-updated: 2026-08-11
+updated: 2026-08-17
 ---
 
 # NET Ministries

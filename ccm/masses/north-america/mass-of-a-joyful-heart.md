@@ -1,6 +1,6 @@
 ---
 title: "Mass of a Joyful Heart"
-updated: 2026-08-11
+updated: 2026-08-17
 ---
 
 # Mass of a Joyful Heart

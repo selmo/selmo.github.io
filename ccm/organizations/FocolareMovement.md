@@ -1,6 +1,6 @@
 ---
 title: "포콜라레 운동 (Focolare Movement)"
-updated: 2026-08-11
+updated: 2026-08-17
 ---
 
 # 포콜라레 운동 (Focolare Movement)

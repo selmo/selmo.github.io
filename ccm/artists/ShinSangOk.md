@@ -1,6 +1,6 @@
 ---
 title: "신상옥 안드레아 (Shin Sang-ok)"
-updated: 2026-08-11
+updated: 2026-08-17
 ---
 
 # 신상옥 안드레아 (Shin Sang-ok)
