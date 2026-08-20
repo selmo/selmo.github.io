@@ -1,6 +1,6 @@
 ---
 title: "Mass of St. Mary Magdalene"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # Mass of St. Mary Magdalene

@@ -1,6 +1,6 @@
 ---
 title: "크리스 보워터 (Chris Bowater)"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # 크리스 보워터 (Chris Bowater)

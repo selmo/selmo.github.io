@@ -1,6 +1,6 @@
 ---
 title: "비다누에바 (Vida Nueva)"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # 비다누에바 (Vida Nueva)

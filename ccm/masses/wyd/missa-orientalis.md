@@ -1,6 +1,6 @@
 ---
 title: "Missa Orientalis (WYD 2016 - Krakow)"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # Missa Orientalis (WYD 2016 - Krakow)

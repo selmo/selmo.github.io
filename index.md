@@ -1,6 +1,6 @@
 ---
 title: "Tae-Hyoung Choi"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # Tae-Hyoung Choi

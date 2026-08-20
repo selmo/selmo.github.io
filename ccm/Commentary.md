@@ -1,6 +1,6 @@
 ---
 title: "평론 및 정보 (Commentary)"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # 평론 및 정보 (Commentary)

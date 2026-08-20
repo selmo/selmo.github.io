@@ -1,6 +1,6 @@
 ---
 title: "Jacques Berthier - Taizé Mass Settings"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # Jacques Berthier - Taizé Mass Settings

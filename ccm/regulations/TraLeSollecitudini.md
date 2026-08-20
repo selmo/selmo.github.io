@@ -1,6 +1,6 @@
 ---
 title: "사목적 관심 (Tra le Sollecitudini)"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # 사목적 관심 (Tra le Sollecitudini)

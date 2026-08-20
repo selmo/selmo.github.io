@@ -1,6 +1,6 @@
 ---
 title: "사랑합니다 (Lord I Love You)"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # 사랑합니다 (Lord I Love You)

@@ -1,6 +1,6 @@
 ---
 title: "체사레오 가바라인 (Cesáreo Gabaráin)"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # 체사레오 가바라인 (Cesáreo Gabaráin)

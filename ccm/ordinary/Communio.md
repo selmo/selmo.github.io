@@ -1,6 +1,6 @@
 ---
 title: "영성체송 (Communio)"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # 영성체송 (Communio)

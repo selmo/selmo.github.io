@@ -1,6 +1,6 @@
 ---
 title: "거룩한 전례에 관한 헌장 (Sacrosanctum Concilium)"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # 거룩한 전례에 관한 헌장 (Sacrosanctum Concilium)

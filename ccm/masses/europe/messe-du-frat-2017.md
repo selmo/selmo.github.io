@@ -1,6 +1,6 @@
 ---
 title: "Messe du Frat 2017"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # Messe du Frat 2017

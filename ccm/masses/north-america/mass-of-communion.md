@@ -1,6 +1,6 @@
 ---
 title: "Mass of Communion"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # Mass of Communion

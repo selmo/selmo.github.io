@@ -1,6 +1,6 @@
 ---
 title: "목마른 사슴 (As the Deer)"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # 목마른 사슴 (As the Deer)

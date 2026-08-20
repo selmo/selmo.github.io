@@ -1,6 +1,6 @@
 ---
 title: "박윤영 헬레나 (Park Yoon Young)"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # 박윤영 헬레나 (Park Yoon Young)

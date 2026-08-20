@@ -1,6 +1,6 @@
 ---
 title: "루벤 모건 (Reuben Morgan)"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # 루벤 모건 (Reuben Morgan)

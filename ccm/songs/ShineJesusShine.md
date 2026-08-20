@@ -1,6 +1,6 @@
 ---
 title: "비추소서 (Shine Jesus Shine)"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # 비추소서 (Shine Jesus Shine)

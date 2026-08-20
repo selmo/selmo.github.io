@@ -1,6 +1,6 @@
 ---
 title: "파견송 (Recessional Hymn)"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # 파견송 (Recessional Hymn)

@@ -1,6 +1,6 @@
 ---
 title: "내 구주 예수님 (My Jesus, My Saviour)"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # 내 구주 예수님 (My Jesus, My Saviour)

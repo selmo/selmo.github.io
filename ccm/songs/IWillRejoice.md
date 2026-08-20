@@ -1,6 +1,6 @@
 ---
 title: "나 기뻐하리 (I Will Rejoice)"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # 나 기뻐하리 (I Will Rejoice)

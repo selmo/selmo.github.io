@@ -272,6 +272,8 @@ songs:
     title: "가자! 희망의 땅 복음으로"
   - num: 90
     title: "감사해"
+    author: "Daniel L. Burgess"
+    author_src: "야훼이레 355"
   - num: 91
     title: "감사해요"
   - num: 92
@@ -284,8 +286,12 @@ songs:
     title: "고래 뱃속의 요나"
   - num: 96
     title: "고요한 밤 거룩한 밤"
+    author: "Franz Gruber"
+    author_src: "야훼이레 267"
   - num: 97
     title: "골고타 언덕"
+    author: "그레고리안"
+    author_src: "야훼이레 286"
   - num: 98
     title: "곰돌이 가족"
   - num: 99
@@ -296,34 +302,50 @@ songs:
     title: "교회 종소리"
   - num: 102
     title: "구세주 빨리 오사"
+    author: "Cabrisseau"
+    author_src: "야훼이레 243"
   - num: 103
     title: "구원자 예수 너의 사랑"
+    author: "최현숙 아가다"
+    author_src: "야훼이레 363"
   - num: 104
     title: "구유에 누워 계시니"
   - num: 105
     title: "귀여운 아기들"
+    author: "Karl E. Schulz"
+    author_src: "야훼이레 268"
   - num: 106
     title: "귀염동이"
   - num: 107
     title: "그분께 감사하여라"
   - num: 108
     title: "그분께로 한 걸음씩"
+    author: "이용현 알베르또"
+    author_src: "야훼이레 371"
   - num: 109
     title: "그 사랑 주님께 감사하여라"
   - num: 110
     title: "그리스도께서 너를 비추어 주시리라"
   - num: 111
     title: "글로리아 높으신 이의 탄생"
+    author: "Edward Shippen Barnes"
+    author_src: "야훼이레 269"
   - num: 112
     title: "금물결 이야기"
   - num: 113
     title: "기대"
+    author: "천강수"
+    author_src: "야훼이레 383"
   - num: 114
     title: "기도하는 맘"
   - num: 115
     title: "기뻐하며 왕께 노래 부르리"
+    author: "David Fellingham"
+    author_src: "야훼이레 385"
   - num: 116
     title: "기쁘다 구주 오셨네"
+    author: "G. F. Handel"
+    author_src: "야훼이레 270"
   - num: 117
     title: "기쁜 크리스마스"
   - num: 118
@@ -336,14 +358,20 @@ songs:
     title: "꼬마 마르첼리노"
   - num: 122
     title: "꽃"
+    author: "현덕 프란치스코"
+    author_src: "야훼이레 387"
   - num: 123
     title: "꽃이 될래요"
   - num: 124
     title: "꽃잎들이 하나 둘"
   - num: 125
     title: "나"
+    author: "최덕신"
+    author_src: "야훼이레 401"
   - num: 126
     title: "나 무엇과도 주님을"
+    author: "Wes Sutton"
+    author_src: "야훼이레 410"
   - num: 127
     title: "나 주의 믿음 갖고"
   - num: 128
@@ -358,8 +386,12 @@ songs:
     title: "나는 포도나무요"
   - num: 133
     title: "나를 따르라"
+    author: "김정식 로제리오"
+    author_src: "야훼이레 408"
   - num: 134
     title: "나를 받으옵소서"
+    author: "최덕신"
+    author_src: "야훼이레 409"
   - num: 135
     title: "나를 사랑하는 주님"
   - num: 136
@@ -372,12 +404,16 @@ songs:
     title: "나의 사랑 예수여"
   - num: 140
     title: "나의 생명 드리니"
+    author: "Mozart"
+    author_src: "야훼이레 421"
   - num: 141
     title: "나의 예수님 사랑합니다"
   - num: 142
     title: "나의 친구 착한 예수님"
   - num: 143
     title: "날마다 숨 쉬는 순간마다"
+    author: "M!M Arr. PD. Berg Sandell & Ahnfelt Oscar"
+    author_src: "야훼이레 427"
   - num: 144
     title: "낮은 자의 하느님"
   - num: 145
@@ -386,8 +422,12 @@ songs:
     title: "내 맘은 작은 꽃밭"
   - num: 147
     title: "내 발을 씻기신 예수"
+    author: "신상옥 안드레아"
+    author_src: "야훼이레 288"
   - num: 148
     title: "내 생애의 모든 것"
+    author: "이형진 가브리엘"
+    author_src: "야훼이레 444"
   - num: 149
     title: "내 손을 주께 높이 듭니다"
   - num: 150
@@ -400,6 +440,8 @@ songs:
     title: "내게 와서 보아라"
   - num: 154
     title: "내게 있는 향유 옥합"
+    author: "박정관"
+    author_src: "야훼이레 436"
   - num: 155
     title: "내려주신 모든 선물"
   - num: 156
@@ -418,6 +460,8 @@ songs:
     title: "누구든지"
   - num: 163
     title: "누군가 널 위해 기도하네"
+    author: "Lanny Wolfe"
+    author_src: "야훼이레 460"
   - num: 164
     title: "느껴 느껴"
   - num: 165
@@ -426,6 +470,8 @@ songs:
     title: "다 같이 우리들은 사랑 배우세"
   - num: 167
     title: "다 와서 찬양해"
+    author: "Patricia Morgan/Dave Bankhead"
+    author_src: "야훼이레 481"
   - num: 168
     title: "다 함께"
   - num: 169
@@ -436,16 +482,24 @@ songs:
     title: "달콤한 선물"
   - num: 172
     title: "당신은 사랑받기 위해 태어난 사람"
+    author: "이민섭"
+    author_src: "야훼이레 485"
   - num: 173
     title: "당신을 향한 노래"
+    author: "천태혁/진경"
+    author_src: "야훼이레 487"
   - num: 174
     title: "동그랗게 다발 엮어"
   - num: 175
     title: "동방낙타 달려라"
   - num: 176
     title: "동방의 세 박사"
+    author: "John H. Hopkins"
+    author_src: "야훼이레 271"
   - num: 177
     title: "또 하나의 열매를 바라시며"
+    author: "설경욱"
+    author_src: "야훼이레 495"
   - num: 178
     title: "똑똑똑"
   - num: 179
@@ -462,6 +516,8 @@ songs:
     title: "Little Christian Sonata"
   - num: 185
     title: "마니피캇"
+    author: "이진호스테파노"
+    author_src: "야훼이레 511"
   - num: 186
     title: "마음 속 친구"
   - num: 187
@@ -488,6 +544,8 @@ songs:
     title: "모여라 동무들아"
   - num: 198
     title: "목마른 사슴"
+    author: "Martin Nystrom"
+    author_src: "야훼이레 521"
   - num: 199
     title: "물라 물라"
   - num: 200
@@ -504,6 +562,8 @@ songs:
     title: "바벨탑"
   - num: 206
     title: "받으소서 우리 마음"
+    author: "Joseph Wise"
+    author_src: "야훼이레 541"
   - num: 207
     title: "방긋 방긋, 으쓱 으쓱"
   - num: 208
@@ -514,12 +574,16 @@ songs:
     title: "보아요 난 느껴요"
   - num: 211
     title: "부활하신 주 예수"
+    author: "Robert Williams"
+    author_src: "야훼이레 310"
   - num: 212
     title: "북 치는 작은 소년"
   - num: 213
     title: "불가마의 세 청년"
   - num: 214
     title: "비추소서"
+    author: "Graham Kendrick"
+    author_src: "야훼이레 553"
   - num: 215
     title: "빛과 소금"
   - num: 216
@@ -538,14 +602,20 @@ songs:
     title: "사랑이 없으면"
   - num: 223
     title: "사랑하는 나의 아버지"
+    author: "Bob Fitts"
+    author_src: "야훼이레 578"
   - num: 224
     title: "사랑하는 사람은 누구나"
   - num: 225
     title: "사랑하올 어머니"
   - num: 226
     title: "사랑한다는 말은"
+    author: "박성훈"
+    author_src: "야훼이레 581"
   - num: 227
     title: "사랑합니다 나의 예수님"
+    author: "박재윤"
+    author_src: "야훼이레 583"
   - num: 228
     title: "사랑해요 축하해요"
   - num: 229
@@ -560,6 +630,8 @@ songs:
     title: "생명의 물"
   - num: 234
     title: "생명의 양식"
+    author: "M.Suzanne Toolan"
+    author_src: "야훼이레 590"
   - num: 235
     title: "서로 사랑하라"
   - num: 236
@@ -582,6 +654,8 @@ songs:
     title: "성모님"
   - num: 245
     title: "성모송"
+    author: "최태형 안셀모"
+    author_src: "야훼이레 593"
   - num: 246
     title: "성모의 성월"
   - num: 247
@@ -594,10 +668,16 @@ songs:
     title: "성체 안의 예수님"
   - num: 251
     title: "성체를 찬송하세"
+    author: "Choral"
+    author_src: "야훼이레 596"
   - num: 252
     title: "세 개의 못"
+    author: "Anonymous"
+    author_src: "야훼이레 598"
   - num: 253
     title: "세상은 아름다워라"
+    author: "Sourire"
+    author_src: "야훼이레 599"
   - num: 254
     title: "세상을 위하여"
   - num: 255
@@ -610,6 +690,8 @@ songs:
     title: "손을 높이 들고 주를 찬양"
   - num: 259
     title: "수난 기약 다다르니"
+    author: "Campra"
+    author_src: "야훼이레 289"
   - num: 260
     title: "수만 마리 참새들이"
   - num: 261
@@ -620,12 +702,18 @@ songs:
     title: "순교자 타령"
   - num: 264
     title: "순교자의 믿음"
+    author: "F. Henry & J.G. Walton"
+    author_src: "야훼이레 603"
   - num: 265
     title: "순례자"
+    author: "김태진 베난시오"
+    author_src: "야훼이레 604"
   - num: 266
     title: "Superman"
   - num: 267
     title: "십자가 지고 가시는"
+    author: "미국 성가"
+    author_src: "야훼이레 290"
   - num: 268
     title: "십자가에 가까이"
   - num: 269
@@ -644,14 +732,20 @@ songs:
     title: "아름다운 장미"
   - num: 276
     title: "아버지 뜻대로"
+    author: "현정수 요한사도"
+    author_src: "야훼이레 633"
   - num: 277
     title: "아브라함과 이사악"
   - num: 278
     title: "아이야 너는 나를 사랑한다지"
   - num: 279
     title: "알렐루야 노래하자"
+    author: "Trad. Melody"
+    author_src: "야훼이레 304"
   - num: 280
     title: "앗 뜨거워"
+    author: "정찬우"
+    author_src: "야훼이레 639"
   - num: 281
     title: "Ya!(예수님의 두 손을 꼭 잡고)"
   - num: 282
@@ -660,8 +754,12 @@ songs:
     title: "야곱과 에사오"
   - num: 284
     title: "야곱의 축복"
+    author: "김인식"
+    author_src: "야훼이레 640"
   - num: 285
     title: "약할 때 강함 되시네"
+    author: "Dennis Jernigan"
+    author_src: "야훼이레 648"
   - num: 286
     title: "어린 백합화"
   - num: 287
@@ -676,26 +774,44 @@ songs:
     title: "어부들 송(어부들 주제곡)"
   - num: 292
     title: "어서 가 경배하세"
+    author: "John Francis Wade"
+    author_src: "야훼이레 272"
   - num: 293
     title: "엠마우스"
+    author: "원선오 빈첸시오"
+    author_src: "야훼이레 307"
   - num: 294
     title: "여러분 고맙습니다(김수환 추기경 추모곡)"
   - num: 295
     title: "열두 사도를 외우자"
   - num: 296
     title: "열절하신 주의 사랑"
+    author: "Trad. Melody"
+    author_src: "야훼이레 343"
   - num: 297
     title: "영광의 왕"
+    author: "이스라엘 민요"
+    author_src: "야훼이레 246"
   - num: 298
     title: "영원한 사랑"
+    author: "김민식"
+    author_src: "야훼이레 655"
   - num: 299
     title: "예수 내 작은 기쁨"
+    author: "김정식 로제리오"
+    author_src: "야훼이레 660"
   - num: 300
     title: "예수 부활하셨네"
+    author: "Monsigny"
+    author_src: "야훼이레 308"
   - num: 301
     title: "예수 부활하셨도다"
+    author: "Lyra Davidica"
+    author_src: "야훼이레 309"
   - num: 302
     title: "예수 사랑해요"
+    author: "Buttler/Hemmingway"
+    author_src: "야훼이레 666"
   - num: 303
     title: "예수님"
   - num: 304
@@ -708,6 +824,8 @@ songs:
     title: "예수님 오세요"
   - num: 308
     title: "예수님을 따르는 사람들2"
+    author: "현정수 요한사도"
+    author_src: "야훼이레 663"
   - num: 309
     title: "예수님 저희를 도와주세요"
   - num: 310
@@ -722,8 +840,12 @@ songs:
     title: "오 기쁜 날"
   - num: 315
     title: "오 나의 자비로운 주여"
+    author: "John Wimber"
+    author_src: "야훼이레 673"
   - num: 316
     title: "오 작은 고을 베들레헴"
+    author: "Lewis H. Redner"
+    author_src: "야훼이레 274"
   - num: 317
     title: "오 주여 나의 마음이"
   - num: 318
@@ -736,6 +858,8 @@ songs:
     title: "온 세상에 주님 사랑 전하리라"
   - num: 322
     title: "왜"
+    author: "최택헌"
+    author_src: "야훼이레 689"
   - num: 323
     title: "우르르르 쾅쾅"
   - num: 324
@@ -746,6 +870,8 @@ songs:
     title: "우리 친구 예수님"
   - num: 327
     title: "우리는 사랑의 띠로"
+    author: "Anonymous"
+    author_src: "야훼이레 694"
   - num: 328
     title: "우리는 싱싱한"
   - num: 329
@@ -754,8 +880,12 @@ songs:
     title: "우리를 보고파"
   - num: 331
     title: "우리에게 향하신"
+    author: "김진호"
+    author_src: "야훼이레 698"
   - num: 332
     title: "우리와 함께 주여"
+    author: "원선오 빈첸시오"
+    author_src: "야훼이레 699"
   - num: 333
     title: "With U"
   - num: 334
@@ -764,18 +894,26 @@ songs:
     title: "이 미사를 통해 주신"
   - num: 336
     title: "이 시간 너의 맘속에"
+    author: "김수지"
+    author_src: "야훼이레 710"
   - num: 337
     title: "이렇게 좋은 날"
   - num: 338
     title: "이보다 더 큰 은혜와"
   - num: 339
     title: "이와 같은 때엔"
+    author: "David Graham"
+    author_src: "야훼이레 711"
   - num: 340
     title: "일어나 두 팔 벌려 주님 맞이하라"
   - num: 341
     title: "임마누엘"
+    author: "Bob McGee"
+    author_src: "야훼이레 245"
   - num: 342
     title: "임마누엘"
+    author: "Bob McGee"
+    author_src: "야훼이레 245"
   - num: 343
     title: "자, 일어나 가자!"
   - num: 344
@@ -802,8 +940,12 @@ songs:
     title: "주 나의 사랑"
   - num: 355
     title: "주 네 맘에 들어가시려 하네"
+    author: "윤신상"
+    author_src: "야훼이레 747"
   - num: 356
     title: "주께 가오니"
+    author: "Geoff Bullock"
+    author_src: "야훼이레 742"
   - num: 357
     title: "주께 감사드리자"
   - num: 358
@@ -812,12 +954,16 @@ songs:
     title: "주는 우리의 기쁨"
   - num: 360
     title: "주는 평화"
+    author: "Kandela Groves"
+    author_src: "야훼이레 749"
   - num: 361
     title: "주는 평화, 주는 사랑"
   - num: 362
     title: "주님 나 작은 발로"
   - num: 363
     title: "주님 계신 곳 어디나"
+    author: "현정수 사도요한"
+    author_src: "야훼이레 751"
   - num: 364
     title: "주님 날 받아주소서"
   - num: 365
@@ -840,30 +986,46 @@ songs:
     title: "주님 우리 주여"
   - num: 374
     title: "주님 저 하늘 펼치시고"
+    author: "Molino"
+    author_src: "야훼이레 781"
   - num: 375
     title: "주님과 같이"
+    author: "Lenny LeBlanc"
+    author_src: "야훼이레 752"
   - num: 376
     title: "주님과 나는"
+    author: "I. B. Sergei"
+    author_src: "야훼이레 753"
   - num: 377
     title: "주님께 드려요"
   - num: 378
     title: "주님께 영광을 드리자"
   - num: 379
     title: "주님은 우리 사랑하셨네"
+    author: "흑인영가"
+    author_src: "야훼이레 770"
   - num: 380
     title: "주님을 찬양해"
+    author: "이철 니콜라오"
+    author_src: "야훼이레 773"
   - num: 381
     title: "주님의 빛"
   - num: 382
     title: "주님의 집에 가자 할 제"
+    author: "현정수 요한사도"
+    author_src: "야훼이레 780"
   - num: 383
     title: "주님이 집을 짓지 않으시면"
   - num: 384
     title: "주를 찬양하며"
+    author: "Arthus Tannous"
+    author_src: "야훼이레 789"
   - num: 385
     title: "주를 찬양해"
   - num: 386
     title: "주를 향한 나의 사랑을"
+    author: "Geoff Bullock"
+    author_src: "야훼이레 790"
   - num: 387
     title: "주여 나의 몸과 맘"
   - num: 388
@@ -872,20 +1034,32 @@ songs:
     title: "주여 우리는 지금"
   - num: 390
     title: "주여 임하소서"
+    author: "Lowell Mason"
+    author_src: "야훼이레 800"
   - num: 391
     title: "주의 나라 임하면"
   - num: 392
     title: "주의 빵을 서로 나누세"
+    author: "흑인영가"
+    author_src: "야훼이레 804"
   - num: 393
     title: "주의 이름 높이며"
+    author: "Rick Founds"
+    author_src: "야훼이레 808"
   - num: 394
     title: "주의 인자는 끝이 없고"
+    author: "Edith McNeil"
+    author_src: "야훼이레 809"
   - num: 395
     title: "주의 자비가 내려와"
+    author: "David Ruis"
+    author_src: "야훼이레 810"
   - num: 396
     title: "주의 잔치"
   - num: 397
     title: "죽음을 이긴"
+    author: "슬로바키아 성가"
+    author_src: "야훼이레 311"
   - num: 398
     title: "지저스 나의 사랑"
   - num: 399
@@ -904,14 +1078,20 @@ songs:
     title: "참행복"
   - num: 406
     title: "천사의 양식"
+    author: "Lambillotte"
+    author_src: "야훼이레 849"
   - num: 407
     title: "천사의 찬송"
+    author: "Felix Mendelssohn"
+    author_src: "야훼이레 276"
   - num: 408
     title: "첫 성탄"
   - num: 409
     title: "첫 영성체 축가"
   - num: 410
     title: "축제"
+    author: "김태진 베난시오"
+    author_src: "야훼이레 856"
   - num: 411
     title: "축하합니다"
   - num: 412
@@ -952,6 +1132,8 @@ songs:
     title: "일등은 하고 싶은 일"
   - num: 430
     title: "하느님은 너를 지키시는 분"
+    author: "정성실"
+    author_src: "야훼이레 910"
   - num: 431
     title: "하느님은 우리의 보물이에요"
   - num: 432
@@ -968,13 +1150,19 @@ songs:
     title: "함께라면"
   - num: 438
     title: "해 뜨는 데부터"
+    author: "Paul S. Deming"
+    author_src: "야훼이레 923"
   - num: 439
     title: "해바라기"
   - num: 440
     title: "해바라기 노래"
+    author: "김정식 로제리오"
+    author_src: "야훼이레 924"
   - num: 441
     title: "형제에게 베푼 것"
   - num: 442
     title: "형제의 모습 속에"
+    author: "박정관"
+    author_src: "야훼이레 926"
   - num: 443
     title: "호산나 호산나"

@@ -1,6 +1,6 @@
 ---
 title: "Francesco Buttazzo Mass Settings"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # Francesco Buttazzo Mass Settings

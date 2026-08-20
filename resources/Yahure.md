@@ -28,7 +28,7 @@ updated: 2024-01-05
 | 번호 | 곡명 | 작사 · 작곡 | 구분 |
 |---:|:---|:---|:---:|
 {% for s in yh -%}
-| <span class="row-meta" data-tradition="{{ s.tradition }}" data-search="{{ s.num }} {{ s.title | downcase }} {% if s.title_en %}{{ s.title_en | downcase }} {% endif %}{{ s.author | downcase }}"></span>{{ s.num }} | {{ s.title }}{% if s.title_en %}<br><sub>{{ s.title_en }}</sub>{% endif %} | {{ s.author }} | {% if s.tradition %}<sub>{{ s.tradition }}</sub>{% endif %} |
+| <span class="row-meta" data-tradition="{{ s.tradition }}" data-search="{{ s.num }} {{ s.title | downcase }} {% if s.title_en %}{{ s.title_en | downcase }} {% endif %}{{ s.author | downcase }}"></span>{{ s.num }} | {{ s.title }}{% if s.title_en %}<br><sub>{{ s.title_en }}</sub>{% endif %} | {{ s.author }}{% if s.author_src %}<br><sub>{{ s.author_src }}</sub>{% endif %} | {% if s.tradition %}<sub>{{ s.tradition }}</sub>{% endif %} |
 {% endfor %}
 
 </div>

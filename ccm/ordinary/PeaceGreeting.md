@@ -1,6 +1,6 @@
 ---
 title: "평화의 인사 (Sign of Peace)"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # 평화의 인사 (Sign of Peace)

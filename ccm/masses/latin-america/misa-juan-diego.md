@@ -1,6 +1,6 @@
 ---
 title: "Misa Juan Diego"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # Misa Juan Diego

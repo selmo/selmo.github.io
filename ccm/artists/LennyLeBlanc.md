@@ -1,6 +1,6 @@
 ---
 title: "레니 르블랑 (Lenny LeBlanc)"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # 레니 르블랑 (Lenny LeBlanc)

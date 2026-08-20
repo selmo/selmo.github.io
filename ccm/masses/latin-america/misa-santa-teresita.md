@@ -1,6 +1,6 @@
 ---
 title: "Misa Santa Teresita del Niño Jesús"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # Misa Santa Teresita del Niño Jesús

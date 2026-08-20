@@ -1,6 +1,6 @@
 ---
 title: "예수 그리스도 당신은 나의 생명 (Jesus Christ, You Are My Life)"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # 예수 그리스도 당신은 나의 생명 (Jesus Christ, You Are My Life)

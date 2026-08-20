@@ -1,6 +1,6 @@
 ---
 title: "김태진 베난시오 (Fr. Kim Tae-jin)"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # 김태진 베난시오 (Fr. Kim Tae-jin)

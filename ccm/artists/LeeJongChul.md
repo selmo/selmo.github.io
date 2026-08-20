@@ -1,6 +1,6 @@
 ---
 title: "이종철 (Lee Jong Chul)"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # 이종철 (Lee Jong Chul)

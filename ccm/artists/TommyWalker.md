@@ -1,6 +1,6 @@
 ---
 title: "토미 워커 (Tommy Walker)"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # 토미 워커 (Tommy Walker)

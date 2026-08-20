@@ -1,6 +1,6 @@
 ---
 title: "하늘바다 수록곡 목록"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # 하늘바다 수록곡 목록
@@ -43,10 +43,10 @@ updated: 2026-08-18
 
 <div class="songbook-table" markdown="1">
 
-| 번호 | 곡명 |
-|---:|:---|
+| 번호 | 곡명 | 작곡 · 편곡 |
+|---:|:---|:---|
 {% for s in songs -%}
-| <span class="row-meta" data-search="{{ s.num }} {{ s.title | downcase }}"></span>{{ s.num }} | {{ s.title }} |
+| <span class="row-meta" data-search="{{ s.num }} {{ s.title | downcase }} {% if s.author %}{{ s.author | downcase }}{% endif %}"></span>{{ s.num }} | {{ s.title }} | {% if s.author %}{{ s.author }}<br><sub>{{ s.author_src }}</sub>{% else %}—{% endif %} |
 {% endfor %}
 
 </div>
@@ -59,6 +59,7 @@ updated: 2026-08-18
 
 - 이 목록은 `resources/하늘바다.md`에서 자동 생성됩니다(`scripts/gen_songbooks.py`).
 - 미사곡은 전례 순서(성호경 → 자비송 → … → 영광송)를 따랐고, 그 외 곡은 번호순입니다.
+- 하늘바다 원본 목차에는 작곡가가 없습니다. 곡명이 같은 [야훼이레](Yahure.md) 수록곡에서 가져왔고, 출처를 함께 표기했습니다. 동명이곡이 있어 어느 곡인지 확정할 수 없으면 `—`로 두었습니다.
 - 곡의 저작권은 각 작사·작곡자와 저작권자에게 있습니다. 성가집 사용은 발행처의 안내를 따라 주세요.
 
 ## 관련 페이지

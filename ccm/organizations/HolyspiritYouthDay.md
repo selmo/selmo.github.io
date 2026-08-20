@@ -1,6 +1,6 @@
 ---
 title: "젊은이 성령축제 HYD (Holyspirit Youth Day)"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # 젊은이 성령축제 HYD (Holyspirit Youth Day)

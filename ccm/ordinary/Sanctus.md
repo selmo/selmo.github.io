@@ -1,6 +1,6 @@
 ---
 title: "거룩하시도다 (Sanctus)"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # 거룩하시도다 (Sanctus)

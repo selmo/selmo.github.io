@@ -1,6 +1,6 @@
 ---
 title: "모든 능력과 모든 권세 (Above All)"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # 모든 능력과 모든 권세 (Above All)

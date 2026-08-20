@@ -1,6 +1,6 @@
 ---
 title: "화답송 (Graduale / Responsorial Psalm)"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # 화답송 (Graduale / Responsorial Psalm)

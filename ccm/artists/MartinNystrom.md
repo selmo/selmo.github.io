@@ -1,6 +1,6 @@
 ---
 title: "마틴 니스톰 (Martin Nystrom)"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # 마틴 니스톰 (Martin Nystrom)

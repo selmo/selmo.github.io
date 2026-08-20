@@ -1,6 +1,6 @@
 ---
 title: "밥 허드 (Bob Hurd)"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # 밥 허드 (Bob Hurd)

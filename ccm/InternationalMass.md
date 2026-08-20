@@ -1,6 +1,6 @@
 ---
 title: "해외 현대 미사곡 (International Contemporary Mass Settings)"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # 해외 현대 미사곡 (International Contemporary Mass Settings)

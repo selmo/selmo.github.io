@@ -1,6 +1,6 @@
 ---
 title: "주님 제가 여기 있나이다 (Here I Am, Lord)"
-updated: 2026-08-18
+updated: 2026-08-20
 ---
 
 # 주님 제가 여기 있나이다 (Here I Am, Lord)
