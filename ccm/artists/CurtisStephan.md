@@ -1,6 +1,6 @@
 ---
 title: "커티스 스테판 (Curtis Stephan)"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # 커티스 스테판 (Curtis Stephan)

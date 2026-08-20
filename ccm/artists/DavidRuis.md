@@ -1,6 +1,6 @@
 ---
 title: "데이비드 루이스 (David Ruis)"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # 데이비드 루이스 (David Ruis)

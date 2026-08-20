@@ -1,6 +1,6 @@
 ---
 title: "기뻐하며 왕께 노래 부르리 (Shout for Joy and Sing)"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # 기뻐하며 왕께 노래 부르리 (Shout for Joy and Sing)

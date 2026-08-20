@@ -1,6 +1,6 @@
 ---
 title: "현정수 요한사도 (Fr. Hyun Jeong-su)"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # 현정수 요한사도 (Fr. Hyun Jeong-su)

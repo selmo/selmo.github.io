@@ -1,14 +1,14 @@
 ---
 title: "하늘바다 수록곡 목록"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # 하늘바다 수록곡 목록
 
 가톨릭 어린이 찬양집 **하늘바다**의 수록곡 색인입니다. 번호·곡명·작곡/편곡자만 정리했으며, 악보와 가사는 담고 있지 않습니다.
 
-{% assign mass = site.data.songbooks.haneulbada_mass %}
-{% assign songs = site.data.songbooks.haneulbada_songs %}
+{% assign mass = site.data.haneulbada.mass %}
+{% assign songs = site.data.haneulbada.songs %}
 
 **미사곡 {{ mass.size }}곡 · 그 외 {{ songs.size }}곡**
 

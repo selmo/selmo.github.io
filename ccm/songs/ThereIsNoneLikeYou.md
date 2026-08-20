@@ -1,6 +1,6 @@
 ---
 title: "주님과 같이 (There Is None Like You)"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # 주님과 같이 (There Is None Like You)

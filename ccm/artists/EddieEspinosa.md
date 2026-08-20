@@ -1,6 +1,6 @@
 ---
 title: "에디 에스피노사 (Eddie Espinosa)"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # 에디 에스피노사 (Eddie Espinosa)

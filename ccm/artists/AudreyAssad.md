@@ -1,6 +1,6 @@
 ---
 title: "오드리 아사드 (Audrey Assad)"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # 오드리 아사드 (Audrey Assad)

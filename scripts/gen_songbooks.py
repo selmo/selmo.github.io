@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""성가집 수록곡 목록을 _data/songbooks.yml 로 추출.
+"""성가집 수록곡 목록을 성가집별 데이터 파일로 추출.
 
 주의: 번호 필드는 num 이다. YAML 1.1 은 no/yes 를 boolean 으로 읽으므로
      키 이름에 no 를 쓰면 false 로 파싱된다.
 
-- 야훼이레 3판: resources/야훼이레-수록곡목록-3판.xlsx (총괄 시트)
-- 하늘바다(가톨릭 어린이 찬양집): resources/하늘바다.md
+성가집마다 파일을 나눈다:
+- _data/yahure.yml     <- resources/야훼이레-수록곡목록-3판.xlsx (총괄 시트)
+- _data/haneulbada.yml <- resources/하늘바다.md
 
 표시 항목은 번호·곡명·작사/작곡자·구분으로 한정한다(가사는 담지 않는다).
 """
@@ -14,7 +15,8 @@ import openpyxl, re, unicodedata, io
 
 XLSX = "resources/야훼이레-수록곡목록-3판.xlsx"
 HB_MD = "resources/하늘바다.md"
-OUT = "_data/songbooks.yml"
+OUT_YH = "_data/yahure.yml"
+OUT_HB = "_data/haneulbada.yml"
 
 
 def nfc(s):
@@ -86,15 +88,14 @@ def main():
     yh = load_yahure()
     hb_mass, hb_songs = load_haneulbada()
 
+    # ---- 야훼이레 ----
     out = io.StringIO()
-    out.write("# 성가집 수록곡 목록 (scripts/gen_songbooks.py 로 생성)\n")
+    out.write("# 야훼이레 3판 수록곡 (scripts/gen_songbooks.py 로 생성)\n")
+    out.write("# 원본: resources/야훼이레-수록곡목록-3판.xlsx (총괄 시트)\n")
     out.write("#\n")
-    out.write("#   yahure     : 야훼이레 3판 — resources/야훼이레-수록곡목록-3판.xlsx\n")
-    out.write("#   haneulbada : 하늘바다(가톨릭 어린이 찬양집) — resources/하늘바다.md\n")
-    out.write("#\n")
+    out.write("# 번호 필드는 num. YAML 1.1 은 no/yes 를 boolean 으로 읽는다.\n")
     out.write("# 번호·곡명·작사/작곡자만 담는다(가사는 포함하지 않는다).\n\n")
-
-    out.write("yahure:\n")
+    out.write("items:\n")
     for it in yh:
         out.write(f'  - num: {it["no"]}\n')
         out.write(f'    title: {esc(it["title"])}\n')
@@ -107,25 +108,30 @@ def main():
             out.write(f'    tradition: {esc(it["tradition"])}\n')
         if it["first_ed"]:
             out.write(f'    first_ed: {it["first_ed"]}\n')
+    open(OUT_YH, "w", encoding="utf-8").write(out.getvalue())
 
-    out.write("\nhaneulbada_mass:\n")
+    # ---- 하늘바다 ----
+    out = io.StringIO()
+    out.write("# 하늘바다(가톨릭 어린이 찬양집) 수록곡 (scripts/gen_songbooks.py 로 생성)\n")
+    out.write("# 원본: resources/하늘바다.md\n")
+    out.write("#\n")
+    out.write("#   mass  : 미사곡 — 전례 파트별 (번호, 파트, 작곡/편곡)\n")
+    out.write("#   songs : 그 외 수록곡 — 번호순\n\n")
+    out.write("mass:\n")
     for it in hb_mass:
         out.write(f'  - num: {it["no"]}\n')
         out.write(f'    part: {esc(it["part"])}\n')
         out.write(f'    author: {esc(it["author"])}\n')
-
-    out.write("\nhaneulbada_songs:\n")
+    out.write("\nsongs:\n")
     for it in hb_songs:
         out.write(f'  - num: {it["no"]}\n')
         out.write(f'    title: {esc(it["title"])}\n')
-
-    open(OUT, "w", encoding="utf-8").write(out.getvalue())
+    open(OUT_HB, "w", encoding="utf-8").write(out.getvalue())
 
     from collections import Counter
-    print(f"야훼이레 {len(yh)}곡 (번호 {yh[0]['no']}–{yh[-1]['no']})")
+    print(f"야훼이레 {len(yh)}곡 (번호 {yh[0]['no']}–{yh[-1]['no']}) -> {OUT_YH}")
     print("  구분:", dict(Counter(i["tradition"] for i in yh if i["tradition"])))
-    print(f"하늘바다 미사곡 {len(hb_mass)} · 일반곡 {len(hb_songs)}")
-    print(f"-> {OUT}")
+    print(f"하늘바다 미사곡 {len(hb_mass)} · 일반곡 {len(hb_songs)} -> {OUT_HB}")
 
 
 if __name__ == "__main__":

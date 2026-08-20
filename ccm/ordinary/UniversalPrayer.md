@@ -1,6 +1,6 @@
 ---
 title: "보편 지향 기도 (Universal Prayer)"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # 보편 지향 기도 (Universal Prayer)

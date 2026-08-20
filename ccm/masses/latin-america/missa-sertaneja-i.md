@@ -1,6 +1,6 @@
 ---
 title: "Missa Sertaneja I"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # Missa Sertaneja I

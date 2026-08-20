@@ -1,6 +1,6 @@
 ---
 title: "김종성 요한사도 (Kim Jong Sung)"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # 김종성 요한사도 (Kim Jong Sung)

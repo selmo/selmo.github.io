@@ -1,0 +1,980 @@
+# 하늘바다(가톨릭 어린이 찬양집) 수록곡 (scripts/gen_songbooks.py 로 생성)
+# 원본: resources/하늘바다.md
+#
+#   mass  : 미사곡 — 전례 파트별 (번호, 파트, 작곡/편곡)
+#   songs : 그 외 수록곡 — 번호순
+
+mass:
+  - num: 1
+    part: "성호경"
+    author: "신지은, 이지혜"
+  - num: 2
+    part: "성호경"
+    author: "김 안나"
+  - num: 3
+    part: "성호경"
+    author: "임두빈"
+  - num: 4
+    part: "성호경"
+    author: "장환진"
+  - num: 5
+    part: "자비송"
+    author: "김종성"
+  - num: 6
+    part: "자비송"
+    author: "신지은, 이지혜"
+  - num: 7
+    part: "자비송"
+    author: "신상옥"
+  - num: 8
+    part: "자비송"
+    author: "이종철"
+  - num: 9
+    part: "자비송"
+    author: "임두빈"
+  - num: 10
+    part: "자비송"
+    author: "현정수"
+  - num: 11
+    part: "대영광송"
+    author: "김종성"
+  - num: 12
+    part: "대영광송"
+    author: "신상옥"
+  - num: 13
+    part: "대영광송"
+    author: "신지은, 이지혜"
+  - num: 14
+    part: "대영광송"
+    author: "임두빈"
+  - num: 15
+    part: "대영광송"
+    author: "현정수"
+  - num: 16
+    part: "대영광송"
+    author: "이종철"
+  - num: 17
+    part: "대영광송"
+    author: "임덕(가사 정리 - 오광설)"
+  - num: 18
+    part: "화답송"
+    author: "신지은, 이지혜"
+  - num: 19
+    part: "화답송"
+    author: "이종철(하느님 말씀 잘 들었어요)"
+  - num: 20
+    part: "화답송"
+    author: "박기현(하느님 하신 말씀)"
+  - num: 21
+    part: "화답송"
+    author: "임두빈"
+  - num: 22
+    part: "복음환호송"
+    author: "김종성"
+  - num: 23
+    part: "복음환호송"
+    author: "신상옥"
+  - num: 24
+    part: "복음환호송"
+    author: "임두빈"
+  - num: 25
+    part: "복음환호송"
+    author: "오광설"
+  - num: 26
+    part: "복음환호송"
+    author: "현정수"
+  - num: 27
+    part: "복음환호송"
+    author: "신지은, 이지혜"
+  - num: 28
+    part: "복음환호송"
+    author: "그레고리안(예수님의 말씀을)"
+  - num: 29
+    part: "복음환호송"
+    author: "임두빈(말씀이 사람이 되시어)"
+  - num: 30
+    part: "복음환호송"
+    author: "이종철(예수님의 말씀을)"
+  - num: 31
+    part: "사도신경"
+    author: "임두빈"
+  - num: 32
+    part: "보편지향기도"
+    author: "미상"
+  - num: 33
+    part: "보편지향기도"
+    author: "미상"
+  - num: 34
+    part: "보편지향기도"
+    author: "이종철"
+  - num: 35
+    part: "보편지향기도"
+    author: "김종성"
+  - num: 36
+    part: "보편지향기도"
+    author: "신상옥"
+  - num: 37
+    part: "보편지향기도"
+    author: "임두빈"
+  - num: 38
+    part: "보편지향기도"
+    author: "현정수"
+  - num: 39
+    part: "보편지향기도"
+    author: "신지은, 이지혜"
+  - num: 40
+    part: "거룩하시도다"
+    author: "김종성"
+  - num: 41
+    part: "거룩하시도다"
+    author: "이종철"
+  - num: 42
+    part: "거룩하시도다"
+    author: "현정수"
+  - num: 43
+    part: "거룩하시도다"
+    author: "신상옥"
+  - num: 44
+    part: "거룩하시도다"
+    author: "신지은, 이지혜"
+  - num: 45
+    part: "거룩하시도다"
+    author: "김안나"
+  - num: 46
+    part: "거룩하시도다"
+    author: "임두빈"
+  - num: 47
+    part: "거양성체"
+    author: "미상(사랑해요 예수님)"
+  - num: 48
+    part: "거양성체"
+    author: "임두빈(주님의 몸 주님의 피)"
+  - num: 49
+    part: "신앙의 신비여"
+    author: "임두빈"
+  - num: 50
+    part: "신앙의 신비여"
+    author: "김종성"
+  - num: 51
+    part: "신앙의 신비여"
+    author: "현정수"
+  - num: 52
+    part: "신앙의 신비여"
+    author: "신상옥"
+  - num: 53
+    part: "신앙의 신비여"
+    author: "미상"
+  - num: 54
+    part: "신앙의 신비여"
+    author: "미상"
+  - num: 55
+    part: "신앙의 신비여"
+    author: "신지은, 이지혜"
+  - num: 56
+    part: "아멘"
+    author: "김종성"
+  - num: 57
+    part: "아멘"
+    author: "신지은, 이지혜"
+  - num: 58
+    part: "아멘"
+    author: "현정수"
+  - num: 59
+    part: "아멘"
+    author: "신상옥"
+  - num: 60
+    part: "아멘"
+    author: "김안나"
+  - num: 61
+    part: "아멘"
+    author: "임두빈"
+  - num: 62
+    part: "주님의 기도"
+    author: "김종성"
+  - num: 63
+    part: "주님의 기도"
+    author: "이종철"
+  - num: 64
+    part: "주님의 기도"
+    author: "현정수"
+  - num: 65
+    part: "주님의 기도"
+    author: "신상옥"
+  - num: 66
+    part: "주님의 기도"
+    author: "김안나"
+  - num: 67
+    part: "주님의 기도"
+    author: "임두빈"
+  - num: 68
+    part: "주님의 기도"
+    author: "신지은, 이지혜"
+  - num: 69
+    part: "주님께 나라와"
+    author: "김종성"
+  - num: 70
+    part: "주님께 나라와"
+    author: "현정수"
+  - num: 71
+    part: "주님께 나라와"
+    author: "신지은, 이지혜"
+  - num: 72
+    part: "주님께 나라와"
+    author: "신상옥"
+  - num: 73
+    part: "주님께 나라와"
+    author: "임두빈"
+  - num: 74
+    part: "주님께 나라와"
+    author: "미상"
+  - num: 75
+    part: "평화의 인사"
+    author: "신지은, 이지혜"
+  - num: 76
+    part: "평화의 인사"
+    author: "임두빈"
+  - num: 77
+    part: "평화의 인사"
+    author: "현정수"
+  - num: 78
+    part: "하느님의 어린양"
+    author: "김종성"
+  - num: 79
+    part: "하느님의 어린양"
+    author: "신상옥"
+  - num: 80
+    part: "하느님의 어린양"
+    author: "신지은, 이지혜"
+  - num: 81
+    part: "하느님의 어린양"
+    author: "김안나"
+  - num: 82
+    part: "하느님의 어린양"
+    author: "임두빈"
+  - num: 83
+    part: "하느님의 어린양"
+    author: "현정수"
+  - num: 84
+    part: "하느님의 어린양"
+    author: "이종철"
+  - num: 85
+    part: "영광송"
+    author: "임두빈"
+
+songs:
+  - num: 86
+    title: "가난한 이의 소리"
+  - num: 87
+    title: "가라 주님과 함께"
+  - num: 88
+    title: "가서 내 형제들에게 전하여라"
+  - num: 89
+    title: "가자! 희망의 땅 복음으로"
+  - num: 90
+    title: "감사해"
+  - num: 91
+    title: "감사해요"
+  - num: 92
+    title: "강물처럼 흐르는 사랑"
+  - num: 93
+    title: "거룩하다 부활이여"
+  - num: 94
+    title: "거룩하신 하느님"
+  - num: 95
+    title: "고래 뱃속의 요나"
+  - num: 96
+    title: "고요한 밤 거룩한 밤"
+  - num: 97
+    title: "골고타 언덕"
+  - num: 98
+    title: "곰돌이 가족"
+  - num: 99
+    title: "공동체송"
+  - num: 100
+    title: "교사의 기도"
+  - num: 101
+    title: "교회 종소리"
+  - num: 102
+    title: "구세주 빨리 오사"
+  - num: 103
+    title: "구원자 예수 너의 사랑"
+  - num: 104
+    title: "구유에 누워 계시니"
+  - num: 105
+    title: "귀여운 아기들"
+  - num: 106
+    title: "귀염동이"
+  - num: 107
+    title: "그분께 감사하여라"
+  - num: 108
+    title: "그분께로 한 걸음씩"
+  - num: 109
+    title: "그 사랑 주님께 감사하여라"
+  - num: 110
+    title: "그리스도께서 너를 비추어 주시리라"
+  - num: 111
+    title: "글로리아 높으신 이의 탄생"
+  - num: 112
+    title: "금물결 이야기"
+  - num: 113
+    title: "기대"
+  - num: 114
+    title: "기도하는 맘"
+  - num: 115
+    title: "기뻐하며 왕께 노래 부르리"
+  - num: 116
+    title: "기쁘다 구주 오셨네"
+  - num: 117
+    title: "기쁜 크리스마스"
+  - num: 118
+    title: "기적의 마구간"
+  - num: 119
+    title: "길이요 진리요 생명이신 주"
+  - num: 120
+    title: "깨끗한 맘 주시옵소서"
+  - num: 121
+    title: "꼬마 마르첼리노"
+  - num: 122
+    title: "꽃"
+  - num: 123
+    title: "꽃이 될래요"
+  - num: 124
+    title: "꽃잎들이 하나 둘"
+  - num: 125
+    title: "나"
+  - num: 126
+    title: "나 무엇과도 주님을"
+  - num: 127
+    title: "나 주의 믿음 갖고"
+  - num: 128
+    title: "나는 나는 될 테야"
+  - num: 129
+    title: "나는 믿나이다"
+  - num: 130
+    title: "나는 세상의 빛입니다"
+  - num: 131
+    title: "나는 착한 목자다"
+  - num: 132
+    title: "나는 포도나무요"
+  - num: 133
+    title: "나를 따르라"
+  - num: 134
+    title: "나를 받으옵소서"
+  - num: 135
+    title: "나를 사랑하는 주님"
+  - num: 136
+    title: "나에게 오라"
+  - num: 137
+    title: "나의 모든 사랑을 드려요"
+  - num: 138
+    title: "나의 발은 춤을 추며"
+  - num: 139
+    title: "나의 사랑 예수여"
+  - num: 140
+    title: "나의 생명 드리니"
+  - num: 141
+    title: "나의 예수님 사랑합니다"
+  - num: 142
+    title: "나의 친구 착한 예수님"
+  - num: 143
+    title: "날마다 숨 쉬는 순간마다"
+  - num: 144
+    title: "낮은 자의 하느님"
+  - num: 145
+    title: "내 마음 내 믿음"
+  - num: 146
+    title: "내 맘은 작은 꽃밭"
+  - num: 147
+    title: "내 발을 씻기신 예수"
+  - num: 148
+    title: "내 생애의 모든 것"
+  - num: 149
+    title: "내 손을 주께 높이 듭니다"
+  - num: 150
+    title: "내 친구 예수님"
+  - num: 151
+    title: "내가 너희들을"
+  - num: 152
+    title: "내게 가장 소중한 것"
+  - num: 153
+    title: "내게 와서 보아라"
+  - num: 154
+    title: "내게 있는 향유 옥합"
+  - num: 155
+    title: "내려주신 모든 선물"
+  - num: 156
+    title: "너는 복되리라"
+  - num: 157
+    title: "넌 차지도 뜨겁지도"
+  - num: 158
+    title: "널따란 잔디밭"
+  - num: 159
+    title: "노아와 홍수"
+  - num: 160
+    title: "높이 날아요"
+  - num: 161
+    title: "누가 우리를 떼어 놓으랴"
+  - num: 162
+    title: "누구든지"
+  - num: 163
+    title: "누군가 널 위해 기도하네"
+  - num: 164
+    title: "느껴 느껴"
+  - num: 165
+    title: "늘 함께해"
+  - num: 166
+    title: "다 같이 우리들은 사랑 배우세"
+  - num: 167
+    title: "다 와서 찬양해"
+  - num: 168
+    title: "다 함께"
+  - num: 169
+    title: "다윗 왕의 노래"
+  - num: 170
+    title: "달려 달려"
+  - num: 171
+    title: "달콤한 선물"
+  - num: 172
+    title: "당신은 사랑받기 위해 태어난 사람"
+  - num: 173
+    title: "당신을 향한 노래"
+  - num: 174
+    title: "동그랗게 다발 엮어"
+  - num: 175
+    title: "동방낙타 달려라"
+  - num: 176
+    title: "동방의 세 박사"
+  - num: 177
+    title: "또 하나의 열매를 바라시며"
+  - num: 178
+    title: "똑똑똑"
+  - num: 179
+    title: "랄랄라"
+  - num: 180
+    title: "Love Festival"
+  - num: 181
+    title: "러브레터 - 너를 사랑해"
+  - num: 182
+    title: "러브레터"
+  - num: 183
+    title: "로사리오 기도 드릴 때"
+  - num: 184
+    title: "Little Christian Sonata"
+  - num: 185
+    title: "마니피캇"
+  - num: 186
+    title: "마음 속 친구"
+  - num: 187
+    title: "마음속의 하느님"
+  - num: 188
+    title: "마음 착한 요셉"
+  - num: 189
+    title: "마음 밭"
+  - num: 190
+    title: "마음을 열고서"
+  - num: 191
+    title: "마흔 낮과 그 밤을"
+  - num: 192
+    title: "말씀이 있는 곳에"
+  - num: 193
+    title: "맑은 하늘 오월은"
+  - num: 194
+    title: "메리 크리스마스, 기다린 그날"
+  - num: 195
+    title: "모든 민족아 주님 찬양하라"
+  - num: 196
+    title: "모세 이야기"
+  - num: 197
+    title: "모여라 동무들아"
+  - num: 198
+    title: "목마른 사슴"
+  - num: 199
+    title: "물라 물라"
+  - num: 200
+    title: "못 찾겠다 꾀꼬리"
+  - num: 201
+    title: "물로써 포도주를"
+  - num: 202
+    title: "믿음 깊고 착한 욥"
+  - num: 203
+    title: "믿음으로"
+  - num: 204
+    title: "믿음이 구슬이라면"
+  - num: 205
+    title: "바벨탑"
+  - num: 206
+    title: "받으소서 우리 마음"
+  - num: 207
+    title: "방긋 방긋, 으쓱 으쓱"
+  - num: 208
+    title: "별빛이 찬란한 이 밤은"
+  - num: 209
+    title: "보시니 좋았다"
+  - num: 210
+    title: "보아요 난 느껴요"
+  - num: 211
+    title: "부활하신 주 예수"
+  - num: 212
+    title: "북 치는 작은 소년"
+  - num: 213
+    title: "불가마의 세 청년"
+  - num: 214
+    title: "비추소서"
+  - num: 215
+    title: "빛과 소금"
+  - num: 216
+    title: "사랑"
+  - num: 217
+    title: "사랑 사랑"
+  - num: 218
+    title: "사랑과 평화의 예수님"
+  - num: 219
+    title: "사랑의 선물"
+  - num: 220
+    title: "사랑의 송가"
+  - num: 221
+    title: "사랑의 신비"
+  - num: 222
+    title: "사랑이 없으면"
+  - num: 223
+    title: "사랑하는 나의 아버지"
+  - num: 224
+    title: "사랑하는 사람은 누구나"
+  - num: 225
+    title: "사랑하올 어머니"
+  - num: 226
+    title: "사랑한다는 말은"
+  - num: 227
+    title: "사랑합니다 나의 예수님"
+  - num: 228
+    title: "사랑해요 축하해요"
+  - num: 229
+    title: "사막에 샘이 넘쳐"
+  - num: 230
+    title: "산상교훈"
+  - num: 231
+    title: "상사병"
+  - num: 232
+    title: "새로운 계명"
+  - num: 233
+    title: "생명의 물"
+  - num: 234
+    title: "생명의 양식"
+  - num: 235
+    title: "서로 사랑하라"
+  - num: 236
+    title: "선물"
+  - num: 237
+    title: "성 요셉 찬양하세"
+  - num: 238
+    title: "성경송(구약)"
+  - num: 239
+    title: "성경송(신약)"
+  - num: 240
+    title: "성령 장풍"
+  - num: 241
+    title: "성령강림송"
+  - num: 242
+    title: "성령송가"
+  - num: 243
+    title: "성령 안에"
+  - num: 244
+    title: "성모님"
+  - num: 245
+    title: "성모송"
+  - num: 246
+    title: "성모의 성월"
+  - num: 247
+    title: "성부 A-ha!"
+  - num: 248
+    title: "성부 우리를"
+  - num: 249
+    title: "성체 안에 계시는"
+  - num: 250
+    title: "성체 안의 예수님"
+  - num: 251
+    title: "성체를 찬송하세"
+  - num: 252
+    title: "세 개의 못"
+  - num: 253
+    title: "세상은 아름다워라"
+  - num: 254
+    title: "세상을 위하여"
+  - num: 255
+    title: "세상의 빛이 되어라"
+  - num: 256
+    title: "소녀는 일어나"
+  - num: 257
+    title: "소망"
+  - num: 258
+    title: "손을 높이 들고 주를 찬양"
+  - num: 259
+    title: "수난 기약 다다르니"
+  - num: 260
+    title: "수만 마리 참새들이"
+  - num: 261
+    title: "수호천사님"
+  - num: 262
+    title: "순교인(in)"
+  - num: 263
+    title: "순교자 타령"
+  - num: 264
+    title: "순교자의 믿음"
+  - num: 265
+    title: "순례자"
+  - num: 266
+    title: "Superman"
+  - num: 267
+    title: "십자가 지고 가시는"
+  - num: 268
+    title: "십자가에 가까이"
+  - num: 269
+    title: "십자가에 제헌되신"
+  - num: 270
+    title: "Summer Christmas"
+  - num: 271
+    title: "씨 뿌리는 사람의 비유"
+  - num: 272
+    title: "아기 예수님"
+  - num: 273
+    title: "아담과 하와"
+  - num: 274
+    title: "아름다운 마음들이 모여서"
+  - num: 275
+    title: "아름다운 장미"
+  - num: 276
+    title: "아버지 뜻대로"
+  - num: 277
+    title: "아브라함과 이사악"
+  - num: 278
+    title: "아이야 너는 나를 사랑한다지"
+  - num: 279
+    title: "알렐루야 노래하자"
+  - num: 280
+    title: "앗 뜨거워"
+  - num: 281
+    title: "Ya!(예수님의 두 손을 꼭 잡고)"
+  - num: 282
+    title: "앗싸 좋아"
+  - num: 283
+    title: "야곱과 에사오"
+  - num: 284
+    title: "야곱의 축복"
+  - num: 285
+    title: "약할 때 강함 되시네"
+  - num: 286
+    title: "어린 백합화"
+  - num: 287
+    title: "어린양"
+  - num: 288
+    title: "어린이 군대"
+  - num: 289
+    title: "어린이처럼"
+  - num: 290
+    title: "어부 될래요"
+  - num: 291
+    title: "어부들 송(어부들 주제곡)"
+  - num: 292
+    title: "어서 가 경배하세"
+  - num: 293
+    title: "엠마우스"
+  - num: 294
+    title: "여러분 고맙습니다(김수환 추기경 추모곡)"
+  - num: 295
+    title: "열두 사도를 외우자"
+  - num: 296
+    title: "열절하신 주의 사랑"
+  - num: 297
+    title: "영광의 왕"
+  - num: 298
+    title: "영원한 사랑"
+  - num: 299
+    title: "예수 내 작은 기쁨"
+  - num: 300
+    title: "예수 부활하셨네"
+  - num: 301
+    title: "예수 부활하셨도다"
+  - num: 302
+    title: "예수 사랑해요"
+  - num: 303
+    title: "예수님"
+  - num: 304
+    title: "예수님 만나보고 싶어요"
+  - num: 305
+    title: "예수님 손 잡고"
+  - num: 306
+    title: "예수님 어서 오세요"
+  - num: 307
+    title: "예수님 오세요"
+  - num: 308
+    title: "예수님을 따르는 사람들2"
+  - num: 309
+    title: "예수님 저희를 도와주세요"
+  - num: 310
+    title: "예수님의 사랑"
+  - num: 311
+    title: "예수님의 이름으로"
+  - num: 312
+    title: "예수님의 이름은"
+  - num: 313
+    title: "예수님이 말씀하시니"
+  - num: 314
+    title: "오 기쁜 날"
+  - num: 315
+    title: "오 나의 자비로운 주여"
+  - num: 316
+    title: "오 작은 고을 베들레헴"
+  - num: 317
+    title: "오 주여 나의 마음이"
+  - num: 318
+    title: "오늘 아기 예수"
+  - num: 319
+    title: "오늘같이 좋은 날"
+  - num: 320
+    title: "오천 명 군중에게"
+  - num: 321
+    title: "온 세상에 주님 사랑 전하리라"
+  - num: 322
+    title: "왜"
+  - num: 323
+    title: "우르르르 쾅쾅"
+  - num: 324
+    title: "우리 사랑하시어"
+  - num: 325
+    title: "우리 성당 성모님은"
+  - num: 326
+    title: "우리 친구 예수님"
+  - num: 327
+    title: "우리는 사랑의 띠로"
+  - num: 328
+    title: "우리는 싱싱한"
+  - num: 329
+    title: "우리는 주의 사랑을"
+  - num: 330
+    title: "우리를 보고파"
+  - num: 331
+    title: "우리에게 향하신"
+  - num: 332
+    title: "우리와 함께 주여"
+  - num: 333
+    title: "With U"
+  - num: 334
+    title: "이 날은 주의 날"
+  - num: 335
+    title: "이 미사를 통해 주신"
+  - num: 336
+    title: "이 시간 너의 맘속에"
+  - num: 337
+    title: "이렇게 좋은 날"
+  - num: 338
+    title: "이보다 더 큰 은혜와"
+  - num: 339
+    title: "이와 같은 때엔"
+  - num: 340
+    title: "일어나 두 팔 벌려 주님 맞이하라"
+  - num: 341
+    title: "임마누엘"
+  - num: 342
+    title: "임마누엘"
+  - num: 343
+    title: "자, 일어나 가자!"
+  - num: 344
+    title: "자캐오와 예수님"
+  - num: 345
+    title: "자연의 기도"
+  - num: 346
+    title: "자장가"
+  - num: 347
+    title: "자캐오 나무"
+  - num: 348
+    title: "저 푸른 언덕 너머"
+  - num: 349
+    title: "저희 정성 이 예물"
+  - num: 350
+    title: "정성 어린 우리 제물"
+  - num: 351
+    title: "전하리 전하리"
+  - num: 352
+    title: "졸업노래"
+  - num: 353
+    title: "좋아"
+  - num: 354
+    title: "주 나의 사랑"
+  - num: 355
+    title: "주 네 맘에 들어가시려 하네"
+  - num: 356
+    title: "주께 가오니"
+  - num: 357
+    title: "주께 감사드리자"
+  - num: 358
+    title: "주는 날 구원하시네"
+  - num: 359
+    title: "주는 우리의 기쁨"
+  - num: 360
+    title: "주는 평화"
+  - num: 361
+    title: "주는 평화, 주는 사랑"
+  - num: 362
+    title: "주님 나 작은 발로"
+  - num: 363
+    title: "주님 계신 곳 어디나"
+  - num: 364
+    title: "주님 날 받아주소서"
+  - num: 365
+    title: "주님 내게 오시면"
+  - num: 366
+    title: "주님 달링 주님 허니"
+  - num: 367
+    title: "주님 모신 우리 마음"
+  - num: 368
+    title: "주님 몸 안에 우리가"
+  - num: 369
+    title: "주님 발 앞에"
+  - num: 370
+    title: "주님 안에서"
+  - num: 371
+    title: "주님 안에서 기뻐하여라"
+  - num: 372
+    title: "주님 어찌 저를 버리시나이까"
+  - num: 373
+    title: "주님 우리 주여"
+  - num: 374
+    title: "주님 저 하늘 펼치시고"
+  - num: 375
+    title: "주님과 같이"
+  - num: 376
+    title: "주님과 나는"
+  - num: 377
+    title: "주님께 드려요"
+  - num: 378
+    title: "주님께 영광을 드리자"
+  - num: 379
+    title: "주님은 우리 사랑하셨네"
+  - num: 380
+    title: "주님을 찬양해"
+  - num: 381
+    title: "주님의 빛"
+  - num: 382
+    title: "주님의 집에 가자 할 제"
+  - num: 383
+    title: "주님이 집을 짓지 않으시면"
+  - num: 384
+    title: "주를 찬양하며"
+  - num: 385
+    title: "주를 찬양해"
+  - num: 386
+    title: "주를 향한 나의 사랑을"
+  - num: 387
+    title: "주여 나의 몸과 맘"
+  - num: 388
+    title: "주여 어서 오소서"
+  - num: 389
+    title: "주여 우리는 지금"
+  - num: 390
+    title: "주여 임하소서"
+  - num: 391
+    title: "주의 나라 임하면"
+  - num: 392
+    title: "주의 빵을 서로 나누세"
+  - num: 393
+    title: "주의 이름 높이며"
+  - num: 394
+    title: "주의 인자는 끝이 없고"
+  - num: 395
+    title: "주의 자비가 내려와"
+  - num: 396
+    title: "주의 잔치"
+  - num: 397
+    title: "죽음을 이긴"
+  - num: 398
+    title: "지저스 나의 사랑"
+  - num: 399
+    title: "착한 아이 되지요"
+  - num: 400
+    title: "찬미예수님 찬미예수님"
+  - num: 401
+    title: "찬송하라 주님의 종들아"
+  - num: 402
+    title: "찬양이 언제나 넘치면"
+  - num: 403
+    title: "찬양하라 주님을"
+  - num: 404
+    title: "찬양하세 찬양하세"
+  - num: 405
+    title: "참행복"
+  - num: 406
+    title: "천사의 양식"
+  - num: 407
+    title: "천사의 찬송"
+  - num: 408
+    title: "첫 성탄"
+  - num: 409
+    title: "첫 영성체 축가"
+  - num: 410
+    title: "축제"
+  - num: 411
+    title: "축하합니다"
+  - num: 412
+    title: "크리스마스 왈츠"
+  - num: 413
+    title: "크신 사랑"
+  - num: 414
+    title: "크신 주께 찬미드리세"
+  - num: 415
+    title: "탈출의 노래"
+  - num: 416
+    title: "Take this!"
+  - num: 417
+    title: "우리 주님처럼 말해보자"
+  - num: 418
+    title: "To you"
+  - num: 419
+    title: "평화를 너에게 주노라"
+  - num: 420
+    title: "포도가지 단비를"
+  - num: 421
+    title: "푸르른 시냇가의"
+  - num: 422
+    title: "풋 솜과 같은 마음"
+  - num: 423
+    title: "빵이 되어 저희에게"
+  - num: 424
+    title: "하느님 나라"
+  - num: 425
+    title: "목소리 높여 주님 찬미"
+  - num: 426
+    title: "우리 함께 떠나자"
+  - num: 427
+    title: "하느님 보시기에"
+  - num: 428
+    title: "하느님 사랑 이야기"
+  - num: 429
+    title: "일등은 하고 싶은 일"
+  - num: 430
+    title: "하느님은 너를 지키시는 분"
+  - num: 431
+    title: "하느님은 우리의 보물이에요"
+  - num: 432
+    title: "하느님을 기다립니다"
+  - num: 433
+    title: "하느님의 사랑"
+  - num: 434
+    title: "하느님의 음성을"
+  - num: 435
+    title: "하늘에 보물을 쌓아라"
+  - num: 436
+    title: "화려하지도 빛나지도"
+  - num: 437
+    title: "함께라면"
+  - num: 438
+    title: "해 뜨는 데부터"
+  - num: 439
+    title: "해바라기"
+  - num: 440
+    title: "해바라기 노래"
+  - num: 441
+    title: "형제에게 베푼 것"
+  - num: 442
+    title: "형제의 모습 속에"
+  - num: 443
+    title: "호산나 호산나"

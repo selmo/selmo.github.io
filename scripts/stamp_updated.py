@@ -38,6 +38,8 @@ PAGE_DEPS = {
         ("glob", "resources/야훼이레-수록곡목록-3판.xlsx"),
         ("git", "resources/하늘바다.md"),
     ],
+    # 성가집 목차 페이지는 각자 자기 원본만 본다 (_data/yahure.yml,
+    # _data/haneulbada.yml 은 그 원본에서 생성되므로 따로 적지 않는다)
     "resources/Yahure.md": [
         ("glob", "resources/야훼이레-수록곡목록-3판.xlsx"),
     ],

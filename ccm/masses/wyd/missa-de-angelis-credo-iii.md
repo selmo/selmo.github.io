@@ -1,6 +1,6 @@
 ---
 title: "Missa de Angelis (Missa VIII) + Credo III"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # Missa de Angelis (Missa VIII) + Credo III

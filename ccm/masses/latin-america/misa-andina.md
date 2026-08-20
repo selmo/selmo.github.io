@@ -1,6 +1,6 @@
 ---
 title: "Misa Andina (Gloria)"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # Misa Andina (Gloria)

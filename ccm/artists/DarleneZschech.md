@@ -1,6 +1,6 @@
 ---
 title: "달린 체크 (Darlene Zschech)"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # 달린 체크 (Darlene Zschech)

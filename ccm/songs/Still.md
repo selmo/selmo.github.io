@@ -1,6 +1,6 @@
 ---
 title: "주 품에 품으소서 (Still)"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # 주 품에 품으소서 (Still)

@@ -1,6 +1,6 @@
 ---
 title: "내 이름 아시죠 (He Knows My Name)"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # 내 이름 아시죠 (He Knows My Name)

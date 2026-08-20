@@ -1,6 +1,6 @@
 ---
 title: "주님 내 길을 (God Will Make a Way)"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # 주님 내 길을 (God Will Make a Way)

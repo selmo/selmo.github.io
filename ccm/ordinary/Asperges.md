@@ -1,6 +1,6 @@
 ---
 title: "성수 예식 (The Rite of Blessing and Sprinkling Holy Water)"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # 성수 예식 (The Rite of Blessing and Sprinkling Holy Water)

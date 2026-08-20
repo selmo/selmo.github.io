@@ -1,6 +1,6 @@
 ---
 title: "켄 카네도 (Ken Canedo)"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # 켄 카네도 (Ken Canedo)

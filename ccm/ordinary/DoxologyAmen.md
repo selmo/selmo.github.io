@@ -1,6 +1,6 @@
 ---
 title: "마침영광송과 아멘 (Doxology & Amen)"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # 마침영광송과 아멘 (Doxology & Amen)

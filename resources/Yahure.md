@@ -7,7 +7,7 @@ updated: 2024-01-05
 
 가톨릭 청년 성가집 **야훼이레 3판**의 수록곡 색인입니다. 번호·곡명·작사/작곡자만 정리했으며, 악보와 가사는 담고 있지 않습니다.
 
-{% assign yh = site.data.songbooks.yahure %}
+{% assign yh = site.data.yahure.items %}
 {% assign cath = yh | where: "tradition", "가톨릭" %}
 {% assign prot = yh | where: "tradition", "개신교" %}
 

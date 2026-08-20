@@ -1,6 +1,6 @@
 ---
 title: "이형진 가브리엘 (Lee Hyung-jin)"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # 이형진 가브리엘 (Lee Hyung-jin)

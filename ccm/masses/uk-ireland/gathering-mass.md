@@ -1,6 +1,6 @@
 ---
 title: "Gathering Mass / Revised Gathering Mass"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # Gathering Mass / Revised Gathering Mass

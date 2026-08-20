@@ -1,6 +1,6 @@
 ---
 title: "입당송 (Introitus)"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # 입당송 (Introitus)

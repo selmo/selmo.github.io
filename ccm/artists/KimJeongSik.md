@@ -1,6 +1,6 @@
 ---
 title: "김정식 로제리오 (Kim Jeong-sik)"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # 김정식 로제리오 (Kim Jeong-sik)

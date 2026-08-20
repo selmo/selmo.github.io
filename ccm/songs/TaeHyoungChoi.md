@@ -1,6 +1,6 @@
 ---
 title: "최태형 안셀모 작품 목록 (Works of Anselmo Choi)"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # 최태형 안셀모 작품 목록 (Works of Anselmo Choi)

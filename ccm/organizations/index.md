@@ -1,6 +1,6 @@
 ---
 title: "관련 단체 및 조직 (Organizations)"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # 관련 단체 및 조직 (Organizations)

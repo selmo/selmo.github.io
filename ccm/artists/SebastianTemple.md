@@ -1,6 +1,6 @@
 ---
 title: "세바스티안 템플 (Sebastian Temple)"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # 세바스티안 템플 (Sebastian Temple)

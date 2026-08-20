@@ -1,6 +1,6 @@
 ---
 title: "복음 환호송 (Gospel Acclamation: Alleluia)"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # 복음 환호송 (Gospel Acclamation: Alleluia)

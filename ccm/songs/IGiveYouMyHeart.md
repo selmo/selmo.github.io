@@ -1,6 +1,6 @@
 ---
 title: "주를 높이기 원합니다 (I Give You My Heart)"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # 주를 높이기 원합니다 (I Give You My Heart)

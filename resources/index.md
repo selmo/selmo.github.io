@@ -1,6 +1,6 @@
 ---
 title: "자료실 (Resources)"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # 자료실 (Resources)
@@ -25,7 +25,7 @@ updated: 2026-08-17
 
 가톨릭 청년 성가집. 곡명·작사/작곡자·번호로 검색할 수 있고, 가톨릭/개신교 구분으로도 걸러집니다.
 
-{% assign yh = site.data.songbooks.yahure %}
+{% assign yh = site.data.yahure.items %}
 {% assign cath = yh | where: "tradition", "가톨릭" %}
 {% assign prot = yh | where: "tradition", "개신교" %}
 > {{ yh.size }}곡 — 가톨릭 {{ cath.size }} · 개신교 {{ prot.size }}
@@ -34,8 +34,8 @@ updated: 2026-08-17
 
 가톨릭 어린이 찬양집. 미사곡은 전례 순서별로, 그 외 곡은 번호순으로 정리했습니다.
 
-{% assign hm = site.data.songbooks.haneulbada_mass %}
-{% assign hs = site.data.songbooks.haneulbada_songs %}
+{% assign hm = site.data.haneulbada.mass %}
+{% assign hs = site.data.haneulbada.songs %}
 > 미사곡 {{ hm.size }}곡 · 그 외 {{ hs.size }}곡
 
 ## 관련 페이지

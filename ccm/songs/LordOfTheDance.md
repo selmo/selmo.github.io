@@ -1,6 +1,6 @@
 ---
 title: "춤의 왕 (Lord of the Dance)"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # 춤의 왕 (Lord of the Dance)

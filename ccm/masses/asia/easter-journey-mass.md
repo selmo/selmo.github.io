@@ -1,6 +1,6 @@
 ---
 title: "The Easter Journey Mass"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # The Easter Journey Mass

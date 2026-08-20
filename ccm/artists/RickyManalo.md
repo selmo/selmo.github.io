@@ -1,6 +1,6 @@
 ---
 title: "리키 마날로 (Ricky Manalo, CSP)"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # 리키 마날로 (Ricky Manalo, CSP)

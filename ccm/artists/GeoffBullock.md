@@ -1,6 +1,6 @@
 ---
 title: "제프 불록 (Geoff Bullock)"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # 제프 불록 (Geoff Bullock)

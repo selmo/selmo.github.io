@@ -1,6 +1,6 @@
 ---
 title: "카리 랜드리 (Carey Landry)"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # 카리 랜드리 (Carey Landry)

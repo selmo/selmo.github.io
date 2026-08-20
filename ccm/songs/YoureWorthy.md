@@ -1,6 +1,6 @@
 ---
 title: "경배하리 내 온 맘 다해 (You're Worthy of My Praise)"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # 경배하리 내 온 맘 다해 (You're Worthy of My Praise)

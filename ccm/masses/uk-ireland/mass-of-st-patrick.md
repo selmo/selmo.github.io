@@ -1,6 +1,6 @@
 ---
 title: "The Mass of St. Patrick"
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # The Mass of St. Patrick
